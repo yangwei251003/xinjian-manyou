@@ -1,0 +1,545 @@
+{
+  "base": "http://127.0.0.1:4173/",
+  "checkedAt": "2026-11-05T09:26:41.931Z",
+  "layouts": [
+    {
+      "width": 1366,
+      "id": "attention",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 6455
+    },
+    {
+      "width": 1366,
+      "id": "memory",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5728
+    },
+    {
+      "width": 1366,
+      "id": "metacognition",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5728
+    },
+    {
+      "width": 1366,
+      "id": "sleep",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5023
+    },
+    {
+      "width": 1366,
+      "id": "stress",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5023
+    },
+    {
+      "width": 1366,
+      "id": "brain",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5023
+    },
+    {
+      "width": 1366,
+      "id": "emotions",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5023
+    },
+    {
+      "width": 1366,
+      "id": "reappraisal",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5704
+    },
+    {
+      "width": 1366,
+      "id": "habits",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5728
+    },
+    {
+      "width": 1366,
+      "id": "personality",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5498
+    },
+    {
+      "width": 1366,
+      "id": "comparison",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5048
+    },
+    {
+      "width": 1366,
+      "id": "attachment",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 4968
+    },
+    {
+      "width": 1366,
+      "id": "attribution",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5525
+    },
+    {
+      "width": 1366,
+      "id": "conformity",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5048
+    },
+    {
+      "width": 1366,
+      "id": "listening",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5753
+    },
+    {
+      "width": 1366,
+      "id": "framing",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 6182
+    },
+    {
+      "width": 1366,
+      "id": "sunk-cost",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5728
+    },
+    {
+      "width": 1366,
+      "id": "retrieval",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5710
+    },
+    {
+      "width": 1366,
+      "id": "help-seeking",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5023
+    },
+    {
+      "width": 1366,
+      "id": "boundaries",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5023
+    },
+    {
+      "width": 1366,
+      "id": "support",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5103
+    },
+    {
+      "width": 1366,
+      "id": "correlation",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5604
+    },
+    {
+      "width": 1366,
+      "id": "sampling",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5569
+    },
+    {
+      "width": 1366,
+      "id": "replication",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5501
+    },
+    {
+      "width": 1366,
+      "id": "knowledge-curse",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5072
+    },
+    {
+      "width": 1366,
+      "id": "confirmation-bias",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 4968
+    },
+    {
+      "width": 1366,
+      "id": "test-validity",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5046
+    },
+    {
+      "width": 1366,
+      "id": "gratitude",
+      "columns": 3,
+      "frameWidth": 251.328125,
+      "comicHeight": 574.65625,
+      "pageHeight": 5023
+    },
+    {
+      "width": 390,
+      "id": "attention",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 8536
+    },
+    {
+      "width": 390,
+      "id": "memory",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7580
+    },
+    {
+      "width": 390,
+      "id": "metacognition",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7774
+    },
+    {
+      "width": 390,
+      "id": "sleep",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 6850
+    },
+    {
+      "width": 390,
+      "id": "stress",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 6842
+    },
+    {
+      "width": 390,
+      "id": "brain",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 6813
+    },
+    {
+      "width": 390,
+      "id": "emotions",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7052
+    },
+    {
+      "width": 390,
+      "id": "reappraisal",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7466
+    },
+    {
+      "width": 390,
+      "id": "habits",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7630
+    },
+    {
+      "width": 390,
+      "id": "personality",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7661
+    },
+    {
+      "width": 390,
+      "id": "comparison",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 6865
+    },
+    {
+      "width": 390,
+      "id": "attachment",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 6905
+    },
+    {
+      "width": 390,
+      "id": "attribution",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7689
+    },
+    {
+      "width": 390,
+      "id": "conformity",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 6874
+    },
+    {
+      "width": 390,
+      "id": "listening",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7841
+    },
+    {
+      "width": 390,
+      "id": "framing",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 8116
+    },
+    {
+      "width": 390,
+      "id": "sunk-cost",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7680
+    },
+    {
+      "width": 390,
+      "id": "retrieval",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7726
+    },
+    {
+      "width": 390,
+      "id": "help-seeking",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 6924
+    },
+    {
+      "width": 390,
+      "id": "boundaries",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 6953
+    },
+    {
+      "width": 390,
+      "id": "support",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7238
+    },
+    {
+      "width": 390,
+      "id": "correlation",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7555
+    },
+    {
+      "width": 390,
+      "id": "sampling",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7593
+    },
+    {
+      "width": 390,
+      "id": "replication",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7597
+    },
+    {
+      "width": 390,
+      "id": "knowledge-curse",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7255
+    },
+    {
+      "width": 390,
+      "id": "confirmation-bias",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7211
+    },
+    {
+      "width": 390,
+      "id": "test-validity",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7199
+    },
+    {
+      "width": 390,
+      "id": "gratitude",
+      "columns": 2,
+      "frameWidth": 153.609375,
+      "comicHeight": 560.828125,
+      "pageHeight": 7143
+    },
+    {
+      "width": 320,
+      "id": "attribution",
+      "columns": 2,
+      "frameWidth": 126.8125,
+      "comicHeight": 476.4375,
+      "pageHeight": 7858
+    },
+    {
+      "width": 320,
+      "id": "test-validity",
+      "columns": 2,
+      "frameWidth": 126.8125,
+      "comicHeight": 476.4375,
+      "pageHeight": 7310
+    },
+    {
+      "width": 320,
+      "id": "gratitude",
+      "columns": 2,
+      "frameWidth": 126.8125,
+      "comicHeight": 476.4375,
+      "pageHeight": 7376
+    },
+    {
+      "width": 768,
+      "id": "attribution",
+      "columns": 3,
+      "frameWidth": 139.734375,
+      "comicHeight": 347.46875,
+      "pageHeight": 5726
+    },
+    {
+      "width": 768,
+      "id": "test-validity",
+      "columns": 3,
+      "frameWidth": 139.734375,
+      "comicHeight": 347.46875,
+      "pageHeight": 5194
+    },
+    {
+      "width": 768,
+      "id": "gratitude",
+      "columns": 3,
+      "frameWidth": 139.734375,
+      "comicHeight": 347.46875,
+      "pageHeight": 5097
+    },
+    {
+      "width": 1024,
+      "id": "attribution",
+      "columns": 3,
+      "frameWidth": 216.53125,
+      "comicHeight": 501.09375,
+      "pageHeight": 5610
+    },
+    {
+      "width": 1024,
+      "id": "test-validity",
+      "columns": 3,
+      "frameWidth": 216.53125,
+      "comicHeight": 501.09375,
+      "pageHeight": 5131
+    },
+    {
+      "width": 1024,
+      "id": "gratitude",
+      "columns": 3,
+      "frameWidth": 216.53125,
+      "comicHeight": 501.09375,
+      "pageHeight": 5076
+    }
+  ],
+  "navigation": [
+    {
+      "width": 1366,
+      "keyboard": "pass",
+      "focusRestored": true,
+      "transcript": "pass",
+      "prediction": "pass",
+      "otherPages": 7
+    },
+    {
+      "width": 390,
+      "keyboard": "pass",
+      "focusRestored": true,
+      "transcript": "pass",
+      "prediction": "pass",
+      "otherPages": 7
+    }
+  ],
+  "errors": []
+}
