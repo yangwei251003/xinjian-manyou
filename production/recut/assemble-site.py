@@ -9,6 +9,7 @@ import zipfile
 ROOT=Path(__file__).resolve().parent
 SITE=ROOT.parents[1]
 DEST=ROOT/'website'
+EXPORT=ROOT/os.environ.get('XINJIAN_EXPORT_DIR','revised' if (ROOT/'revised').exists() else 'export')
 
 def write(path,value):
  path.parent.mkdir(parents=True,exist_ok=True)
@@ -32,7 +33,7 @@ def main():
  episodes=json.loads((ROOT/'episodes.json').read_text(encoding='utf-8'))
  technical=[]
  for e in episodes:
-  folder=ROOT/'export'/e['id']
+  folder=EXPORT/e['id']
   data=json.loads((folder/'technical.json').read_text(encoding='utf-8'))
   assert data['id']==e['id'] and data['frames']==8112
   assert hashlib.sha256((folder/'film.mp4').read_bytes()).hexdigest()==data['fileHash']
@@ -49,7 +50,7 @@ def main():
   install(SITE/filename,DEST/filename)
  media=json.loads((SITE/'assets/media.json').read_text(encoding='utf-8'))
  for e in episodes:
-  id=e['id'];folder=ROOT/'export'/id;web=DEST/'assets/videos'/id
+  id=e['id'];folder=EXPORT/id;web=DEST/'assets/videos'/id
   for name in ['film.mp4','poster.webp']:install(folder/name,web/name,True)
   cues=[{'start':s['start'],'end':s['end'],'zh':s['text'],'en':s['en'],'visual':s['kind']+' / '+s['action'],'source_shot_id':s['source_shot_id']} for s in e['shots']]
   script={'id':id,'title':e['title'],'duration':e['duration'],'edition':'supplied-music-recut','cues':cues,'sources':e['sources']}

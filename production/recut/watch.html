@@ -16,17 +16,19 @@
 const episodes=await(await fetch('episodes.json')).json();
 const video=document.querySelector('#video'),select=document.querySelector('#select'),status=document.querySelector('#status'),start=document.querySelector('#start');
 let current;
+let mediaRoot="export";
 const text=(tag,value)=>{const el=document.createElement(tag);el.textContent=value;return el;};
 episodes.forEach(e=>{const option=text('option',e.displayTitle);option.value=e.id;select.append(option);});
 function caption(){const shot=current.shots.find(s=>video.currentTime>=s.start&&video.currentTime<s.end);document.querySelector('#live').replaceChildren(text('div',shot?.text||''),text('span',shot?.en||''));}
-function open(id){
- current=episodes.find(e=>e.id===id)||episodes[0];video.pause();video.removeAttribute('src');video.load();video.poster=`export/${current.id}/poster.webp`;select.value=current.id;
+async function open(id){
+ current=episodes.find(e=>e.id===id)||episodes[0];video.pause();video.removeAttribute('src');video.load();select.value=current.id;
+ const chosen=current;start.disabled=true;mediaRoot=(await fetch(`revised/${chosen.id}/technical.json`,{method:'HEAD'}).then(r=>r.ok).catch(()=>false))?'revised':'export';if(current!==chosen)return;start.disabled=false;video.poster=`${mediaRoot}/${chosen.id}/poster.webp`;
  document.querySelector('#title').textContent=current.title;document.title=current.title+' · 音乐重剪版';start.hidden=false;status.textContent='点击播放后才加载影片。';caption();
  const list=document.createElement('ol');current.shots.forEach(s=>{const item=document.createElement('li');const time=String(Math.floor(s.start/60)).padStart(2,'0')+':'+String(Math.floor(s.start%60)).padStart(2,'0');item.append(text('strong',time+'　'+s.text),text('div',s.en));list.append(item);});
  const sources=document.createElement('ul');current.sources.forEach(s=>{const li=document.createElement('li'),a=text('a',s.title);a.href=s.url;a.target='_blank';a.rel='noopener noreferrer';li.append(a);sources.append(li);});document.querySelector('#transcript').replaceChildren(list,sources);
  history.replaceState(null,'','?id='+current.id);
 }
-start.onclick=()=>{video.src=`export/${current.id}/film.mp4`;start.hidden=true;video.play().catch(()=>status.textContent='使用播放器上的播放键继续。');};
+start.onclick=()=>{video.src=`${mediaRoot}/${current.id}/film.mp4`;start.hidden=true;video.play().catch(()=>status.textContent='使用播放器上的播放键继续。');};
 select.onchange=()=>open(select.value);video.onloadedmetadata=()=>status.textContent='已加载 · '+video.videoWidth+'×'+video.videoHeight+' · '+video.duration.toFixed(2)+'秒';video.onplaying=()=>status.textContent='正在播放';video.onpause=()=>{if(video.currentTime)status.textContent='已暂停';};video.ontimeupdate=caption;video.onseeked=caption;video.onerror=()=>{status.textContent='影片尚未准备好或加载失败，可稍后重试；文字稿仍可阅读。';start.hidden=false;};
 document.querySelector('#full').onclick=()=>video.requestFullscreen?.();
 open(new URLSearchParams(location.search).get('id')||'knowledge-curse');

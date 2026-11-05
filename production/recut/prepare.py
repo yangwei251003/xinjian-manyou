@@ -78,7 +78,7 @@ def main():
  lessons=json.loads((SITE/'content/lessons.json').read_text(encoding='utf-8'))
  needed=set(json.dumps([films,lessons],ensure_ascii=False)+'信息差 事实 观察 解释 提问 线索 回到生活 分支 现场 机制推演 画面为教学示意 NOT A MEASUREMENT VIBE心理学')
  needed.update(chr(i) for i in range(32,127))
- for name in ('renderer.js','topic-scenes.js','build.py','narration.py'):
+ for name in ('renderer.js','topic-scenes.js','variety-scenes.js','build.py','narration.py'):
   if (ROOT/name).exists():needed.update((ROOT/name).read_text(encoding='utf-8'))
  font=TTFont(Path.home()/'Documents/VideoCreation/Resources/Fonts/NotoSansSC/NotoSansSC.ttf',recalcTimestamp=False)
  options=subset.Options();options.flavor='woff2';sub=subset.Subsetter(options=options);sub.populate(text=''.join(sorted(needed)));sub.subset(font);font.flavor='woff2';font.save(ROOT/'assets/FilmSans.woff2')

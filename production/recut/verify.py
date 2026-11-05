@@ -15,7 +15,7 @@ def pcm_hash(file):
  assert p.wait()==0
  return {'sha256':h.hexdigest(),'bytes':size}
 def one(episode):
- folder=ROOT/'export'/episode['id'];movie=folder/'film.mp4';report=folder/'technical.json'
+ folder=ROOT/('revised' if '--revised' in sys.argv else 'export')/episode['id'];movie=folder/'film.mp4';report=folder/'technical.json'
  if not movie.exists() or not report.exists():return {'id':episode['id'],'status':'not_ready'}
  try:
   data=json.loads(report.read_text(encoding='utf-8'))

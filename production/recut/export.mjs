@@ -42,7 +42,7 @@ const browser=await chromium.launch({...(opt('--chrome','')?{executablePath:opt(
 const command=(binary,params)=>new Promise((resolve,reject)=>{const child=spawn(binary,params,{windowsHide:true,stdio:['ignore','pipe','pipe']});let stdout='',stderr='';child.stdout.on('data',d=>stdout+=d);child.stderr.on('data',d=>stderr=(stderr+d).slice(-7000));child.on('error',reject);child.on('exit',code=>code===0?resolve(stdout):reject(new Error(stderr)));});
 const hash=async file=>createHash('sha256').update(await fs.readFile(file)).digest('hex');
 const sharedHash=createHash('sha256');
-for(const file of ['renderer.js','topic-scenes.js','episodes.json','assets/FilmSans.woff2','assets/user-music.aac'])sharedHash.update(await fs.readFile(path.join(root,file)));
+for(const file of ['renderer.js','topic-scenes.js','variety-scenes.js','episodes.json','assets/FilmSans.woff2','assets/user-music.aac'])sharedHash.update(await fs.readFile(path.join(root,file)));
 const sourceHash=sharedHash.digest('hex');
 async function renderEpisode(episode){
  const folder=path.join(out,episode.id);await fs.mkdir(folder,{recursive:true});

@@ -1,0 +1,37 @@
+import fs from 'node:fs/promises';
+import {pathToFileURL} from 'node:url';
+const {chromium}=await import('playwright');
+const browser=await chromium.launch({executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true});
+const results=[];
+try{
+ const page=await browser.newPage({viewport:{width:1366,height:900}});
+ await page.goto('http://127.0.0.1:43183/#/story/knowledge-curse');
+ await page.locator('[data-film-start]').waitFor();
+ const block=route=>route.abort();await page.route('**/*.mp4',block);
+ await page.locator('[data-film-start]').click();
+ await page.locator('.film-status').filter({hasText:'无法播放'}).waitFor();
+ if(!await page.locator('[data-film-start]').isVisible())throw new Error('Retry button missing');
+ await page.locator('[data-film-transcript] summary').click();
+ await page.waitForFunction(()=>document.querySelectorAll('.film-transcript-body ol li').length===42);
+ if(!await page.locator('#explanation').isVisible())throw new Error('Reading fallback missing');
+ results.push('failed playback retains retry, 42-cue transcript, sources and reading');
+ await page.unroute('**/*.mp4',block);
+ await page.locator('[data-film-start]').click();
+ await page.waitForFunction(()=>document.querySelector('video')?.readyState>=2);
+ await page.evaluate(()=>{const v=document.querySelector('video');v.muted=true;v.pause();});
+ await page.locator('[data-film-fullscreen]').click();
+ await page.waitForFunction(()=>document.fullscreenElement?.tagName==='VIDEO');
+ await page.evaluate(()=>document.exitFullscreen());
+ results.push('retry plays MP4 and fullscreen enters/exits');
+ await page.locator('[data-save="knowledge-curse"]').click();
+ await page.reload();await page.locator('[data-save="knowledge-curse"][aria-pressed="true"]').waitFor();
+ results.push('bookmark survives reload on new local edition');
+ await page.locator('[data-film-start]').click();await page.waitForFunction(()=>document.querySelector('video')?.readyState>=2);
+ await page.evaluate(()=>{window.oldVideo=document.querySelector('video');window.oldVideo.muted=true;location.hash='/explore';});
+ await page.waitForFunction(()=>!document.querySelector('video'));
+ if(!await page.evaluate(()=>window.oldVideo.paused&&!window.oldVideo.getAttribute('src')))throw new Error('Route retained old playback');
+ results.push('changing lesson disposes playback and releases source');
+ await page.close();
+}finally{await browser.close();}
+await fs.writeFile(new URL('review/site-extra-check.json',import.meta.url),JSON.stringify({passed:results},null,2));
+console.log(results.join('\n'));
