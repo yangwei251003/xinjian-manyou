@@ -1,0 +1,95 @@
+{
+  "id": "brain",
+  "core_claim": "脑区与心理过程通常不是一对一的开关关系；解释脑成像需要任务、比较条件和更多证据。",
+  "evidence_limits": "乐队与网络画面是教学隐喻，不是大脑解剖或医学影像。这里不解释任何人的临床检查，也不宣称所有反向推断都毫无价值。",
+  "mechanism": {
+    "steps": [
+      "一个任务包含多个过程",
+      "多个脑区协同参与",
+      "解释成像需比较条件与更多证据"
+    ],
+    "metaphorLimit": "乐队比喻协作网络，不是脑区精确解剖，也不表示所有区域功能相同。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "2006",
+      "author": "Russell Poldrack"
+    },
+    "script_statements": [
+      {
+        "zh": "2006 年，Poldrack讨论反向推断。",
+        "en": "Poldrack examined reverse inference in 2006.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "观察活动，再推测心理过程，需要条件。",
+        "en": "Inferring a process from activity needs evidence.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "同一区域，可能参与多种任务。",
+        "en": "One region may participate in many tasks.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Poldrack：Can cognitive processes be inferred from neuroimaging data?（2006）",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16406760/",
+      "note": "讨论反向推断所需的证据及限制。"
+    },
+    {
+      "title": "Poldrack：From reverse inference to large-scale decoding（2011）",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3240863/",
+      "note": "解释概率性推断与多变量解码，而非把脑图当读心术。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "看脑科学标题，先找研究做了什么。",
+      "en": "Ask what participants actually did.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "再问，这张图和哪种条件比较？",
+      "en": "Ask what condition the image was compared with.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "艺术脑网络，不是真实医学影像。",
+      "en": "This artistic network is not a medical scan.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "复杂的你，很难由一个按钮概括。",
+        "en": "A single switch cannot summarize a person.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "给惊艳的画面，配上完整的问题。",
+        "en": "Pair a striking image with careful questions.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "理解大脑，也包括理解证据的边界。",
+        "en": "Knowing the brain includes knowing evidential limits.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

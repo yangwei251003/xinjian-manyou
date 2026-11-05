@@ -1,0 +1,95 @@
+{
+  "id": "personality",
+  "core_claim": "人格特质描述相对稳定的倾向，但人的行为也会随情境、目标和经验而变化。",
+  "evidence_limits": "本课没有实施人格量表，故事中的表现不能换算成特质分数。任何单次短测都不应被当作诊断、命运预测或重大选择的唯一依据。",
+  "mechanism": {
+    "steps": [
+      "多次行为显现相对倾向",
+      "情境与目标改变具体表现",
+      "用更多观察更新理解"
+    ],
+    "metaphorLimit": "刻度比喻连续差异，不是用户分数；人物故事不能生成特质测量结果。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "人格研究",
+      "author": "Noba · IPIP"
+    },
+    "script_statements": [
+      {
+        "zh": "人格研究描述相对稳定的行为倾向。",
+        "en": "Trait research describes relatively stable tendencies.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "也关注人与情境的共同作用。",
+        "en": "It also examines people in situations.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "倾向，可以帮助理解差异。",
+        "en": "Tendencies can help explain differences.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Diener 与 Lucas：Personality Traits",
+      "url": "https://nobaproject.com/modules/personality-traits",
+      "note": "研究者模块，介绍连续人格维度与人与情境的讨论。"
+    },
+    {
+      "title": "IPIP：International Personality Item Pool",
+      "url": "https://ipip.ori.org/",
+      "note": "公开人格测量题项与量表资料；开放题项不等于任意改编后仍有效。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "描述自己时，加上「在什么情况下」。",
+      "en": "Describe yourself with the situation included.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "也看看过去一段时间的持续倾向。",
+      "en": "Look at tendencies across time as well.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "真正的测量，需要合适证据与用途。",
+      "en": "Measurement needs evidence suited to its purpose.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "你可以有倾向，也可以有新的尝试。",
+        "en": "You can have tendencies and try something new.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "理解自己，让选择更具体。",
+        "en": "Self-understanding can make choices more specific.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "把标签松开一点，给变化留位置。",
+        "en": "Loosen the label. Leave room for change.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

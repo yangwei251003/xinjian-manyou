@@ -1,0 +1,95 @@
+{
+  "id": "attachment",
+  "core_claim": "依恋关注亲近、支持与探索的关系；理解需要与回应方式，比给人贴固定类型更有用。",
+  "evidence_limits": "漫画是虚构成长故事，不是依恋测验。需要支持并不等于不独立；一次分离表现不能给孩子或家长贴标签。",
+  "mechanism": {
+    "steps": [
+      "感到不确定或需要支持",
+      "向可靠照顾者寻求回应",
+      "支持可帮助继续探索"
+    ],
+    "metaphorLimit": "补给站比喻可靠支持，不代表照顾者要代办所有事或孩子必须接受固定联系安排。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "依恋研究",
+      "author": "Fraley · 发展心理学"
+    },
+    "script_statements": [
+      {
+        "zh": "依恋研究关注亲近、回应与探索。",
+        "en": "Attachment research studies closeness, response and exploration.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "安全基地，描述一种支持关系。",
+        "en": "A secure base describes a supportive relationship.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "概念需要放回年龄与研究情境。",
+        "en": "Age and research context remain important.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Fraley：Attachment Through the Life Course",
+      "url": "https://nobaproject.com/modules/attachment-through-the-life-course",
+      "note": "研究者模块，介绍依恋功能及跨生命历程的研究。"
+    },
+    {
+      "title": "OpenStax Psychology 2e：Stages of Development",
+      "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+      "note": "教材中的儿童发展与依恋背景；不同发展阶段的观察不能直接互换。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "出发前约定联系时间与可信任的人。",
+      "en": "Agree on contact times and trusted people.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "遇到困难，说明自己需要哪种帮助。",
+      "en": "Name the kind of help you need.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "支持也可以来自多个可靠关系。",
+      "en": "Support can come from several reliable relationships.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "被接住的需要，不必让你羞愧。",
+        "en": "Needing support need not bring shame.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "有连接，也可以有自己的路。",
+        "en": "Connection can coexist with your own path.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "知道灯在哪里，再往远处走。",
+        "en": "Know where the light is, then venture outward.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "emotions",
+  "core_claim": "身体感受是情绪理解的一部分；情境、目标和解释同样重要，不能仅凭一个信号读出唯一情绪。",
+  "evidence_limits": "故事不是根据心率判断情绪的实验，也不解释任何异常身体症状。情绪理论存在争论；一个场景不能证明某理论是唯一正确的机制。",
+  "mechanism": {
+    "steps": [
+      "注意身体信号",
+      "结合情境、目标和解释",
+      "选择合适行动"
+    ],
+    "metaphorLimit": "天气比喻复杂感受，不是用太阳或雨云为人判定情绪。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "情绪研究",
+      "author": "OpenStax · Barrett 等"
+    },
+    "script_statements": [
+      {
+        "zh": "情绪研究有不同理论与证据。",
+        "en": "Emotion research contains multiple theories.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "身体、情境和解释，都是重要线索。",
+        "en": "Body, context and interpretation offer clues.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "一张表情，装不下一个人的全部体验。",
+        "en": "One expression cannot contain a whole experience.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "OpenStax Psychology 2e：Emotion",
+      "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+      "note": "综述情绪构成及不同理论，作为概念入口。"
+    },
+    {
+      "title": "Barrett 等：Emotional Expressions Reconsidered（2019）",
+      "url": "https://doi.org/10.1177/1529100619832930",
+      "note": "评估从表情推断情绪的证据，强调情境与推断限制。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "可以说「我紧张，也有点期待」。",
+      "en": "You can feel both nervous and hopeful.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "再问，下一步需要准备、休息还是支持？",
+      "en": "Ask what preparation, rest or support you need.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "明显身体异常，需要合适的医疗帮助。",
+      "en": "Significant physical symptoms need appropriate care.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "情绪不必马上被分成好与坏。",
+        "en": "Feelings need not be sorted into good and bad.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "多一点描述，少一点急着定性。",
+        "en": "Describe more. Rush to labels less.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "给心里的天气，留一扇能打开的窗。",
+        "en": "Leave an open window for inner weather.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "confirmation-bias",
+  "core_claim": "支持一个猜想的例子，也可能支持另一个猜想。能区分两种解释的尝试，往往更有信息。",
+  "evidence_limits": "这里用虚构规则解释假设检验。实际推理受环境、时间和反馈影响。不能把不同意自己的人直接称为有确认偏误。",
+  "mechanism": {
+    "steps": [
+      "先有一个猜想",
+      "相似例子同时支持多种解释",
+      "选择能区分解释的测试"
+    ],
+    "metaphorLimit": "数字暗号是教学情境，不是智力测验，也不能代表所有现实推理任务。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "1960",
+      "author": "Peter Wason"
+    },
+    "script_statements": [
+      {
+        "zh": "1960 年，Wason研究数字规则发现。",
+        "en": "In 1960, Wason studied numerical rule discovery.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "参与者提交三元组，再依据反馈猜规则。",
+        "en": "Participants submitted triples and received feedback.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "相似正例，可能留下多个假设。",
+        "en": "Similar positive cases can leave several hypotheses open.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Wason：On the Failure to Eliminate Hypotheses in a Conceptual Task（1960）",
+      "url": "https://doi.org/10.1080/17470216008416717",
+      "note": "2-4-6规则发现任务的原始研究。故事采用教学改编。"
+    },
+    {
+      "title": "Klayman 与 Ha：Confirmation, Disconfirmation, and Information in Hypothesis Testing（1987）",
+      "url": "https://pages.ucsd.edu/~mckenzie/KlaymanHaPsychReview1987.pdf",
+      "note": "讨论正向测试的合理性与限制，防止把确认偏误简单等同于所有验证行为。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "先写「什么结果会让我改主意」。",
+      "en": "Write what outcome would change your mind.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "也认真检查反例的质量与来源。",
+      "en": "Check the quality and source of a counterexample.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "游戏只是改编，不给思维能力打分。",
+      "en": "This adaptation does not grade reasoning ability.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "愿意修改一个猜想，是思考的一部分。",
+        "en": "Revising a hypothesis is part of thinking.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "别只给自己找掌声，也找新的线索。",
+        "en": "Seek new clues as well as agreement.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "给猜想，留一条可以改道的路。",
+        "en": "Leave a route for your hypothesis to change.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

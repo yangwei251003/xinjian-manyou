@@ -1,0 +1,95 @@
+{
+  "id": "correlation",
+  "core_claim": "相关描述共同变化；判断因果还需要研究设计、时间顺序与对其他解释的检验。",
+  "evidence_limits": "这是使用虚构场景讲解研究方法，不是关于冰淇淋、天气或健康的真实调查结论。温度是故事中提出的候选共同原因，不是已经证明的结果。",
+  "mechanism": {
+    "steps": [
+      "两变量共同变化",
+      "考虑反向因果与第三变量",
+      "用研究设计检验候选解释"
+    ],
+    "metaphorLimit": "木偶共同手柄比喻候选共同原因；画出这个解释不等于已经验证。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "研究方法",
+      "author": "ABS · Penn State"
+    },
+    "script_statements": [
+      {
+        "zh": "统计方法区分相关与因果。",
+        "en": "Statistical reasoning separates correlation and causation.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "相关描述变量怎样一起变化。",
+        "en": "Correlation describes how variables vary together.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "因果判断，需要更有说服力的设计。",
+        "en": "Causal claims need more persuasive designs.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Australian Bureau of Statistics：Correlation and causation",
+      "url": "https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation",
+      "note": "官方统计教育：相关、因果与其他解释。"
+    },
+    {
+      "title": "Penn State STAT 100：Lesson 5",
+      "url": "https://online.stat.psu.edu/stat100/Lesson05",
+      "note": "大学课程：关联、因果及研究解释边界。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "读新闻时，先找研究怎样比较。",
+      "en": "Look for the study’s comparisons in a news story.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "再问有没有其他解释被检验。",
+      "en": "Ask which other explanations were tested.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "有条件的实验与合适方法，能增加依据。",
+      "en": "Suitable designs and methods can strengthen evidence.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "会提出第三个因素，是新的起点。",
+        "en": "A third-factor idea is a new starting point.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "让问题继续，证据才有机会增加。",
+        "en": "Keep asking so evidence can accumulate.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "看到相关，先给等号留个问号。",
+        "en": "Meet a correlation with a question before an equation.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

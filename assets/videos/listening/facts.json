@@ -1,0 +1,95 @@
+{
+  "id": "listening",
+  "core_claim": "倾听可以先确认对方的经历与需要，再决定是否一起找办法；理解不等于同意所有判断。",
+  "evidence_limits": "倾听不是治疗，也不是万能沟通技术。研究多来自特定互动场景，不能保证所有关系改善；遇到持续威胁、暴力或危机时，安全与专业支持优先。",
+  "mechanism": {
+    "steps": [
+      "听到对方叙述",
+      "复述并确认理解",
+      "询问此刻需要再行动"
+    ],
+    "metaphorLimit": "办法炮比喻过快给建议，建议本身不坏，关键是需要与时机。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "2014",
+      "author": "Weger 等"
+    },
+    "script_statements": [
+      {
+        "zh": "2014 年，一项研究比较初次互动中的回应。",
+        "en": "A 2014 study compared responses in initial interactions.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "主动倾听，是其中被考察的方式。",
+        "en": "Active listening was one response style examined.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "研究场景有限，不能保证所有关系改善。",
+        "en": "Limited settings cannot guarantee every relationship improves.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Weger 等：The Relative Effectiveness of Active Listening in Initial Interactions",
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/10904018.2013.813234",
+      "note": "积极倾听在初次互动中的实验研究，适用范围有限。"
+    },
+    {
+      "title": "CDC：How to Listen and Support Someone in Need",
+      "url": "https://www.cdc.gov/emotional-well-being/conversations-matter/",
+      "note": "倾听、开放式问题与减少干扰的专业公共健康建议。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "可以问「想说一会儿，还是一起想办法？」",
+      "en": "Ask: listen for a while, or explore solutions?",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "如果对方不想谈，也尊重这个选择。",
+      "en": "Respect a wish not to talk.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "倾听需要练习，也需要彼此的边界。",
+      "en": "Listening needs practice and boundaries.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "有时，最有用的是少抢一句。",
+        "en": "Sometimes it helps to leave a little more space.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "让对方有机会，把自己的故事说完整。",
+        "en": "Allow someone to finish their own story.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "把下一句话，留给正在说的人。",
+        "en": "Leave the next words to the person speaking.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

@@ -1,0 +1,95 @@
+{
+  "id": "gratitude",
+  "core_claim": "可以同时记录困难和得到的支持。感恩记录是一种可选择的小观察，效果因人和情境而异。",
+  "evidence_limits": "这是可选择的自我观察活动，不是心理治疗。感恩研究中的组间结果不保证个人效果，也不能要求经历伤害的人感谢伤害者。",
+  "mechanism": {
+    "steps": [
+      "如实记录这一天",
+      "留意一件具体支持",
+      "观察记录是否对自己有帮助"
+    ],
+    "metaphorLimit": "日记中的雨和伞是叙事意象，不能作为情绪改善或治疗效果的数据。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "2003",
+      "author": "Emmons · McCullough"
+    },
+    "script_statements": [
+      {
+        "zh": "2003 年，研究者比较不同记录活动。",
+        "en": "A 2003 study compared different journaling activities.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "感恩、烦恼或普通事件，放进不同条件。",
+        "en": "Conditions focused on blessings, hassles or everyday events.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "研究考察多项情感与福祉结果。",
+        "en": "Several affect and well-being outcomes were examined.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Emmons 与 McCullough：Counting Blessings Versus Burdens（2003）",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12585811/",
+      "note": "多项感恩记录实验的原始摘要。支持的是特定人群、活动与指标中的差异。"
+    },
+    {
+      "title": "Noba：Happiness — The Science of Subjective Well-Being",
+      "url": "https://nobaproject.com/modules/happiness-the-science-of-subjective-well-being",
+      "note": "福祉研究的教材背景，介绍测量、相关因素与不同层次的幸福感。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "愿意的话，写谁做了什么、怎样帮到你。",
+      "en": "If you wish, record who helped, how and when.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "仍未解决的问题，也照实写下来。",
+      "en": "Keep the unresolved problems in the account.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "感觉勉强或无帮助，可以调整或停下。",
+      "en": "Adjust or stop if it feels burdensome or unhelpful.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "今天仍然很难，不必假装已经变晴。",
+        "en": "The day can remain hard without pretending otherwise.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "只是那把伞，也曾真实地出现。",
+        "en": "The umbrella was real as well.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "谢谢你，刚好在。",
+        "en": "Thank you for being there.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

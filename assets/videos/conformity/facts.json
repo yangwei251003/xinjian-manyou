@@ -1,0 +1,95 @@
+{
+  "id": "conformity",
+  "core_claim": "群体既能提供有用信息，也能带来合群压力；给独立判断和异议留空间，能看见两者的区别。",
+  "evidence_limits": "这里是脚本故事，不是偷偷施加真实群体压力的实验。从众效应随任务、文化、关系和权力结构变化；匿名表达也不能解决所有问题。",
+  "mechanism": {
+    "steps": [
+      "看到群体判断",
+      "受到信息或合群动机影响",
+      "独立观察再交换理由"
+    ],
+    "metaphorLimit": "纸带情境是虚构演示，没有真人共谋，不等于复现经典群体实验。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "1950s",
+      "author": "Asch · 社会心理学"
+    },
+    "script_statements": [
+      {
+        "zh": "1950 年代，Asch开展线段判断研究。",
+        "en": "Asch studied line judgments in the 1950s.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "实验把简单判断，放进群体情境。",
+        "en": "Simple judgments were placed in a group setting.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "多数人的回答，可能影响个人选择。",
+        "en": "A majority could influence an individual choice.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "OpenStax：Conformity, Compliance, and Obedience",
+      "url": "https://openstax.org/books/psychology-2e/pages/12-4-conformity-compliance-and-obedience",
+      "note": "信息性、规范性影响及从众条件。"
+    },
+    {
+      "title": "OpenStax：What Is Social Psychology?",
+      "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+      "note": "社会情境如何影响个体行为。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "讨论之前，先各自写下判断与理由。",
+      "en": "Write a judgment and reason before discussion.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "随后比证据，也给异议一个解释机会。",
+      "en": "Compare evidence and allow dissent to explain.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "保护表达空间，还需要具体的安排。",
+      "en": "Safe expression needs practical arrangements.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "你可以听别人，也保留自己的核对。",
+        "en": "Listen to others and keep checking for yourself.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "群体的力量，也可以用来容纳不同。",
+        "en": "A group can use its strength to include difference.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "给不同的理由，留一个座位。",
+        "en": "Leave a seat for a different reason.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

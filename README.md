@@ -47,7 +47,7 @@ python production/verify.py
 
 重建前检查修改指纹。手动调整过的页面和时间线会保留，并提示通过 OpenFilm 继续导出。独立HTML内嵌字体与动画代码，暴露 `render(t)` 和 `window.film.frame(t)`。直接打开可预览画面，音乐位于原生时间线。
 
-仓库包含现有脚本所需字体子集，可直接复用。新增字符时取得Noto Sans SC完整字体及许可，用`python production/build.py --font-source <字体目录>`指定含`NotoSansSC.ttf`和`LICENSE.txt`的目录。分镜脚本包含场景时间码、具体画面、切换小节和逐句双语字幕。
+仓库包含现有脚本所需字体子集，可直接复用。新增字符时取得Noto Sans SC完整字体及许可，用`python production/build.py --font-source <字体目录>`指定含`NotoSansSC.ttf`和`LICENSE.txt`的目录。分镜脚本包含事实核对表、场景时间码、具体画面、切换小节和逐句双语字幕。每支影片的`facts.json`列出核心主张、证据边界、机制比喻、出处和审读状态。
 
 PNG原件、无损音轨及原生导出抽检保存在本机制作工程。公共仓库保留运行所需WebP、全部28支MP4、字体许可和可复现代码。参考原片与完整转写留在私人研究目录。
 

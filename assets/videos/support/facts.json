@@ -1,0 +1,105 @@
+{
+  "id": "support",
+  "core_claim": "支持既包括倾听，也包括合适的实际帮助；先询问、尊重选择，并让支持者有自己的限度。",
+  "evidence_limits": "本课不把朋友训练成治疗者，也不保证某种陪伴能够改善症状。支持方式需尊重意愿、文化与处境；遇到明显或持续困难，应了解合适专业资源，安全风险优先处理。",
+  "mechanism": {
+    "steps": [
+      "询问需要",
+      "在能力范围内陪伴",
+      "连接成人与专业支持并照顾自己的限度"
+    ],
+    "metaphorLimit": "支持网络提醒不要独自承担，不代表可以不顾隐私向所有人转述。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "UNICEF · NHS",
+      "author": "同伴支持 · 权威资料"
+    },
+    "script_statements": [
+      {
+        "zh": "同伴支持资料强调倾听与合适帮助。",
+        "en": "Peer-support guidance emphasizes listening and suitable help.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "尊重意愿，也了解何时需要更多资源。",
+        "en": "Respect choice and know when more resources are needed.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "朋友与专业人员，承担不同角色。",
+        "en": "Friends and professionals have different roles.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "NHS：Helping others",
+      "url": "https://www.nhs.uk/every-mind-matters/supporting-others/helping-others/",
+      "note": "询问、倾听、实际帮助、避免强迫与照顾自身。"
+    },
+    {
+      "title": "Cambridge University Hospitals：Supporting a friend with their mental health",
+      "url": "https://www.cuh.nhs.uk/patient-information/supporting-a-friend-with-their-mental-health/",
+      "note": "尊重选择、提供支持及帮助者自身限度的健康教育。"
+    },
+    {
+      "title": "NIMH：Child and Adolescent Mental Health",
+      "url": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health",
+      "note": "支持未成年人向家长、学校支持人员或医疗人员求助；困扰与生活影响需要认真对待。"
+    },
+    {
+      "title": "UNICEF：I Support My Friends",
+      "url": "https://www.unicef.org/serbia/en/documents/i-support-my-friends",
+      "note": "同伴支持应有可信任成人指导，并重视儿童保护与支持者的限度。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "可以陪着说，也可以一起找合适的人。",
+      "en": "Listen together or find an appropriate helper.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "说清能陪多久、之后怎样联系。",
+      "en": "Clarify availability and later contact.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "让支持者，也有自己的支持。",
+      "en": "Let supporters have support of their own.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "陪伴的价值，不只在于解决问题。",
+        "en": "Companionship can matter beyond solving a problem.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "多一条可靠连接，就多一种可能。",
+        "en": "Another reliable connection offers another possibility.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "一张网，比一根绳更宽。",
+        "en": "A network reaches wider than one rope.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

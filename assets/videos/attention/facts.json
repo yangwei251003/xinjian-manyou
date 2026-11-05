@@ -1,0 +1,100 @@
+{
+  "id": "attention",
+  "core_claim": "注意是有选择的；没报告某个细节，不等于它不在眼前，也不等于这个人不在乎。",
+  "evidence_limits": "这段故事和桌面活动是教学改编，不是标准化测量。一次漏看不能用于判断 ADHD、智力或重视程度；视觉与任务经验差异也会影响表现。",
+  "mechanism": {
+    "steps": [
+      "当前任务设置优先级",
+      "部分信息更容易被处理",
+      "未被报告的细节可能被遗漏"
+    ],
+    "metaphorLimit": "聚光灯只比喻处理优先级，注意不是脑内真的有灯。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "1999",
+      "author": "Simons · Chabris"
+    },
+    "script_statements": [
+      {
+        "zh": "1999 年，研究者让人专注数传球。",
+        "en": "In 1999, viewers counted basketball passes.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "部分观众没有报告意外出现的角色。",
+        "en": "Some missed an unexpected visitor.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "这是不注意盲视研究的经典示范。",
+        "en": "A classic study of inattentional blindness.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Simons 与 Chabris：Gorillas in our midst（1999）",
+      "url": "https://doi.org/10.1068/p281059",
+      "note": "原始不注意盲视研究，支持任务与意外目标报告之间的关系。"
+    },
+    {
+      "title": "Daniel Simons：研究论文与示范资料",
+      "url": "https://www.dansimons.com/research.html",
+      "note": "研究者资料入口，可进一步了解注意、视觉记忆与变化盲视。"
+    },
+    {
+      "title": "Stroop：Studies of Interference in Serial Verbal Reactions（1935）",
+      "url": "https://psychclassics.yorku.ca/Stroop/",
+      "note": "词义干扰与印刷颜色命名的原始研究。网页12张卡是简化教学活动，不是标准化测验，也与不注意盲视的任务不同。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "朋友没发现你的新发型，也许正在赶路。",
+      "en": "A busy friend may miss a new haircut.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "先问他刚才关注什么，再补信息。",
+      "en": "Ask what held their attention.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "词义干扰是另一种任务，课页可继续体验。",
+      "en": "Word–color interference is a separate task.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "愿意多看一眼，也给别人一次解释。",
+        "en": "Look again. Leave room for an explanation.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "理解注意有限，让提醒变得具体。",
+        "en": "Limited attention calls for clear reminders.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "把光移开一点，世界就多一块。",
+        "en": "Shift the light. Discover another piece.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

@@ -147,7 +147,20 @@ def main():
             if film_path.read_text(encoding='utf-8')!=timeline(film):
                 raise ValueError(f'Existing timeline preserved for review: {film_path}')
             timeline_marker.write_text(sha(film_path)+'\n')
-        sources=lesson_map[film['id']]['sources']
+        lesson=lesson_map[film['id']]
+        sources=lesson['sources']
+        facts={
+            'id':film['id'],
+            'core_claim':lesson['evidence']['claim'],
+            'evidence_limits':lesson['evidence']['limits'],
+            'mechanism':lesson['mechanism'],
+            'research_anchor':{'credit':film['anchor'],'script_statements':film['cues'][2:5]},
+            'sources':sources,
+            'daily_application':film['cues'][12:15],
+            'closing':{'type':'原创总结，研究者姓名标记出处','cues':film['cues'][15:]},
+            'review_status':'已关联课程出处与证据边界，专业逐条审读待完成',
+        }
+        write_json(folder/'facts.json',facts)
         motif=MOTIF_DESCRIPTIONS[film['motif']]
         visuals=[
             '大号问题淡入，主题机制缩小置于下方。'+motif,
@@ -164,12 +177,21 @@ def main():
         (folder/'AGENTS.md').write_text('本工程属于心间漫游心理学短片。修改前读取当前用户的 .codex/skills/video-creation-director/SKILL.md（如已安装）。保留用户手改、锁定轨道和版本。页面暴露 window.render(t) 与 window.film.frame(t)，全部状态从时间推导。字幕位于独立 DOM 节点 cue-zh-* 与 cue-en-*，可局部编辑。音乐为原创合成，动作音效已与对应镜头链接。重新生成前核对 .director-source-sha256。',encoding='utf-8')
         dest=ROOT/'assets/videos'/film['id']
         dest.mkdir(parents=True,exist_ok=True)
+        write_json(dest/'facts.json',facts)
         write_json(dest/'script.json',{'id':film['id'],'title':film['title'],'duration':film['duration'],'cues':[{**cue,'visual':next(s['label'] for s in film['stages'] if s['start']<=cue['start']<s['end'])} for cue in film['cues']],'sources':sources})
         for lang in ('zh','en'):
             rows=['WEBVTT','']
             for cue in film['cues']:rows.extend([f'{vtt_time(cue["start"])} --> {vtt_time(cue["end"])}',cue[lang],''])
             (dest/f'{lang}.vtt').write_text('\n'.join(rows),encoding='utf-8')
-        md=[f'# {film["title"]}','',f'{film["duration"]:.2f} 秒 · 1920×1080 · 60fps · {film["bpm"]} BPM','']
+        md=[f'# {film["title"]}','',f'{film["duration"]:.2f} 秒 · 1920×1080 · 60fps · {film["bpm"]} BPM','',
+            '## 事实核对表','',
+            '| 项目 | 内容 |','|---|---|',
+            f'| 核心主张 | {facts["core_claim"]} |',
+            f'| 证据边界 | {facts["evidence_limits"]} |',
+            f'| 教学比喻 | {lesson["mechanism"]["metaphorLimit"]} |',
+            f'| 资料锚点 | {film["anchor"]["year"]} · {film["anchor"]["author"]} |',
+            '| 收束文字 | 原创总结，研究者姓名标记出处 |',
+            '| 审读状态 | 已关联课程出处与证据边界，专业逐条审读待完成 |','']
         for scene in scenes:
             md.extend([f'## {vtt_time(scene["start"])} — {vtt_time(scene["end"])} · {scene["label"]}','',scene['visual'],'',f'第 {scene["start"]*film["bpm"]/240+1:g} 小节进入，按76 BPM四拍对齐；首场之后均有独立柔和动作音。',''])
             for cue in film['cues']:

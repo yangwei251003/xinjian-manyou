@@ -1,0 +1,100 @@
+{
+  "id": "retrieval",
+  "core_claim": "尝试从记忆中提取，再核对反馈，常比只重复阅读更有利于保持；困难感不等于没有学到。",
+  "evidence_limits": "一次网页练习不能证明长期增益。提取练习效果受材料、反馈、难度与时间安排影响；需要理解的任务不能被纯机械背诵替代。",
+  "mechanism": {
+    "steps": [
+      "从记忆中主动尝试",
+      "发现缺口并核对反馈",
+      "间隔后用新问题再提取"
+    ],
+    "metaphorLimit": "断桥比喻暂时提取缺口，不意味着脑内通路损坏，也不能据此判定能力。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "2006",
+      "author": "Roediger · Karpicke"
+    },
+    "script_statements": [
+      {
+        "zh": "2006 年，一项实验比较两种练习。",
+        "en": "A 2006 study compared two kinds of practice.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "大学生学习散文，再读或尝试回忆。",
+        "en": "Students studied prose, then reread or recalled.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "研究把即时和延迟测验分开看。",
+        "en": "Immediate and delayed tests were separated.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Dunlosky 等：Improving Students’ Learning With Effective Learning Techniques",
+      "url": "https://www.psychologicalscience.org/journals/pspi/1529100612453266/",
+      "note": "学习策略证据综述，讨论练习测验与分散学习。"
+    },
+    {
+      "title": "McDermott：Practicing Retrieval Facilitates Learning",
+      "url": "https://doi.org/10.1146/annurev-psych-010419-051019",
+      "note": "提取练习机制与适用范围综述。"
+    },
+    {
+      "title": "Roediger 与 Karpicke：Test-Enhanced Learning（2006）",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16507066/",
+      "note": "散文学习实验中，重复学习在5分钟测验较好，提取练习在2天或1周延迟测验较好。结论需结合材料和保持间隔。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "读完一段，试着用自己的话说出来。",
+      "en": "Explain a passage with the book closed.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "再核对，再隔一段时间尝试。",
+      "en": "Check it, then try again after an interval.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "效果取决于材料、反馈与安排。",
+      "en": "Effects depend on material, feedback and timing.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "困难不总是失败，也可能给出线索。",
+        "en": "Difficulty can sometimes offer a clue.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "理解和提取，都需要练习。",
+        "en": "Both understanding and recall need practice.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "别只问眼熟吗，也问想得起吗。",
+        "en": "Ask both: familiar, and retrievable?",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

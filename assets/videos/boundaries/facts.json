@@ -1,0 +1,95 @@
+{
+  "id": "boundaries",
+  "core_claim": "清楚表达自己能做什么、不能做什么，比勉强答应后累积委屈，更有机会形成可信的合作。",
+  "evidence_limits": "坚定表达不是解决所有关系问题的技巧，边界也不是诊断对方的标签。有威胁、控制或明显权力不对等时，应结合安全与现实资源选择应对，不能机械套用台词。",
+  "mechanism": {
+    "steps": [
+      "识别需求与现实限度",
+      "清楚表达可做和不可做",
+      "协商安全可行的下一步"
+    ],
+    "metaphorLimit": "小桥比喻有限合作；拒绝无需每次提供替代方案，也不能保证对方满意。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "坚定表达",
+      "author": "CCI · 健康教育资料"
+    },
+    "script_statements": [
+      {
+        "zh": "坚定表达资料关注清楚而尊重的沟通。",
+        "en": "Assertiveness guidance focuses on clarity and respect.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "自己的需要，与对方的需要都能被看见。",
+        "en": "Both people’s needs can be acknowledged.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "表达效果，还受关系与权力影响。",
+        "en": "Effects depend on relationships and power.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "CCI：Assertiveness",
+      "url": "https://www.cci.health.wa.gov.au/en/Resources/Looking-After-Yourself/Assertiveness",
+      "note": "区分被动、攻击与坚定表达，并提供自助教育模块。"
+    },
+    {
+      "title": "HealthyWA：Assertive communication",
+      "url": "https://www.healthywa.wa.gov.au/Articles/A_E/Assertive-communication",
+      "note": "尊重双方、具体描述问题与表达请求的公共卫生资料。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "「我今晚要准备报告，不能全替你做」。",
+      "en": "State the limit in the actual situation.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "「我能看十分钟，明天你再自己修改」。",
+      "en": "Offer limited help only if it is feasible.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "清楚之后，也允许对方提出新安排。",
+      "en": "Clarity can leave room for another proposal.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "你不必用疲惫，证明自己重视关系。",
+        "en": "Exhaustion need not prove that you care.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "真实的合作，需要看见真实的资源。",
+        "en": "Real cooperation needs a view of real resources.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "把能做的一步，说得清楚一点。",
+        "en": "Make the feasible next step a little clearer.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}
