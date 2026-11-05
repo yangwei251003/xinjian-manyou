@@ -1,0 +1,4 @@
+numpy
+scipy
+fonttools[woff]
+Pillow

@@ -1,0 +1,12 @@
+assets/user-music.aac
+assets/analysis.wav
+assets/comics/
+.cache/
+export/
+samples/
+review/
+website/
+lessons.json
+original-scripts.json
+node_modules/
+__pycache__/

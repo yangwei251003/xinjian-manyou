@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>心间漫游 · 音乐重剪版</title>
+  <style>
+    @font-face{font-family:FilmSans;src:url(assets/FilmSans.woff2);font-weight:100 900}
+    @font-face{font-family:Anton;src:url(assets/Anton.ttf);font-weight:400}
+    *{box-sizing:border-box}body{margin:0;background:#080f1d;color:#eff7ff;font-family:FilmSans,sans-serif}
+    main{max-width:1440px;margin:0 auto;padding:24px}h1{font-size:24px;font-weight:500}
+    p{color:#a7bbd5;font-size:14px;line-height:1.8}.frame{aspect-ratio:16/9;position:relative;overflow:hidden;border-radius:14px;margin-top:20px}
+    canvas{width:100%;height:100%;display:block;background:#080f1d}audio{width:100%;margin-top:18px}button{font:inherit;background:#183552;color:#fff;border:1px solid #5eafff;padding:12px 24px;border-radius:8px;cursor:pointer}
+    .capture main{padding:0;max-width:none}.capture h1,.capture p,.capture audio,.capture button{display:none}.capture .frame{margin:0;border-radius:0;width:1920px;height:1080px}
+  </style>
+</head>
+<body>
+<main>
+  <h1>心间漫游 · 音乐重剪版</h1>
+  <p id="status">正在加载画面、字体与音频……</p>
+  <button id="play" disabled>播放成片预览</button>
+  <div class="frame"><canvas id="film" width="1920" height="1080"></canvas></div>
+  <audio id="music" controls preload="metadata" src="assets/user-music.aac"></audio>
+</main>
+<script src="renderer.js"></script>
+<script src="topic-scenes.js"></script>
+<script>
+  if(new URLSearchParams(location.search).has('capture'))document.body.classList.add('capture');
+  const music=document.querySelector('#music');
+  let ticking=false;
+  function preview(){window.render(music.currentTime);if(!music.paused)requestAnimationFrame(preview);else ticking=false;}
+  music.addEventListener('play',()=>{if(!ticking){ticking=true;requestAnimationFrame(preview);}});
+  music.addEventListener('seeked',()=>window.render(music.currentTime));
+  window.ready.then(info=>{
+    document.querySelector('h1').textContent=window.episode.title;
+    document.querySelector('#status').textContent='42个独立镜头 · 原始AAC配乐 · 1920×1080 · 60fps';
+    document.querySelector('#play').disabled=false;
+    document.querySelector('#play').onclick=()=>music.paused?music.play():music.pause();
+  }).catch(error=>{document.querySelector('#status').textContent=error.message;console.error(error);});
+</script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>心间漫游 · 音乐重剪版</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#080f1d;color:#f3f7ff;font-family:system-ui,"Microsoft YaHei",sans-serif}main{max-width:1280px;margin:auto;padding:24px}header{display:flex;align-items:center;justify-content:space-between;gap:20px}h1{font-size:24px;font-weight:600}p{color:#b0c1d8;line-height:1.8}select,button{font:inherit;background:#15304b;color:#fff;border:1px solid #547ea8;border-radius:8px;padding:12px}select{max-width:45vw}video{display:block;width:100%;aspect-ratio:16/9;background:#050a13;border-radius:12px}button{cursor:pointer;margin:12px 0}#live{font-size:19px;line-height:1.8;min-height:84px;padding:12px 0}#live span{display:block;color:#e3bf84;font-size:15px}details{border-top:1px solid #29415f;padding:18px 0}summary{cursor:pointer}ol{line-height:1.8;padding-left:30px}li{padding:10px 0;color:#b0c1d8}li strong{color:#f3f7ff;font-weight:500}a{color:#80bcff}#status{min-height:25px;font-size:14px}@media(max-width:600px){main{padding:16px}header{display:block}h1{font-size:20px}select{max-width:100%;width:100%}#live{font-size:18px}video{border-radius:5px}}
+</style>
+<main>
+<header><h1 id="title">心间漫游 · 音乐重剪版</h1><select id="select" aria-label="选择知识短片"></select></header>
+<p>使用你提供的原始配乐 · 无口播 · 1080p / 60帧 · 约2分15秒</p>
+<video id="video" controls playsinline preload="none"></video>
+<button id="start">播放这支短片</button><button id="full">全屏观看</button>
+<p id="status" role="status"></p><div id="live" aria-live="off"></div>
+<details><summary>双语文字稿与研究出处</summary><div id="transcript"></div></details>
+</main>
+<script type="module">
+const episodes=await(await fetch('episodes.json')).json();
+const video=document.querySelector('#video'),select=document.querySelector('#select'),status=document.querySelector('#status'),start=document.querySelector('#start');
+let current;
+const text=(tag,value)=>{const el=document.createElement(tag);el.textContent=value;return el;};
+episodes.forEach(e=>{const option=text('option',e.displayTitle);option.value=e.id;select.append(option);});
+function caption(){const shot=current.shots.find(s=>video.currentTime>=s.start&&video.currentTime<s.end);document.querySelector('#live').replaceChildren(text('div',shot?.text||''),text('span',shot?.en||''));}
+function open(id){
+ current=episodes.find(e=>e.id===id)||episodes[0];video.pause();video.removeAttribute('src');video.load();video.poster=`export/${current.id}/poster.webp`;select.value=current.id;
+ document.querySelector('#title').textContent=current.title;document.title=current.title+' · 音乐重剪版';start.hidden=false;status.textContent='点击播放后才加载影片。';caption();
+ const list=document.createElement('ol');current.shots.forEach(s=>{const item=document.createElement('li');const time=String(Math.floor(s.start/60)).padStart(2,'0')+':'+String(Math.floor(s.start%60)).padStart(2,'0');item.append(text('strong',time+'　'+s.text),text('div',s.en));list.append(item);});
+ const sources=document.createElement('ul');current.sources.forEach(s=>{const li=document.createElement('li'),a=text('a',s.title);a.href=s.url;a.target='_blank';a.rel='noopener noreferrer';li.append(a);sources.append(li);});document.querySelector('#transcript').replaceChildren(list,sources);
+ history.replaceState(null,'','?id='+current.id);
+}
+start.onclick=()=>{video.src=`export/${current.id}/film.mp4`;start.hidden=true;video.play().catch(()=>status.textContent='使用播放器上的播放键继续。');};
+select.onchange=()=>open(select.value);video.onloadedmetadata=()=>status.textContent='已加载 · '+video.videoWidth+'×'+video.videoHeight+' · '+video.duration.toFixed(2)+'秒';video.onplaying=()=>status.textContent='正在播放';video.onpause=()=>{if(video.currentTime)status.textContent='已暂停';};video.ontimeupdate=caption;video.onseeked=caption;video.onerror=()=>{status.textContent='影片尚未准备好或加载失败，可稍后重试；文字稿仍可阅读。';start.hidden=false;};
+document.querySelector('#full').onclick=()=>video.requestFullscreen?.();
+open(new URLSearchParams(location.search).get('id')||'knowledge-curse');
+</script></html>
