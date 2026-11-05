@@ -1,0 +1,1132 @@
+[
+  {
+    "id": "attention",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 7,
+    "ranges": [
+      "bytes=0-",
+      "bytes=33619968-",
+      "bytes=1048576-",
+      "bytes=16875520-",
+      "bytes=17629184-",
+      "bytes=18284544-",
+      "bytes=18481152-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "这种任务中的漏看，被称为不注意盲视。Missing an unexpected event in this task is called inattentional blindness.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "memory",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 3,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20348928-",
+      "bytes=10944512-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "这说明后来信息可以影响回忆，不代表每段记忆都虚假。Later information can affect recall; it does not make every memory false.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "metacognition",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 3,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20348928-",
+      "bytes=10944512-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "这说明后来信息可以影响回忆，不代表每段记忆都虚假。Later information can affect recall; it does not make every memory false.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "sleep",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=21299200-",
+      "bytes=1212416-",
+      "bytes=10616832-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因此，复习可以加入合上材料、自己解释的环节。Revision can therefore include closing the material and explaining it yourself.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "stress",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19333120-",
+      "bytes=1048576-",
+      "bytes=8912896-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "比如上台心跳加快，不一定意味着这次一定会失败。For example, a racing heart on stage does not mean that this attempt will fail.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "brain",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20480000-",
+      "bytes=1245184-",
+      "bytes=10846208-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "图中的活动差异，要放回任务、比较条件和测量方法。Activity differences must be understood within tasks, comparisons and measurement methods.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "emotions",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 5,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19333120-",
+      "bytes=524288-",
+      "bytes=19529728-",
+      "bytes=8912896-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "比如上台心跳加快，不一定意味着这次一定会失败。For example, a racing heart on stage does not mean that this attempt will fail.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "reappraisal",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 3,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19333120-",
+      "bytes=8912896-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "比如上台心跳加快，不一定意味着这次一定会失败。For example, a racing heart on stage does not mean that this attempt will fail.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "habits",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 5,
+    "ranges": [
+      "bytes=0-",
+      "bytes=21299200-",
+      "bytes=1048576-",
+      "bytes=24248320-",
+      "bytes=10616832-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因此，复习可以加入合上材料、自己解释的环节。Revision can therefore include closing the material and explaining it yourself.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "personality",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 6,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19890176-",
+      "bytes=1048576-",
+      "bytes=20611072-",
+      "bytes=11010048-",
+      "bytes=11599872-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "所以，理解倾向需要多次观察，也要交代情境。Understanding a tendency needs repeated observations and attention to context.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "comparison",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 5,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19890176-",
+      "bytes=1048576-",
+      "bytes=20611072-",
+      "bytes=11010048-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "所以，理解倾向需要多次观察，也要交代情境。Understanding a tendency needs repeated observations and attention to context.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "attachment",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=21790720-",
+      "bytes=1245184-",
+      "bytes=12189696-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因此，求助可以从一个具体困难开始，而不是先给自己诊断。Help-seeking can begin with a specific difficulty rather than a self-diagnosis.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "attribution",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19660800-",
+      "bytes=1245184-",
+      "bytes=9601024-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "但它不能证明每次沟通失败，都是信息差造成的。It does not establish that every communication failure is caused by an information gap.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "conformity",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=18907136-",
+      "bytes=1245184-",
+      "bytes=8912896-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "在本片的示例规则“任意递增”下，它会被接受。Under this video's illustrative rule of any increasing numbers, it is accepted.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "listening",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 5,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19660800-",
+      "bytes=1245184-",
+      "bytes=20643840-",
+      "bytes=9601024-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "但它不能证明每次沟通失败，都是信息差造成的。It does not establish that every communication failure is caused by an information gap.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "framing",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19365888-",
+      "bytes=1048576-",
+      "bytes=9568256-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "“同一组、同一分母、互补结果”，是这里能够换算的前提。Conversion here assumes the same group, denominator and complementary outcomes.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "sunk-cost",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=18513920-",
+      "bytes=1048576-",
+      "bytes=9830400-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因为学习到的技能、承诺和转换成本，可能仍影响未来。Skills, commitments and switching costs may still matter for the future.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "retrieval",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=21299200-",
+      "bytes=1048576-",
+      "bytes=10616832-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因此，复习可以加入合上材料、自己解释的环节。Revision can therefore include closing the material and explaining it yourself.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "help-seeking",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=21790720-",
+      "bytes=1048576-",
+      "bytes=12189696-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因此，求助可以从一个具体困难开始，而不是先给自己诊断。Help-seeking can begin with a specific difficulty rather than a self-diagnosis.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "boundaries",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 5,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20086784-",
+      "bytes=1245184-",
+      "bytes=9830400-",
+      "bytes=20676608-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "能调整的部分可以协商，做不到的部分也可以保持清楚。Negotiate what can change, while keeping clear what you cannot do.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "support",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 5,
+    "ranges": [
+      "bytes=0-",
+      "bytes=21790720-",
+      "bytes=1245184-",
+      "bytes=22740992-",
+      "bytes=12189696-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因此，求助可以从一个具体困难开始，而不是先给自己诊断。Help-seeking can begin with a specific difficulty rather than a self-diagnosis.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "correlation",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20807680-",
+      "bytes=1048576-",
+      "bytes=9207808-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "这个共同原因只是一种候选解释，还需要研究检验。That common cause is a candidate explanation that still needs testing.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "sampling",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20807680-",
+      "bytes=1245184-",
+      "bytes=9207808-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "这个共同原因只是一种候选解释，还需要研究检验。That common cause is a candidate explanation that still needs testing.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "replication",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20807680-",
+      "bytes=1048576-",
+      "bytes=9207808-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "这个共同原因只是一种候选解释，还需要研究检验。That common cause is a candidate explanation that still needs testing.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "knowledge-curse",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 5,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19660800-",
+      "bytes=1048576-",
+      "bytes=20578304-",
+      "bytes=9601024-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "但它不能证明每次沟通失败，都是信息差造成的。It does not establish that every communication failure is caused by an information gap.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "confirmation-bias",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=18907136-",
+      "bytes=1179648-",
+      "bytes=8912896-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "在本片的示例规则“任意递增”下，它会被接受。Under this video's illustrative rule of any increasing numbers, it is accepted.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "test-validity",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 5,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20480000-",
+      "bytes=1048576-",
+      "bytes=21430272-",
+      "bytes=10846208-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "图中的活动差异，要放回任务、比较条件和测量方法。Activity differences must be understood within tasks, comparisons and measurement methods.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "gratitude",
+    "viewport": 1366,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=18644992-",
+      "bytes=1048576-",
+      "bytes=9207808-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "下面是可选生活练习；原研究未检验“困难与支持同页”的写法。The following exercise is optional; the original studies did not test writing difficulty and support on the same page.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "attention",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=33619968-",
+      "bytes=1048576-",
+      "bytes=16875520-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "这种任务中的漏看，被称为不注意盲视。Missing an unexpected event in this task is called inattentional blindness.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "memory",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20348928-",
+      "bytes=1048576-",
+      "bytes=10944512-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "这说明后来信息可以影响回忆，不代表每段记忆都虚假。Later information can affect recall; it does not make every memory false.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "metacognition",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20348928-",
+      "bytes=1048576-",
+      "bytes=10944512-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "这说明后来信息可以影响回忆，不代表每段记忆都虚假。Later information can affect recall; it does not make every memory false.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "sleep",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=21299200-",
+      "bytes=1048576-",
+      "bytes=10616832-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因此，复习可以加入合上材料、自己解释的环节。Revision can therefore include closing the material and explaining it yourself.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "stress",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19333120-",
+      "bytes=1245184-",
+      "bytes=8912896-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "比如上台心跳加快，不一定意味着这次一定会失败。For example, a racing heart on stage does not mean that this attempt will fail.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "brain",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20480000-",
+      "bytes=1310720-",
+      "bytes=10846208-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "图中的活动差异，要放回任务、比较条件和测量方法。Activity differences must be understood within tasks, comparisons and measurement methods.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "emotions",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19333120-",
+      "bytes=1048576-",
+      "bytes=8912896-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "比如上台心跳加快，不一定意味着这次一定会失败。For example, a racing heart on stage does not mean that this attempt will fail.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "reappraisal",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19333120-",
+      "bytes=1048576-",
+      "bytes=8912896-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "比如上台心跳加快，不一定意味着这次一定会失败。For example, a racing heart on stage does not mean that this attempt will fail.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "habits",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=21299200-",
+      "bytes=1048576-",
+      "bytes=10616832-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因此，复习可以加入合上材料、自己解释的环节。Revision can therefore include closing the material and explaining it yourself.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "personality",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19890176-",
+      "bytes=1048576-",
+      "bytes=11010048-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "所以，理解倾向需要多次观察，也要交代情境。Understanding a tendency needs repeated observations and attention to context.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "comparison",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19890176-",
+      "bytes=1048576-",
+      "bytes=11010048-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "所以，理解倾向需要多次观察，也要交代情境。Understanding a tendency needs repeated observations and attention to context.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "attachment",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=21790720-",
+      "bytes=1048576-",
+      "bytes=12189696-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因此，求助可以从一个具体困难开始，而不是先给自己诊断。Help-seeking can begin with a specific difficulty rather than a self-diagnosis.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "attribution",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19660800-",
+      "bytes=1048576-",
+      "bytes=9601024-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "但它不能证明每次沟通失败，都是信息差造成的。It does not establish that every communication failure is caused by an information gap.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "conformity",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 5,
+    "ranges": [
+      "bytes=0-",
+      "bytes=18907136-",
+      "bytes=458752-",
+      "bytes=19103744-",
+      "bytes=8912896-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "在本片的示例规则“任意递增”下，它会被接受。Under this video's illustrative rule of any increasing numbers, it is accepted.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "listening",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19660800-",
+      "bytes=1048576-",
+      "bytes=9601024-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "但它不能证明每次沟通失败，都是信息差造成的。It does not establish that every communication failure is caused by an information gap.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "framing",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19365888-",
+      "bytes=1048576-",
+      "bytes=9568256-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "“同一组、同一分母、互补结果”，是这里能够换算的前提。Conversion here assumes the same group, denominator and complementary outcomes.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "sunk-cost",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=18513920-",
+      "bytes=1048576-",
+      "bytes=9830400-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因为学习到的技能、承诺和转换成本，可能仍影响未来。Skills, commitments and switching costs may still matter for the future.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "retrieval",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=21299200-",
+      "bytes=10616832-",
+      "bytes=11665408-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因此，复习可以加入合上材料、自己解释的环节。Revision can therefore include closing the material and explaining it yourself.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "help-seeking",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=21790720-",
+      "bytes=1048576-",
+      "bytes=12189696-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因此，求助可以从一个具体困难开始，而不是先给自己诊断。Help-seeking can begin with a specific difficulty rather than a self-diagnosis.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "boundaries",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20086784-",
+      "bytes=1245184-",
+      "bytes=9830400-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "能调整的部分可以协商，做不到的部分也可以保持清楚。Negotiate what can change, while keeping clear what you cannot do.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "support",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 3,
+    "ranges": [
+      "bytes=0-",
+      "bytes=21790720-",
+      "bytes=12189696-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "因此，求助可以从一个具体困难开始，而不是先给自己诊断。Help-seeking can begin with a specific difficulty rather than a self-diagnosis.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "correlation",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20807680-",
+      "bytes=1048576-",
+      "bytes=9207808-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "这个共同原因只是一种候选解释，还需要研究检验。That common cause is a candidate explanation that still needs testing.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "sampling",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20807680-",
+      "bytes=1048576-",
+      "bytes=9207808-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "这个共同原因只是一种候选解释，还需要研究检验。That common cause is a candidate explanation that still needs testing.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "replication",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20807680-",
+      "bytes=1048576-",
+      "bytes=9207808-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "这个共同原因只是一种候选解释，还需要研究检验。That common cause is a candidate explanation that still needs testing.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "knowledge-curse",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=19660800-",
+      "bytes=1048576-",
+      "bytes=9601024-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "但它不能证明每次沟通失败，都是信息差造成的。It does not establish that every communication failure is caused by an information gap.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "confirmation-bias",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=18907136-",
+      "bytes=1048576-",
+      "bytes=8912896-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "在本片的示例规则“任意递增”下，它会被接受。Under this video's illustrative rule of any increasing numbers, it is accepted.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "test-validity",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=20480000-",
+      "bytes=1048576-",
+      "bytes=10846208-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "图中的活动差异，要放回任务、比较条件和测量方法。Activity differences must be understood within tasks, comparisons and measurement methods.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  },
+  {
+    "id": "gratitude",
+    "viewport": 390,
+    "beforeClickRequests": 0,
+    "mediaRequests": 4,
+    "ranges": [
+      "bytes=0-",
+      "bytes=18644992-",
+      "bytes=1048576-",
+      "bytes=9207808-"
+    ],
+    "duration": 135.2,
+    "width": 1920,
+    "height": 1080,
+    "currentTime": 65,
+    "caption": "下面是可选生活练习；原研究未检验“困难与支持同页”的写法。The following exercise is optional; the original studies did not test writing difficulty and support on the same page.",
+    "overflow": false,
+    "paused": true,
+    "errors": []
+  }
+]

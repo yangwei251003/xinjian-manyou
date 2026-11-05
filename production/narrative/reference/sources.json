@@ -1,0 +1,42 @@
+[
+  {
+    "path": "reference\\gl\\DirectionalWipe.glsl",
+    "url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/DirectionalWipe.glsl",
+    "sha256": "ab13a278d9a62400fb54ac3c1df98d06b57172ec72f79ec4e8d185614ecfdb52"
+  },
+  {
+    "path": "reference\\gl\\CircleOpen.glsl",
+    "url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CircleOpen.glsl",
+    "sha256": "f50be414d91a67965db1733abc664a2340ccbc215531bc263511bd206a1c93f7"
+  },
+  {
+    "path": "reference\\gl\\Doorway.glsl",
+    "url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/Doorway.glsl",
+    "sha256": "a68a916ffc50abf5c4e646494da44c02c6e898dbc3acec2272653a264a50abb8"
+  },
+  {
+    "path": "reference\\gl\\CrossZoom.glsl",
+    "url": "https://github.com/gl-transitions/gl-transitions/blob/0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5/transitions/CrossZoom.glsl",
+    "sha256": "a30adba2a78deac0ac114a30ea285e972fdd7d488ed0cde90e15bc0eef333e84"
+  },
+  {
+    "path": "reference\\vincent\\OrbFlylineRelay.tsx",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft/blob/43bd349a136651865ecfa6ea1cf012f6e957d304/demos/effects/glow-flyline-moves/OrbFlylineRelay.tsx",
+    "sha256": "3fc38b43e9a570645ff274fdf8072bee65a7be2e9ef563555dd0a9f495ede9c8"
+  },
+  {
+    "path": "reference\\vincent\\AssembleThenTypeFlyin.tsx",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft/blob/43bd349a136651865ecfa6ea1cf012f6e957d304/demos/effects/assemble-then-type-flyin/AssembleThenTypeFlyin.tsx",
+    "sha256": "ada3917b46dd4d3aae63b8bd2c8188845daa6acb068169d4e999b252d7147f9b"
+  },
+  {
+    "path": "reference\\vincent\\CircleMatchIris.tsx",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft/blob/43bd349a136651865ecfa6ea1cf012f6e957d304/demos/transition/circle-match-iris/CircleMatchIris.tsx",
+    "sha256": "a9b0104f0fd70e310ea1e1cbccab54f665f240a7abbaa79ec0865b121562de25"
+  },
+  {
+    "path": "reference\\vincent\\LICENSE",
+    "url": "https://github.com/Vincentwei1021/video-shotcraft/blob/43bd349a136651865ecfa6ea1cf012f6e957d304/LICENSE",
+    "sha256": "b2ce9877a55547ada9b870150664d1468ff777e67cc9888806a73927d31c5771"
+  }
+]

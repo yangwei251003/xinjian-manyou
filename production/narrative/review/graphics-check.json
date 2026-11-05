@@ -1,0 +1,86 @@
+[
+  {
+    "id": "attention-limits",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "memory-calibration",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "learning-loop",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "emotion-context",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "comparison-personality",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "support-exploration",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "communication-gap",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "evidence-agreement",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "framing-choice",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "future-cost",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "measurement-inference",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "research-chain",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "clear-boundaries",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  },
+  {
+    "id": "gratitude-both",
+    "cues": 24,
+    "errors": [],
+    "deterministic": true
+  }
+]

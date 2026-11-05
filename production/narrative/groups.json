@@ -1,0 +1,114 @@
+[
+  {
+    "id": "attention-limits",
+    "question": "为什么眼前的信息，也会被漏掉？",
+    "lessons": [
+      "attention"
+    ]
+  },
+  {
+    "id": "memory-calibration",
+    "question": "记得清楚，为什么还要核对？",
+    "lessons": [
+      "memory",
+      "metacognition"
+    ]
+  },
+  {
+    "id": "learning-loop",
+    "question": "怎样从看过，走到能想起？",
+    "lessons": [
+      "retrieval",
+      "habits",
+      "sleep"
+    ]
+  },
+  {
+    "id": "emotion-context",
+    "question": "同样心跳快，为什么感受不同？",
+    "lessons": [
+      "emotions",
+      "stress",
+      "reappraisal"
+    ]
+  },
+  {
+    "id": "comparison-personality",
+    "question": "别人的高光，能给你定性吗？",
+    "lessons": [
+      "comparison",
+      "personality"
+    ]
+  },
+  {
+    "id": "support-exploration",
+    "question": "需要帮助，会让人更不独立吗？",
+    "lessons": [
+      "attachment",
+      "support",
+      "help-seeking"
+    ]
+  },
+  {
+    "id": "communication-gap",
+    "question": "沟通卡住时，我们究竟漏了什么？",
+    "lessons": [
+      "attribution",
+      "knowledge-curse",
+      "listening"
+    ]
+  },
+  {
+    "id": "evidence-agreement",
+    "question": "大家都同意，就足够证明了吗？",
+    "lessons": [
+      "conformity",
+      "confirmation-bias"
+    ]
+  },
+  {
+    "id": "framing-choice",
+    "question": "九成得到和一成没得到，差在哪里？",
+    "lessons": [
+      "framing"
+    ]
+  },
+  {
+    "id": "future-cost",
+    "question": "已经花了这么多，就必须继续吗？",
+    "lessons": [
+      "sunk-cost"
+    ]
+  },
+  {
+    "id": "measurement-inference",
+    "question": "一张脑图、一个分数，凭什么解释你？",
+    "lessons": [
+      "brain",
+      "test-validity"
+    ]
+  },
+  {
+    "id": "research-chain",
+    "question": "一个研究结果，凭什么值得相信？",
+    "lessons": [
+      "sampling",
+      "correlation",
+      "replication"
+    ]
+  },
+  {
+    "id": "clear-boundaries",
+    "question": "想帮忙，怎样把限度说清楚？",
+    "lessons": [
+      "boundaries"
+    ]
+  },
+  {
+    "id": "gratitude-both",
+    "question": "困难还在，也能看见一点支持吗？",
+    "lessons": [
+      "gratitude"
+    ]
+  }
+]

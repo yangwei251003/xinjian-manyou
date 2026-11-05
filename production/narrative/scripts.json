@@ -1,0 +1,1374 @@
+{
+  "attention-limits": [
+    {
+      "zh": "为什么眼前的信息，也会被漏掉？",
+      "en": "Why can we miss something right in front of us?"
+    },
+    {
+      "zh": "想象你正专心追踪画面里的白色圆点。",
+      "en": "Imagine carefully following the white dots on screen."
+    },
+    {
+      "zh": "同一画面还有别的变化，但你的任务没有要求寻找它。",
+      "en": "Other things also change, but your task does not ask you to find them."
+    },
+    {
+      "zh": "问题不只是眼睛收到了多少信息，还有哪些信息得到注意。",
+      "en": "The question is not only what reaches your eyes, but what receives attention."
+    },
+    {
+      "zh": "选择性注意，就是让部分信息获得处理上的优先。",
+      "en": "Selective attention gives some information priority in processing."
+    },
+    {
+      "zh": "当前目标，会影响哪些对象更容易被选中。",
+      "en": "Your current goal affects which objects are more likely to be selected."
+    },
+    {
+      "zh": "被选中的细节更突出，其他细节却可能没有进入报告。",
+      "en": "Selected details stand out; others may never enter your report."
+    },
+    {
+      "zh": "出现在视野里、被注意到和被报告，是不同环节。",
+      "en": "Being in view, noticing something and reporting it are different steps."
+    },
+    {
+      "zh": "1999年，Simons与Chabris让参与者观看传球视频。",
+      "en": "In 1999, Simons and Chabris asked participants to watch passing players."
+    },
+    {
+      "zh": "参与者带着计数任务，关注指定队伍的传球。",
+      "en": "Participants counted passes made by a specified team."
+    },
+    {
+      "zh": "一些人没有报告画面中出现的意外角色。",
+      "en": "Some did not report an unexpected character appearing in the scene."
+    },
+    {
+      "zh": "这种任务中的漏看，被称为不注意盲视。",
+      "en": "Missing an unexpected event in this task is called inattentional blindness."
+    },
+    {
+      "zh": "研究提醒我们：物体出现在视野里，不保证被注意到。",
+      "en": "The finding reminds us that being in view does not guarantee attention."
+    },
+    {
+      "zh": "但不同任务、对象和观看条件，会影响遗漏发生的情况。",
+      "en": "Different tasks, objects and viewing conditions can change what is missed."
+    },
+    {
+      "zh": "所以，不能把一次漏看解释成一个人永远不细心。",
+      "en": "One missed event cannot establish that someone is always careless."
+    },
+    {
+      "zh": "更有用的问题是：他当时究竟在找什么？",
+      "en": "A more useful question is: what was the person looking for?"
+    },
+    {
+      "zh": "记笔记时，你可能更关注板书，漏掉老师的一次手势。",
+      "en": "While taking notes, you may focus on what is written on the board and miss the teacher's gesture."
+    },
+    {
+      "zh": "寻找朋友时，你可能盯着衣服颜色，忽略别的位置。",
+      "en": "While finding a friend, you may focus on clothing and overlook another location."
+    },
+    {
+      "zh": "这两个例子都说明，目标会改变信息的优先顺序。",
+      "en": "Both examples show how goals can change information priorities."
+    },
+    {
+      "zh": "需要检查细节时，可以先把观察目标说清楚。",
+      "en": "When details matter, first make the observation goal explicit."
+    },
+    {
+      "zh": "然后换一个目标再看，核对先前没有留意的部分。",
+      "en": "Then look with another goal and check what you overlooked."
+    },
+    {
+      "zh": "重新观察不能保证发现一切，却能增加一次核对机会。",
+      "en": "Looking again cannot guarantee that you will find everything, but it gives you another chance to check."
+    },
+    {
+      "zh": "注意力帮助我们选择，也意味着选择之外可能有遗漏。",
+      "en": "Attention helps us select, and selection can leave things out."
+    },
+    {
+      "zh": "下次觉得“这么明显怎么没看到”，先问一句：当时在看什么？",
+      "en": "Before asking why someone missed the obvious, ask what they were attending to."
+    }
+  ],
+  "memory-calibration": [
+    {
+      "zh": "记得很清楚，为什么还要核对？",
+      "en": "Why check a memory that feels perfectly clear?"
+    },
+    {
+      "zh": "回想一次活动时，你找回的并不是一段完整录像。",
+      "en": "Recalling an event is not replaying a complete recording."
+    },
+    {
+      "zh": "经历当时，注意、理解和已有知识已经影响了编码。",
+      "en": "Attention, understanding and prior knowledge already shaped its encoding."
+    },
+    {
+      "zh": "因此，最初留下的线索就可能并不完整。",
+      "en": "The original memory traces may therefore be incomplete."
+    },
+    {
+      "zh": "回忆时，我们会把这些线索重新组织成一个故事。",
+      "en": "At recall, we reorganize those traces into a story."
+    },
+    {
+      "zh": "后来听到的话、看到的照片，也可能参与这个过程。",
+      "en": "Later comments and photographs can also enter that process."
+    },
+    {
+      "zh": "于是，亲眼见到和后来听说的内容，有时会混在一起。",
+      "en": "What we witnessed and what we later heard can sometimes become mixed."
+    },
+    {
+      "zh": "这就是为什么回忆会重建，而不只是原样取出。",
+      "en": "This is why remembering involves reconstruction, not simple retrieval."
+    },
+    {
+      "zh": "1974年，Loftus与Palmer研究了提问措辞与事故回忆。",
+      "en": "In 1974, Loftus and Palmer studied wording and memory for an accident."
+    },
+    {
+      "zh": "一项实验中，用更强烈的碰撞动词提问，车速估计更高。",
+      "en": "In one experiment, stronger collision wording led to higher speed estimates."
+    },
+    {
+      "zh": "另一项实验中，一周后也有人报告了影片中没有的碎玻璃。",
+      "en": "In another experiment, some reported broken glass a week later, although none was shown."
+    },
+    {
+      "zh": "这说明后来信息可以影响回忆，不代表每段记忆都虚假。",
+      "en": "Later information can affect recall; it does not make every memory false."
+    },
+    {
+      "zh": "接下来还有一个问题：我们怎样判断自己记得是否准确？",
+      "en": "There is another question: how do we judge the accuracy of our memory?"
+    },
+    {
+      "zh": "这种对自己认知的判断，属于元认知。",
+      "en": "Judging our own cognition is part of metacognition."
+    },
+    {
+      "zh": "清晰和熟悉是一种感觉，准确则需要与事实核对。",
+      "en": "Clarity and familiarity are feelings; accuracy requires checking against facts."
+    },
+    {
+      "zh": "两者可能一致，也可能出现偏差，不能直接画等号。",
+      "en": "They may agree or diverge, so they cannot simply be equated."
+    },
+    {
+      "zh": "比如你确信朋友说过一句话，却想不起当时的原话。",
+      "en": "You may feel sure a friend said something, yet not recall the exact words."
+    },
+    {
+      "zh": "这时先区分：哪些是记得的，哪些是自己的推断。",
+      "en": "First separate what you remember from what you inferred."
+    },
+    {
+      "zh": "有记录时可以核对；没有记录时，也可以保留不确定。",
+      "en": "Check a record if available, or leave room for uncertainty if it is not."
+    },
+    {
+      "zh": "把判断与核对结果比较，才能逐渐校准信心。",
+      "en": "Comparing judgments with checks helps calibrate confidence over time."
+    },
+    {
+      "zh": "这种核对不是要求怀疑一切，而是让确定程度有依据。",
+      "en": "Checking does not mean doubting everything; it gives confidence a basis."
+    },
+    {
+      "zh": "尤其在重要分歧中，确信的语气不能代替共同证据。",
+      "en": "In an important disagreement, certainty of tone cannot replace shared evidence."
+    },
+    {
+      "zh": "记忆重建回答“内容怎样形成”，元认知回答“我怎样判断它”。",
+      "en": "Reconstruction concerns how recall forms; metacognition concerns how we judge it."
+    },
+    {
+      "zh": "把两者分开，你就能认真记得，也容许自己修正。",
+      "en": "Distinguish them, and you can value memory while allowing correction."
+    }
+  ],
+  "learning-loop": [
+    {
+      "zh": "看了三遍，为什么合上书还是说不出？",
+      "en": "Why can three readings still leave you unable to explain?"
+    },
+    {
+      "zh": "材料在眼前时，你可以借助它顺利跟上。",
+      "en": "With the material visible, it can help you follow along."
+    },
+    {
+      "zh": "但跟得上，不等于离开材料以后仍能想起。",
+      "en": "Following along does not guarantee recall without it."
+    },
+    {
+      "zh": "要检查保持得怎样，就需要一次独立的尝试。",
+      "en": "An independent attempt is needed to check what remains."
+    },
+    {
+      "zh": "主动提取，是先从记忆中找答案，而不是立刻重看。",
+      "en": "Retrieval means first recalling an answer instead of immediately rereading."
+    },
+    {
+      "zh": "2006年，Roediger与Karpicke比较再学习和记忆测验。",
+      "en": "In 2006, Roediger and Karpicke compared restudy with memory testing."
+    },
+    {
+      "zh": "参与者学习短文后，在不同条件下再读或尝试回忆。",
+      "en": "After studying passages, participants restudied or tried to recall them."
+    },
+    {
+      "zh": "研究还把最终测验安排在不同时间。",
+      "en": "The final tests were also given after different delays."
+    },
+    {
+      "zh": "五分钟后的测验，再学习表现较好。",
+      "en": "On the five-minute test, restudying performed better."
+    },
+    {
+      "zh": "两天或一周后，先前提取的保持表现更好。",
+      "en": "After two days or one week, prior retrieval produced better retention."
+    },
+    {
+      "zh": "关键不是“阅读没用”，而是即时顺利不等于长期保持。",
+      "en": "The lesson is not that reading is useless, but that ease is not lasting retention."
+    },
+    {
+      "zh": "因此，复习可以加入合上材料、自己解释的环节。",
+      "en": "Revision can therefore include closing the material and explaining it yourself."
+    },
+    {
+      "zh": "发现缺口后再核对，让反馈指出需要补的部分。",
+      "en": "Then check the gaps, using feedback to identify what needs work."
+    },
+    {
+      "zh": "不过，知道一种方法，还不等于每次都能开始。",
+      "en": "Knowing a method, however, does not ensure that you will start it."
+    },
+    {
+      "zh": "习惯研究关注另一层：稳定情境怎样帮助动作启动。",
+      "en": "Habit research concerns another level: how stable contexts cue action."
+    },
+    {
+      "zh": "例如把一次简短自测，安排在固定的学习收尾处。",
+      "en": "For example, place a brief self-test at a consistent point after studying."
+    },
+    {
+      "zh": "这是安排练习的建议，不是前面那项实验验证的完整流程。",
+      "en": "This is a planning suggestion, not the complete procedure tested in that study."
+    },
+    {
+      "zh": "还要给睡眠留位置：睡眠参与恢复与记忆相关过程。",
+      "en": "Also leave room for sleep, which supports restoration and memory-related processes."
+    },
+    {
+      "zh": "睡眠不能代替清醒时的学习，自测也不能代替休息。",
+      "en": "Sleep cannot replace waking study, and self-testing cannot replace rest."
+    },
+    {
+      "zh": "这三类知识分别回答：怎样练、怎样开始、怎样安排休息。",
+      "en": "These ideas address how to practise, how to begin, and how to allow rest."
+    },
+    {
+      "zh": "把它们用于计划时，仍要按任务和自己的情况调整。",
+      "en": "A plan combining them still needs adjustment for the task and your circumstances."
+    },
+    {
+      "zh": "下一次复习，试着先回答一个问题，再核对一次。",
+      "en": "Next time, try answering one question before checking it."
+    },
+    {
+      "zh": "真正要观察的，是过一段时间后还能不能解释。",
+      "en": "What matters is whether you can still explain it after a delay."
+    },
+    {
+      "zh": "从“看过”到“想起”，让练习、反馈和生活安排各司其职。",
+      "en": "From exposure to recall, let practice, feedback and daily routines play distinct roles."
+    }
+  ],
+  "emotion-context": [
+    {
+      "zh": "同样心跳快，为什么有时期待，有时紧张？",
+      "en": "Why can a racing heart feel exciting at one time and tense at another?"
+    },
+    {
+      "zh": "身体变化提供线索，却不会单独写好情绪的全部含义。",
+      "en": "Bodily changes provide clues, not the full meaning of an emotion."
+    },
+    {
+      "zh": "发生了什么、你在意什么，以及怎样理解，都值得一起看。",
+      "en": "Consider what is happening, what matters to you, and how you interpret it."
+    },
+    {
+      "zh": "比如同样站在台前，有人想到展示，有人想到被评价。",
+      "en": "On the same stage, one person may think of sharing and another of judgment."
+    },
+    {
+      "zh": "所以，辨认情绪可以从身体信号开始，再放回情境。",
+      "en": "To understand an emotion, notice bodily signals and then their context."
+    },
+    {
+      "zh": "这是一种理解线索的方式，不是从心跳直接诊断心理状态。",
+      "en": "This is a way to interpret clues, not to diagnose a state from heart rate."
+    },
+    {
+      "zh": "如果任务要求与你觉得可用的资源发生冲突，压力也会进入。",
+      "en": "Stress may arise when demands conflict with the resources you perceive."
+    },
+    {
+      "zh": "这里的资源，可以是时间、准备、协作和支持。",
+      "en": "Resources may include time, preparation, cooperation and support."
+    },
+    {
+      "zh": "因此，不舒服既可能涉及解释，也可能涉及真实的负荷。",
+      "en": "Discomfort may involve both interpretation and real demands."
+    },
+    {
+      "zh": "只改想法，却不看任务和资源，可能漏掉需要解决的问题。",
+      "en": "Changing thoughts alone can overlook demands that need practical solutions."
+    },
+    {
+      "zh": "认知重评关注其中一环：能否换一种符合证据的解释。",
+      "en": "Reappraisal addresses one part: finding another interpretation consistent with evidence."
+    },
+    {
+      "zh": "比如上台心跳加快，不一定意味着这次一定会失败。",
+      "en": "For example, a racing heart on stage does not mean that this attempt will fail."
+    },
+    {
+      "zh": "可以试着想：我虽紧张，仍能按准备的步骤开始。",
+      "en": "One possible reappraisal is: I can feel tense and still begin with the steps I prepared."
+    },
+    {
+      "zh": "研究提示重评有时能改变情绪反应，但效果依情境而异。",
+      "en": "Research suggests reappraisal can affect emotional responses, with contextual limits."
+    },
+    {
+      "zh": "它既不是万能开关，也不要求你把坏事说成好事。",
+      "en": "It is neither a universal switch nor a demand to call bad events good."
+    },
+    {
+      "zh": "于是，可以把眼前的问题分成两条需要核对的线。",
+      "en": "You can therefore examine the situation along two lines."
+    },
+    {
+      "zh": "一条问：我怎样理解这件事，还有哪些合理解释？",
+      "en": "One asks how you interpret it and what other explanations are reasonable."
+    },
+    {
+      "zh": "另一条问：负荷是否过大，时间、分工或支持能否调整？",
+      "en": "The other asks whether demands, time, workload or support can change."
+    },
+    {
+      "zh": "两条线可以同时处理，不必争论究竟全是想法还是全是环境。",
+      "en": "Both can matter; neither thoughts nor circumstances must explain everything."
+    },
+    {
+      "zh": "行动也因此更具体：核对事实、重新安排，或找人商量。",
+      "en": "Action becomes more specific: check facts, reorganize, or talk with someone."
+    },
+    {
+      "zh": "如果困扰持续影响学习和生活，可以寻求可靠成人与专业支持。",
+      "en": "If distress keeps affecting daily life or learning, seek trusted adult and professional support."
+    },
+    {
+      "zh": "一次情绪体验，不能概括一个完整的人。",
+      "en": "One emotional experience cannot define a whole person."
+    },
+    {
+      "zh": "身体、解释与资源是不同线索，分开看，才能一起理解。",
+      "en": "Body, interpretation and resources are distinct clues that can be considered together."
+    },
+    {
+      "zh": "先知道哪一环需要帮助，再选择下一步。",
+      "en": "Identify which part needs support, then choose a next step."
+    }
+  ],
+  "comparison-personality": [
+    {
+      "zh": "别人的高光，能说明你是什么样的人吗？",
+      "en": "Can another person's highlight define who you are?"
+    },
+    {
+      "zh": "看到同学获奖，你看到的是一个结果，不是全部过程。",
+      "en": "A classmate's award shows an outcome, not the entire process."
+    },
+    {
+      "zh": "你拿来比较的自己，却可能包含失败、疲惫和每次犹豫。",
+      "en": "You may compare that highlight with all your own failures, fatigue and hesitation."
+    },
+    {
+      "zh": "两边的信息不对称，比较就很容易失去同一把尺。",
+      "en": "With unequal information, the comparison can lose a common basis."
+    },
+    {
+      "zh": "社会比较关注我们怎样借助他人评价自己。",
+      "en": "Social comparison concerns how we evaluate ourselves in relation to others."
+    },
+    {
+      "zh": "比较对象、维度和对差距的解释，都会影响这段过程。",
+      "en": "The person, dimension and interpretation of a difference all matter."
+    },
+    {
+      "zh": "别人表达流利，并不能直接推出“我天生不擅长表达”。",
+      "en": "Someone else's fluent speaking does not establish that you are inherently bad at it."
+    },
+    {
+      "zh": "因为一次表现，还不足以概括一个人的稳定倾向。",
+      "en": "A single performance is not enough to describe a person's tendencies."
+    },
+    {
+      "zh": "人格特质描述的是相对稳定的差异，常用连续维度表达。",
+      "en": "Personality traits describe relatively stable differences, often along continuous dimensions."
+    },
+    {
+      "zh": "它们不是把所有人塞进几个互不相通的盒子。",
+      "en": "They do not sort everyone into a few sealed, separate boxes."
+    },
+    {
+      "zh": "同一个人在课堂、熟悉朋友面前和陌生环境里，也可能表现不同。",
+      "en": "The same person can behave differently in class, with friends, and in unfamiliar settings."
+    },
+    {
+      "zh": "所以，理解倾向需要多次观察，也要交代情境。",
+      "en": "Understanding a tendency needs repeated observations and attention to context."
+    },
+    {
+      "zh": "这就把两个知识点连起来：比较不能代替完整的人格理解。",
+      "en": "This connects the ideas: comparison cannot replace a fuller understanding of personality."
+    },
+    {
+      "zh": "别人的一个亮点，也不能给你的全部能力定性。",
+      "en": "One strength in another person cannot define all your abilities."
+    },
+    {
+      "zh": "如果比较带来困扰，先问：我比较的究竟是哪一项？",
+      "en": "If a comparison troubles you, first ask exactly what dimension you are comparing."
+    },
+    {
+      "zh": "再问：练习、时间、机会和支持，有哪些条件不同？",
+      "en": "Then ask how practice, time, opportunity and support differ."
+    },
+    {
+      "zh": "把这些条件补回来，差距就不再只剩一个笼统标签。",
+      "en": "Adding those conditions makes the difference more than a vague label."
+    },
+    {
+      "zh": "接着，从别人那里找一种自己能尝试的方法。",
+      "en": "Next, identify one method from the other person that you could try."
+    },
+    {
+      "zh": "例如学习怎样准备一次发言，而不是证明谁更有价值。",
+      "en": "For example, learn how to prepare a talk instead of ranking personal worth."
+    },
+    {
+      "zh": "再用具体行为观察自己的变化。",
+      "en": "Then observe changes through specific actions."
+    },
+    {
+      "zh": "这种方法不保证所有比较都会舒服，也不等于特质毫无意义。",
+      "en": "This does not make every comparison comfortable or make traits meaningless."
+    },
+    {
+      "zh": "它只是让比较的范围，与证据真正能说明的范围一致。",
+      "en": "It keeps the scope of the comparison within what the evidence supports."
+    },
+    {
+      "zh": "看清一项差异，和判定一个完整的人，是两件事。",
+      "en": "Understanding one difference is distinct from judging a whole person."
+    },
+    {
+      "zh": "带走一种方法，比带走一个限制自己的标签更可操作。",
+      "en": "Taking away a method gives you more to act on than a limiting label."
+    }
+  ],
+  "support-exploration": [
+    {
+      "zh": "需要帮助，会让人更不独立吗？",
+      "en": "Does needing help make someone less independent?"
+    },
+    {
+      "zh": "先分清两件事：得到支持，与把所有决定交给别人，并不相同。",
+      "en": "Receiving support is different from handing all decisions to someone else."
+    },
+    {
+      "zh": "支持可以提供资源，而行动和选择仍有自己的位置。",
+      "en": "Support can provide resources while leaving room for your own action and choice."
+    },
+    {
+      "zh": "要理解这个关系，可以先看依恋研究提出的问题。",
+      "en": "Attachment research offers one starting question about this relationship."
+    },
+    {
+      "zh": "在婴幼儿研究中，研究者观察照顾者的回应与儿童的探索。",
+      "en": "Researchers have observed caregiver responses and exploration in young children."
+    },
+    {
+      "zh": "安全基地描述一种支持探索的关系功能。",
+      "en": "A secure base describes a relationship that supports exploration."
+    },
+    {
+      "zh": "这个概念帮助理解，靠近支持与继续探索可以并存。",
+      "en": "The concept helps explain how seeking support and exploring can coexist."
+    },
+    {
+      "zh": "但婴幼儿情境中的观察，不能直接给青少年的关系分型。",
+      "en": "Observations of infants cannot directly classify an adolescent's relationships."
+    },
+    {
+      "zh": "回到青少年生活，我们要另看适合这个年龄的支持资料。",
+      "en": "For adolescents, we need guidance appropriate to that age group."
+    },
+    {
+      "zh": "WHO强调家庭、学校与社区中的支持性环境。",
+      "en": "WHO emphasizes supportive environments in families, schools and communities."
+    },
+    {
+      "zh": "同伴可以倾听和陪伴，成人与专业人员则可能提供更多资源。",
+      "en": "Peers can listen and accompany; adults and professionals may offer further resources."
+    },
+    {
+      "zh": "这些支持的职责不同，不必全部压在一个人身上。",
+      "en": "These roles differ and need not rest on one person's shoulders."
+    },
+    {
+      "zh": "因此，求助可以从一个具体困难开始，而不是先给自己诊断。",
+      "en": "Help-seeking can begin with a specific difficulty rather than a self-diagnosis."
+    },
+    {
+      "zh": "说清发生了什么，以及它怎样影响学习、睡眠或日常生活。",
+      "en": "Describe what happened and how it affects learning, sleep or everyday life."
+    },
+    {
+      "zh": "再找一位可信任、能够回应的成人一起商量。",
+      "en": "Then discuss it with a trusted adult who can respond."
+    },
+    {
+      "zh": "如果第一条路径不合适，可以继续寻找其他可靠支持。",
+      "en": "If the first path is unsuitable, look for another reliable source of support."
+    },
+    {
+      "zh": "支持别人时，也先问对方需要倾听、陪伴，还是实际帮助。",
+      "en": "When supporting someone, ask whether they need listening, company or practical help."
+    },
+    {
+      "zh": "在能力范围内答应一件具体的事，比承诺解决一切更可靠。",
+      "en": "A specific, feasible promise is more reliable than promising to solve everything."
+    },
+    {
+      "zh": "如果困扰持续影响生活，或涉及安全，需要连接更多帮助。",
+      "en": "Persistent disruption or safety concerns call for further support."
+    },
+    {
+      "zh": "这不是要求同伴独自评估或处理所有严重情况。",
+      "en": "Peers are not expected to assess or handle every serious situation alone."
+    },
+    {
+      "zh": "依恋研究与求助建议来自不同材料，不能当成同一个实验。",
+      "en": "Attachment research and help-seeking guidance are different sources, not one experiment."
+    },
+    {
+      "zh": "它们在这支片里共同回答的是：支持与自主是否一定冲突。",
+      "en": "Together, they address whether support and autonomy must always conflict."
+    },
+    {
+      "zh": "答案是：支持可以提供行动的条件，自主也可以包含选择求助。",
+      "en": "Support can provide conditions for action, and autonomy can include choosing to seek help."
+    },
+    {
+      "zh": "你不必独自承担一切，才算认真参与自己的生活。",
+      "en": "You need not carry everything alone to take an active part in your life."
+    }
+  ],
+  "communication-gap": [
+    {
+      "zh": "你觉得“很简单”，对方为什么还是做错？",
+      "en": "Why can someone still struggle with what seems simple to you?"
+    },
+    {
+      "zh": "想象你让新同学操作面板，使装置回到起点。",
+      "en": "Imagine asking a newcomer to use a control panel to return a device to its starting point."
+    },
+    {
+      "zh": "他按下圆形，装置却没有回到起点。",
+      "en": "He presses the circle, but the device does not return to the start."
+    },
+    {
+      "zh": "“他不认真”则是对原因的解释，还不是已经证实的事实。",
+      "en": "Calling him careless is an explanation, not an established fact."
+    },
+    {
+      "zh": "归因，就是我们怎样为一个行为寻找原因。",
+      "en": "Attribution concerns how we explain the causes of behavior."
+    },
+    {
+      "zh": "原因可以涉及个人，也可以涉及说明、界面和现场情境。",
+      "en": "Causes may involve the person, the instructions, the interface or the situation."
+    },
+    {
+      "zh": "要判断哪一种解释合适，先补上缺的信息。",
+      "en": "To judge which explanation fits, first fill in missing information."
+    },
+    {
+      "zh": "其中一种可能，是你与新手使用的信息并不相同。",
+      "en": "One possibility is that you and the newcomer have different information."
+    },
+    {
+      "zh": "你知道符号的含义，新手却只看到一个圆和一个三角。",
+      "en": "You know the symbols' meanings; the newcomer sees only a circle and a triangle."
+    },
+    {
+      "zh": "知识诅咒研究发现，已知信息可能影响对少信息者判断的预测。",
+      "en": "Curse-of-knowledge studies found that known information can affect predictions about less-informed people."
+    },
+    {
+      "zh": "用这个提醒检查：说明里省略了哪些新手不知道的步骤？",
+      "en": "Use this finding as a prompt: which steps did the instructions omit that a newcomer may not know?"
+    },
+    {
+      "zh": "但它不能证明每次沟通失败，都是信息差造成的。",
+      "en": "It does not establish that every communication failure is caused by an information gap."
+    },
+    {
+      "zh": "所以，下一步不是更大声重复“很简单”，而是核对对方看到了什么。",
+      "en": "The next step is to check what the other person sees, not repeat the instruction louder."
+    },
+    {
+      "zh": "你可以先问：“你觉得这两个符号分别代表什么？”",
+      "en": "You could ask what the two symbols mean to them."
+    },
+    {
+      "zh": "听完以后，用自己的话复述，再让对方确认。",
+      "en": "After listening, restate their meaning and let them confirm it."
+    },
+    {
+      "zh": "倾听在这里的作用，是检验你的理解，而不是替对方下定义。",
+      "en": "Listening checks your understanding instead of defining the other person's experience."
+    },
+    {
+      "zh": "接着把说明改成一个可执行动作和一个可观察反馈。",
+      "en": "Then give one executable action and one observable sign of its result."
+    },
+    {
+      "zh": "例如：“先按三角，再等黄灯亮起。”",
+      "en": "For example: press the triangle, then wait for the yellow light."
+    },
+    {
+      "zh": "请对方试一次或复述一遍，看还有哪一步没有接上。",
+      "en": "Ask them to try or explain it back to see which step remains unclear."
+    },
+    {
+      "zh": "如果仍然卡住，再查语言、任务难度或其他实际条件。",
+      "en": "If it still fails, check language, task difficulty and other conditions."
+    },
+    {
+      "zh": "理解原因并不取消责任，只是让责任讨论有更完整的信息。",
+      "en": "Understanding causes does not erase responsibility; it gives the discussion more information."
+    },
+    {
+      "zh": "归因提出解释，知识差提示一个可能，倾听则帮助核对。",
+      "en": "Attribution proposes causes, knowledge gaps suggest one possibility, and listening helps check it."
+    },
+    {
+      "zh": "这三步连起来，才比一个“他就是不认真”的标签更有用。",
+      "en": "Together, these steps are more useful than a quick label of carelessness."
+    },
+    {
+      "zh": "沟通从你说了什么，走到我们是否真的理解同一件事。",
+      "en": "Communication moves from what you said to whether you understood the same thing."
+    }
+  ],
+  "evidence-agreement": [
+    {
+      "zh": "大家都同意，就足够证明了吗？",
+      "en": "Is agreement by everyone enough to prove a claim?"
+    },
+    {
+      "zh": "设想一组人看到“2、4、6”，都猜规则是偶数递增。",
+      "en": "Imagine a group seeing 2, 4, 6 and guessing increasing even numbers."
+    },
+    {
+      "zh": "如果大家只看同一个例子，赞同人数不会带来新的规则检验。",
+      "en": "If everyone relies on the same example, their agreement adds no new test of the rule."
+    },
+    {
+      "zh": "我们先把两种影响分开：他人的意见，与能区分解释的检验。",
+      "en": "Separate social opinion from a test that can distinguish explanations."
+    },
+    {
+      "zh": "从众研究考察，群体判断怎样影响个人回答。",
+      "en": "Conformity research examines how group judgments influence individual answers."
+    },
+    {
+      "zh": "经典线段任务中，人们面对自己的观察与群体答案之间的冲突。",
+      "en": "Classic line tasks placed personal observations in conflict with group answers."
+    },
+    {
+      "zh": "它提醒我们注意社会影响，不代表多数一定错、少数一定对。",
+      "en": "This highlights social influence, not that majorities are always wrong or minorities right."
+    },
+    {
+      "zh": "判断对不对，仍然需要回到任务本身的证据。",
+      "en": "Correctness still needs to be checked against evidence from the task."
+    },
+    {
+      "zh": "再看规则问题：8、10、12符合偶数递增，也符合任意递增。",
+      "en": "For the rule, 8, 10, 12 fits both increasing evens and any increasing numbers."
+    },
+    {
+      "zh": "所以，再举一个类似的正确例子，还不能区分这两种解释。",
+      "en": "Another similar accepted example still does not distinguish those explanations."
+    },
+    {
+      "zh": "如果试3、5、7，两种猜想就会作出不同预测。",
+      "en": "Testing 3, 5, 7 makes the two guesses predict different outcomes."
+    },
+    {
+      "zh": "在本片的示例规则“任意递增”下，它会被接受。",
+      "en": "Under this video's illustrative rule of any increasing numbers, it is accepted."
+    },
+    {
+      "zh": "这说明“必须是偶数”这个额外限制不成立。",
+      "en": "That shows that requiring even numbers adds an unsupported restriction."
+    },
+    {
+      "zh": "Wason在1960年的规则发现任务，也让参与者提出例子并得到反馈。",
+      "en": "Wason's 1960 rule-discovery task also had participants propose examples and receive feedback."
+    },
+    {
+      "zh": "确认偏误提醒我们，可能更偏爱与已有猜想相符的信息。",
+      "en": "Confirmation bias concerns a tendency to favor information consistent with a prior belief."
+    },
+    {
+      "zh": "但找支持例子并非总是错，关键是它能否区分竞争解释。",
+      "en": "Seeking support is not always wrong; the key is whether the test separates competing accounts."
+    },
+    {
+      "zh": "现在两条线接上了：人数回答“有多少人赞成”。",
+      "en": "Now the ideas connect: numbers of people tell us how many agree."
+    },
+    {
+      "zh": "检验则回答“哪一种解释经得住这个例子”。",
+      "en": "A test asks which explanation survives the example."
+    },
+    {
+      "zh": "两者不能互相代替。",
+      "en": "Neither can substitute for the other."
+    },
+    {
+      "zh": "小组讨论时，可以先各自写下猜想和理由。",
+      "en": "In a group, first write down individual guesses and reasons."
+    },
+    {
+      "zh": "再找一个会让不同猜想给出不同预测的例子。",
+      "en": "Then find an example for which the guesses predict different results."
+    },
+    {
+      "zh": "如果反馈不符合预期，就给修正判断留机会。",
+      "en": "When feedback conflicts with expectations, allow the judgment to change."
+    },
+    {
+      "zh": "有依据地改主意，比把赞同人数当成证明更接近检验。",
+      "en": "Changing your mind with evidence is closer to testing than counting supporters."
+    },
+    {
+      "zh": "下次问“大家觉得呢”之后，也问“什么证据能区分它们”。",
+      "en": "After asking what everyone thinks, ask what evidence could distinguish the claims."
+    }
+  ],
+  "framing-choice": [
+    {
+      "zh": "“九成得到”与“一成没得到”，差在哪里？",
+      "en": "How do nine in ten receiving something differ from one in ten not receiving it?"
+    },
+    {
+      "zh": "先看一组教学圆点：100个里，90个得到，10个没得到。",
+      "en": "Consider an illustration: of 100 dots, 90 receive something and 10 do not."
+    },
+    {
+      "zh": "描述“90个得到”时，注意被带向获得的部分。",
+      "en": "Saying that 90 receive it directs attention toward the gain."
+    },
+    {
+      "zh": "描述“10个没得到”时，注意又被带向另一个部分。",
+      "en": "Saying that 10 do not directs attention toward the other part."
+    },
+    {
+      "zh": "我们改变了说法，但还没有改变这组圆点。",
+      "en": "We changed the wording without changing the set of dots."
+    },
+    {
+      "zh": "同一属性的互补表达，可能影响人们的评价。",
+      "en": "Complementary descriptions of an attribute can influence evaluations."
+    },
+    {
+      "zh": "这类问题属于属性框架。",
+      "en": "This kind of question concerns attribute framing."
+    },
+    {
+      "zh": "1988年，Levin与Gaeth研究了食品属性的不同表述。",
+      "en": "In 1988, Levin and Gaeth studied different descriptions of a food attribute."
+    },
+    {
+      "zh": "同一牛肉属性可以表述为75%瘦肉，或25%脂肪。",
+      "en": "The same beef attribute could be described as 75 percent lean or 25 percent fat."
+    },
+    {
+      "zh": "研究中，标成75%瘦肉的牛肉，得到的评价更正面。",
+      "en": "In the study, beef described as 75 percent lean received more favorable evaluations."
+    },
+    {
+      "zh": "实际品尝后，这种表述效应减小。",
+      "en": "The framing effect diminished after participants actually tasted the beef."
+    },
+    {
+      "zh": "“同一组、同一分母、互补结果”，是这里能够换算的前提。",
+      "en": "Conversion here assumes the same group, denominator and complementary outcomes."
+    },
+    {
+      "zh": "如果一边谈报名者，另一边谈获选者，分母已经不同。",
+      "en": "If one statement concerns applicants and another those selected, the denominators differ."
+    },
+    {
+      "zh": "这时即使数字看着相近，也不能直接当成同一件事。",
+      "en": "Similar-looking numbers then cannot be treated as equivalent."
+    },
+    {
+      "zh": "还有另一类框架研究，比较确定选项与有风险的选项。",
+      "en": "Another line of framing research compares certain and risky options."
+    },
+    {
+      "zh": "它与同一属性换措辞的任务不同，不能混成一个实验。",
+      "en": "That differs from rewording an attribute and should not be merged into the same experiment."
+    },
+    {
+      "zh": "回到最初的圆点，我们现在可以把完整信息补出来。",
+      "en": "Returning to the dots, we can now state the complete information."
+    },
+    {
+      "zh": "每100个之中，90个得到，同时10个未得到。",
+      "en": "Of every 100, 90 receive it and 10 do not."
+    },
+    {
+      "zh": "再问：我是否还有关于时间、条件和对象的信息没看见？",
+      "en": "Then ask whether information about time, conditions or people is missing."
+    },
+    {
+      "zh": "把两种说法并排，能帮助你看见被突出和被省略的部分。",
+      "en": "Putting the descriptions side by side reveals what each emphasizes or omits."
+    },
+    {
+      "zh": "这不保证每个人都会作出同样选择。",
+      "en": "This does not guarantee that everyone will make the same choice."
+    },
+    {
+      "zh": "但它让你的选择依据，更接近完整的信息。",
+      "en": "It can bring the basis of your choice closer to the full information."
+    },
+    {
+      "zh": "数字先回到分母，措辞再回到条件。",
+      "en": "Return numbers to their denominators and wording to its conditions."
+    },
+    {
+      "zh": "别只问“听起来怎样”，也问“完整说法是什么”。",
+      "en": "Ask not only how it sounds, but what the complete statement is."
+    }
+  ],
+  "future-cost": [
+    {
+      "zh": "已经花了这么多，就必须继续吗？",
+      "en": "Must you continue simply because you have already spent so much?"
+    },
+    {
+      "zh": "想象你买了一个不能退款的活动名额，去了却发现不合适。",
+      "en": "Imagine buying a nonrefundable place at an activity that turns out unsuitable."
+    },
+    {
+      "zh": "留下的理由，可能是活动接下来有价值。",
+      "en": "A reason to stay may be that the remaining activity is valuable."
+    },
+    {
+      "zh": "也可能只是觉得，之前的钱和时间不能白花。",
+      "en": "Or it may only feel wrong to waste the money and time already spent."
+    },
+    {
+      "zh": "这两种理由，面对的时间方向并不相同。",
+      "en": "These reasons face different directions in time."
+    },
+    {
+      "zh": "无法收回、已经付出的成本，叫作沉没成本。",
+      "en": "An incurred cost that cannot be recovered is a sunk cost."
+    },
+    {
+      "zh": "它已经发生，不会因为继续或离开而重新回来。",
+      "en": "It has already occurred and will not return simply because you stay or leave."
+    },
+    {
+      "zh": "但未来的时间、收益和代价，仍会随选择变化。",
+      "en": "Future time, benefits and costs can still change with your decision."
+    },
+    {
+      "zh": "1985年，Arkes与Blumer研究了已有投入怎样影响后续选择。",
+      "en": "In 1985, Arkes and Blumer studied how prior investment affected later choices."
+    },
+    {
+      "zh": "研究中的一种倾向，是让已付出但不可回收的投入影响继续决定。",
+      "en": "A tendency studied was letting unrecoverable investment influence a decision to continue."
+    },
+    {
+      "zh": "理解这点，不等于认定所有坚持都错。",
+      "en": "Understanding this does not make every act of persistence wrong."
+    },
+    {
+      "zh": "因为学习到的技能、承诺和转换成本，可能仍影响未来。",
+      "en": "Skills, commitments and switching costs may still matter for the future."
+    },
+    {
+      "zh": "因此，先做一次分栏：过去已无法收回的，放在一边。",
+      "en": "First separate what is already unrecoverable from the rest."
+    },
+    {
+      "zh": "从现在开始仍会改变的成本与收益，放在另一边。",
+      "en": "Place costs and benefits that can still change from now on in another column."
+    },
+    {
+      "zh": "换一种情况，能退回的那部分钱，就不属于沉没成本。",
+      "en": "In another case, any refundable portion would not be a sunk cost."
+    },
+    {
+      "zh": "如果退出会带来新的责任或损失，也要放进未来一栏。",
+      "en": "New responsibilities or losses from leaving also belong in the future column."
+    },
+    {
+      "zh": "接着比较：继续以后，还会得到什么、付出什么？",
+      "en": "Then compare what continuing will bring and what it will cost."
+    },
+    {
+      "zh": "换一条路，又会发生什么？",
+      "en": "What would happen if you took another path?"
+    },
+    {
+      "zh": "两个选择都要用面向未来的理由来说明。",
+      "en": "Explain both choices with reasons that concern the future."
+    },
+    {
+      "zh": "这种整理帮助你看清理由，再结合具体情况作决定。",
+      "en": "This method clarifies the reasons so that you can decide in light of your circumstances."
+    },
+    {
+      "zh": "珍惜过去的努力，与调整未来的方向，可以同时成立。",
+      "en": "Valuing past effort and changing future direction can coexist."
+    },
+    {
+      "zh": "停下可能合理，坚持也可能合理，要看仍然有效的理由。",
+      "en": "Stopping or persisting may be reasonable, depending on the reasons that still apply."
+    },
+    {
+      "zh": "真正要分开的，是过去的牵挂与未来的比较。",
+      "en": "Separate attachment to past investment from comparison of future options."
+    },
+    {
+      "zh": "让下一步回答“接下来值得吗”，而不只回答“以前花了多少”。",
+      "en": "Let the next step answer what is worthwhile from now on, not only what was spent before."
+    }
+  ],
+  "measurement-inference": [
+    {
+      "zh": "一张脑图、一个分数，凭什么解释你？",
+      "en": "What allows a brain image or a score to explain something about you?"
+    },
+    {
+      "zh": "它们首先是某种方法得到的结果，不是完整的人本身。",
+      "en": "They are outputs of particular methods, not a whole person."
+    },
+    {
+      "zh": "要理解它们，先问这项工具实际观察了什么。",
+      "en": "To interpret them, first ask what the method actually observes."
+    },
+    {
+      "zh": "再问：从这个观察，能支持哪一种解释和用途？",
+      "en": "Then ask what interpretation and use the observation supports."
+    },
+    {
+      "zh": "以测量为例，同一对象重复读数接近，涉及一致性与误差。",
+      "en": "When repeated readings of the same object are close, we are considering consistency and measurement error."
+    },
+    {
+      "zh": "这是信度问题的一部分。",
+      "en": "This is part of reliability."
+    },
+    {
+      "zh": "但稳定的时钟，并不能因为读数稳定就拿来量赛道。",
+      "en": "A stable clock is not suitable for measuring a track's length merely because it is consistent."
+    },
+    {
+      "zh": "要测距离，还需要适合距离这个用途的证据。",
+      "en": "Measuring distance needs evidence suited to that purpose."
+    },
+    {
+      "zh": "效度关注的，正是分数解释和使用是否有证据支持。",
+      "en": "Validity concerns evidence supporting the interpretation and use of scores."
+    },
+    {
+      "zh": "2014年测验标准，把这些问题分别讨论。",
+      "en": "The 2014 testing standards address these issues separately."
+    },
+    {
+      "zh": "所以，一个测验不能只说“结果很稳定”，就宣称什么都能解释。",
+      "en": "A test cannot claim to explain everything merely by producing stable results."
+    },
+    {
+      "zh": "同样的推断问题，也出现在脑成像的解读中。",
+      "en": "A related inference problem occurs when interpreting brain imaging."
+    },
+    {
+      "zh": "图中的活动差异，要放回任务、比较条件和测量方法。",
+      "en": "Activity differences must be understood within tasks, comparisons and measurement methods."
+    },
+    {
+      "zh": "一个区域可能参与多种过程，一个过程也可能涉及多个区域。",
+      "en": "A region may participate in several processes, and a process may involve several regions."
+    },
+    {
+      "zh": "因此，不能只凭一个亮点就直接读出完整想法或性格。",
+      "en": "A single bright region cannot directly reveal a complete thought or personality."
+    },
+    {
+      "zh": "Poldrack在2006年讨论了这类反向推断的条件与困难。",
+      "en": "Poldrack discussed the conditions and difficulties of this reverse inference in 2006."
+    },
+    {
+      "zh": "这里不是说脑图或测验没用，而是推断需要相应证据。",
+      "en": "This does not make imaging or testing useless; inferences need appropriate evidence."
+    },
+    {
+      "zh": "把两种例子放在一起，连接点是“观察到解释”之间的证据。",
+      "en": "What connects these examples is the evidence linking an observation to an interpretation."
+    },
+    {
+      "zh": "看到一个心理小测验，可以先找它准备测什么。",
+      "en": "For a psychology quiz, first find what it claims to measure."
+    },
+    {
+      "zh": "再检查研究对象、误差、适用人群和具体用途。",
+      "en": "Then examine its participants, error, target population and intended use."
+    },
+    {
+      "zh": "换年龄、语言或用途时，原有证据未必仍然足够。",
+      "en": "Evidence may not transfer sufficiently across ages, languages or uses."
+    },
+    {
+      "zh": "本片的图形只是示意，没有对你实施任何量表或扫描。",
+      "en": "These graphics are illustrations, not a test or scan of you."
+    },
+    {
+      "zh": "一个可靠的解释，要让工具、条件和用途互相对得上。",
+      "en": "A sound interpretation aligns the method, conditions and intended use."
+    },
+    {
+      "zh": "先问“这能说明什么”，再决定它在你的生活中意味着什么。",
+      "en": "Ask what a result can establish before deciding what it means for your life."
+    }
+  ],
+  "research-chain": [
+    {
+      "zh": "一个研究结果，凭什么值得相信？",
+      "en": "What makes a research result worth trusting?"
+    },
+    {
+      "zh": "设想连续几天，只在午后的球场旁记录冰淇淋销量和树荫人数。",
+      "en": "Imagine recording ice-cream sales and people in the shade beside the court each afternoon for several days."
+    },
+    {
+      "zh": "这是本片的虚构例子，不是真实调查数据。",
+      "en": "This is an invented example, not an actual dataset."
+    },
+    {
+      "zh": "这些记录想说明全校，还是只说明这个时间和地点？",
+      "en": "Are these records meant to describe the whole school, or only that place and time?"
+    },
+    {
+      "zh": "早晨、其他区域和不去球场的同学，都没有进入这份记录。",
+      "en": "Mornings, other areas and pupils who do not visit the court are missing from these records."
+    },
+    {
+      "zh": "在同一处多记很多次，也不会自动补上这些遗漏。",
+      "en": "Many more observations in the same place will not automatically fill those gaps."
+    },
+    {
+      "zh": "所以，结论要先说清记录覆盖了哪里、何时和哪些人。",
+      "en": "A conclusion should first state where, when and whom the records cover."
+    },
+    {
+      "zh": "明确记录范围后，再按天比较两项数量。",
+      "en": "After clarifying that scope, compare the two counts by day."
+    },
+    {
+      "zh": "如果销量较高的日子，树荫人数也较多，就观察到一种正相关。",
+      "en": "If days with higher sales also have more people in the shade, we observe a positive correlation."
+    },
+    {
+      "zh": "相关本身，却没有告诉我们变化的原因和方向。",
+      "en": "Correlation alone does not establish causal direction or cause."
+    },
+    {
+      "zh": "也许是天气更热，同时影响买冰淇淋和寻找树荫。",
+      "en": "Perhaps hotter weather affects both ice-cream purchases and the search for shade."
+    },
+    {
+      "zh": "这个共同原因只是一种候选解释，还需要研究检验。",
+      "en": "That common cause is a candidate explanation that still needs testing."
+    },
+    {
+      "zh": "按日期一起变化，不代表每个买冰淇淋的人都去了树荫。",
+      "en": "A relationship between daily counts does not mean every ice-cream buyer went to the shade."
+    },
+    {
+      "zh": "下一步，用同样规则在其他日期或地点再记录。",
+      "en": "Next, use the same recording rules on other dates or at other locations."
+    },
+    {
+      "zh": "这就进入重复研究与证据累积的问题。",
+      "en": "This leads to replication and the accumulation of evidence."
+    },
+    {
+      "zh": "重复时，要交代哪些方法相同，哪些条件改变了。",
+      "en": "A replication should state which methods stayed the same and which conditions changed."
+    },
+    {
+      "zh": "如果结果不同，要检查设计与条件，而不是只挑喜欢的结果。",
+      "en": "Different results call for examining designs and conditions, not choosing favorites."
+    },
+    {
+      "zh": "如果结果相近，也不自动说明先前的因果猜想已经被证明。",
+      "en": "Similar results still do not automatically prove the proposed causal explanation."
+    },
+    {
+      "zh": "重复相关研究，主要增加关系是否稳健的信息。",
+      "en": "Repeated correlational studies mainly add information about the relationship's robustness."
+    },
+    {
+      "zh": "因果判断仍要看设计能否排查竞争解释。",
+      "en": "Causal inference still depends on a design that can address competing explanations."
+    },
+    {
+      "zh": "三步连起来：记录覆盖了谁、关系怎样解释、还能否再次观察到。",
+      "en": "Connect the steps: whom the records cover, how to explain the relationship, and whether it appears again."
+    },
+    {
+      "zh": "它们约束结论的不同部分，不能互相代替。",
+      "en": "They constrain different parts of a conclusion and cannot replace one another."
+    },
+    {
+      "zh": "读到一个惊人标题时，可以沿这三步回到方法与出处。",
+      "en": "When reading a striking headline, follow these steps back to its methods and sources."
+    },
+    {
+      "zh": "值得信任的知识，不只给答案，也留下能够追问的路。",
+      "en": "Trustworthy knowledge provides not just answers, but a way to question them."
+    }
+  ],
+  "clear-boundaries": [
+    {
+      "zh": "想帮忙，也可以说自己做不到吗？",
+      "en": "Can you want to help and still say that something is beyond your limits?"
+    },
+    {
+      "zh": "设想朋友希望你接下整组任务，但你只剩一小段时间。",
+      "en": "Imagine a friend asking you to take the whole group's task when you have little time left."
+    },
+    {
+      "zh": "你有帮助的意愿，也有真实的时间和能力限制。",
+      "en": "You may want to help while facing real limits of time and capacity."
+    },
+    {
+      "zh": "把限制藏起来，不会让它自动消失。",
+      "en": "Hiding a limit will not make it disappear."
+    },
+    {
+      "zh": "清楚的边界，先从识别自己的需求和现实限度开始。",
+      "en": "Clear boundaries begin with recognizing needs and realistic limits."
+    },
+    {
+      "zh": "接着用具体表达，让对方知道哪些能做，哪些做不到。",
+      "en": "Then state specifically what you can and cannot do."
+    },
+    {
+      "zh": "例如：“我今天能检查这一部分，不能承担全部修改。”",
+      "en": "For example: I can check this part today, but cannot handle every revision."
+    },
+    {
+      "zh": "这句话说明行动和范围，比含糊答应更便于合作。",
+      "en": "That specifies action and scope, making cooperation clearer than a vague promise."
+    },
+    {
+      "zh": "表达时可以尊重对方，也保留自己的判断。",
+      "en": "You can respect the other person while keeping your own judgment."
+    },
+    {
+      "zh": "这属于自信表达的方向：既不一味退让，也不以攻击控制别人。",
+      "en": "This is the aim of assertive communication: neither automatic submission nor aggression."
+    },
+    {
+      "zh": "但清楚表达，并不保证对方一定同意。",
+      "en": "Clear communication does not guarantee agreement."
+    },
+    {
+      "zh": "能调整的部分可以协商，做不到的部分也可以保持清楚。",
+      "en": "Negotiate what can change, while keeping clear what you cannot do."
+    },
+    {
+      "zh": "协商只讨论安全、现实、双方愿意的方案。",
+      "en": "Negotiate only options that are safe, realistic and acceptable to both people."
+    },
+    {
+      "zh": "比如重新分工、调整时间，或一起寻找其他资源。",
+      "en": "It might involve redistributing work, changing timing or finding other resources."
+    },
+    {
+      "zh": "协商不是把无法承担的事换个说法再全部接下。",
+      "en": "Negotiation does not mean accepting the same impossible burden under another name."
+    },
+    {
+      "zh": "也不是用“我的边界”来要求别人必须服从自己。",
+      "en": "Nor does calling something a boundary entitle you to command another person."
+    },
+    {
+      "zh": "这些表达和约定，是为了让彼此看清范围和选择。",
+      "en": "These statements and agreements clarify each person's scope and choices."
+    },
+    {
+      "zh": "达成安排后，再核对双方理解是否一致。",
+      "en": "After making an arrangement, check that both understand it in the same way."
+    },
+    {
+      "zh": "如果条件变化，原来的约定也可能需要重新商量。",
+      "en": "If conditions change, the arrangement may need to be discussed again."
+    },
+    {
+      "zh": "涉及安全、威胁或明显不对等的情境，不必只靠一句沟通技巧。",
+      "en": "Threats, safety concerns and unequal situations may require more than a communication technique."
+    },
+    {
+      "zh": "可以连接可信任成人或其他合适支持。",
+      "en": "A trusted adult or another appropriate source of support can help."
+    },
+    {
+      "zh": "所以，边界不是一堵固定的墙，也不只是一次拒绝。",
+      "en": "A boundary is neither just a fixed wall nor a single refusal."
+    },
+    {
+      "zh": "它把需求、限度与可行安排，放进同一次讨论。",
+      "en": "It brings needs, limits and feasible arrangements into the same discussion."
+    },
+    {
+      "zh": "认真合作，也包括诚实说明自己能承担到哪里。",
+      "en": "Cooperation can include being honest about how much you can take on."
+    }
+  ],
+  "gratitude-both": [
+    {
+      "zh": "困难还在，也能看见一点支持吗？",
+      "en": "Can you notice support while a difficulty is still there?"
+    },
+    {
+      "zh": "先允许这一页写下：今天确实不容易。",
+      "en": "First allow the page to say that today really was difficult."
+    },
+    {
+      "zh": "留意支持，不需要先把困难删掉。",
+      "en": "Noticing support does not require erasing the difficulty."
+    },
+    {
+      "zh": "我们要增加一条观察，不是改写已经发生的事。",
+      "en": "We are adding an observation, not rewriting what happened."
+    },
+    {
+      "zh": "例如，一次失误没有解决，但有人陪你整理材料。",
+      "en": "A mistake may remain unresolved, while someone helped you organize your materials."
+    },
+    {
+      "zh": "“问题还在”和“我得到过帮助”，可以同时成立。",
+      "en": "The problem can remain while it is also true that you received help."
+    },
+    {
+      "zh": "感恩记录，关注其中那些具体得到的支持或值得珍视的事。",
+      "en": "Gratitude writing focuses on specific support or things you value."
+    },
+    {
+      "zh": "它不是要求写下笼统的“我应该开心”。",
+      "en": "It does not require a vague statement that you ought to be happy."
+    },
+    {
+      "zh": "2003年，Emmons与McCullough比较了不同记录条件。",
+      "en": "In 2003, Emmons and McCullough compared different writing conditions."
+    },
+    {
+      "zh": "研究包括感恩、烦恼或普通事件等记录安排。",
+      "en": "These included writing about gratitude, hassles or ordinary events."
+    },
+    {
+      "zh": "与对照组相比，感恩记录组部分福祉指标更好。",
+      "en": "Compared with control groups, gratitude-writing groups scored better on some well-being measures."
+    },
+    {
+      "zh": "群体平均结果，也不能保证某一个人一定受益。",
+      "en": "An average group result cannot guarantee a benefit for any individual."
+    },
+    {
+      "zh": "下面是可选生活练习；原研究未检验“困难与支持同页”的写法。",
+      "en": "The following exercise is optional; the original studies did not test writing difficulty and support on the same page."
+    },
+    {
+      "zh": "可以先如实写下今天发生了什么。",
+      "en": "You can first describe honestly what happened today."
+    },
+    {
+      "zh": "再选一件具体的支持：谁做了什么，它怎样帮到了你。",
+      "en": "Then identify a specific act of support: who did what and how it helped."
+    },
+    {
+      "zh": "如果愿意，也保留尚未解决的困难。",
+      "en": "If you wish, also retain the difficulty that remains unresolved."
+    },
+    {
+      "zh": "在这里，记录的目的，是把支持和困难都说具体。",
+      "en": "Here, the aim is to describe both support and difficulty concretely."
+    },
+    {
+      "zh": "记录之后，观察它是否真的对自己有帮助。",
+      "en": "After writing, observe whether it is actually helpful for you."
+    },
+    {
+      "zh": "如果感到勉强、增加负担或没有帮助，可以调整或暂停。",
+      "en": "If it feels forced, burdensome or unhelpful, adjust it or pause."
+    },
+    {
+      "zh": "你不需要感谢伤害自己的人，也不必否认合理的难受。",
+      "en": "You do not need to thank someone who hurt you or deny reasonable distress."
+    },
+    {
+      "zh": "需要改变的问题仍然需要行动，需要支持的困难也仍可求助。",
+      "en": "Problems may still need action, and difficulties may still need support."
+    },
+    {
+      "zh": "日记不能代替必要的行动和支持。",
+      "en": "A journal cannot replace the action or support those needs require."
+    },
+    {
+      "zh": "它能够邀请你多看一条线索，而不替你规定必须怎样感受。",
+      "en": "It can invite another observation without prescribing how you must feel."
+    },
+    {
+      "zh": "让这一页，既容得下困难，也容得下曾经得到的支持。",
+      "en": "Let the page hold both the difficulty and the support you received."
+    }
+  ]
+}

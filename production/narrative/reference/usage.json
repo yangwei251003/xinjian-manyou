@@ -1,0 +1,50 @@
+{
+  "methods": [
+    {
+      "name": "kinetic-tech-zh",
+      "version": "0.2.7-open-beta",
+      "license": "MIT",
+      "use": "B1 staged entrance and B3 paired comparison timing; source reviewed, direct Canvas adaptation",
+      "source": "https://github.com/motiontemplates/all"
+    },
+    {
+      "name": "Vincent OrbFlylineRelay",
+      "commit": "43bd349a136651865ecfa6ea1cf012f6e957d304",
+      "license": "Apache-2.0",
+      "use": "single-pass information relay followed by arrival emphasis",
+      "source": "https://github.com/Vincentwei1021/video-shotcraft"
+    },
+    {
+      "name": "GL Transitions",
+      "commit": "0efa1651dfdbc0cdbd57f4cda55f12d8b3dbc0c5",
+      "license": "MIT",
+      "use": "DirectionalWipe, CircleOpen and CrossZoom executed by WebGL compositor",
+      "source": "https://github.com/gl-transitions/gl-transitions"
+    },
+    {
+      "name": "MotionGit mindmap",
+      "use": "public method reference only; full package not acquired or claimed executed",
+      "source": "https://motiongit.com/adunext/knowledge-explainer-mindmap"
+    }
+  ],
+  "assets": [
+    {
+      "path": "assets/FilmSans.woff2",
+      "license": "SIL OFL 1.1",
+      "use": "Chinese/English typography, local subset"
+    },
+    {
+      "path": "assets/Anton.ttf",
+      "license": "SIL OFL 1.1",
+      "use": "Latin numbers"
+    },
+    {
+      "path": "assets/user-music.aac",
+      "license": "user supplied; public synchronization/distribution unverified",
+      "use": "original unprocessed music in all local films"
+    }
+  ],
+  "externalVideoFootage": false,
+  "comicImagesUsed": false,
+  "editorRequirement": null
+}

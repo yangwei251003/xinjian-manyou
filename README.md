@@ -8,11 +8,13 @@
 
 ![平台首页](docs/previews/home.webp)
 
-## 视频返修工程
+## 2026-11-06 叙事重制
 
-用户对3.0影片的镜头丰富度、循环画面和替代配乐不满意。本轮直接按用户附件重剪，增加逐课机制动作、明确分镜与转场，取消本项目OpenFilm与逐层可编辑的必经要求。旧工程保留。制作方式、实际参考和验证边界见[音乐重剪工程](production/recut/README.md)。
+已把28个知识点重新组织为14支有逻辑关联的短片，先写连续讲述，再制作图形与文字动效，视频独立于漫画。完整脚本、生成源码、真实模板引用与许可见[叙事重制工程](production/narrative/README.md)。上一轮音乐重剪虽然修正了画面与配乐，仍有脚本衔接问题，已由本轮取代。
 
-下方在线预览仍对应已发布的3.0媒体。带附件音乐的新成片作为本地版本交付，公开同步与分发授权尚未核验；此仓库新增生成代码与许可允许的参考源码，未上传附件音轨或新成片。原工程检查不代表影片已经通过审美验收。详见[本轮返修核验记录](docs/QA-video-recut.md)。
+OpenFilm已从本机移入回收站，永久退出当前工作流程。共享模板已独立保留；不再安装、启动或接入工作台。下方历史工程只作版本追溯。
+
+附件原音的新影片作为本地版本交付；公开同步与分发授权尚未核验，公共仓库仅归档新源码与可分发参考。在线Pages媒体仍为已发布3.0，不能作为本轮新片预览。见[本轮核验记录](docs/QA-video-narrative.md)。
 
 ## 这一版
 
@@ -48,24 +50,11 @@ npm start
 
 打开终端显示的本机地址。阅读和播放使用包内资源。网站运行无需制作工具或密钥。也可使用 `python -m http.server 4173`，完整的视频拖动验证使用本项目 Node 服务。
 
-## 旧版可编辑 OpenFilm 工程
+## 历史制作源码
 
-本机工程位于 `~/Documents/VideoCreation/Projects/xinjian-manyou-v3/<课程ID>/`。每课有六个原生主画面片段、独立音乐轨及与场景 Link 的动作音效。标题、字幕和布局保留 DOM，可以在工作台选取修改。
+原production根目录及production/recut保留旧版源码、脚本和检查记录，供历史追溯；其中工作台接入命令已经停用，不作为后续制作入口。当前重制只使用[production/narrative](production/narrative/README.md)。
 
-`production/` 保存全部制作源码、28支双语脚本、24格新漫画提示词及修订记录。制作环境需要 Python、NumPy、SciPy、Pillow、fontTools、Brotli、FFmpeg、Playwright和Chrome。
-
-```sh
-python production/build.py
-python production/score.py
-node production/render.mjs --playwright <Playwright入口路径> --workers 2
-python production/verify.py
-```
-
-重建前检查修改指纹。手动调整过的页面和时间线会保留，并提示通过 OpenFilm 继续导出。独立HTML内嵌字体与动画代码，暴露 `render(t)` 和 `window.film.frame(t)`。直接打开可预览画面，音乐位于原生时间线。
-
-仓库包含现有脚本所需字体子集，可直接复用。新增字符时取得Noto Sans SC完整字体及许可，用`python production/build.py --font-source <字体目录>`指定含`NotoSansSC.ttf`和`LICENSE.txt`的目录。分镜脚本包含事实核对表、场景时间码、具体画面、切换小节和逐句双语字幕。每支影片的`facts.json`列出核心主张、证据边界、机制比喻、出处和审读状态。
-
-PNG原件、无损音轨及原生导出抽检保存在本机制作工程。公共仓库保留运行所需WebP、全部28支MP4、字体许可和可复现代码。参考原片与完整转写留在私人研究目录。
+公共运行资源保留原许可与归属；参考原片、完整转写和未获公开分发许可的附件均不上传。
 
 ## 验证
 

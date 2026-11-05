@@ -53,11 +53,11 @@ for(const l of lessons){
    const file=film[field];assert(typeof file==='string'&&!file.startsWith('/')&&!file.includes('..')&&!/^https?:/.test(file),`${l.id}: invalid film ${field}`);
    if(file)assert(fs.existsSync(path.join(root,file)),`${l.id}: missing film ${field}`);
   }
-  assert(film.duration>=60&&film.duration<=120,`${l.id}: video duration outside 60–120 seconds`);
+  const r=release.filmDurationRange||{min:60,max:120};assert(film.duration>=r.min&&film.duration<=r.max,`${l.id}: duration outside declared range`);
   try{
    const script=read(film.meta);
-   assert(script.id===l.id&&script.sources?.length>=2,`${l.id}: invalid video script identity or sources`);
-   const facts=read(path.join(path.dirname(film.meta),'facts.json'));
+   const shared=release.videoPolicy==='shared-related-concepts';assert((shared?script.id===film.filmId&&script.lessonIds?.includes(l.id):script.id===l.id)&&script.sources?.length>=2,`${l.id}: invalid video coverage or sources`);
+   const factTable=read(path.join(path.dirname(film.meta),'facts.json'));const facts=shared?{...factTable.lessonFacts?.find(f=>f.lessonId===l.id),id:l.id}:factTable;
    assert(facts.id===l.id&&facts.core_claim===l.evidence.claim&&facts.evidence_limits===l.evidence.limits,`${l.id}: film fact table must match course claims and limits`);
    assert(facts.sources?.length>=2&&facts.mechanism?.metaphorLimit,`${l.id}: incomplete film fact sources or teaching boundary`);
    assert(script.cues?.length>=12,`${l.id}: incomplete bilingual storyboard`);
@@ -82,5 +82,6 @@ for(const obj of [...library.books,...library.people])for(const id of obj.lesson
 for(const ex of catalog.experiments){assert(ex.name&&ex.question&&ex.procedure&&ex.finding&&ex.limits&&/^https:\/\//.test(ex.source?.url),`Incomplete experiment: ${ex.id}`);for(const id of ex.lessonIds||[])assert(ids.has(id),`Experiment references missing lesson ${id}`);}
 const corpus=JSON.stringify(lessons);
 assert(!/TODO|待补充|待研究整合|Lorem ipsum|example\.com/.test(corpus),'Placeholder text found');
+if(release.videoPolicy==='shared-related-concepts')assert(new Set(Object.values(media).map(m=>m.video?.src).filter(Boolean)).size===release.filmCount,'Shared film count does not match release');
 if(errors.length){console.error(errors.join('\n'));process.exit(1)}
-console.log(`${draft?'DRAFT':'PASS'}: ${lessons.length} complete lessons, 8 zones, ${lessons.reduce((n,l)=>n+l.panels.length,0)} independent full-size story panels, ${Object.values(media).filter(m=>m.video?.src).length} published films, ${library.books.length} book doors; all indexed local media paths resolve.`);
+console.log(`${draft?'DRAFT':'PASS'}: ${lessons.length} complete lessons, 8 zones, ${lessons.reduce((n,l)=>n+l.panels.length,0)} independent full-size story panels, ${new Set(Object.values(media).map(m=>m.video?.src).filter(Boolean)).size} unique films covering ${Object.values(media).filter(m=>m.video?.src).length} lessons, ${library.books.length} book doors; all indexed local media paths resolve.`);

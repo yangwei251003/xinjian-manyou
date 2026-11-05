@@ -1,2 +1,6 @@
 # Preserve byte-identical release checksums on every operating system.
 * -text
+
+# Keep vendored license/source bytes while ignoring upstream whitespace conventions.
+production/narrative/reference/** -whitespace
+production/narrative/assets/*-OFL.txt -whitespace

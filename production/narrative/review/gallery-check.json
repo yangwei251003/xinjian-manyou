@@ -1,0 +1,30 @@
+[
+  {
+    "width": 1366,
+    "filmCards": 14,
+    "beforeClickMp4Requests": 0,
+    "synchronizedCaption": true,
+    "transcriptCues": 24,
+    "fullscreen": true,
+    "typography": {
+      "font": "18px",
+      "width": 924,
+      "overflow": false
+    },
+    "errors": []
+  },
+  {
+    "width": 390,
+    "filmCards": 14,
+    "beforeClickMp4Requests": 0,
+    "synchronizedCaption": true,
+    "transcriptCues": 24,
+    "fullscreen": true,
+    "typography": {
+      "font": "18px",
+      "width": 310,
+      "overflow": false
+    },
+    "errors": []
+  }
+]

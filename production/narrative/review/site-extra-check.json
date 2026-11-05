@@ -1,0 +1,8 @@
+{
+  "passed": [
+    "failed playback retains retry, 24-cue transcript, sources and reading",
+    "retry plays MP4 and fullscreen enters/exits",
+    "bookmark survives reload on new local edition",
+    "changing lesson disposes playback and releases source"
+  ]
+}

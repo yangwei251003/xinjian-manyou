@@ -1,0 +1,30 @@
+{
+  "narration": {
+    "reviewedChineseAndEnglishCues": 336,
+    "independentReview": "review/script-review.md",
+    "revisionsChecked": 37,
+    "remainingMaterialBlockers": 0,
+    "professionalPsychologistReview": false
+  },
+  "visual": {
+    "contactSheetsObserved": 14,
+    "cueMidpointsObserved": 336,
+    "startAndEndRenderingChecked": 672,
+    "randomSeekDeterminism": true,
+    "actualMp4FramesObserved": [
+      "communication-gap/17",
+      "learning-loop/9",
+      "attention-limits/10"
+    ],
+    "continuousAllFilmWatch": false
+  },
+  "audio": {
+    "source": "user-supplied original AAC",
+    "speech": false,
+    "mixingOrMusicReplacement": false,
+    "fullSubjectiveListen": false
+  },
+  "educationOutcomeTested": false,
+  "qualityScore": null,
+  "note": "No aesthetic score is inferred from technical checks. Final MP4 and site checks are separate reports."
+}

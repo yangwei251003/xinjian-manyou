@@ -1,0 +1,11 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>心间漫游 · 心理学串联短片</title>
+<style>@font-face{font-family:FilmSans;src:url(assets/FilmSans.woff2);font-weight:100 900}@font-face{font-family:Anton;src:url(assets/Anton.ttf)}*{box-sizing:border-box}body{margin:0;background:#080f1d;color:#f3f7ff;font-family:FilmSans,sans-serif}main{max-width:1440px;margin:auto;padding:22px}.frame{aspect-ratio:16/9}canvas{display:block;width:100%;height:100%}audio{width:100%;margin-top:15px}p{line-height:1.7;color:#a7bbd5}.capture main{padding:0;max-width:none}.capture h1,.capture p,.capture audio,.capture select{display:none}.capture .frame{width:1920px;height:1080px}select{font:inherit;color:#f3f7ff;background:#142a44;padding:10px;border:1px solid #5eafff}</style>
+<main><h1>心间漫游 · 心理学串联短片</h1><p id="status">正在准备字体与画面……</p><select id="films" aria-label="选择短片"></select><div class="frame"><canvas id="film" width="1920" height="1080"></canvas></div><audio id="music" controls preload="none" src="assets/user-music.aac"></audio><p>影片与漫画独立组织内容。播放或拖动配乐即可预览画面。</p></main>
+<script src="renderer.js"></script><script src="art.js"></script><script>
+if(new URLSearchParams(location.search).has('capture'))document.body.classList.add('capture');
+const music=document.querySelector('#music');let ticking=false;
+function tick(){window.render(music.currentTime);if(!music.paused)requestAnimationFrame(tick);else ticking=false;}
+music.addEventListener('play',()=>{if(!ticking){ticking=true;requestAnimationFrame(tick);}});music.addEventListener('seeked',()=>window.render(music.currentTime));
+window.ready.then(async()=>{document.querySelector('h1').textContent=window.episode.question;document.querySelector('#status').textContent='连续讲述 · 独立图形动效 · 用户原始配乐 · 1920×1080 / 60fps';const list=await(await fetch('episodes.json')).json();document.querySelector('#films').innerHTML=list.map(f=>`<option value="${f.id}" ${f.id===window.episode.id?'selected':''}>${f.question}</option>`).join('');document.querySelector('#films').onchange=e=>location.search='?id='+e.target.value;}).catch(e=>{document.querySelector('#status').textContent=e.message;console.error(e);});
+</script></html>

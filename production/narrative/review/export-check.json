@@ -1,0 +1,220 @@
+{
+  "sourceAudio": {
+    "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+    "bytes": 12978176
+  },
+  "results": [
+    {
+      "id": "attention-limits",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 35851737,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "memory-calibration",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 22583876,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "learning-loop",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 24297453,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "emotion-context",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 22318665,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "comparison-personality",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 22149507,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "support-exploration",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 24230787,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "communication-gap",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 22165741,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "evidence-agreement",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 21321368,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "framing-choice",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 22243806,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "future-cost",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 20803848,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "measurement-inference",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 23019629,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "research-chain",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 23415101,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "clear-boundaries",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 23055306,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    },
+    {
+      "id": "gratitude-both",
+      "status": "pass",
+      "width": 1920,
+      "height": 1080,
+      "fps": 60,
+      "frames": 8112,
+      "audioPcm": {
+        "sha256": "e96e3f3f26b732e572e886f0575ab6da520758bdffb82079c7aa89537d269f64",
+        "bytes": 12978176
+      },
+      "fullVideoDecode": true,
+      "bytes": 21261571,
+      "sourceHash": "5dbf80541fbaaa0d2ba8e70bae8196ea03335b8061227d2e69ad3729394942f2"
+    }
+  ],
+  "continuousVisualReview": false,
+  "fullListeningReview": false
+}

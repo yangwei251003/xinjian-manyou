@@ -1,0 +1,446 @@
+[
+  {
+    "film": "attention-limits",
+    "sentence": 8,
+    "before": {
+      "zh": "这不等于外界没发生变化，而是看见与报告并不相同。",
+      "en": "That does not mean nothing changed. Receiving and reporting are different."
+    },
+    "after": {
+      "zh": "出现在视野里、被注意到和被报告，是不同环节。",
+      "en": "Being in view, noticing something and reporting it are different steps."
+    }
+  },
+  {
+    "film": "attention-limits",
+    "sentence": 17,
+    "before": {
+      "zh": "记笔记时，你可能更关注板书，漏掉老师的一次手势。",
+      "en": "While taking notes, you may focus on writing and miss a gesture."
+    },
+    "after": {
+      "zh": "记笔记时，你可能更关注板书，漏掉老师的一次手势。",
+      "en": "While taking notes, you may focus on what is written on the board and miss the teacher's gesture."
+    }
+  },
+  {
+    "film": "attention-limits",
+    "sentence": 22,
+    "before": {
+      "zh": "重新观察不能保证发现一切，却能增加一次核对机会。",
+      "en": "Looking again guarantees nothing, but creates another chance to check."
+    },
+    "after": {
+      "zh": "重新观察不能保证发现一切，却能增加一次核对机会。",
+      "en": "Looking again cannot guarantee that you will find everything, but it gives you another chance to check."
+    }
+  },
+  {
+    "film": "memory-calibration",
+    "sentence": 10,
+    "before": {
+      "zh": "参与者看过影片后，回答措辞有所不同的问题。",
+      "en": "After viewing a film, participants answered differently worded questions."
+    },
+    "after": {
+      "zh": "一项实验中，用更强烈的碰撞动词提问，车速估计更高。",
+      "en": "In one experiment, stronger collision wording led to higher speed estimates."
+    }
+  },
+  {
+    "film": "memory-calibration",
+    "sentence": 11,
+    "before": {
+      "zh": "提问中的信息影响了部分后续报告。",
+      "en": "Information in the questions influenced some subsequent reports."
+    },
+    "after": {
+      "zh": "另一项实验中，一周后也有人报告了影片中没有的碎玻璃。",
+      "en": "In another experiment, some reported broken glass a week later, although none was shown."
+    }
+  },
+  {
+    "film": "emotion-context",
+    "sentence": 12,
+    "before": {
+      "zh": "朋友没有回应，除了“不在乎”，也可能有你不知道的情况。",
+      "en": "A friend's silence may reflect unknown circumstances, not only indifference."
+    },
+    "after": {
+      "zh": "比如上台心跳加快，不一定意味着这次一定会失败。",
+      "en": "For example, a racing heart on stage does not mean that this attempt will fail."
+    }
+  },
+  {
+    "film": "emotion-context",
+    "sentence": 13,
+    "before": {
+      "zh": "另一解释要能接受核对，而不是为了开心随便编一个。",
+      "en": "An alternative should be checkable, not invented just to feel happier."
+    },
+    "after": {
+      "zh": "可以试着想：我虽紧张，仍能按准备的步骤开始。",
+      "en": "One possible reappraisal is: I can feel tense and still begin with the steps I prepared."
+    }
+  },
+  {
+    "film": "emotion-context",
+    "sentence": 22,
+    "before": {
+      "zh": "一次情绪体验，不能替你下一个人的完整结论。",
+      "en": "One emotional experience cannot define a whole person."
+    },
+    "after": {
+      "zh": "一次情绪体验，不能概括一个完整的人。",
+      "en": "One emotional experience cannot define a whole person."
+    }
+  },
+  {
+    "film": "comparison-personality",
+    "sentence": 3,
+    "before": {
+      "zh": "你拿来比较的自己，却可能包含失败、疲惫和每次犹豫。",
+      "en": "Your comparison with yourself may include every failure, doubt and tired moment."
+    },
+    "after": {
+      "zh": "你拿来比较的自己，却可能包含失败、疲惫和每次犹豫。",
+      "en": "You may compare that highlight with all your own failures, fatigue and hesitation."
+    }
+  },
+  {
+    "film": "support-exploration",
+    "sentence": 6,
+    "before": {
+      "zh": "可靠照顾者有时被称为安全基地：需要时能回到支持处。",
+      "en": "A reliable caregiver can serve as a secure base to return to when needed."
+    },
+    "after": {
+      "zh": "安全基地描述一种支持探索的关系功能。",
+      "en": "A secure base describes a relationship that supports exploration."
+    }
+  },
+  {
+    "film": "communication-gap",
+    "sentence": 2,
+    "before": {
+      "zh": "想象你让新同学在面板上按“回到起点”。",
+      "en": "Imagine telling a newcomer to press the control that returns to the start."
+    },
+    "after": {
+      "zh": "想象你让新同学操作面板，使装置回到起点。",
+      "en": "Imagine asking a newcomer to use a control panel to return a device to its starting point."
+    }
+  },
+  {
+    "film": "communication-gap",
+    "sentence": 3,
+    "before": {
+      "zh": "他按错了。你看见的事实，是这一次操作没有符合指令。",
+      "en": "He presses the wrong control. The observed fact is that the action differed from the instruction."
+    },
+    "after": {
+      "zh": "他按下圆形，装置却没有回到起点。",
+      "en": "He presses the circle, but the device does not return to the start."
+    }
+  },
+  {
+    "film": "communication-gap",
+    "sentence": 10,
+    "before": {
+      "zh": "知识诅咒研究关注：已有信息怎样影响对少信息者判断的预测。",
+      "en": "Curse-of-knowledge research examines how knowledge affects predictions about less-informed people."
+    },
+    "after": {
+      "zh": "知识诅咒研究发现，已知信息可能影响对少信息者判断的预测。",
+      "en": "Curse-of-knowledge studies found that known information can affect predictions about less-informed people."
+    }
+  },
+  {
+    "film": "communication-gap",
+    "sentence": 11,
+    "before": {
+      "zh": "这提示我们，熟悉以后容易省略对自己显而易见的步骤。",
+      "en": "It suggests that familiarity can make apparently obvious steps easy to omit."
+    },
+    "after": {
+      "zh": "用这个提醒检查：说明里省略了哪些新手不知道的步骤？",
+      "en": "Use this finding as a prompt: which steps did the instructions omit that a newcomer may not know?"
+    }
+  },
+  {
+    "film": "evidence-agreement",
+    "sentence": 3,
+    "before": {
+      "zh": "意见相同，会让这个猜想显得更稳，但人数没有增加规则证据。",
+      "en": "Agreement can make the guess feel stronger without adding evidence about the rule."
+    },
+    "after": {
+      "zh": "如果大家只看同一个例子，赞同人数不会带来新的规则检验。",
+      "en": "If everyone relies on the same example, their agreement adds no new test of the rule."
+    }
+  },
+  {
+    "film": "framing-choice",
+    "sentence": 10,
+    "before": {
+      "zh": "研究考察这种互补表述如何影响评价。",
+      "en": "The study examined how complementary descriptions affected evaluations."
+    },
+    "after": {
+      "zh": "研究中，标成75%瘦肉的牛肉，得到的评价更正面。",
+      "en": "In the study, beef described as 75 percent lean received more favorable evaluations."
+    }
+  },
+  {
+    "film": "framing-choice",
+    "sentence": 11,
+    "before": {
+      "zh": "因此，措辞值得注意，但不能脱离条件只记住一个百分比。",
+      "en": "Wording matters, but a percentage must remain tied to its conditions."
+    },
+    "after": {
+      "zh": "实际品尝后，这种表述效应减小。",
+      "en": "The framing effect diminished after participants actually tasted the beef."
+    }
+  },
+  {
+    "film": "future-cost",
+    "sentence": 15,
+    "before": {
+      "zh": "如果可以退费，那部分钱就不是同一种不可回收成本。",
+      "en": "If a refund is possible, that money is not equally unrecoverable."
+    },
+    "after": {
+      "zh": "换一种情况，能退回的那部分钱，就不属于沉没成本。",
+      "en": "In another case, any refundable portion would not be a sunk cost."
+    }
+  },
+  {
+    "film": "future-cost",
+    "sentence": 20,
+    "before": {
+      "zh": "这是一种整理判断的方法，不是让旁人替你决定。",
+      "en": "This organizes a judgment; it does not let someone else decide for you."
+    },
+    "after": {
+      "zh": "这种整理帮助你看清理由，再结合具体情况作决定。",
+      "en": "This method clarifies the reasons so that you can decide in light of your circumstances."
+    }
+  },
+  {
+    "film": "measurement-inference",
+    "sentence": 5,
+    "before": {
+      "zh": "以测量为例，同一对象重复读数接近，涉及一致性与误差。",
+      "en": "Repeated readings of the same object concern consistency and error."
+    },
+    "after": {
+      "zh": "以测量为例，同一对象重复读数接近，涉及一致性与误差。",
+      "en": "When repeated readings of the same object are close, we are considering consistency and measurement error."
+    }
+  },
+  {
+    "film": "research-chain",
+    "sentence": 2,
+    "before": {
+      "zh": "设想校园调查发现：买冰淇淋较多时，树荫下的人也较多。",
+      "en": "Imagine a campus survey finding more ice-cream purchases alongside more people in the shade."
+    },
+    "after": {
+      "zh": "设想连续几天，只在午后的球场旁记录冰淇淋销量和树荫人数。",
+      "en": "Imagine recording ice-cream sales and people in the shade beside the court each afternoon for several days."
+    }
+  },
+  {
+    "film": "research-chain",
+    "sentence": 4,
+    "before": {
+      "zh": "在解释原因前，先问调查听到了谁。",
+      "en": "Before explaining a cause, ask whose answers the survey captured."
+    },
+    "after": {
+      "zh": "这些记录想说明全校，还是只说明这个时间和地点？",
+      "en": "Are these records meant to describe the whole school, or only that place and time?"
+    }
+  },
+  {
+    "film": "research-chain",
+    "sentence": 5,
+    "before": {
+      "zh": "如果只在一个班群发问卷，没入群和没回应的人可能被漏掉。",
+      "en": "A survey in one class chat may miss people outside the chat or those who do not respond."
+    },
+    "after": {
+      "zh": "早晨、其他区域和不去球场的同学，都没有进入这份记录。",
+      "en": "Mornings, other areas and pupils who do not visit the court are missing from these records."
+    }
+  },
+  {
+    "film": "research-chain",
+    "sentence": 6,
+    "before": {
+      "zh": "样本再大，也不能自动补回这种覆盖缺口。",
+      "en": "A large sample does not automatically repair that coverage gap."
+    },
+    "after": {
+      "zh": "在同一处多记很多次，也不会自动补上这些遗漏。",
+      "en": "Many more observations in the same place will not automatically fill those gaps."
+    }
+  },
+  {
+    "film": "research-chain",
+    "sentence": 7,
+    "before": {
+      "zh": "因此，结论的范围要与实际抽样和回应过程对应。",
+      "en": "The scope of a conclusion must match sampling and response processes."
+    },
+    "after": {
+      "zh": "所以，结论要先说清记录覆盖了哪里、何时和哪些人。",
+      "en": "A conclusion should first state where, when and whom the records cover."
+    }
+  },
+  {
+    "film": "research-chain",
+    "sentence": 8,
+    "before": {
+      "zh": "问清“谁”，再来看“发现了什么关系”。",
+      "en": "After clarifying who, examine what relationship was found."
+    },
+    "after": {
+      "zh": "明确记录范围后，再按天比较两项数量。",
+      "en": "After clarifying that scope, compare the two counts by day."
+    }
+  },
+  {
+    "film": "research-chain",
+    "sentence": 9,
+    "before": {
+      "zh": "两种现象一起变化，叫作相关。",
+      "en": "When two things vary together, that is correlation."
+    },
+    "after": {
+      "zh": "如果销量较高的日子，树荫人数也较多，就观察到一种正相关。",
+      "en": "If days with higher sales also have more people in the shade, we observe a positive correlation."
+    }
+  },
+  {
+    "film": "research-chain",
+    "sentence": 13,
+    "before": {
+      "zh": "也要检查测量方式和其他可能影响结果的条件。",
+      "en": "Measurement methods and other conditions also need examination."
+    },
+    "after": {
+      "zh": "按日期一起变化，不代表每个买冰淇淋的人都去了树荫。",
+      "en": "A relationship between daily counts does not mean every ice-cream buyer went to the shade."
+    }
+  },
+  {
+    "film": "research-chain",
+    "sentence": 14,
+    "before": {
+      "zh": "下一步，再问这个结果换样本、换时间后是否还能出现。",
+      "en": "Next ask whether the result appears with another sample or at another time."
+    },
+    "after": {
+      "zh": "下一步，用同样规则在其他日期或地点再记录。",
+      "en": "Next, use the same recording rules on other dates or at other locations."
+    }
+  },
+  {
+    "film": "research-chain",
+    "sentence": 21,
+    "before": {
+      "zh": "现在把三步连起来：问了谁、怎样解释、能否经得起再研究。",
+      "en": "Connect the steps: who was studied, how it is explained, and whether it withstands further study."
+    },
+    "after": {
+      "zh": "三步连起来：记录覆盖了谁、关系怎样解释、还能否再次观察到。",
+      "en": "Connect the steps: whom the records cover, how to explain the relationship, and whether it appears again."
+    }
+  },
+  {
+    "film": "clear-boundaries",
+    "sentence": 12,
+    "before": {
+      "zh": "因此，还需要看看双方是否有可以协商的空间。",
+      "en": "You also need to consider whether there is room for negotiation."
+    },
+    "after": {
+      "zh": "能调整的部分可以协商，做不到的部分也可以保持清楚。",
+      "en": "Negotiate what can change, while keeping clear what you cannot do."
+    }
+  },
+  {
+    "film": "clear-boundaries",
+    "sentence": 13,
+    "before": {
+      "zh": "可以协商的，是安全、现实且双方愿意承担的下一步。",
+      "en": "A workable next step must be safe, realistic and acceptable to those involved."
+    },
+    "after": {
+      "zh": "协商只讨论安全、现实、双方愿意的方案。",
+      "en": "Negotiate only options that are safe, realistic and acceptable to both people."
+    }
+  },
+  {
+    "film": "clear-boundaries",
+    "sentence": 17,
+    "before": {
+      "zh": "它要让彼此知道各自的范围和选择。",
+      "en": "It clarifies each person's scope and choices."
+    },
+    "after": {
+      "zh": "这些表达和约定，是为了让彼此看清范围和选择。",
+      "en": "These statements and agreements clarify each person's scope and choices."
+    }
+  },
+  {
+    "film": "gratitude-both",
+    "sentence": 11,
+    "before": {
+      "zh": "部分福祉结果出现改善，但不同研究与指标的结果并不完全相同。",
+      "en": "Some well-being outcomes improved, with variation across studies and measures."
+    },
+    "after": {
+      "zh": "与对照组相比，感恩记录组部分福祉指标更好。",
+      "en": "Compared with control groups, gratitude-writing groups scored better on some well-being measures."
+    }
+  },
+  {
+    "film": "gratitude-both",
+    "sentence": 13,
+    "before": {
+      "zh": "因此，下面的写法是生活练习建议，不是原实验的完整复刻。",
+      "en": "The following exercise is a practical suggestion, not a full replication of that study."
+    },
+    "after": {
+      "zh": "下面是可选生活练习；原研究未检验“困难与支持同页”的写法。",
+      "en": "The following exercise is optional; the original studies did not test writing difficulty and support on the same page."
+    }
+  },
+  {
+    "film": "gratitude-both",
+    "sentence": 17,
+    "before": {
+      "zh": "这种同页记录，是为了容纳完整经历，不是经过原实验验证的组合疗法。",
+      "en": "Writing both on one page allows a fuller account; it is not a combined treatment validated by that study."
+    },
+    "after": {
+      "zh": "在这里，记录的目的，是把支持和困难都说具体。",
+      "en": "Here, the aim is to describe both support and difficulty concretely."
+    }
+  },
+  {
+    "film": "gratitude-both",
+    "sentence": 22,
+    "before": {
+      "zh": "日记不能代替这些现实需要。",
+      "en": "A journal cannot replace those practical needs."
+    },
+    "after": {
+      "zh": "日记不能代替必要的行动和支持。",
+      "en": "A journal cannot replace the action or support those needs require."
+    }
+  }
+]
