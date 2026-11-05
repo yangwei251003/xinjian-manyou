@@ -64,6 +64,7 @@ def main():
   md+='\n\n## 出处\n\n'+'\n'.join(f'- [{s["title"]}]({s["url"]})：{s["note"]}' for s in e['sources'])+'\n'
   (folder/'分镜与字幕.md').write_text(md,encoding='utf-8')
   media[id]['video']={'src':f'assets/videos/{id}/film.mp4','poster':f'assets/videos/{id}/poster.webp','meta':f'assets/videos/{id}/script.json','title':e['title'],'duration':e['duration']}
+ runtime_package=json.loads((DEST/'package.json').read_text(encoding='utf-8'));runtime_package['version']='3.1.0';runtime_package['scripts']={'start':'node scripts/serve.mjs','dev':'node scripts/serve.mjs','validate':'node scripts/validate-content.mjs'};write(DEST/'package.json',runtime_package)
  write(DEST/'assets/media.json',media)
  release=json.loads((DEST/'content/release.json').read_text(encoding='utf-8'));release['edition']='supplied-music-recut';release['filmDurationRange']={'min':60,'max':150};write(DEST/'content/release.json',release)
  validator=DEST/'scripts/validate-content.mjs'
@@ -82,7 +83,10 @@ Windows：双击START_WINDOWS.bat，或在本目录运行 `node scripts/serve.mj
 
 配乐用于本次本地交付，公开同步与分发授权未核验。网站与自有工程的许可证不能覆盖附件音乐；不得把本说明理解为对音乐版权的授权保证。本版尚未完成独立教育效果评估、连续看审与全程听审，不给出“90分优秀验收”的结论。
 ''',encoding='utf-8')
- # The launcher already provided by the site is portable. No authoring tool is needed.
+ install(ROOT/'open-preview.mjs',DEST/'scripts/open-preview.mjs')
+ (DEST/'START_WINDOWS.bat').write_bytes(b'@echo off\r\ncd /d "%~dp0"\r\nnode scripts\\open-preview.mjs\r\nif errorlevel 1 pause\r\n')
+ # The launcher starts only this edition and leaves other preview services alone.
+
  files=sum(1 for p in DEST.rglob('*') if p.is_file());size=sum(p.stat().st_size for p in DEST.rglob('*') if p.is_file())
  write(ROOT/'review/site-assembly.json',{'directory':str(DEST),'files':files,'bytes':size,'films':28,'sourceHash':technical[0]['sourceHash']})
  print(json.dumps({'films':28,'files':files,'megabytes':round(size/1024**2,1)},ensure_ascii=False))
