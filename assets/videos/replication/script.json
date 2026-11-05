@@ -1,0 +1,145 @@
+{
+  "id": "replication",
+  "title": "一篇研究说有效，就该马上相信吗？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "一篇研究说「神奇有效」，你信吗？",
+      "en": "One study says it works like magic. Do you believe it?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "一次发现，能走多远？"
+    },
+    {
+      "zh": "发现是起点，检验还要继续。",
+      "en": "A finding begins the work of checking.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "重复检验，与证据累积"
+    },
+    {
+      "zh": "2015 年，一个合作项目复现心理学研究。",
+      "en": "A 2015 collaboration replicated psychology studies.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "重复检验，与证据累积"
+    },
+    {
+      "zh": "它考察一批特定发表研究的可重复性。",
+      "en": "It examined a selected set of published studies.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "重复检验，与证据累积"
+    },
+    {
+      "zh": "结果提醒人们关注方法与证据累积。",
+      "en": "The results emphasized methods and accumulating evidence.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "重复检验，与证据累积"
+    },
+    {
+      "zh": "先问怎样做、研究了谁、怎样分析。",
+      "en": "Ask how it was done, who took part and how it was analyzed.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "方法 · 记录 · 条件 · 比较"
+    },
+    {
+      "zh": "保留过程，别人才能比较和重做。",
+      "en": "Document the process for comparison and repetition.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "方法 · 记录 · 条件 · 比较"
+    },
+    {
+      "zh": "把新旧结果，连同条件放在一起看。",
+      "en": "Compare findings alongside their conditions.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "方法 · 记录 · 条件 · 比较"
+    },
+    {
+      "zh": "桥梁是重复检验的教学比喻。",
+      "en": "The bridge is a metaphor for repeated checking.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "方法 · 记录 · 条件 · 比较"
+    },
+    {
+      "zh": "没有复现，不自动说明原研究造假。",
+      "en": "A failed replication does not automatically imply fraud.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "没复现，不自动等于造假"
+    },
+    {
+      "zh": "成功复现，也不保证所有情境都成立。",
+      "en": "Success does not guarantee every context.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "没复现，不自动等于造假"
+    },
+    {
+      "zh": "差异可能要求修改解释与适用范围。",
+      "en": "Differences may revise an explanation or its scope.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "没复现，不自动等于造假"
+    },
+    {
+      "zh": "读到单篇研究，再找后续与综合证据。",
+      "en": "Look beyond one paper to later and combined evidence.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "把单篇结论放回证据网络"
+    },
+    {
+      "zh": "留意预注册、透明材料和公开方法。",
+      "en": "Look for preregistration, materials and transparent methods.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "把单篇结论放回证据网络"
+    },
+    {
+      "zh": "也检查研究者怎样说明不确定性。",
+      "en": "Check how uncertainty is explained.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "把单篇结论放回证据网络"
+    },
+    {
+      "zh": "可靠，不是永远不变。",
+      "en": "Reliability need not mean never changing.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "好奇心，也可以经得起追问"
+    },
+    {
+      "zh": "而是允许新的证据改变我们的理解。",
+      "en": "It includes letting new evidence change understanding.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "好奇心，也可以经得起追问"
+    },
+    {
+      "zh": "让好奇心，也经得起追问。",
+      "en": "Let curiosity stand up to further questions.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "好奇心，也可以经得起追问"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Open Science Collaboration：Estimating the reproducibility of psychological science",
+      "url": "https://doi.org/10.1126/science.aac4716",
+      "note": "二〇一五年重复研究项目，注意其抽取范围与解释限制。"
+    },
+    {
+      "title": "Association for Psychological Science：Registered Replication Reports",
+      "url": "https://www.psychologicalscience.org/publications/replication",
+      "note": "预注册重复研究的目的、流程与方法公开。"
+    }
+  ]
+}

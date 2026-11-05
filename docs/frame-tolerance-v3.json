@@ -1,0 +1,366 @@
+[
+  {
+    "id": "attention",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "memory",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "metacognition",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "sleep",
+    "native": {
+      "mae": 0.000004983281893004115,
+      "maximum": 3,
+      "changedRatio": 0.00000771604938271605
+    },
+    "export": {
+      "mae": 0.000004983281893004115,
+      "maximum": 3,
+      "changedRatio": 0.00000771604938271605
+    }
+  },
+  {
+    "id": "stress",
+    "native": {
+      "mae": 0.00001253858024691358,
+      "maximum": 1,
+      "changedRatio": 0.000024594907407407408
+    },
+    "export": {
+      "mae": 0.00001253858024691358,
+      "maximum": 1,
+      "changedRatio": 0.000024594907407407408
+    }
+  },
+  {
+    "id": "brain",
+    "native": {
+      "mae": 0.00000369727366255144,
+      "maximum": 12,
+      "changedRatio": 4.822530864197531e-7
+    },
+    "export": {
+      "mae": 0.00000369727366255144,
+      "maximum": 12,
+      "changedRatio": 4.822530864197531e-7
+    }
+  },
+  {
+    "id": "emotions",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "reappraisal",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "habits",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "personality",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "comparison",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "attachment",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "attribution",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "conformity",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "listening",
+    "native": {
+      "mae": 0.000027327674897119342,
+      "maximum": 15,
+      "changedRatio": 0.000029899691358024692
+    },
+    "export": {
+      "mae": 0.000027327674897119342,
+      "maximum": 15,
+      "changedRatio": 0.000029899691358024692
+    }
+  },
+  {
+    "id": "framing",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "sunk-cost",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "retrieval",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "help-seeking",
+    "native": {
+      "mae": 0.000019290123456790123,
+      "maximum": 18,
+      "changedRatio": 0.000017843364197530866
+    },
+    "export": {
+      "mae": 0.000019290123456790123,
+      "maximum": 18,
+      "changedRatio": 0.000017843364197530866
+    }
+  },
+  {
+    "id": "boundaries",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "support",
+    "native": {
+      "mae": 0.000011252572016460906,
+      "maximum": 16,
+      "changedRatio": 0.000009162808641975309
+    },
+    "export": {
+      "mae": 0.000011252572016460906,
+      "maximum": 16,
+      "changedRatio": 0.000009162808641975309
+    }
+  },
+  {
+    "id": "correlation",
+    "native": {
+      "mae": 0.000005787037037037037,
+      "maximum": 2,
+      "changedRatio": 0.00001109182098765432
+    },
+    "export": {
+      "mae": 0.000005787037037037037,
+      "maximum": 2,
+      "changedRatio": 0.00001109182098765432
+    }
+  },
+  {
+    "id": "sampling",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "replication",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "knowledge-curse",
+    "native": {
+      "mae": 0.0000102880658436214,
+      "maximum": 17,
+      "changedRatio": 0.000009645061728395062
+    },
+    "export": {
+      "mae": 0.0000102880658436214,
+      "maximum": 17,
+      "changedRatio": 0.000009645061728395062
+    }
+  },
+  {
+    "id": "confirmation-bias",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "test-validity",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  },
+  {
+    "id": "gratitude",
+    "native": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    },
+    "export": {
+      "mae": 0,
+      "maximum": 0,
+      "changedRatio": 0
+    }
+  }
+]

@@ -1,0 +1,155 @@
+{
+  "id": "support",
+  "title": "陪朋友走一段，需要救下他的一切吗？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "陪朋友走一段，就要解决他的一切？",
+      "en": "Must a caring friend solve everything?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "陪伴，不是独自救援"
+    },
+    {
+      "zh": "关心，也需要可持续的限度。",
+      "en": "Care also needs sustainable limits.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "倾听 · 实际帮助 · 合适转介"
+    },
+    {
+      "zh": "同伴支持资料强调倾听与合适帮助。",
+      "en": "Peer-support guidance emphasizes listening and suitable help.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "倾听 · 实际帮助 · 合适转介"
+    },
+    {
+      "zh": "尊重意愿，也了解何时需要更多资源。",
+      "en": "Respect choice and know when more resources are needed.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "倾听 · 实际帮助 · 合适转介"
+    },
+    {
+      "zh": "朋友与专业人员，承担不同角色。",
+      "en": "Friends and professionals have different roles.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "倾听 · 实际帮助 · 合适转介"
+    },
+    {
+      "zh": "先问对方此刻需要什么。",
+      "en": "Ask what is needed right now.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "先问需要，再看资源"
+    },
+    {
+      "zh": "再看自己实际能做哪一部分。",
+      "en": "Consider what you can realistically offer.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "先问需要，再看资源"
+    },
+    {
+      "zh": "把支持连接成网，减少单点负担。",
+      "en": "Connect a network of support.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "先问需要，再看资源"
+    },
+    {
+      "zh": "连线是支持关系示意，不是效果预测。",
+      "en": "The network illustrates support, not a predicted outcome.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "先问需要，再看资源"
+    },
+    {
+      "zh": "你不必随时在线，才算在乎。",
+      "en": "Being caring does not require constant availability.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "你也可以有自己的限度"
+    },
+    {
+      "zh": "也不需要许下自己无法做到的保密承诺。",
+      "en": "Avoid promises you cannot safely keep.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "你也可以有自己的限度"
+    },
+    {
+      "zh": "有安全风险时，及时找可靠成人。",
+      "en": "Seek reliable adults when safety is at risk.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "你也可以有自己的限度"
+    },
+    {
+      "zh": "可以陪着说，也可以一起找合适的人。",
+      "en": "Listen together or find an appropriate helper.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "一起找到更多支持"
+    },
+    {
+      "zh": "说清能陪多久、之后怎样联系。",
+      "en": "Clarify availability and later contact.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "一起找到更多支持"
+    },
+    {
+      "zh": "让支持者，也有自己的支持。",
+      "en": "Let supporters have support of their own.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "一起找到更多支持"
+    },
+    {
+      "zh": "陪伴的价值，不只在于解决问题。",
+      "en": "Companionship can matter beyond solving a problem.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "一张网，比一根绳更宽"
+    },
+    {
+      "zh": "多一条可靠连接，就多一种可能。",
+      "en": "Another reliable connection offers another possibility.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "一张网，比一根绳更宽"
+    },
+    {
+      "zh": "一张网，比一根绳更宽。",
+      "en": "A network reaches wider than one rope.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "一张网，比一根绳更宽"
+    }
+  ],
+  "sources": [
+    {
+      "title": "NHS：Helping others",
+      "url": "https://www.nhs.uk/every-mind-matters/supporting-others/helping-others/",
+      "note": "询问、倾听、实际帮助、避免强迫与照顾自身。"
+    },
+    {
+      "title": "Cambridge University Hospitals：Supporting a friend with their mental health",
+      "url": "https://www.cuh.nhs.uk/patient-information/supporting-a-friend-with-their-mental-health/",
+      "note": "尊重选择、提供支持及帮助者自身限度的健康教育。"
+    },
+    {
+      "title": "NIMH：Child and Adolescent Mental Health",
+      "url": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health",
+      "note": "支持未成年人向家长、学校支持人员或医疗人员求助；困扰与生活影响需要认真对待。"
+    },
+    {
+      "title": "UNICEF：I Support My Friends",
+      "url": "https://www.unicef.org/serbia/en/documents/i-support-my-friends",
+      "note": "同伴支持应有可信任成人指导，并重视儿童保护与支持者的限度。"
+    }
+  ]
+}

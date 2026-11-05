@@ -1,0 +1,523 @@
+{
+  "base": "http://127.0.0.1:43179/",
+  "checkedAt": "2026-11-05T06:53:16.106Z",
+  "widths": [
+    {
+      "width": 1366,
+      "lessons": [
+        {
+          "id": "attention",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "等等，漏看不说明你不在乎。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "memory",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "确信是一种感受，不是准确性的保证。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "metacognition",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "自信可能有用，却不能代替掌握证据。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "sleep",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但是，睡一觉不会自动学会新知识。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "stress",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "不是所有压力，都靠改变想法解决。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "brain",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "所以「亮了」不是读心的充分证据。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "emotions",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "同一种身体反应，不只对应一种情绪。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "reappraisal",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但不需要说服自己完全不难过。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "habits",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "没有一个天数，能保证人人养成习惯。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "personality",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "安静，不自动等于缺少社交能力。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "comparison",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但不能据此说所有展示都在造假。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "attachment",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但一次黏人，不能决定依恋类型。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "attribution",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但存在原因，不会抹掉你的等待。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "conformity",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但人数多，不会让线段自动变长。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "listening",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "理解感受，不等于赞同所有判断。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "framing",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "等等，感觉变了，数量未必变了。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "sunk-cost",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但沉没成本，不等于所有投入都没用。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "retrieval",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "五分钟后，重复学习组更好。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "help-seeking",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "不必等到固定天数，才说出担心。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "boundaries",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但一句台词，不能解决所有关系问题。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "support",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "你不必随时在线，才算在乎。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "correlation",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但想到天气，也不等于已经证明它。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "sampling",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "人数增加，不自动消除选择偏差。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "replication",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "没有复现，不自动说明原研究造假。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "knowledge-curse",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "等等，这不表示新手不够聪明。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "confirmation-bias",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但是，正向测试不总是无效策略。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "test-validity",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "所以，一个重复标签不保证效度。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "gratitude",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "研究中的部分改善，不保证每个人有效。"
+          },
+          "result": "pass"
+        }
+      ],
+      "runtimeErrors": []
+    },
+    {
+      "width": 390,
+      "lessons": [
+        {
+          "id": "attention",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "等等，漏看不说明你不在乎。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "memory",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "确信是一种感受，不是准确性的保证。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "metacognition",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "自信可能有用，却不能代替掌握证据。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "sleep",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但是，睡一觉不会自动学会新知识。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "stress",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "不是所有压力，都靠改变想法解决。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "brain",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "所以「亮了」不是读心的充分证据。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "emotions",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "同一种身体反应，不只对应一种情绪。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "reappraisal",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但不需要说服自己完全不难过。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "habits",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "没有一个天数，能保证人人养成习惯。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "personality",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "安静，不自动等于缺少社交能力。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "comparison",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但不能据此说所有展示都在造假。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "attachment",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但一次黏人，不能决定依恋类型。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "attribution",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但存在原因，不会抹掉你的等待。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "conformity",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但人数多，不会让线段自动变长。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "listening",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "理解感受，不等于赞同所有判断。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "framing",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "等等，感觉变了，数量未必变了。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "sunk-cost",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但沉没成本，不等于所有投入都没用。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "retrieval",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "五分钟后，重复学习组更好。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "help-seeking",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "不必等到固定天数，才说出担心。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "boundaries",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但一句台词，不能解决所有关系问题。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "support",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "你不必随时在线，才算在乎。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "correlation",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但想到天气，也不等于已经证明它。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "sampling",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "人数增加，不自动消除选择偏差。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "replication",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "没有复现，不自动说明原研究造假。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "knowledge-curse",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "等等，这不表示新手不够聪明。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "confirmation-bias",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "但是，正向测试不总是无效策略。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "test-validity",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "所以，一个重复标签不保证效度。"
+          },
+          "result": "pass"
+        },
+        {
+          "id": "gratitude",
+          "video": {
+            "duration": 75.8,
+            "seek": 44,
+            "caption": "研究中的部分改善，不保证每个人有效。"
+          },
+          "result": "pass"
+        }
+      ],
+      "runtimeErrors": []
+    }
+  ],
+  "errors": []
+}

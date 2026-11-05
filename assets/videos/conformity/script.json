@@ -1,0 +1,145 @@
+{
+  "id": "conformity",
+  "title": "大家都选它，你还相信自己的眼睛吗？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "大家都举手，你还会选不同答案吗？",
+      "en": "Would you disagree when everyone raises a hand?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "答案旁边，还有别人的目光"
+    },
+    {
+      "zh": "答案之外，还有被接纳的需要。",
+      "en": "Beyond the answer lies a need to belong.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "信息影响，与合群压力"
+    },
+    {
+      "zh": "1950 年代，Asch开展线段判断研究。",
+      "en": "Asch studied line judgments in the 1950s.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "信息影响，与合群压力"
+    },
+    {
+      "zh": "实验把简单判断，放进群体情境。",
+      "en": "Simple judgments were placed in a group setting.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "信息影响，与合群压力"
+    },
+    {
+      "zh": "多数人的回答，可能影响个人选择。",
+      "en": "A majority could influence an individual choice.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "信息影响，与合群压力"
+    },
+    {
+      "zh": "有时，我们把别人当作信息来源。",
+      "en": "Others can serve as sources of information.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "先看证据，再看人数"
+    },
+    {
+      "zh": "有时，我们担心自己显得不合群。",
+      "en": "We may also worry about standing apart.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "先看证据，再看人数"
+    },
+    {
+      "zh": "两种影响，可以在同一场景出现。",
+      "en": "Both influences can appear in one setting.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "先看证据，再看人数"
+    },
+    {
+      "zh": "线段图是教学示意，不收集你的实验结果。",
+      "en": "This schematic does not collect experimental results.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "先看证据，再看人数"
+    },
+    {
+      "zh": "但人数多，不会让线段自动变长。",
+      "en": "More votes do not change the line’s length.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "多数不保证对，异议也非保证"
+    },
+    {
+      "zh": "反对多数，也不自动说明更正确。",
+      "en": "Disagreement does not automatically make one right.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "多数不保证对，异议也非保证"
+    },
+    {
+      "zh": "任务、关系、文化与权力都会影响选择。",
+      "en": "Task, culture, relationships and power matter.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "多数不保证对，异议也非保证"
+    },
+    {
+      "zh": "讨论之前，先各自写下判断与理由。",
+      "en": "Write a judgment and reason before discussion.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "先独立写，再共同讨论"
+    },
+    {
+      "zh": "随后比证据，也给异议一个解释机会。",
+      "en": "Compare evidence and allow dissent to explain.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "先独立写，再共同讨论"
+    },
+    {
+      "zh": "保护表达空间，还需要具体的安排。",
+      "en": "Safe expression needs practical arrangements.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "先独立写，再共同讨论"
+    },
+    {
+      "zh": "你可以听别人，也保留自己的核对。",
+      "en": "Listen to others and keep checking for yourself.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "给不同的理由，留座位"
+    },
+    {
+      "zh": "群体的力量，也可以用来容纳不同。",
+      "en": "A group can use its strength to include difference.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "给不同的理由，留座位"
+    },
+    {
+      "zh": "给不同的理由，留一个座位。",
+      "en": "Leave a seat for a different reason.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "给不同的理由，留座位"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenStax：Conformity, Compliance, and Obedience",
+      "url": "https://openstax.org/books/psychology-2e/pages/12-4-conformity-compliance-and-obedience",
+      "note": "信息性、规范性影响及从众条件。"
+    },
+    {
+      "title": "OpenStax：What Is Social Psychology?",
+      "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+      "note": "社会情境如何影响个体行为。"
+    }
+  ]
+}

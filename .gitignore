@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+__pycache__/
+*.pyc
+artwork/
+qa/
+.tmp/
+*.log
+artwork-v2/
+_site/
+*.partial.mp4
+*.pending
+.env
+.env.*

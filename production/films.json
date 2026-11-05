@@ -1,0 +1,4706 @@
+[
+  {
+    "id": "attention",
+    "title": "你看见了多少，又漏掉了什么？",
+    "motif": "attention",
+    "anchor": {
+      "year": "1999",
+      "author": "Simons · Chabris"
+    },
+    "labels": [
+      "注意，像一束光",
+      "带着任务看世界",
+      "同一画面，不同目标",
+      "漏看 ≠ 不在乎",
+      "先问正在找什么",
+      "把光，再移开一点"
+    ],
+    "cues": [
+      {
+        "zh": "盯住圆形。你会漏掉什么？",
+        "en": "Look for circles. What slips away?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "先记住你刚才的任务。",
+        "en": "Remember what you were looking for.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "1999 年，研究者让人专注数传球。",
+        "en": "In 1999, viewers counted basketball passes.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "部分观众没有报告意外出现的角色。",
+        "en": "Some missed an unexpected visitor.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "这是不注意盲视研究的经典示范。",
+        "en": "A classic study of inattentional blindness.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "看见，是眼睛和任务一起工作的结果。",
+        "en": "Seeing depends on both eyes and task.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "目标让部分信息更容易被选中。",
+        "en": "A goal gives some information priority.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "其他细节仍在，却可能没被报告。",
+        "en": "Other details may remain unreported.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "这束光，是注意选择的教学比喻。",
+        "en": "The spotlight is a teaching metaphor.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "等等，漏看不说明你不在乎。",
+        "en": "Missing something does not prove indifference.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "一次体验也不能说明注意力好坏。",
+        "en": "One trial cannot rank your attention.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "换任务再找，已不再是相同条件。",
+        "en": "A second search is a different condition.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "朋友没发现你的新发型，也许正在赶路。",
+        "en": "A busy friend may miss a new haircut.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "先问他刚才关注什么，再补信息。",
+        "en": "Ask what held their attention.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "词义干扰是另一种任务，课页可继续体验。",
+        "en": "Word–color interference is a separate task.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "愿意多看一眼，也给别人一次解释。",
+        "en": "Look again. Leave room for an explanation.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "理解注意有限，让提醒变得具体。",
+        "en": "Limited attention calls for clear reminders.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "把光移开一点，世界就多一块。",
+        "en": "Shift the light. Discover another piece.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 100,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "注意，像一束光"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "带着任务看世界"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "同一画面，不同目标"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "漏看 ≠ 不在乎"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "先问正在找什么"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "把光，再移开一点"
+      }
+    ]
+  },
+  {
+    "id": "memory",
+    "title": "你那么确定，记忆就一定准确？",
+    "motif": "memory",
+    "anchor": {
+      "year": "1974",
+      "author": "Loftus · Palmer"
+    },
+    "labels": [
+      "记忆，像一次重建",
+      "后来的信息，也会进来",
+      "从片段拼成一个故事",
+      "确信 ≠ 每处都准确",
+      "找记录，问开放的问题",
+      "给记忆，多一个参照"
+    ],
+    "cues": [
+      {
+        "zh": "你记得很清楚，就一定没记错？",
+        "en": "Can a vivid memory still contain an error?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "回忆，不只是按下播放键。",
+        "en": "Recall is more than pressing play.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "1974 年，研究者改变提问的措辞。",
+        "en": "In 1974, researchers changed question wording.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "参与者看过车辆事件，再回答问题。",
+        "en": "Viewers watched a vehicle event, then answered questions.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "不同措辞，影响了部分后续报告。",
+        "en": "Wording affected some later reports.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "经历留下线索，不等于完整录像。",
+        "en": "Experience leaves traces, not a complete recording.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "后来听到的话，也可能参与重建。",
+        "en": "Later information may join the reconstruction.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "提取时的推断，填进缺少的部分。",
+        "en": "Inferences can fill some of the gaps.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "这幅拼图，是解释过程的比喻。",
+        "en": "The puzzle is a metaphor for this process.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "确信是一种感受，不是准确性的保证。",
+        "en": "Confidence is a feeling, not a guarantee.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "这也不意味着每段记忆都不可靠。",
+        "en": "It does not make every memory unreliable.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "更不能据此否定他人的重要经历。",
+        "en": "It cannot dismiss someone’s important experience.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "核对日期、照片和当时记录。",
+        "en": "Check dates, photos and contemporaneous records.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "先问「你记得什么」，少放入暗示。",
+        "en": "Ask openly: what do you remember?",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "外部记录本身，也有视角与遗漏。",
+        "en": "External records also have limits.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "发现差异，先留一段核对的空间。",
+        "en": "When memories differ, leave room to check.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "记忆值得被听见，也值得被认真核查。",
+        "en": "Memory deserves both attention and careful checking.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "给过去，多一个可靠的参照。",
+        "en": "Give the past another reliable reference.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 101,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "记忆，像一次重建"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "后来的信息，也会进来"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "从片段拼成一个故事"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "确信 ≠ 每处都准确"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "找记录，问开放的问题"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "给记忆，多一个参照"
+      }
+    ]
+  },
+  {
+    "id": "metacognition",
+    "title": "你以为会了，试过才知道？",
+    "motif": "calibration",
+    "anchor": {
+      "year": "2018",
+      "author": "How People Learn II"
+    },
+    "labels": [
+      "我会了，凭什么？",
+      "熟悉感与实际表现",
+      "预测 → 尝试 → 核对",
+      "自信不必等于掌握",
+      "换个例子，再讲一次",
+      "让学习，带上反馈"
+    ],
+    "cues": [
+      {
+        "zh": "会折纸飞机，你敢不看图试一次？",
+        "en": "Can you fold it without the diagram?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "看着会，和自己做，是两件事。",
+        "en": "Recognition and independent action differ.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "学习科学研究怎样监控自己的理解。",
+        "en": "Learning science studies monitoring of understanding.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "2018 年的综合报告梳理学习证据。",
+        "en": "A 2018 synthesis reviewed learning evidence.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "观察、反馈和调整，组成学习的一部分。",
+        "en": "Monitoring, feedback and adjustment are part of learning.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "先预测哪一步自己已经掌握。",
+        "en": "Predict what you can already do.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "合上材料，再解释或操作。",
+        "en": "Close the material. Explain or perform.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "把实际表现，和预期放在一起看。",
+        "en": "Compare actual performance with the prediction.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "缺口越具体，下一步越好安排。",
+        "en": "Specific gaps guide the next step.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "自信可能有用，却不能代替掌握证据。",
+        "en": "Confidence helps, but cannot prove mastery.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "一次答对，也不保证以后都能迁移。",
+        "en": "One correct answer does not guarantee transfer.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "难题需要理解，也需要合适反馈。",
+        "en": "Difficult tasks need understanding and feedback.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "读完相关与因果，换个生活例子讲。",
+        "en": "Explain correlation using a new everyday example.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "说不清的地方，回到可靠材料核对。",
+        "en": "Check unclear parts against a reliable source.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "把「我不行」换成具体待练的一步。",
+        "en": "Turn a global judgment into a specific next step.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "学习自己，也是在学习怎样学习。",
+        "en": "Know your learning while learning the subject.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "允许预期被修正，才有新的方向。",
+        "en": "Revised expectations can reveal a direction.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "让每次尝试，留下可用的反馈。",
+        "en": "Let each attempt leave usable feedback.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 102,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "我会了，凭什么？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "熟悉感与实际表现"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "预测 → 尝试 → 核对"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "自信不必等于掌握"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "换个例子，再讲一次"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "让学习，带上反馈"
+      }
+    ]
+  },
+  {
+    "id": "sleep",
+    "title": "睡觉，真的会耽误学习吗？",
+    "motif": "sleep",
+    "anchor": {
+      "year": "NIH",
+      "author": "睡眠科学 · 权威综述"
+    },
+    "labels": [
+      "大脑，也需要夜晚",
+      "睡眠参与学习与记忆",
+      "先编码，再整理",
+      "睡眠不能替代学习",
+      "给复习和休息都留位置",
+      "把夜晚，还给身体"
+    ],
+    "cues": [
+      {
+        "zh": "多熬一小时，就多学一小时吗？",
+        "en": "Does an extra hour awake mean an extra hour learned?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "你可能还在看，注意却已经吃力。",
+        "en": "Your eyes may stay open while attention struggles.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "睡眠科学关注睡与醒怎样协作。",
+        "en": "Sleep science examines waking and sleeping together.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "权威综述把睡眠与学习、记忆相联系。",
+        "en": "Authoritative reviews link sleep with learning and memory.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "夜晚不是把大脑直接关机。",
+        "en": "The brain does not simply switch off at night.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "学习先要接触和理解材料。",
+        "en": "Learning begins with engaging with the material.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "睡眠参与之后的记忆相关过程。",
+        "en": "Sleep participates in later memory processes.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "白天的练习与夜间休息相互配合。",
+        "en": "Daytime practice and nightly rest work together.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "这座整理车站，是教学隐喻。",
+        "en": "This sorting station is a teaching metaphor.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "但是，睡一觉不会自动学会新知识。",
+        "en": "Sleep does not automatically teach new knowledge.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "一次第二天状态，也不能证明因果。",
+        "en": "One better morning cannot establish causality.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "不同年龄，睡眠需要也会不同。",
+        "en": "Sleep needs vary across ages.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "复习挑重点，给休息留出时间。",
+        "en": "Prioritize revision and leave time for rest.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "早上再回想，核对昨天的理解。",
+        "en": "Recall and check your understanding in the morning.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "持续睡眠困扰，可向可靠成人求助。",
+        "en": "Seek appropriate support for persistent sleep trouble.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "身体需要休息，不是学习的背叛。",
+        "en": "Resting the body is compatible with learning.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "给计划留空白，也是在照顾下一步。",
+        "en": "Space in a plan can support the next step.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "让白天与夜晚，完成各自的工作。",
+        "en": "Let day and night do their different work.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 103,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "大脑，也需要夜晚"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "睡眠参与学习与记忆"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "先编码，再整理"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "睡眠不能替代学习"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "给复习和休息都留位置"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "把夜晚，还给身体"
+      }
+    ]
+  },
+  {
+    "id": "stress",
+    "title": "为什么书包不重，心却很累？",
+    "motif": "load",
+    "anchor": {
+      "year": "NIMH",
+      "author": "压力与应对 · 权威资料"
+    },
+    "labels": [
+      "看不见的负荷",
+      "要求，与可用资源",
+      "把一团压力拆开",
+      "不只是想开一点",
+      "能推迟 · 能分工 · 需支持",
+      "给肩膀，找一个支点"
+    ],
+    "cues": [
+      {
+        "zh": "书包不重，为什么还是觉得累？",
+        "en": "The bag is light. Why does it feel heavy?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "负荷里，可能装着好几种要求。",
+        "en": "Several demands can sit inside one load.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "压力资料关注身心反应与应对资源。",
+        "en": "Stress guidance considers responses and resources.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "考试、冲突、变化，都可能成为来源。",
+        "en": "Tests, conflict and change can create demands.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "同一件事，在不同处境下感受不同。",
+        "en": "The same event can feel different in context.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "当要求超过眼前可用资源，负担变大。",
+        "en": "Demands may exceed available resources.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "心跳、肌肉和注意，也可能变化。",
+        "en": "Heart rate, muscles and attention may change.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "把「一切都很糟」拆成具体任务。",
+        "en": "Break a global burden into concrete tasks.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "哪些能调整，哪些需要别人参与？",
+        "en": "What can change? Who could help?",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "不是所有压力，都靠改变想法解决。",
+        "en": "Changing thoughts cannot solve every stressor.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "睡眠、条件与现实帮助，同样重要。",
+        "en": "Rest, conditions and practical help also matter.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "身体不适，也不能一概归因于心理。",
+        "en": "Physical symptoms need appropriate attention.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "列出能推迟、能分工和需要求助的事。",
+        "en": "Sort what to delay, share or seek help for.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "把「我撑不住」变成一个具体请求。",
+        "en": "Turn overwhelm into a concrete request.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "持续明显的困扰，寻找可靠支持。",
+        "en": "Find reliable support for persistent distress.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "感到沉重，不代表你不够努力。",
+        "en": "Feeling burdened does not mean lacking effort.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "休息与求助，也能成为行动。",
+        "en": "Rest and help-seeking can be actions.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "肩膀之外，还可以有支点。",
+        "en": "A shoulder need not carry everything alone.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 104,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "看不见的负荷"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "要求，与可用资源"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "把一团压力拆开"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "不只是想开一点"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "能推迟 · 能分工 · 需支持"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "给肩膀，找一个支点"
+      }
+    ]
+  },
+  {
+    "id": "brain",
+    "title": "脑袋里，真有一个数学按钮吗？",
+    "motif": "network",
+    "anchor": {
+      "year": "2006",
+      "author": "Russell Poldrack"
+    },
+    "labels": [
+      "亮起来，就知道想什么？",
+      "脑成像，依赖任务比较",
+      "多区域参与，多过程关联",
+      "亮点不能单独读心",
+      "先问任务，再问比较",
+      "看见网络，也看见边界"
+    ],
+    "cues": [
+      {
+        "zh": "脑区亮了，就能看穿你在想什么？",
+        "en": "Can an active brain region reveal a thought?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "一张彩图，可能比结论更抢眼。",
+        "en": "A colorful image can outshine its evidence.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "2006 年，Poldrack讨论反向推断。",
+        "en": "Poldrack examined reverse inference in 2006.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "观察活动，再推测心理过程，需要条件。",
+        "en": "Inferring a process from activity needs evidence.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "同一区域，可能参与多种任务。",
+        "en": "One region may participate in many tasks.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "想想乐队，不同声部一起工作。",
+        "en": "Think of an orchestra working together.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "某个声部响起，不只对应一首曲子。",
+        "en": "One instrument can belong to many pieces.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "任务、比较条件和模式，都提供信息。",
+        "en": "Tasks, comparisons and patterns provide information.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "连线只是功能关系的教学示意。",
+        "en": "The lines are a functional teaching schematic.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "所以「亮了」不是读心的充分证据。",
+        "en": "Activity alone is not enough for mind-reading.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "这也不表示脑成像没有价值。",
+        "en": "That does not make brain imaging valueless.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "更有依据的解释，需要更多比较。",
+        "en": "Better inference needs more comparisons.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "看脑科学标题，先找研究做了什么。",
+        "en": "Ask what participants actually did.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "再问，这张图和哪种条件比较？",
+        "en": "Ask what condition the image was compared with.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "艺术脑网络，不是真实医学影像。",
+        "en": "This artistic network is not a medical scan.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "复杂的你，很难由一个按钮概括。",
+        "en": "A single switch cannot summarize a person.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "给惊艳的画面，配上完整的问题。",
+        "en": "Pair a striking image with careful questions.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "理解大脑，也包括理解证据的边界。",
+        "en": "Knowing the brain includes knowing evidential limits.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 105,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "亮起来，就知道想什么？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "脑成像，依赖任务比较"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "多区域参与，多过程关联"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "亮点不能单独读心"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "先问任务，再问比较"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "看见网络，也看见边界"
+      }
+    ]
+  },
+  {
+    "id": "emotions",
+    "title": "同样心跳快，为什么感受不同？",
+    "motif": "weather",
+    "anchor": {
+      "year": "情绪研究",
+      "author": "OpenStax · Barrett 等"
+    },
+    "labels": [
+      "身体信号，不止一种解释",
+      "情境 · 目标 · 解释",
+      "同一心跳，多个可能",
+      "不能凭表情读出全部",
+      "先问感受与需要",
+      "给复杂情绪，留一个位置"
+    ],
+    "cues": [
+      {
+        "zh": "心跳很快，就是害怕吗？",
+        "en": "Does a racing heart always mean fear?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "跑步、期待、紧张，都可能让它加速。",
+        "en": "Running, anticipation and tension can raise it.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "情绪研究有不同理论与证据。",
+        "en": "Emotion research contains multiple theories.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "身体、情境和解释，都是重要线索。",
+        "en": "Body, context and interpretation offer clues.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "一张表情，装不下一个人的全部体验。",
+        "en": "One expression cannot contain a whole experience.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "先看身体传来的信号。",
+        "en": "Notice the body’s signals.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "再看刚才发生什么、你在意什么。",
+        "en": "Consider what happened and what matters.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "给感受一个暂时的名字，而非定论。",
+        "en": "Try a provisional name for the feeling.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "天气图，是解释复杂体验的比喻。",
+        "en": "Weather is a metaphor for complex experience.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "同一种身体反应，不只对应一种情绪。",
+        "en": "One bodily response can fit several emotions.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "同一种情绪，也不必有完全相同表情。",
+        "en": "One emotion need not have one fixed expression.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "这不允许我们猜测任何人的诊断。",
+        "en": "It cannot justify a diagnosis of anyone.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "可以说「我紧张，也有点期待」。",
+        "en": "You can feel both nervous and hopeful.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "再问，下一步需要准备、休息还是支持？",
+        "en": "Ask what preparation, rest or support you need.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "明显身体异常，需要合适的医疗帮助。",
+        "en": "Significant physical symptoms need appropriate care.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "情绪不必马上被分成好与坏。",
+        "en": "Feelings need not be sorted into good and bad.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "多一点描述，少一点急着定性。",
+        "en": "Describe more. Rush to labels less.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "给心里的天气，留一扇能打开的窗。",
+        "en": "Leave an open window for inner weather.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 106,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "身体信号，不止一种解释"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "情境 · 目标 · 解释"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "同一心跳，多个可能"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "不能凭表情读出全部"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "先问感受与需要"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "给复杂情绪，留一个位置"
+      }
+    ]
+  },
+  {
+    "id": "reappraisal",
+    "title": "计划变了，今天就全毁了吗？",
+    "motif": "reframe",
+    "anchor": {
+      "year": "2012",
+      "author": "Webb · Miles · Sheeran"
+    },
+    "labels": [
+      "一场雨，多种意义",
+      "情绪调节，研究中的方法",
+      "事件没变，解释可以比较",
+      "重评不等于强行开心",
+      "事实 · 感受 · 可做的一步",
+      "允许失落，也允许继续"
+    ],
+    "cues": [
+      {
+        "zh": "下雨了，今天就全毁了吗？",
+        "en": "It rained. Is the whole day ruined?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "失望是真的，结论还可以再看看。",
+        "en": "Disappointment is real. The conclusion can be examined.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "2012 年，一项元分析比较调节策略。",
+        "en": "A 2012 meta-analysis compared regulation strategies.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "认知重评，关注情境意义的改变。",
+        "en": "Reappraisal concerns changing a situation’s meaning.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "研究效果受策略和情境影响。",
+        "en": "Effects depend on strategy and context.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "「展览没办成」是已经发生的事。",
+        "en": "The exhibition was cancelled. That happened.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "「所有努力都没用」多走了一步。",
+        "en": "“Every effort was wasted” goes further.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "也许准备的画，还能换个地方展出。",
+        "en": "The artwork might find another venue.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "比较解释，是寻找可能的行动。",
+        "en": "Compare interpretations to find possible actions.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "但不需要说服自己完全不难过。",
+        "en": "You need not erase disappointment.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "遇到伤害，也不能只靠换个想法。",
+        "en": "Harm cannot be solved by reframing alone.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "保护、资源和改变条件仍然重要。",
+        "en": "Protection, resources and changed conditions matter.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "先承认事实，再描述自己的感受。",
+        "en": "Acknowledge the facts and name the feeling.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "问一个具体问题：还有什么能做？",
+        "en": "Ask one concrete question: what remains possible?",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "没有轻松下来，也不表示做错了。",
+        "en": "Feeling no relief does not mean failure.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "不是把雨变晴，而是再找一条路。",
+        "en": "Keep the rain real. Explore another route.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "你的失望，和下一步可以同在。",
+        "en": "Disappointment and a next step can coexist.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "给今天，留一个尚未写完的结尾。",
+        "en": "Leave today an ending still to be written.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 107,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "一场雨，多种意义"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "情绪调节，研究中的方法"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "事件没变，解释可以比较"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "重评不等于强行开心"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "事实 · 感受 · 可做的一步"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "允许失落，也允许继续"
+      }
+    ]
+  },
+  {
+    "id": "habits",
+    "title": "你缺的是自律，还是一个好开头？",
+    "motif": "habit",
+    "anchor": {
+      "year": "2010",
+      "author": "Lally 等"
+    },
+    "labels": [
+      "行动的入口，在哪里？",
+      "稳定情境中的重复",
+      "线索 → 动作 → 更容易开始",
+      "习惯没有统一倒计时",
+      "减少一步准备，试一个小动作",
+      "让开始，离你近一点"
+    ],
+    "cues": [
+      {
+        "zh": "手机明明放下了，为什么又拿起来？",
+        "en": "Why pick up the phone just after putting it down?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "熟悉的情境，会提醒熟悉的动作。",
+        "en": "Familiar contexts can cue familiar actions.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "2010 年，研究者追踪日常习惯形成。",
+        "en": "A 2010 study tracked everyday habit formation.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "人们在稳定情境里重复自选行为。",
+        "en": "People repeated chosen actions in stable contexts.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "自动性的变化，并不是人人同速。",
+        "en": "Automaticity developed at different rates.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "把提示线索，和下一步放在一起看。",
+        "en": "Look at the cue and the next action together.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "桌面上最顺手的东西，更容易被拿起。",
+        "en": "What is easiest to reach can be easiest to start.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "反复走过的路径，逐渐更熟悉。",
+        "en": "A repeated route can grow more familiar.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "这条路，是情境与行为的教学比喻。",
+        "en": "The path is a metaphor for context and action.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "没有一个天数，能保证人人养成习惯。",
+        "en": "No fixed number of days guarantees a habit.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "一次没做，也不必变成全盘否定。",
+        "en": "One missed attempt need not define everything.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "复杂行为困难，还可能需要更多支持。",
+        "en": "Complex difficulties may need broader support.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "把书翻到下一页，减少开始前的准备。",
+        "en": "Open the book. Reduce the work before starting.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "先试两分钟，再记录哪些安排有帮助。",
+        "en": "Try two minutes and observe the arrangement.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "允许调整环境，也允许休息。",
+        "en": "Adjust the environment and allow rest.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "少一句「我没毅力」，多看一个线索。",
+        "en": "Look for a cue before making a global judgment.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "让有用的小动作，更容易发生。",
+        "en": "Make a useful small action easier.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "下一次开始，可以离你近一点。",
+        "en": "Bring the next beginning a little closer.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 108,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "行动的入口，在哪里？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "稳定情境中的重复"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "线索 → 动作 → 更容易开始"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "习惯没有统一倒计时"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "减少一步准备，试一个小动作"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "让开始，离你近一点"
+      }
+    ]
+  },
+  {
+    "id": "personality",
+    "title": "安静的人，为什么也会站上台？",
+    "motif": "trait",
+    "anchor": {
+      "year": "人格研究",
+      "author": "Noba · IPIP"
+    },
+    "labels": [
+      "一个标签，够描述你吗？",
+      "特质，是倾向而非命运",
+      "人，也在情境中变化",
+      "一次表现不能画出全貌",
+      "观察倾向，也观察条件",
+      "给自己，保留变化的空间"
+    ],
+    "cues": [
+      {
+        "zh": "他很安静，为什么也能站上台？",
+        "en": "Why can a quiet person still take the stage?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "一个标签，装不下所有情境。",
+        "en": "One label cannot cover every situation.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "人格研究描述相对稳定的行为倾向。",
+        "en": "Trait research describes relatively stable tendencies.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "也关注人与情境的共同作用。",
+        "en": "It also examines people in situations.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "倾向，可以帮助理解差异。",
+        "en": "Tendencies can help explain differences.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "同一个人，有时想聊，有时想独处。",
+        "en": "One person may seek company and solitude.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "目标、熟悉程度和支持，会改变表现。",
+        "en": "Goals, familiarity and support can change behavior.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "用连续刻度，比硬分两类更贴近特质。",
+        "en": "Continuous scales often fit traits better than two boxes.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "刻度图是示意，没有你的测量分数。",
+        "en": "This scale is illustrative, not your test score.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "安静，不自动等于缺少社交能力。",
+        "en": "Quiet does not automatically mean socially unable.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "活跃，也不等于永远喜欢热闹。",
+        "en": "Outgoing does not mean always wanting a crowd.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "一次短测，不能决定未来的专业与人生。",
+        "en": "A short quiz cannot determine a life path.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "描述自己时，加上「在什么情况下」。",
+        "en": "Describe yourself with the situation included.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "也看看过去一段时间的持续倾向。",
+        "en": "Look at tendencies across time as well.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "真正的测量，需要合适证据与用途。",
+        "en": "Measurement needs evidence suited to its purpose.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "你可以有倾向，也可以有新的尝试。",
+        "en": "You can have tendencies and try something new.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "理解自己，让选择更具体。",
+        "en": "Self-understanding can make choices more specific.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "把标签松开一点，给变化留位置。",
+        "en": "Loosen the label. Leave room for change.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 109,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "一个标签，够描述你吗？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "特质，是倾向而非命运"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "人，也在情境中变化"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "一次表现不能画出全貌"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "观察倾向，也观察条件"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "给自己，保留变化的空间"
+      }
+    ]
+  },
+  {
+    "id": "comparison",
+    "title": "为什么别人的满分，总照着你的缺口？",
+    "motif": "comparison",
+    "anchor": {
+      "year": "1954 →",
+      "author": "社会比较研究"
+    },
+    "labels": [
+      "一张照片，不是全部人生",
+      "比较对象，改变评价",
+      "选谁 · 比什么 · 怎么解释",
+      "橱窗不能代表全部过程",
+      "找策略，也看自己的进步",
+      "把比较，换成一条线索"
+    ],
+    "cues": [
+      {
+        "zh": "别人晒满分，你只看见自己的橡皮屑？",
+        "en": "Their perfect work makes you see only your erasures?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "比较，会悄悄改变评价的参照。",
+        "en": "Comparison can quietly change the reference point.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "社会比较研究关注人怎样评价自己。",
+        "en": "Social comparison examines self-evaluation.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "参照对象与比较维度，都重要。",
+        "en": "The target and dimension both matter.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "同样的差距，可能引出不同感受。",
+        "en": "The same gap can prompt different feelings.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "看见别人最终作品，却没见练习过程。",
+        "en": "You see the finished work, not all the practice.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "把自己的过程，和别人的橱窗相比较。",
+        "en": "Your process meets someone else’s display window.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "信息不对称，可能放大差距的感觉。",
+        "en": "Unequal information may magnify the felt gap.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "这面镜子，是比较过程的比喻。",
+        "en": "This mirror represents the comparison process.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "但不能据此说所有展示都在造假。",
+        "en": "This does not mean every display is false.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "换一种比较，也不保证立即舒服。",
+        "en": "A different comparison does not guarantee relief.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "感受还与目标、关系和处境相连。",
+        "en": "Goals, relationships and context also matter.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "问问那幅画，有什么方法能学？",
+        "en": "Ask what method the artwork can teach.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "再和过去的自己，比一个具体变化。",
+        "en": "Compare one specific change with your own past.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "需要时先离开展示，给注意一点空间。",
+        "en": "Take space from the display when useful.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "别人的亮点，可以是线索。",
+        "en": "Another person’s strength can offer a clue.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "你的价值，仍比一项比较更宽。",
+        "en": "Your worth is wider than one comparison.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "把目光，带回可做的一小步。",
+        "en": "Return your attention to one doable step.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 110,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "一张照片，不是全部人生"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "比较对象，改变评价"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "选谁 · 比什么 · 怎么解释"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "橱窗不能代表全部过程"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "找策略，也看自己的进步"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "把比较，换成一条线索"
+      }
+    ]
+  },
+  {
+    "id": "attachment",
+    "title": "你想确认有人在，是不够独立吗？",
+    "motif": "harbor",
+    "anchor": {
+      "year": "依恋研究",
+      "author": "Fraley · 发展心理学"
+    },
+    "labels": [
+      "探索之前，先确认连接",
+      "安全基地，与向外探索",
+      "靠近与远行，可以同在",
+      "一次分离不能给人定型",
+      "具体约定，让支持可找到",
+      "有连接，也有自己的路"
+    ],
+    "cues": [
+      {
+        "zh": "出发前想确认有人在，是不够独立吗？",
+        "en": "Does needing reassurance mean lacking independence?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "支持和探索，可能并不冲突。",
+        "en": "Support and exploration can work together.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "依恋研究关注亲近、回应与探索。",
+        "en": "Attachment research studies closeness, response and exploration.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "安全基地，描述一种支持关系。",
+        "en": "A secure base describes a supportive relationship.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "概念需要放回年龄与研究情境。",
+        "en": "Age and research context remain important.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "像离开发射站，仍知道怎样联系。",
+        "en": "A traveler can leave while knowing how to connect.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "可靠的回应，给探索多一个参照。",
+        "en": "Reliable response can support exploration.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "需要时靠近，准备好时继续走。",
+        "en": "Approach for support, then explore when ready.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "这里的信号站，是关系的教学隐喻。",
+        "en": "The signal station is a teaching metaphor.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "但一次黏人，不能决定依恋类型。",
+        "en": "One clingy moment cannot define attachment.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "一次分离，也不能评价整个家庭。",
+        "en": "One separation cannot judge a whole family.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "现实关系会随经历与条件变化。",
+        "en": "Relationships can change with experience and context.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "出发前约定联系时间与可信任的人。",
+        "en": "Agree on contact times and trusted people.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "遇到困难，说明自己需要哪种帮助。",
+        "en": "Name the kind of help you need.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "支持也可以来自多个可靠关系。",
+        "en": "Support can come from several reliable relationships.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "被接住的需要，不必让你羞愧。",
+        "en": "Needing support need not bring shame.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "有连接，也可以有自己的路。",
+        "en": "Connection can coexist with your own path.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "知道灯在哪里，再往远处走。",
+        "en": "Know where the light is, then venture outward.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 111,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "探索之前，先确认连接"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "安全基地，与向外探索"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "靠近与远行，可以同在"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "一次分离不能给人定型"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "具体约定，让支持可找到"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "有连接，也有自己的路"
+      }
+    ]
+  },
+  {
+    "id": "attribution",
+    "title": "他没回复，就一定是不在乎？",
+    "motif": "attribution",
+    "anchor": {
+      "year": "1958 →",
+      "author": "归因研究 · 教材综合"
+    },
+    "labels": [
+      "一个行为，一种解释？",
+      "人，在情境之中",
+      "把镜头慢慢拉远",
+      "理解原因，也谈责任",
+      "先说观察，再问背景",
+      "给判断，留一扇窗"
+    ],
+    "cues": [
+      {
+        "zh": "他没回复，就一定是不在乎？",
+        "en": "No reply. Does that mean no care?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "你看到行为，大脑开始补原因。",
+        "en": "A behavior appears. A story follows.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "归因研究问，人怎样解释行为？",
+        "en": "Attribution asks how we explain behavior.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "我们可能先看见人，后看见背景。",
+        "en": "The person is salient. Context is quieter.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "这种倾向受任务与文化影响。",
+        "en": "The tendency varies across tasks and cultures.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "「迟到了」是观察。「自私」是推断。",
+        "en": "Late is an observation. Selfish is an inference.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "把两个词分开，就多出几个问题。",
+        "en": "Separate them to open more questions.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "他掌握哪些信息？遇到什么限制？",
+        "en": "What did they know? What constrained them?",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "把镜头拉远，原因可能变得更多。",
+        "en": "Zoom out. More explanations may appear.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "但存在原因，不会抹掉你的等待。",
+        "en": "A reason does not erase your waiting.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "补背景和谈责任，可以同时发生。",
+        "en": "Context and responsibility can coexist.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "持续模式，也是一条需要更新的信息。",
+        "en": "Repeated patterns also matter.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "说出具体影响，再问发生了什么。",
+        "en": "Name the impact. Ask what happened.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "共同约定下一次怎样通知。",
+        "en": "Agree on how to communicate next time.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "这是虚构情境，真实原因仍需核实。",
+        "en": "This is fiction. Real causes need checking.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "别用一个瞬间，定义一个人。",
+        "en": "Do not define a person by one moment.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "也别让理解，变成永远委屈自己。",
+        "en": "Understanding can include your own needs.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "留一扇窗，等新的信息进来。",
+        "en": "Keep a window open for new information.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 112,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "一个行为，一种解释？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "人，在情境之中"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "把镜头慢慢拉远"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "理解原因，也谈责任"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "先说观察，再问背景"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "给判断，留一扇窗"
+      }
+    ]
+  },
+  {
+    "id": "conformity",
+    "title": "大家都选它，你还相信自己的眼睛吗？",
+    "motif": "crowd",
+    "anchor": {
+      "year": "1950s",
+      "author": "Asch · 社会心理学"
+    },
+    "labels": [
+      "答案旁边，还有别人的目光",
+      "信息影响，与合群压力",
+      "先看证据，再看人数",
+      "多数不保证对，异议也非保证",
+      "先独立写，再共同讨论",
+      "给不同的理由，留座位"
+    ],
+    "cues": [
+      {
+        "zh": "大家都举手，你还会选不同答案吗？",
+        "en": "Would you disagree when everyone raises a hand?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "答案之外，还有被接纳的需要。",
+        "en": "Beyond the answer lies a need to belong.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "1950 年代，Asch开展线段判断研究。",
+        "en": "Asch studied line judgments in the 1950s.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "实验把简单判断，放进群体情境。",
+        "en": "Simple judgments were placed in a group setting.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "多数人的回答，可能影响个人选择。",
+        "en": "A majority could influence an individual choice.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "有时，我们把别人当作信息来源。",
+        "en": "Others can serve as sources of information.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "有时，我们担心自己显得不合群。",
+        "en": "We may also worry about standing apart.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "两种影响，可以在同一场景出现。",
+        "en": "Both influences can appear in one setting.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "线段图是教学示意，不收集你的实验结果。",
+        "en": "This schematic does not collect experimental results.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "但人数多，不会让线段自动变长。",
+        "en": "More votes do not change the line’s length.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "反对多数，也不自动说明更正确。",
+        "en": "Disagreement does not automatically make one right.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "任务、关系、文化与权力都会影响选择。",
+        "en": "Task, culture, relationships and power matter.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "讨论之前，先各自写下判断与理由。",
+        "en": "Write a judgment and reason before discussion.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "随后比证据，也给异议一个解释机会。",
+        "en": "Compare evidence and allow dissent to explain.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "保护表达空间，还需要具体的安排。",
+        "en": "Safe expression needs practical arrangements.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "你可以听别人，也保留自己的核对。",
+        "en": "Listen to others and keep checking for yourself.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "群体的力量，也可以用来容纳不同。",
+        "en": "A group can use its strength to include difference.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "给不同的理由，留一个座位。",
+        "en": "Leave a seat for a different reason.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 113,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "答案旁边，还有别人的目光"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "信息影响，与合群压力"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "先看证据，再看人数"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "多数不保证对，异议也非保证"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "先独立写，再共同讨论"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "给不同的理由，留座位"
+      }
+    ]
+  },
+  {
+    "id": "listening",
+    "title": "为什么你越给建议，朋友越不想说？",
+    "motif": "listening",
+    "anchor": {
+      "year": "2014",
+      "author": "Weger 等"
+    },
+    "labels": [
+      "办法到了，理解到了吗？",
+      "主动倾听，初次互动研究",
+      "听见 → 试着理解 → 核对",
+      "理解，不等于赞同全部",
+      "先问想被听见，还是想找办法",
+      "把下一句话，留给对方"
+    ],
+    "cues": [
+      {
+        "zh": "你给了好多建议，朋友却安静了？",
+        "en": "You offered advice. Why did your friend go quiet?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "也许办法先到了，理解还没到。",
+        "en": "Perhaps advice arrived before understanding.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "2014 年，一项研究比较初次互动中的回应。",
+        "en": "A 2014 study compared responses in initial interactions.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "主动倾听，是其中被考察的方式。",
+        "en": "Active listening was one response style examined.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "研究场景有限，不能保证所有关系改善。",
+        "en": "Limited settings cannot guarantee every relationship improves.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "先把注意放在对方说的经历。",
+        "en": "Attend to the experience they describe.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "用不确定的语气，试着复述。",
+        "en": "Offer a tentative reflection.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "「你很失落，对吗？」给纠正留位置。",
+        "en": "“That felt disappointing?” leaves room for correction.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "核对之后，再问需要什么帮助。",
+        "en": "Then check what kind of help is wanted.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "理解感受，不等于赞同所有判断。",
+        "en": "Understanding a feeling need not endorse every judgment.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "也不意味着你必须承接全部问题。",
+        "en": "You do not have to carry every problem.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "遇到危险，安全与合适支持优先。",
+        "en": "Safety and appropriate support come first.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "可以问「想说一会儿，还是一起想办法？」",
+        "en": "Ask: listen for a while, or explore solutions?",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "如果对方不想谈，也尊重这个选择。",
+        "en": "Respect a wish not to talk.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "倾听需要练习，也需要彼此的边界。",
+        "en": "Listening needs practice and boundaries.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "有时，最有用的是少抢一句。",
+        "en": "Sometimes it helps to leave a little more space.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "让对方有机会，把自己的故事说完整。",
+        "en": "Allow someone to finish their own story.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "把下一句话，留给正在说的人。",
+        "en": "Leave the next words to the person speaking.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 114,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "办法到了，理解到了吗？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "主动倾听，初次互动研究"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "听见 → 试着理解 → 核对"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "理解，不等于赞同全部"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "先问想被听见，还是想找办法"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "把下一句话，留给对方"
+      }
+    ]
+  },
+  {
+    "id": "framing",
+    "title": "九成机会，为什么听起来更诱人？",
+    "motif": "framing",
+    "anchor": {
+      "year": "1988",
+      "author": "Levin · Gaeth"
+    },
+    "labels": [
+      "九成得到，一成得不到",
+      "同一属性，换一种表达",
+      "先对齐分母与条件",
+      "措辞变化，不一定数量变化",
+      "翻译成同一组结果再比较",
+      "让选择，站在同一把尺上"
+    ],
+    "cues": [
+      {
+        "zh": "九成能得到，和一成得不到，你选谁？",
+        "en": "A ninety-percent gain or a ten-percent miss?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "先别急，两句话可能指向同一比例。",
+        "en": "Wait. They may describe the same proportion.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "1988 年，研究者考察属性框架。",
+        "en": "A 1988 study examined attribute framing.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "互补表达，可能改变评价的注意点。",
+        "en": "Complementary descriptions may shift evaluation.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "它与风险选项框架，是不同问题。",
+        "en": "This differs from risky-choice framing.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "这里有一百个教学圆点。",
+        "en": "Here are one hundred illustrative dots.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "九十个得到，十个得不到。",
+        "en": "Ninety gains. Ten misses.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "换措辞，圆点总数保持不变。",
+        "en": "Change the wording. Keep the counts fixed.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "先检查分母、规则、成本是否相同。",
+        "en": "Check the denominator, rules and costs.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "等等，感觉变了，数量未必变了。",
+        "en": "The feeling can change while the count stays.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "但条件不同，两种说法就未必等价。",
+        "en": "Different conditions may make them unequal.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "一次选择，也不能给理性程度打分。",
+        "en": "One choice cannot rank your rationality.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "看见广告，先把话翻成同一结果。",
+        "en": "Translate advertising into comparable outcomes.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "同时写出得到什么、失去什么。",
+        "en": "Write both what is gained and what is lost.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "有数字时，问清它属于哪一组人。",
+        "en": "Ask which group a statistic describes.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "措辞会照亮一面，你可以再转过来看。",
+        "en": "Wording lights one side. Turn it around.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "多一个翻译步骤，就多一份比较依据。",
+        "en": "One translation step can improve comparison.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "让选择，站在同一把尺上。",
+        "en": "Place the choices against the same measure.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 115,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "九成得到，一成得不到"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "同一属性，换一种表达"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "先对齐分母与条件"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "措辞变化，不一定数量变化"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "翻译成同一组结果再比较"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "让选择，站在同一把尺上"
+      }
+    ]
+  },
+  {
+    "id": "sunk-cost",
+    "title": "已经花了两小时，就一定要继续？",
+    "motif": "investment",
+    "anchor": {
+      "year": "1985",
+      "author": "Arkes · Blumer"
+    },
+    "labels": [
+      "过去的投入，拉住了谁？",
+      "沉没成本，与继续选择",
+      "过去拿不回，未来还可比较",
+      "停止不总对，坚持也需理由",
+      "比较下一段时间的得失",
+      "让未来，成为选择的方向"
+    ],
+    "cues": [
+      {
+        "zh": "已经做了两小时，现在停下就亏了？",
+        "en": "Two hours spent. Is stopping necessarily a waste?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "过去的投入，可能拉着你往前走。",
+        "en": "Past investment can pull a decision forward.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "1985 年，Arkes与Blumer研究沉没成本。",
+        "en": "Arkes and Blumer studied sunk cost in 1985.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "实验考察已投入资源对继续选择的影响。",
+        "en": "They examined how prior investment affects continuation.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "群体倾向，不是每个人固定的缺点。",
+        "en": "A group tendency is not an individual destiny.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "已经无法收回的时间，留在过去。",
+        "en": "Irrecoverable time remains in the past.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "现在还能选择的是下一段资源。",
+        "en": "The next resources are still available to choose.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "继续和改变，各有什么未来得失？",
+        "en": "What future gains and costs follow each option?",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "把两条时间线分开，才看得更清楚。",
+        "en": "Separate past and future to compare them.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "但沉没成本，不等于所有投入都没用。",
+        "en": "Sunk cost does not mean every investment is useless.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "技能、退费与承诺，可能影响未来。",
+        "en": "Skills, refunds and commitments may affect the future.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "停下或坚持，都需要具体理由。",
+        "en": "Stopping and continuing both need reasons.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "纸城堡可缩小，也可以改成街区。",
+        "en": "A paper castle can shrink or become a neighborhood.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "比较明天的用途，而不只数昨天的小时。",
+        "en": "Compare tomorrow’s use, not only yesterday’s hours.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "真实选择，还要考虑安全与责任。",
+        "en": "Real decisions include safety and responsibility.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "承认付出，不必让它替你决定全部。",
+        "en": "Honor the effort without letting it decide everything.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "留下经验，把方向交还给未来。",
+        "en": "Keep the experience. Let the future guide the direction.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "下一步，仍然属于可以选择的你。",
+        "en": "The next step is still yours to consider.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 116,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "过去的投入，拉住了谁？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "沉没成本，与继续选择"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "过去拿不回，未来还可比较"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "停止不总对，坚持也需理由"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "比较下一段时间的得失"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "让未来，成为选择的方向"
+      }
+    ]
+  },
+  {
+    "id": "retrieval",
+    "title": "越觉得费劲，反而记得更久？",
+    "motif": "retrieval",
+    "anchor": {
+      "year": "2006",
+      "author": "Roediger · Karpicke"
+    },
+    "labels": [
+      "合上书，知识还在吗？",
+      "眼前熟悉与延迟保持",
+      "从记忆中，走一遍",
+      "当下顺利 ≠ 更久保持",
+      "提取 → 核对 → 再尝试",
+      "把熟悉，变成能想起"
+    ],
+    "cues": [
+      {
+        "zh": "看了三遍，为什么还是想不起？",
+        "en": "Three readings. Why is recall still hard?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "熟悉的感觉，还不是提取的证据。",
+        "en": "Familiarity is not evidence of recall.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "2006 年，一项实验比较两种练习。",
+        "en": "A 2006 study compared two kinds of practice.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "大学生学习散文，再读或尝试回忆。",
+        "en": "Students studied prose, then reread or recalled.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "研究把即时和延迟测验分开看。",
+        "en": "Immediate and delayed tests were separated.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "看着材料，答案已经摆在眼前。",
+        "en": "With the text open, answers are present.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "合上材料，需要自己找到路径。",
+        "en": "Close it, and you must find the path.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "没想起的部分，暴露下一次的缺口。",
+        "en": "Missing pieces reveal what needs attention.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "随后核对反馈，修正错漏。",
+        "en": "Check feedback and repair the gaps.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "五分钟后，重复学习组更好。",
+        "en": "After five minutes, repeated study did better.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "两天或一周后，提取练习组更好。",
+        "en": "After days, retrieval practice did better.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "当下顺利，与长期保持可能分开。",
+        "en": "Ease now and retention later can diverge.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "读完一段，试着用自己的话说出来。",
+        "en": "Explain a passage with the book closed.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "再核对，再隔一段时间尝试。",
+        "en": "Check it, then try again after an interval.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "效果取决于材料、反馈与安排。",
+        "en": "Effects depend on material, feedback and timing.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "困难不总是失败，也可能给出线索。",
+        "en": "Difficulty can sometimes offer a clue.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "理解和提取，都需要练习。",
+        "en": "Both understanding and recall need practice.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "别只问眼熟吗，也问想得起吗。",
+        "en": "Ask both: familiar, and retrievable?",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 117,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "合上书，知识还在吗？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "眼前熟悉与延迟保持"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "从记忆中，走一遍"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "当下顺利 ≠ 更久保持"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "提取 → 核对 → 再尝试"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "把熟悉，变成能想起"
+      }
+    ]
+  },
+  {
+    "id": "help-seeking",
+    "title": "求助，真的要等到撑不住吗？",
+    "motif": "care",
+    "anchor": {
+      "year": "NIMH · NHS",
+      "author": "青少年心理健康 · 权威资料"
+    },
+    "labels": [
+      "求助，可以从哪里开始？",
+      "说出困扰，也说明顾虑",
+      "把模糊困难说得具体",
+      "不必等到固定天数",
+      "可信任成人 → 合适服务",
+      "第一句话，可以很小"
+    ],
+    "cues": [
+      {
+        "zh": "要等到撑不住，才有资格求助吗？",
+        "en": "Must things become unbearable before seeking help?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "困难值得被听见，可以从一句话开始。",
+        "en": "A difficulty can be heard from the first sentence.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "权威资料鼓励了解合适的支持路径。",
+        "en": "Authoritative guidance describes routes to support.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "可靠成人和专业服务，作用可能不同。",
+        "en": "Trusted adults and professional services have different roles.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "你可以问清楚安排，也可以说明顾虑。",
+        "en": "You can ask about the process and share concerns.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "先说发生什么、持续多久。",
+        "en": "Describe what happened and for how long.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "再说哪些生活部分被影响。",
+        "en": "Explain which parts of life are affected.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "把需要帮助的一步，具体指出来。",
+        "en": "Name one step where help is needed.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "路径图是求助教育，不是分诊结果。",
+        "en": "This route map is educational, not triage.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "不必等到固定天数，才说出担心。",
+        "en": "No fixed waiting period is needed to voice concern.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "一个人没听明白，可以再找合适的人。",
+        "en": "If one person misses it, seek another appropriate listener.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "有即时危险，先联系能保障安全的人。",
+        "en": "For immediate danger, seek people who can ensure safety.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "可以说「最近睡不好，也不想参加活动」。",
+        "en": "You can describe sleep and activity changes.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "「我想一起了解，能得到哪些帮助」。",
+        "en": "Ask to explore what support is available.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "涉及健康问题，交给合适专业人员评估。",
+        "en": "Appropriate professionals assess health concerns.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "求助不是把自己交给一个标签。",
+        "en": "Seeking help need not reduce you to a label.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "你可以带着疑问，参与了解的过程。",
+        "en": "Bring your questions into the process.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "第一句话，不需要等到完美。",
+        "en": "The first sentence need not be perfect.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 118,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "求助，可以从哪里开始？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "说出困扰，也说明顾虑"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "把模糊困难说得具体"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "不必等到固定天数"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "可信任成人 → 合适服务"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "第一句话，可以很小"
+      }
+    ]
+  },
+  {
+    "id": "boundaries",
+    "title": "说了「不行」，还是好朋友吗？",
+    "motif": "boundary",
+    "anchor": {
+      "year": "坚定表达",
+      "author": "CCI · 健康教育资料"
+    },
+    "labels": [
+      "朋友之间，也能说不",
+      "需要与资源，都值得说清",
+      "观察 → 限度 → 可行安排",
+      "边界，不是给别人定罪",
+      "明确一句，留一个选择",
+      "合作，也可以从清楚开始"
+    ],
+    "cues": [
+      {
+        "zh": "说了「这次不行」，就不是好朋友？",
+        "en": "Does saying no end a friendship?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "勉强答应，有时让合作更难。",
+        "en": "Reluctant agreement can complicate cooperation.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "坚定表达资料关注清楚而尊重的沟通。",
+        "en": "Assertiveness guidance focuses on clarity and respect.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "自己的需要，与对方的需要都能被看见。",
+        "en": "Both people’s needs can be acknowledged.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "表达效果，还受关系与权力影响。",
+        "en": "Effects depend on relationships and power.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "先说眼前具体的请求。",
+        "en": "Name the concrete request.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "再说明自己能做与不能做的部分。",
+        "en": "State what you can and cannot do.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "如果愿意，再提出一个可行安排。",
+        "en": "Offer a feasible arrangement if you wish.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "这道门表示可协商的限度。",
+        "en": "This doorway represents a negotiable limit.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "但一句台词，不能解决所有关系问题。",
+        "en": "One line cannot solve every relationship problem.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "有威胁或控制时，安全与支持优先。",
+        "en": "With threats or control, prioritize safety and support.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "也不能用「边界」替代对他人的诊断。",
+        "en": "Boundaries are not diagnoses of another person.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "「我今晚要准备报告，不能全替你做」。",
+        "en": "State the limit in the actual situation.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "「我能看十分钟，明天你再自己修改」。",
+        "en": "Offer limited help only if it is feasible.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "清楚之后，也允许对方提出新安排。",
+        "en": "Clarity can leave room for another proposal.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "你不必用疲惫，证明自己重视关系。",
+        "en": "Exhaustion need not prove that you care.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "真实的合作，需要看见真实的资源。",
+        "en": "Real cooperation needs a view of real resources.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "把能做的一步，说得清楚一点。",
+        "en": "Make the feasible next step a little clearer.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 119,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "朋友之间，也能说不"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "需要与资源，都值得说清"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "观察 → 限度 → 可行安排"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "边界，不是给别人定罪"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "明确一句，留一个选择"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "合作，也可以从清楚开始"
+      }
+    ]
+  },
+  {
+    "id": "support",
+    "title": "陪朋友走一段，需要救下他的一切吗？",
+    "motif": "support",
+    "anchor": {
+      "year": "UNICEF · NHS",
+      "author": "同伴支持 · 权威资料"
+    },
+    "labels": [
+      "陪伴，不是独自救援",
+      "倾听 · 实际帮助 · 合适转介",
+      "先问需要，再看资源",
+      "你也可以有自己的限度",
+      "一起找到更多支持",
+      "一张网，比一根绳更宽"
+    ],
+    "cues": [
+      {
+        "zh": "陪朋友走一段，就要解决他的一切？",
+        "en": "Must a caring friend solve everything?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "关心，也需要可持续的限度。",
+        "en": "Care also needs sustainable limits.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "同伴支持资料强调倾听与合适帮助。",
+        "en": "Peer-support guidance emphasizes listening and suitable help.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "尊重意愿，也了解何时需要更多资源。",
+        "en": "Respect choice and know when more resources are needed.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "朋友与专业人员，承担不同角色。",
+        "en": "Friends and professionals have different roles.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "先问对方此刻需要什么。",
+        "en": "Ask what is needed right now.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "再看自己实际能做哪一部分。",
+        "en": "Consider what you can realistically offer.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "把支持连接成网，减少单点负担。",
+        "en": "Connect a network of support.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "连线是支持关系示意，不是效果预测。",
+        "en": "The network illustrates support, not a predicted outcome.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "你不必随时在线，才算在乎。",
+        "en": "Being caring does not require constant availability.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "也不需要许下自己无法做到的保密承诺。",
+        "en": "Avoid promises you cannot safely keep.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "有安全风险时，及时找可靠成人。",
+        "en": "Seek reliable adults when safety is at risk.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "可以陪着说，也可以一起找合适的人。",
+        "en": "Listen together or find an appropriate helper.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "说清能陪多久、之后怎样联系。",
+        "en": "Clarify availability and later contact.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "让支持者，也有自己的支持。",
+        "en": "Let supporters have support of their own.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "陪伴的价值，不只在于解决问题。",
+        "en": "Companionship can matter beyond solving a problem.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "多一条可靠连接，就多一种可能。",
+        "en": "Another reliable connection offers another possibility.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "一张网，比一根绳更宽。",
+        "en": "A network reaches wider than one rope.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 120,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "陪伴，不是独自救援"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "倾听 · 实际帮助 · 合适转介"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "先问需要，再看资源"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "你也可以有自己的限度"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "一起找到更多支持"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "一张网，比一根绳更宽"
+      }
+    ]
+  },
+  {
+    "id": "correlation",
+    "title": "冰淇淋卖多了，树荫为什么更挤？",
+    "motif": "causal",
+    "anchor": {
+      "year": "研究方法",
+      "author": "ABS · Penn State"
+    },
+    "labels": [
+      "一起变化，就是因果吗？",
+      "相关描述关系，设计检验解释",
+      "先看共同变化，再看第三因素",
+      "一个故事，仍未证明原因",
+      "时间顺序 · 比较 · 其他解释",
+      "让问号，比等号多停一会"
+    ],
+    "cues": [
+      {
+        "zh": "冰淇淋卖多了，树荫下的人也变多。",
+        "en": "Ice-cream sales rise. More people seek shade.",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "难道冰淇淋，把大家赶进了树荫？",
+        "en": "Did ice cream send them into the shade?",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "统计方法区分相关与因果。",
+        "en": "Statistical reasoning separates correlation and causation.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "相关描述变量怎样一起变化。",
+        "en": "Correlation describes how variables vary together.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "因果判断，需要更有说服力的设计。",
+        "en": "Causal claims need more persuasive designs.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "先画两列记录，观察共同趋势。",
+        "en": "Plot the records and observe their joint trend.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "一种解释，是前者影响后者。",
+        "en": "One explanation is a direct influence.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "另一种解释，是第三个因素影响两者。",
+        "en": "Another is a shared third influence.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "天气变热，就可能同时影响这两件事。",
+        "en": "Hot weather could affect both.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "但想到天气，也不等于已经证明它。",
+        "en": "Suggesting weather does not prove it.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "时间顺序、遗漏因素和反向作用都要问。",
+        "en": "Ask about timing, omitted factors and reverse influence.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "故事中的散点，全部是教学模拟。",
+        "en": "These plotted points are simulated for teaching.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "读新闻时，先找研究怎样比较。",
+        "en": "Look for the study’s comparisons in a news story.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "再问有没有其他解释被检验。",
+        "en": "Ask which other explanations were tested.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "有条件的实验与合适方法，能增加依据。",
+        "en": "Suitable designs and methods can strengthen evidence.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "会提出第三个因素，是新的起点。",
+        "en": "A third-factor idea is a new starting point.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "让问题继续，证据才有机会增加。",
+        "en": "Keep asking so evidence can accumulate.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "看到相关，先给等号留个问号。",
+        "en": "Meet a correlation with a question before an equation.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 121,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "一起变化，就是因果吗？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "相关描述关系，设计检验解释"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "先看共同变化，再看第三因素"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "一个故事，仍未证明原因"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "时间顺序 · 比较 · 其他解释"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "让问号，比等号多停一会"
+      }
+    ]
+  },
+  {
+    "id": "sampling",
+    "title": "全班都想打篮球？你到底问了谁？",
+    "motif": "sample",
+    "anchor": {
+      "year": "统计方法",
+      "author": "Penn State · Texas"
+    },
+    "labels": [
+      "一张问卷，谁能进来？",
+      "目标总体，与实际样本",
+      "入口改变，听见的人也改变",
+      "人数大，不保证有代表性",
+      "谁被遗漏 · 谁没回应",
+      "先问谁，再看多少"
+    ],
+    "cues": [
+      {
+        "zh": "问了二十个人，就知道全校想什么？",
+        "en": "Do twenty answers reveal a whole school?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "先看你站在谁面前发问。",
+        "en": "First ask whom you approached.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "抽样方法关注总体、选入机会与回应。",
+        "en": "Sampling considers the population, selection and response.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "想了解全校，目标人群是全校学生。",
+        "en": "For a school-wide question, the target is all students.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "实际听到的声音，可能只是其中一部分。",
+        "en": "The voices heard may cover only one part.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "站在篮球场旁，容易听到篮球爱好者。",
+        "en": "A basketball court tends to reach basketball fans.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "入口改变，样本组成可能跟着改变。",
+        "en": "Change the entry point, and the sample may change.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "更广的班级与年级，减少某些遗漏。",
+        "en": "Broader coverage can reduce some omissions.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "仍要核对谁有机会、谁真的回应。",
+        "en": "Check who had a chance and who responded.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "人数增加，不自动消除选择偏差。",
+        "en": "More responses do not automatically remove selection bias.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "随机抽样，也不同于随机分配条件。",
+        "en": "Random sampling differs from random assignment.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "这里的人数与投票，是虚构教学示意。",
+        "en": "These people and votes are illustrative simulations.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "看到「大家都认为」，先问大家是谁。",
+        "en": "When “everyone thinks,” ask who counts as everyone.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "同时看招募方式与未回应的人。",
+        "en": "Check recruitment and nonresponse.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "真实调查还要尊重隐私与同意。",
+        "en": "Real surveys require privacy and consent.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "数字需要分母，声音需要来处。",
+        "en": "Numbers need denominators. Voices need origins.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "让没被听见的人，也有出现的机会。",
+        "en": "Leave a chance for missing voices to be heard.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "先问谁，再问多少。",
+        "en": "Ask who before asking how many.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 122,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "一张问卷，谁能进来？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "目标总体，与实际样本"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "入口改变，听见的人也改变"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "人数大，不保证有代表性"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "谁被遗漏 · 谁没回应"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "先问谁，再看多少"
+      }
+    ]
+  },
+  {
+    "id": "replication",
+    "title": "一篇研究说有效，就该马上相信吗？",
+    "motif": "replication",
+    "anchor": {
+      "year": "2015",
+      "author": "Open Science Collaboration"
+    },
+    "labels": [
+      "一次发现，能走多远？",
+      "重复检验，与证据累积",
+      "方法 · 记录 · 条件 · 比较",
+      "没复现，不自动等于造假",
+      "把单篇结论放回证据网络",
+      "好奇心，也可以经得起追问"
+    ],
+    "cues": [
+      {
+        "zh": "一篇研究说「神奇有效」，你信吗？",
+        "en": "One study says it works like magic. Do you believe it?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "发现是起点，检验还要继续。",
+        "en": "A finding begins the work of checking.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "2015 年，一个合作项目复现心理学研究。",
+        "en": "A 2015 collaboration replicated psychology studies.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "它考察一批特定发表研究的可重复性。",
+        "en": "It examined a selected set of published studies.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "结果提醒人们关注方法与证据累积。",
+        "en": "The results emphasized methods and accumulating evidence.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "先问怎样做、研究了谁、怎样分析。",
+        "en": "Ask how it was done, who took part and how it was analyzed.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "保留过程，别人才能比较和重做。",
+        "en": "Document the process for comparison and repetition.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "把新旧结果，连同条件放在一起看。",
+        "en": "Compare findings alongside their conditions.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "桥梁是重复检验的教学比喻。",
+        "en": "The bridge is a metaphor for repeated checking.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "没有复现，不自动说明原研究造假。",
+        "en": "A failed replication does not automatically imply fraud.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "成功复现，也不保证所有情境都成立。",
+        "en": "Success does not guarantee every context.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "差异可能要求修改解释与适用范围。",
+        "en": "Differences may revise an explanation or its scope.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "读到单篇研究，再找后续与综合证据。",
+        "en": "Look beyond one paper to later and combined evidence.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "留意预注册、透明材料和公开方法。",
+        "en": "Look for preregistration, materials and transparent methods.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "也检查研究者怎样说明不确定性。",
+        "en": "Check how uncertainty is explained.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "可靠，不是永远不变。",
+        "en": "Reliability need not mean never changing.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "而是允许新的证据改变我们的理解。",
+        "en": "It includes letting new evidence change understanding.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "让好奇心，也经得起追问。",
+        "en": "Let curiosity stand up to further questions.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 123,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "一次发现，能走多远？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "重复检验，与证据累积"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "方法 · 记录 · 条件 · 比较"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "没复现，不自动等于造假"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "把单篇结论放回证据网络"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "好奇心，也可以经得起追问"
+      }
+    ]
+  },
+  {
+    "id": "knowledge-curse",
+    "title": "为什么你的「很简单」，别人听不懂？",
+    "motif": "robot",
+    "anchor": {
+      "year": "1989",
+      "author": "Camerer · Loewenstein · Weber"
+    },
+    "labels": [
+      "同一句话，两个世界",
+      "信息更多，预测也会偏",
+      "你脑中有一张隐藏地图",
+      "没听懂，不等于笨",
+      "把省略的步骤补回来",
+      "让理解，有可见的反馈"
+    ],
+    "cues": [
+      {
+        "zh": "「很简单呀。」为什么对方更迷茫？",
+        "en": "“It is simple.” Why are they still lost?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "你说出口的，只是脑中地图的一角。",
+        "en": "Your words reveal only part of your map.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "1989 年，研究者考察知识诅咒。",
+        "en": "Researchers studied the curse of knowledge in 1989.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "实验比较信息更多与更少者。",
+        "en": "Experiments compared different information states.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "已知信息，可能影响对他人判断的预测。",
+        "en": "What we know can bias what we predict.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "熟练者说「按回家键」。",
+        "en": "The expert says: press home.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "新手只看到一个圆和一个三角。",
+        "en": "The newcomer sees a circle and a triangle.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "按钮顺序、灯光意义，都被省略了。",
+        "en": "The sequence and signals remain unstated.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "两人并不拥有相同的起点。",
+        "en": "They do not share the same starting point.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "等等，这不表示新手不够聪明。",
+        "en": "This does not mean the newcomer is less capable.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "也不能据此认定所有专家都不会教。",
+        "en": "It does not mean all experts teach poorly.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "信息差只是需要核对的一种解释。",
+        "en": "An information gap is one possible explanation.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "先说具体动作，再给可见反馈。",
+        "en": "Give a concrete action and a visible signal.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "请对方复述，看看缺的是哪一步。",
+        "en": "Invite a retelling to find a missing step.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "复述检查说明，保留提问的余地。",
+        "en": "Use retelling to check the explanation.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "沟通从对方能看见的地方开始。",
+        "en": "Start from what the other person can see.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "少一点「怎么还不懂」，多一点具体。",
+        "en": "Replace impatience with concrete detail.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "把地图摊开，我们就有机会同行。",
+        "en": "Open the map. Then we can walk together.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 124,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "同一句话，两个世界"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "信息更多，预测也会偏"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "你脑中有一张隐藏地图"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "没听懂，不等于笨"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "把省略的步骤补回来"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "让理解，有可见的反馈"
+      }
+    ]
+  },
+  {
+    "id": "confirmation-bias",
+    "title": "猜对两次，为什么还可能猜错规律？",
+    "motif": "rule",
+    "anchor": {
+      "year": "1960",
+      "author": "Peter Wason"
+    },
+    "labels": [
+      "证据，在支持哪一个猜想？",
+      "2–4–6，与规则发现",
+      "一个正例，可能支持多个解释",
+      "正向测试并不总是坏策略",
+      "选择让预测不同的例子",
+      "给猜想，留一条改道"
+    ],
+    "cues": [
+      {
+        "zh": "2、4、6能通过，规则就是偶数？",
+        "en": "Two, four, six pass. Must the rule be even numbers?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "也可能还有一个你没想到的解释。",
+        "en": "Another explanation may fit just as well.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "1960 年，Wason研究数字规则发现。",
+        "en": "In 1960, Wason studied numerical rule discovery.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "参与者提交三元组，再依据反馈猜规则。",
+        "en": "Participants submitted triples and received feedback.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "相似正例，可能留下多个假设。",
+        "en": "Similar positive cases can leave several hypotheses open.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "「全是偶数」接受2、4、6。",
+        "en": "“All even” accepts two, four, six.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "「依次增大」也接受同一个例子。",
+        "en": "“Increasing” accepts the same example.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "多试一组4、6、8，还没有分清。",
+        "en": "Four, six, eight still cannot distinguish them.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "试3、5、7，两种猜想给出不同预测。",
+        "en": "Three, five, seven separate the predictions.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "但是，正向测试不总是无效策略。",
+        "en": "Positive testing is not always an ineffective strategy.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "方法的价值，取决于环境与竞争解释。",
+        "en": "Its value depends on context and competing explanations.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "目标是增加信息，不是永远反着想。",
+        "en": "Seek information, not automatic opposition.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "先写「什么结果会让我改主意」。",
+        "en": "Write what outcome would change your mind.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "也认真检查反例的质量与来源。",
+        "en": "Check the quality and source of a counterexample.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "游戏只是改编，不给思维能力打分。",
+        "en": "This adaptation does not grade reasoning ability.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "愿意修改一个猜想，是思考的一部分。",
+        "en": "Revising a hypothesis is part of thinking.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "别只给自己找掌声，也找新的线索。",
+        "en": "Seek new clues as well as agreement.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "给猜想，留一条可以改道的路。",
+        "en": "Leave a route for your hypothesis to change.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 125,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "证据，在支持哪一个猜想？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "2–4–6，与规则发现"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "一个正例，可能支持多个解释"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "正向测试并不总是坏策略"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "选择让预测不同的例子"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "给猜想，留一条改道"
+      }
+    ]
+  },
+  {
+    "id": "test-validity",
+    "title": "每次都测一样，就说明测得准？",
+    "motif": "ruler",
+    "anchor": {
+      "year": "2014",
+      "author": "AERA · APA · NCME"
+    },
+    "labels": [
+      "一块准表，能量赛道吗？",
+      "信度，与效度证据",
+      "一致性 · 误差 · 解释 · 用途",
+      "稳定的读数，也可能答错问题",
+      "先问测什么，再问怎么用",
+      "一个分数，需要一段说明"
+    ],
+    "cues": [
+      {
+        "zh": "这块表每次都一样准，能量赛道吗？",
+        "en": "A consistent watch. Can it measure a track?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "稳定地回答，不代表回答对了问题。",
+        "en": "A stable answer may address the wrong question.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "2014 年，测验标准分别讨论信度与效度。",
+        "en": "The 2014 Testing Standards distinguish reliability and validity.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "一致性与误差，是需要检验的问题。",
+        "en": "Consistency and measurement error need examination.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "分数解释和用途，也需要相应证据。",
+        "en": "Score interpretations and uses need supporting evidence.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "同一根木条，读数差很多，要查误差。",
+        "en": "Varying readings of one stick suggest measurement error.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "读数稳定，再问测量对象与解释。",
+        "en": "With stable readings, examine the intended interpretation.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "跑得快慢不同，用时不能直接代表路长。",
+        "en": "Different running speeds prevent time from directly giving distance.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "尺与表，是区分问题的教学类比。",
+        "en": "Ruler and watch are teaching analogies.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "所以，一个重复标签不保证效度。",
+        "en": "A repeated label does not guarantee validity.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "换年龄、语言或用途，需要重新核对证据。",
+        "en": "New ages, languages or uses need relevant evidence.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "专业评估，也会结合多种信息。",
+        "en": "Professional assessment combines several information sources.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "看到测试，先找它声称测什么。",
+        "en": "Ask what the test claims to measure.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "再找研究对象、评分、误差和用途说明。",
+        "en": "Look for population, scoring, error and intended use.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "本课没有对你实施心理量表。",
+        "en": "This lesson does not administer a psychological scale.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "你比一个分数，更值得被完整理解。",
+        "en": "A person deserves fuller understanding than one score.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "会问测量的问题，也是一种科学素养。",
+        "en": "Questions about measurement are part of scientific literacy.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "让每一个分数，都带着依据和边界。",
+        "en": "Give each score its evidence and limits.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 126,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "一块准表，能量赛道吗？"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "信度，与效度证据"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "一致性 · 误差 · 解释 · 用途"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "稳定的读数，也可能答错问题"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "先问测什么，再问怎么用"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "一个分数，需要一段说明"
+      }
+    ]
+  },
+  {
+    "id": "gratitude",
+    "title": "糟糕的一天，还能写下什么？",
+    "motif": "journal",
+    "anchor": {
+      "year": "2003",
+      "author": "Emmons · McCullough"
+    },
+    "labels": [
+      "今天很难，也有一把伞",
+      "感恩记录，与主观福祉",
+      "记录困难，也记录具体支持",
+      "效果因人而异，练习可以选择",
+      "写事实，保留感受",
+      "谢谢你，刚好在"
+    ],
+    "cues": [
+      {
+        "zh": "今天太糟了，日记只能画个句号？",
+        "en": "A terrible day. Is there nothing else to write?",
+        "start": 0,
+        "end": 3.1578947368421053
+      },
+      {
+        "zh": "难过可以保留，支持也可以被记住。",
+        "en": "Keep the difficulty. Notice the support too.",
+        "start": 3.1578947368421053,
+        "end": 6.315789473684211
+      },
+      {
+        "zh": "2003 年，研究者比较不同记录活动。",
+        "en": "A 2003 study compared different journaling activities.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "感恩、烦恼或普通事件，放进不同条件。",
+        "en": "Conditions focused on blessings, hassles or everyday events.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "研究考察多项情感与福祉结果。",
+        "en": "Several affect and well-being outcomes were examined.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      },
+      {
+        "zh": "先如实写下，发生了什么。",
+        "en": "First record what actually happened.",
+        "start": 15.789473684210527,
+        "end": 22.105263157894736
+      },
+      {
+        "zh": "再看有没有一件具体帮到你的事。",
+        "en": "Notice one specific thing that helped.",
+        "start": 22.105263157894736,
+        "end": 28.42105263157895
+      },
+      {
+        "zh": "可能是一把伞，也可能是安静陪伴。",
+        "en": "It might be an umbrella or quiet company.",
+        "start": 28.42105263157895,
+        "end": 34.73684210526316
+      },
+      {
+        "zh": "困难和支持，可以写在同一页。",
+        "en": "Difficulty and support can share one page.",
+        "start": 34.73684210526316,
+        "end": 41.05263157894737
+      },
+      {
+        "zh": "研究中的部分改善，不保证每个人有效。",
+        "en": "Some group benefits do not guarantee individual benefits.",
+        "start": 41.05263157894737,
+        "end": 44.21052631578947
+      },
+      {
+        "zh": "也不能要求你感谢伤害自己的人。",
+        "en": "You need not thank someone for harming you.",
+        "start": 44.21052631578947,
+        "end": 47.36842105263158
+      },
+      {
+        "zh": "感恩记录，不是治疗的替代。",
+        "en": "Gratitude journaling does not replace treatment.",
+        "start": 47.36842105263158,
+        "end": 50.526315789473685
+      },
+      {
+        "zh": "愿意的话，写谁做了什么、怎样帮到你。",
+        "en": "If you wish, record who helped, how and when.",
+        "start": 50.526315789473685,
+        "end": 56.8421052631579
+      },
+      {
+        "zh": "仍未解决的问题，也照实写下来。",
+        "en": "Keep the unresolved problems in the account.",
+        "start": 56.8421052631579,
+        "end": 63.15789473684211
+      },
+      {
+        "zh": "感觉勉强或无帮助，可以调整或停下。",
+        "en": "Adjust or stop if it feels burdensome or unhelpful.",
+        "start": 63.15789473684211,
+        "end": 66.3157894736842
+      },
+      {
+        "zh": "今天仍然很难，不必假装已经变晴。",
+        "en": "The day can remain hard without pretending otherwise.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "只是那把伞，也曾真实地出现。",
+        "en": "The umbrella was real as well.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "谢谢你，刚好在。",
+        "en": "Thank you for being there.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ],
+    "bpm": 76,
+    "duration": 75.78947368421052,
+    "seed": 127,
+    "stages": [
+      {
+        "id": "scene-1",
+        "start": 0,
+        "end": 3.1578947368421053,
+        "label": "今天很难，也有一把伞"
+      },
+      {
+        "id": "scene-2",
+        "start": 3.1578947368421053,
+        "end": 15.789473684210527,
+        "label": "感恩记录，与主观福祉"
+      },
+      {
+        "id": "scene-3",
+        "start": 15.789473684210527,
+        "end": 41.05263157894737,
+        "label": "记录困难，也记录具体支持"
+      },
+      {
+        "id": "scene-4",
+        "start": 41.05263157894737,
+        "end": 50.526315789473685,
+        "label": "效果因人而异，练习可以选择"
+      },
+      {
+        "id": "scene-5",
+        "start": 50.526315789473685,
+        "end": 66.3157894736842,
+        "label": "写事实，保留感受"
+      },
+      {
+        "id": "scene-6",
+        "start": 66.3157894736842,
+        "end": 75.78947368421052,
+        "label": "谢谢你，刚好在"
+      }
+    ]
+  }
+]

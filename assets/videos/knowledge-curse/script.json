@@ -1,0 +1,145 @@
+{
+  "id": "knowledge-curse",
+  "title": "为什么你的「很简单」，别人听不懂？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "「很简单呀。」为什么对方更迷茫？",
+      "en": "“It is simple.” Why are they still lost?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "同一句话，两个世界"
+    },
+    {
+      "zh": "你说出口的，只是脑中地图的一角。",
+      "en": "Your words reveal only part of your map.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "信息更多，预测也会偏"
+    },
+    {
+      "zh": "1989 年，研究者考察知识诅咒。",
+      "en": "Researchers studied the curse of knowledge in 1989.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "信息更多，预测也会偏"
+    },
+    {
+      "zh": "实验比较信息更多与更少者。",
+      "en": "Experiments compared different information states.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "信息更多，预测也会偏"
+    },
+    {
+      "zh": "已知信息，可能影响对他人判断的预测。",
+      "en": "What we know can bias what we predict.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "信息更多，预测也会偏"
+    },
+    {
+      "zh": "熟练者说「按回家键」。",
+      "en": "The expert says: press home.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "你脑中有一张隐藏地图"
+    },
+    {
+      "zh": "新手只看到一个圆和一个三角。",
+      "en": "The newcomer sees a circle and a triangle.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "你脑中有一张隐藏地图"
+    },
+    {
+      "zh": "按钮顺序、灯光意义，都被省略了。",
+      "en": "The sequence and signals remain unstated.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "你脑中有一张隐藏地图"
+    },
+    {
+      "zh": "两人并不拥有相同的起点。",
+      "en": "They do not share the same starting point.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "你脑中有一张隐藏地图"
+    },
+    {
+      "zh": "等等，这不表示新手不够聪明。",
+      "en": "This does not mean the newcomer is less capable.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "没听懂，不等于笨"
+    },
+    {
+      "zh": "也不能据此认定所有专家都不会教。",
+      "en": "It does not mean all experts teach poorly.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "没听懂，不等于笨"
+    },
+    {
+      "zh": "信息差只是需要核对的一种解释。",
+      "en": "An information gap is one possible explanation.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "没听懂，不等于笨"
+    },
+    {
+      "zh": "先说具体动作，再给可见反馈。",
+      "en": "Give a concrete action and a visible signal.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "把省略的步骤补回来"
+    },
+    {
+      "zh": "请对方复述，看看缺的是哪一步。",
+      "en": "Invite a retelling to find a missing step.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "把省略的步骤补回来"
+    },
+    {
+      "zh": "复述检查说明，保留提问的余地。",
+      "en": "Use retelling to check the explanation.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "把省略的步骤补回来"
+    },
+    {
+      "zh": "沟通从对方能看见的地方开始。",
+      "en": "Start from what the other person can see.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "让理解，有可见的反馈"
+    },
+    {
+      "zh": "少一点「怎么还不懂」，多一点具体。",
+      "en": "Replace impatience with concrete detail.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "让理解，有可见的反馈"
+    },
+    {
+      "zh": "把地图摊开，我们就有机会同行。",
+      "en": "Open the map. Then we can walk together.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "让理解，有可见的反馈"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Camerer、Loewenstein 与 Weber：The Curse of Knowledge in Economic Settings（1989）",
+      "url": "https://doi.org/10.1086/261651",
+      "note": "原始经济实验。区分信息较多者与较少者，未直接检验本课机器人教学方案。"
+    },
+    {
+      "title": "Elizabeth Newton：The Rocky Road from Actions to Intentions（1990）",
+      "url": "https://gwern.net/doc/psychology/cognitive-bias/illusion-of-depth/1990-newton.pdf",
+      "note": "后续视角采择与敲节奏研究。论文不同位置计数口径有差别，本课不引用未经统一的百分比。"
+    }
+  ]
+}

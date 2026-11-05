@@ -1,0 +1,150 @@
+{
+  "id": "sleep",
+  "title": "睡觉，真的会耽误学习吗？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "多熬一小时，就多学一小时吗？",
+      "en": "Does an extra hour awake mean an extra hour learned?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "大脑，也需要夜晚"
+    },
+    {
+      "zh": "你可能还在看，注意却已经吃力。",
+      "en": "Your eyes may stay open while attention struggles.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "睡眠参与学习与记忆"
+    },
+    {
+      "zh": "睡眠科学关注睡与醒怎样协作。",
+      "en": "Sleep science examines waking and sleeping together.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "睡眠参与学习与记忆"
+    },
+    {
+      "zh": "权威综述把睡眠与学习、记忆相联系。",
+      "en": "Authoritative reviews link sleep with learning and memory.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "睡眠参与学习与记忆"
+    },
+    {
+      "zh": "夜晚不是把大脑直接关机。",
+      "en": "The brain does not simply switch off at night.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "睡眠参与学习与记忆"
+    },
+    {
+      "zh": "学习先要接触和理解材料。",
+      "en": "Learning begins with engaging with the material.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "先编码，再整理"
+    },
+    {
+      "zh": "睡眠参与之后的记忆相关过程。",
+      "en": "Sleep participates in later memory processes.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "先编码，再整理"
+    },
+    {
+      "zh": "白天的练习与夜间休息相互配合。",
+      "en": "Daytime practice and nightly rest work together.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "先编码，再整理"
+    },
+    {
+      "zh": "这座整理车站，是教学隐喻。",
+      "en": "This sorting station is a teaching metaphor.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "先编码，再整理"
+    },
+    {
+      "zh": "但是，睡一觉不会自动学会新知识。",
+      "en": "Sleep does not automatically teach new knowledge.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "睡眠不能替代学习"
+    },
+    {
+      "zh": "一次第二天状态，也不能证明因果。",
+      "en": "One better morning cannot establish causality.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "睡眠不能替代学习"
+    },
+    {
+      "zh": "不同年龄，睡眠需要也会不同。",
+      "en": "Sleep needs vary across ages.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "睡眠不能替代学习"
+    },
+    {
+      "zh": "复习挑重点，给休息留出时间。",
+      "en": "Prioritize revision and leave time for rest.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "给复习和休息都留位置"
+    },
+    {
+      "zh": "早上再回想，核对昨天的理解。",
+      "en": "Recall and check your understanding in the morning.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "给复习和休息都留位置"
+    },
+    {
+      "zh": "持续睡眠困扰，可向可靠成人求助。",
+      "en": "Seek appropriate support for persistent sleep trouble.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "给复习和休息都留位置"
+    },
+    {
+      "zh": "身体需要休息，不是学习的背叛。",
+      "en": "Resting the body is compatible with learning.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "把夜晚，还给身体"
+    },
+    {
+      "zh": "给计划留空白，也是在照顾下一步。",
+      "en": "Space in a plan can support the next step.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "把夜晚，还给身体"
+    },
+    {
+      "zh": "让白天与夜晚，完成各自的工作。",
+      "en": "Let day and night do their different work.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "把夜晚，还给身体"
+    }
+  ],
+  "sources": [
+    {
+      "title": "NINDS：Understanding Sleep",
+      "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf",
+      "note": "官方科普，说明睡眠阶段、学习记忆及睡眠健康。"
+    },
+    {
+      "title": "NICHD：What happens during sleep?",
+      "url": "https://www.nichd.nih.gov/health/topics/sleep/conditioninfo/Pages/what-happens.aspx",
+      "note": "解释睡眠阶段与学习、记忆、表现的关系。"
+    },
+    {
+      "title": "CDC：About Sleep，按年龄的睡眠建议",
+      "url": "https://www.cdc.gov/sleep/about/index.html",
+      "note": "补充年龄相关建议；不能把成人睡眠时长直接套给儿童。"
+    }
+  ]
+}

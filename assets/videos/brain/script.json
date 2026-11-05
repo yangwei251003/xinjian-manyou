@@ -1,0 +1,145 @@
+{
+  "id": "brain",
+  "title": "脑袋里，真有一个数学按钮吗？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "脑区亮了，就能看穿你在想什么？",
+      "en": "Can an active brain region reveal a thought?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "亮起来，就知道想什么？"
+    },
+    {
+      "zh": "一张彩图，可能比结论更抢眼。",
+      "en": "A colorful image can outshine its evidence.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "脑成像，依赖任务比较"
+    },
+    {
+      "zh": "2006 年，Poldrack讨论反向推断。",
+      "en": "Poldrack examined reverse inference in 2006.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "脑成像，依赖任务比较"
+    },
+    {
+      "zh": "观察活动，再推测心理过程，需要条件。",
+      "en": "Inferring a process from activity needs evidence.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "脑成像，依赖任务比较"
+    },
+    {
+      "zh": "同一区域，可能参与多种任务。",
+      "en": "One region may participate in many tasks.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "脑成像，依赖任务比较"
+    },
+    {
+      "zh": "想想乐队，不同声部一起工作。",
+      "en": "Think of an orchestra working together.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "多区域参与，多过程关联"
+    },
+    {
+      "zh": "某个声部响起，不只对应一首曲子。",
+      "en": "One instrument can belong to many pieces.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "多区域参与，多过程关联"
+    },
+    {
+      "zh": "任务、比较条件和模式，都提供信息。",
+      "en": "Tasks, comparisons and patterns provide information.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "多区域参与，多过程关联"
+    },
+    {
+      "zh": "连线只是功能关系的教学示意。",
+      "en": "The lines are a functional teaching schematic.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "多区域参与，多过程关联"
+    },
+    {
+      "zh": "所以「亮了」不是读心的充分证据。",
+      "en": "Activity alone is not enough for mind-reading.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "亮点不能单独读心"
+    },
+    {
+      "zh": "这也不表示脑成像没有价值。",
+      "en": "That does not make brain imaging valueless.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "亮点不能单独读心"
+    },
+    {
+      "zh": "更有依据的解释，需要更多比较。",
+      "en": "Better inference needs more comparisons.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "亮点不能单独读心"
+    },
+    {
+      "zh": "看脑科学标题，先找研究做了什么。",
+      "en": "Ask what participants actually did.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "先问任务，再问比较"
+    },
+    {
+      "zh": "再问，这张图和哪种条件比较？",
+      "en": "Ask what condition the image was compared with.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "先问任务，再问比较"
+    },
+    {
+      "zh": "艺术脑网络，不是真实医学影像。",
+      "en": "This artistic network is not a medical scan.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "先问任务，再问比较"
+    },
+    {
+      "zh": "复杂的你，很难由一个按钮概括。",
+      "en": "A single switch cannot summarize a person.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "看见网络，也看见边界"
+    },
+    {
+      "zh": "给惊艳的画面，配上完整的问题。",
+      "en": "Pair a striking image with careful questions.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "看见网络，也看见边界"
+    },
+    {
+      "zh": "理解大脑，也包括理解证据的边界。",
+      "en": "Knowing the brain includes knowing evidential limits.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "看见网络，也看见边界"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Poldrack：Can cognitive processes be inferred from neuroimaging data?（2006）",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16406760/",
+      "note": "讨论反向推断所需的证据及限制。"
+    },
+    {
+      "title": "Poldrack：From reverse inference to large-scale decoding（2011）",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3240863/",
+      "note": "解释概率性推断与多变量解码，而非把脑图当读心术。"
+    }
+  ]
+}

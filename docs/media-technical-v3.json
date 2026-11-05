@@ -1,0 +1,758 @@
+[
+  {
+    "id": "attention",
+    "bytes": 18663835,
+    "sha256": "68ad8ea08efcebfa1f876b03dc75d592a1f9b4906e9980107d65fd8eab5b8f82",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.7,
+      "true_peak_dbfs": -11.0
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "memory",
+    "bytes": 15866089,
+    "sha256": "8187f2d5fa80170166a2a9c22a44cba1ed880adce1dd1d7d5ac651a32f37dfa2",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.8,
+      "true_peak_dbfs": -10.2
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "metacognition",
+    "bytes": 14756672,
+    "sha256": "92a0aaff97745c3e875a255a7ee1458d22bdf904eafbced91f20e0cb3d6dcad0",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.4,
+      "true_peak_dbfs": -10.4
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "sleep",
+    "bytes": 15685499,
+    "sha256": "daf4bc44dde36d83cbb64a2f04fe311d72460c143a742c42fa4485007c624c97",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -23.2,
+      "true_peak_dbfs": -11.1
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "stress",
+    "bytes": 16096936,
+    "sha256": "fc0c3176b5fc82b1c12cddf5dcdd81e25b7a08fcb98945d646c4596525dc37df",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.6,
+      "true_peak_dbfs": -10.3
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "brain",
+    "bytes": 16940374,
+    "sha256": "9e97c9c7c9722bf062698c51b7d5735f15b2b3cac62555bd5359a80389830cf5",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -23.1,
+      "true_peak_dbfs": -10.7
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "emotions",
+    "bytes": 16082656,
+    "sha256": "29415510b80dbcd6f0f13cec1529db279d2191f9b6076a14256a8ec59019dda0",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.1,
+      "true_peak_dbfs": -10.7
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "reappraisal",
+    "bytes": 14637801,
+    "sha256": "ade7276e13a379bc57e57fe9687025f330c3fa4df942ee31377d60cfda2849ce",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.6,
+      "true_peak_dbfs": -10.2
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "habits",
+    "bytes": 15480233,
+    "sha256": "eb36b98e0a0fa53ef5930e879941d02392404fc56ed17d504f63478aab6c184d",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.8,
+      "true_peak_dbfs": -10.9
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "personality",
+    "bytes": 14641405,
+    "sha256": "dfbf34e394073aeba6285bd2f8ba2dbb8343c1c177fd2245e7f03573020a5d76",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.5,
+      "true_peak_dbfs": -10.5
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "comparison",
+    "bytes": 14348289,
+    "sha256": "2e43bc4aeb31850f1961004543591f9b6419f3af76416701921376fdcba0fcb8",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -23.3,
+      "true_peak_dbfs": -11.1
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "attachment",
+    "bytes": 16963609,
+    "sha256": "7262678f7858994b977672727fc62ec91134e997f2975c5be41efc45ea9850ce",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.6,
+      "true_peak_dbfs": -10.1
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "attribution",
+    "bytes": 14568586,
+    "sha256": "78bfa46c9564c05ac3ab5b00b8f5f43eb3a63d4c4556c9315d301e43caab3fb6",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -23.1,
+      "true_peak_dbfs": -11.1
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "conformity",
+    "bytes": 14697513,
+    "sha256": "46062f0af87da76c9939d64475962719bfbb746f7601a15d91f351af729ba25a",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.2,
+      "true_peak_dbfs": -10.8
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "listening",
+    "bytes": 14726322,
+    "sha256": "f8b15f6219a51b76f8cf45aee23d593c28d213ea44b7bdef6d2c124a62ff6316",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.7,
+      "true_peak_dbfs": -10.9
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "framing",
+    "bytes": 15929254,
+    "sha256": "25dbbac5f10fbc16b85b0aec1d872f5a3e5ad9ddd123091350d9a476221059d4",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.8,
+      "true_peak_dbfs": -10.4
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "sunk-cost",
+    "bytes": 15000140,
+    "sha256": "f5ecee96eb6fc8294a974920593d3affd5bf464ee54352a2ed69ea92ddf55beb",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.4,
+      "true_peak_dbfs": -10.5
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "retrieval",
+    "bytes": 15720676,
+    "sha256": "8d483aa80f4226030abb83427a518b94c82cef53562b3c5b193f3976f48f1795",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -23.2,
+      "true_peak_dbfs": -11.4
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "help-seeking",
+    "bytes": 15738245,
+    "sha256": "898b08318365d4f587f1cf7811f050614bd9aa7f75cb4c28e4571fd2f83a5b1d",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.5,
+      "true_peak_dbfs": -11.3
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "boundaries",
+    "bytes": 14167068,
+    "sha256": "9df1fb02efa87aacc7da11308ce5a50fb81ee719ae3b03440ef6ae824fcb1921",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -23.2,
+      "true_peak_dbfs": -11.0
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "support",
+    "bytes": 17326823,
+    "sha256": "febd140d1d6736419b0780867f860665a424d0b692fb2268af1649aa5975f56e",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.2,
+      "true_peak_dbfs": -10.0
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "correlation",
+    "bytes": 15278830,
+    "sha256": "04c1beea8da659eb18872acba7c43c79d4b25822e8ff288e83aad0425a1cb89a",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.7,
+      "true_peak_dbfs": -10.3
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "sampling",
+    "bytes": 19778382,
+    "sha256": "0b5e790948876ef40a57133d9066eafef1c2f75d50805c66ba9f7e512a338dba",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.9,
+      "true_peak_dbfs": -11.1
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "replication",
+    "bytes": 14691974,
+    "sha256": "39af7c5225983a0ebb17f3606288dc4494f8cc9aa6a418a2eddb70041baf752a",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.4,
+      "true_peak_dbfs": -10.2
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "knowledge-curse",
+    "bytes": 15488038,
+    "sha256": "9df95ed68bac1281402348e95a9d225ca56a642472058f6a314c84590ec8f603",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -23.2,
+      "true_peak_dbfs": -10.2
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "confirmation-bias",
+    "bytes": 14427370,
+    "sha256": "027d506a9845dbae891f3c72d7b80a183746ac80bd17c8e5dab7871ef56e5752",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.5,
+      "true_peak_dbfs": -10.2
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "test-validity",
+    "bytes": 14773389,
+    "sha256": "cdff22afbb3082da274ea30e341957c41678b66636b0928f10aab9bc9711ab78",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -23.2,
+      "true_peak_dbfs": -10.2
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  },
+  {
+    "id": "gratitude",
+    "bytes": 15392838,
+    "sha256": "3da10530adffcf4f2f484957f72a871200184354371ce5ed86df8f70ef6e9d3e",
+    "width": 1920,
+    "height": 1080,
+    "fps": "60/1",
+    "frames": 4548,
+    "duration": 75.8,
+    "audio": {
+      "codec": "AAC",
+      "sample_rate": 48000,
+      "channels": 2,
+      "lufs": -22.2,
+      "true_peak_dbfs": -9.4
+    },
+    "full_decode": "pass",
+    "sample_times": [
+      0.9,
+      8,
+      27,
+      44,
+      58,
+      72
+    ],
+    "review": "contact sheet prepared; continuous visual and listening review tracked separately"
+  }
+]

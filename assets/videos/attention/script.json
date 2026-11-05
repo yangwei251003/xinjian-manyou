@@ -1,0 +1,150 @@
+{
+  "id": "attention",
+  "title": "你看见了多少，又漏掉了什么？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "盯住圆形。你会漏掉什么？",
+      "en": "Look for circles. What slips away?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "注意，像一束光"
+    },
+    {
+      "zh": "先记住你刚才的任务。",
+      "en": "Remember what you were looking for.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "带着任务看世界"
+    },
+    {
+      "zh": "1999 年，研究者让人专注数传球。",
+      "en": "In 1999, viewers counted basketball passes.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "带着任务看世界"
+    },
+    {
+      "zh": "部分观众没有报告意外出现的角色。",
+      "en": "Some missed an unexpected visitor.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "带着任务看世界"
+    },
+    {
+      "zh": "这是不注意盲视研究的经典示范。",
+      "en": "A classic study of inattentional blindness.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "带着任务看世界"
+    },
+    {
+      "zh": "看见，是眼睛和任务一起工作的结果。",
+      "en": "Seeing depends on both eyes and task.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "同一画面，不同目标"
+    },
+    {
+      "zh": "目标让部分信息更容易被选中。",
+      "en": "A goal gives some information priority.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "同一画面，不同目标"
+    },
+    {
+      "zh": "其他细节仍在，却可能没被报告。",
+      "en": "Other details may remain unreported.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "同一画面，不同目标"
+    },
+    {
+      "zh": "这束光，是注意选择的教学比喻。",
+      "en": "The spotlight is a teaching metaphor.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "同一画面，不同目标"
+    },
+    {
+      "zh": "等等，漏看不说明你不在乎。",
+      "en": "Missing something does not prove indifference.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "漏看 ≠ 不在乎"
+    },
+    {
+      "zh": "一次体验也不能说明注意力好坏。",
+      "en": "One trial cannot rank your attention.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "漏看 ≠ 不在乎"
+    },
+    {
+      "zh": "换任务再找，已不再是相同条件。",
+      "en": "A second search is a different condition.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "漏看 ≠ 不在乎"
+    },
+    {
+      "zh": "朋友没发现你的新发型，也许正在赶路。",
+      "en": "A busy friend may miss a new haircut.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "先问正在找什么"
+    },
+    {
+      "zh": "先问他刚才关注什么，再补信息。",
+      "en": "Ask what held their attention.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "先问正在找什么"
+    },
+    {
+      "zh": "词义干扰是另一种任务，课页可继续体验。",
+      "en": "Word–color interference is a separate task.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "先问正在找什么"
+    },
+    {
+      "zh": "愿意多看一眼，也给别人一次解释。",
+      "en": "Look again. Leave room for an explanation.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "把光，再移开一点"
+    },
+    {
+      "zh": "理解注意有限，让提醒变得具体。",
+      "en": "Limited attention calls for clear reminders.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "把光，再移开一点"
+    },
+    {
+      "zh": "把光移开一点，世界就多一块。",
+      "en": "Shift the light. Discover another piece.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "把光，再移开一点"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Simons 与 Chabris：Gorillas in our midst（1999）",
+      "url": "https://doi.org/10.1068/p281059",
+      "note": "原始不注意盲视研究，支持任务与意外目标报告之间的关系。"
+    },
+    {
+      "title": "Daniel Simons：研究论文与示范资料",
+      "url": "https://www.dansimons.com/research.html",
+      "note": "研究者资料入口，可进一步了解注意、视觉记忆与变化盲视。"
+    },
+    {
+      "title": "Stroop：Studies of Interference in Serial Verbal Reactions（1935）",
+      "url": "https://psychclassics.yorku.ca/Stroop/",
+      "note": "词义干扰与印刷颜色命名的原始研究。网页12张卡是简化教学活动，不是标准化测验，也与不注意盲视的任务不同。"
+    }
+  ]
+}

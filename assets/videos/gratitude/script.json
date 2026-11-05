@@ -1,0 +1,145 @@
+{
+  "id": "gratitude",
+  "title": "糟糕的一天，还能写下什么？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "今天太糟了，日记只能画个句号？",
+      "en": "A terrible day. Is there nothing else to write?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "今天很难，也有一把伞"
+    },
+    {
+      "zh": "难过可以保留，支持也可以被记住。",
+      "en": "Keep the difficulty. Notice the support too.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "感恩记录，与主观福祉"
+    },
+    {
+      "zh": "2003 年，研究者比较不同记录活动。",
+      "en": "A 2003 study compared different journaling activities.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "感恩记录，与主观福祉"
+    },
+    {
+      "zh": "感恩、烦恼或普通事件，放进不同条件。",
+      "en": "Conditions focused on blessings, hassles or everyday events.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "感恩记录，与主观福祉"
+    },
+    {
+      "zh": "研究考察多项情感与福祉结果。",
+      "en": "Several affect and well-being outcomes were examined.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "感恩记录，与主观福祉"
+    },
+    {
+      "zh": "先如实写下，发生了什么。",
+      "en": "First record what actually happened.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "记录困难，也记录具体支持"
+    },
+    {
+      "zh": "再看有没有一件具体帮到你的事。",
+      "en": "Notice one specific thing that helped.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "记录困难，也记录具体支持"
+    },
+    {
+      "zh": "可能是一把伞，也可能是安静陪伴。",
+      "en": "It might be an umbrella or quiet company.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "记录困难，也记录具体支持"
+    },
+    {
+      "zh": "困难和支持，可以写在同一页。",
+      "en": "Difficulty and support can share one page.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "记录困难，也记录具体支持"
+    },
+    {
+      "zh": "研究中的部分改善，不保证每个人有效。",
+      "en": "Some group benefits do not guarantee individual benefits.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "效果因人而异，练习可以选择"
+    },
+    {
+      "zh": "也不能要求你感谢伤害自己的人。",
+      "en": "You need not thank someone for harming you.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "效果因人而异，练习可以选择"
+    },
+    {
+      "zh": "感恩记录，不是治疗的替代。",
+      "en": "Gratitude journaling does not replace treatment.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "效果因人而异，练习可以选择"
+    },
+    {
+      "zh": "愿意的话，写谁做了什么、怎样帮到你。",
+      "en": "If you wish, record who helped, how and when.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "写事实，保留感受"
+    },
+    {
+      "zh": "仍未解决的问题，也照实写下来。",
+      "en": "Keep the unresolved problems in the account.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "写事实，保留感受"
+    },
+    {
+      "zh": "感觉勉强或无帮助，可以调整或停下。",
+      "en": "Adjust or stop if it feels burdensome or unhelpful.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "写事实，保留感受"
+    },
+    {
+      "zh": "今天仍然很难，不必假装已经变晴。",
+      "en": "The day can remain hard without pretending otherwise.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "谢谢你，刚好在"
+    },
+    {
+      "zh": "只是那把伞，也曾真实地出现。",
+      "en": "The umbrella was real as well.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "谢谢你，刚好在"
+    },
+    {
+      "zh": "谢谢你，刚好在。",
+      "en": "Thank you for being there.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "谢谢你，刚好在"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Emmons 与 McCullough：Counting Blessings Versus Burdens（2003）",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12585811/",
+      "note": "多项感恩记录实验的原始摘要。支持的是特定人群、活动与指标中的差异。"
+    },
+    {
+      "title": "Noba：Happiness — The Science of Subjective Well-Being",
+      "url": "https://nobaproject.com/modules/happiness-the-science-of-subjective-well-being",
+      "note": "福祉研究的教材背景，介绍测量、相关因素与不同层次的幸福感。"
+    }
+  ]
+}

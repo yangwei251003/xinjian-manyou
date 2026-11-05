@@ -1,0 +1,145 @@
+{
+  "id": "sunk-cost",
+  "title": "已经花了两小时，就一定要继续？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "已经做了两小时，现在停下就亏了？",
+      "en": "Two hours spent. Is stopping necessarily a waste?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "过去的投入，拉住了谁？"
+    },
+    {
+      "zh": "过去的投入，可能拉着你往前走。",
+      "en": "Past investment can pull a decision forward.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "沉没成本，与继续选择"
+    },
+    {
+      "zh": "1985 年，Arkes与Blumer研究沉没成本。",
+      "en": "Arkes and Blumer studied sunk cost in 1985.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "沉没成本，与继续选择"
+    },
+    {
+      "zh": "实验考察已投入资源对继续选择的影响。",
+      "en": "They examined how prior investment affects continuation.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "沉没成本，与继续选择"
+    },
+    {
+      "zh": "群体倾向，不是每个人固定的缺点。",
+      "en": "A group tendency is not an individual destiny.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "沉没成本，与继续选择"
+    },
+    {
+      "zh": "已经无法收回的时间，留在过去。",
+      "en": "Irrecoverable time remains in the past.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "过去拿不回，未来还可比较"
+    },
+    {
+      "zh": "现在还能选择的是下一段资源。",
+      "en": "The next resources are still available to choose.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "过去拿不回，未来还可比较"
+    },
+    {
+      "zh": "继续和改变，各有什么未来得失？",
+      "en": "What future gains and costs follow each option?",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "过去拿不回，未来还可比较"
+    },
+    {
+      "zh": "把两条时间线分开，才看得更清楚。",
+      "en": "Separate past and future to compare them.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "过去拿不回，未来还可比较"
+    },
+    {
+      "zh": "但沉没成本，不等于所有投入都没用。",
+      "en": "Sunk cost does not mean every investment is useless.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "停止不总对，坚持也需理由"
+    },
+    {
+      "zh": "技能、退费与承诺，可能影响未来。",
+      "en": "Skills, refunds and commitments may affect the future.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "停止不总对，坚持也需理由"
+    },
+    {
+      "zh": "停下或坚持，都需要具体理由。",
+      "en": "Stopping and continuing both need reasons.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "停止不总对，坚持也需理由"
+    },
+    {
+      "zh": "纸城堡可缩小，也可以改成街区。",
+      "en": "A paper castle can shrink or become a neighborhood.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "比较下一段时间的得失"
+    },
+    {
+      "zh": "比较明天的用途，而不只数昨天的小时。",
+      "en": "Compare tomorrow’s use, not only yesterday’s hours.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "比较下一段时间的得失"
+    },
+    {
+      "zh": "真实选择，还要考虑安全与责任。",
+      "en": "Real decisions include safety and responsibility.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "比较下一段时间的得失"
+    },
+    {
+      "zh": "承认付出，不必让它替你决定全部。",
+      "en": "Honor the effort without letting it decide everything.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "让未来，成为选择的方向"
+    },
+    {
+      "zh": "留下经验，把方向交还给未来。",
+      "en": "Keep the experience. Let the future guide the direction.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "让未来，成为选择的方向"
+    },
+    {
+      "zh": "下一步，仍然属于可以选择的你。",
+      "en": "The next step is still yours to consider.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "让未来，成为选择的方向"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Arkes 与 Blumer：The Psychology of Sunk Cost",
+      "url": "https://www.sciencedirect.com/science/article/pii/0749597885900494",
+      "note": "沉没成本效应的经典实验与现场研究。"
+    },
+    {
+      "title": "Thorsteinson 与 Billings：Progress Decisions Involving Time: Sunk Cost or Completion Effects",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/bdm.2405",
+      "note": "2024 年研究区分时间投入与完成进度，显示效应大小及任务差异。"
+    }
+  ]
+}

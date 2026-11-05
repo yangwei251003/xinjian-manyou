@@ -1,0 +1,412 @@
+{
+  "branches": [
+    {
+      "id": "cognitive",
+      "name": "认知心理学",
+      "description": "注意、记忆、思考与元认知。"
+    },
+    {
+      "id": "social",
+      "name": "社会心理学",
+      "description": "他人、群体与情境怎样影响判断和行动。"
+    },
+    {
+      "id": "developmental",
+      "name": "发展心理学",
+      "description": "心理与关系怎样随成长和经历变化。"
+    },
+    {
+      "id": "personality",
+      "name": "人格心理学",
+      "description": "个体差异、特质及人与情境的交互。"
+    },
+    {
+      "id": "biological",
+      "name": "生理心理学",
+      "description": "睡眠、身体状态与心理活动的联系。"
+    },
+    {
+      "id": "neuroscience",
+      "name": "认知神经科学",
+      "description": "脑网络如何参与感知、记忆与行动。"
+    },
+    {
+      "id": "affective",
+      "name": "情绪心理学",
+      "description": "身体、情境、解释与情绪调节。"
+    },
+    {
+      "id": "behavioral",
+      "name": "学习与行为心理学",
+      "description": "经验、环境线索与行为改变。"
+    },
+    {
+      "id": "educational",
+      "name": "教育心理学",
+      "description": "理解、提取、反馈与有效学习。"
+    },
+    {
+      "id": "decision",
+      "name": "决策与行为经济学",
+      "description": "选择、风险、框架与投入。"
+    },
+    {
+      "id": "health",
+      "name": "健康心理学",
+      "description": "压力、日常健康行为与社会支持。"
+    },
+    {
+      "id": "clinical",
+      "name": "临床心理学",
+      "description": "认识困扰、求助与专业评估的边界。"
+    },
+    {
+      "id": "counseling",
+      "name": "咨询与沟通心理学",
+      "description": "倾听、边界与支持关系。"
+    },
+    {
+      "id": "methods",
+      "name": "实验方法与心理测量",
+      "description": "研究设计、样本、因果与重复检验。"
+    },
+    {
+      "id": "organizational",
+      "name": "组织与管理心理学",
+      "description": "团队、任务设计与组织中的行为；本版可从合作案例延伸。"
+    },
+    {
+      "id": "consumer",
+      "name": "消费心理学",
+      "description": "传播、产品与购买情境；本版可从框架与选择延伸。"
+    },
+    {
+      "id": "evolutionary",
+      "name": "进化心理学",
+      "description": "心理机制的演化假说；本版尚无完整专课。"
+    },
+    {
+      "id": "positive",
+      "name": "积极心理学",
+      "description": "意义、优势与福祉研究。可从感恩记录入门，区分组间研究结果与个人体验。"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "school",
+      "name": "校园合作",
+      "description": "展示、分工、讨论和共同完成任务。"
+    },
+    {
+      "id": "learning",
+      "name": "学习与考试",
+      "description": "理解、记忆、练习和准备。"
+    },
+    {
+      "id": "friendship",
+      "name": "朋友相处",
+      "description": "误会、倾听、分歧与支持。"
+    },
+    {
+      "id": "home",
+      "name": "家庭与日常",
+      "description": "作息、照顾者、习惯与沟通。"
+    },
+    {
+      "id": "self",
+      "name": "认识自己",
+      "description": "倾向、比较与成长中的感受。"
+    },
+    {
+      "id": "choices",
+      "name": "做出选择",
+      "description": "看懂描述、资源和未来代价。"
+    },
+    {
+      "id": "support",
+      "name": "遇到困扰",
+      "description": "向可靠成人和合适专业资源求助。"
+    },
+    {
+      "id": "science",
+      "name": "科学小侦探",
+      "description": "检查证据、样本与其他解释。"
+    }
+  ],
+  "experiments": [
+    {
+      "id": "inattentional-blindness",
+      "name": "不注意盲视：任务之外的目标",
+      "type": "经典研究导览",
+      "lessonIds": [
+        "attention"
+      ],
+      "question": "专注特定任务时，会不会漏报意外出现的目标？",
+      "procedure": "研究让参与者完成关注特定对象的任务，再询问是否注意到意外目标。网页活动只演示目标选择，不直接复刻原实验。",
+      "finding": "在特定条件下，一部分参与者没有报告醒目的意外目标。",
+      "limits": "知道目标后再次观看不再是相同条件；一次漏报不测智力、人格或疾病。",
+      "source": {
+        "title": "Simons & Chabris（1999）Gorillas in our midst",
+        "url": "https://doi.org/10.1068/p281059"
+      }
+    },
+    {
+      "id": "misinformation",
+      "name": "提问措辞与重建记忆",
+      "type": "经典研究导览",
+      "lessonIds": [
+        "memory"
+      ],
+      "question": "事件之后听到的措辞，会不会影响之后的判断和报告？",
+      "procedure": "Loftus 与 Palmer 的研究在观看交通事件后改变询问速度的动词，并比较报告；本馆不让儿童观看事故材料或诱导个人记忆。",
+      "finding": "特定问法影响了速度估计，部分后续细节报告也出现差异。",
+      "limits": "不是任何提问都制造记忆，也不能用来否定真实经历或指控撒谎。",
+      "source": {
+        "title": "Loftus & Palmer（1974）Reconstruction of automobile destruction",
+        "url": "https://doi.org/10.1016/S0022-5371(74)80011-3"
+      }
+    },
+    {
+      "id": "retrieval-practice",
+      "name": "提取练习与延迟记忆",
+      "type": "研究机制与教学练习",
+      "lessonIds": [
+        "retrieval",
+        "metacognition"
+      ],
+      "question": "只重读与尝试回忆，对过一段时间的保持有什么区别？",
+      "procedure": "相关研究比较重复学习、提取及反馈等安排，再用延迟测验考察记忆。本站的短练习没有随机分组与延迟对照。",
+      "finding": "研究综述支持提取练习对许多学习材料保持的价值，反馈和任务安排很重要。",
+      "limits": "一次网页体验不能证明长期收益，纯背诵也不能保证理解迁移。",
+      "source": {
+        "title": "McDermott（2021）Practicing Retrieval Facilitates Learning",
+        "url": "https://doi.org/10.1146/annurev-psych-010419-051019"
+      }
+    },
+    {
+      "id": "conformity-lines",
+      "name": "线段判断与群体影响",
+      "type": "经典研究导览",
+      "lessonIds": [
+        "conformity"
+      ],
+      "question": "多数人的公开答案会怎样影响自己的公开判断？",
+      "procedure": "经典线段任务比较个人判断与群体一致回答情境。本站不安排真人共谋或给用户施加群体压力。",
+      "finding": "群体情境可影响公开回答；信息性与规范性影响需要区分。",
+      "limits": "效果因任务、文化和关系变化。漫画纸带比较只是教学故事，不是原实验复现。",
+      "source": {
+        "title": "OpenStax Psychology 2e：Conformity, Compliance, and Obedience",
+        "url": "https://openstax.org/books/psychology-2e/pages/12-4-conformity-compliance-and-obedience"
+      }
+    },
+    {
+      "id": "decision-framing",
+      "name": "等价选项的不同框架",
+      "type": "经典研究导览",
+      "lessonIds": [
+        "framing"
+      ],
+      "question": "强调得到与失去，会不会改变对等价选项的偏好？",
+      "procedure": "经典研究给不同组呈现经过设计的等价决策描述，比较选择。本站用贴纸等低风险示例讲解。",
+      "finding": "在一些受控任务中，表述方式会影响群体偏好。",
+      "limits": "不同分母、成本或时间不算等价；一次选择不评定理性或人格。",
+      "source": {
+        "title": "Tversky & Kahneman（1981）The Framing of Decisions and the Psychology of Choice",
+        "url": "https://doi.org/10.1126/science.7455683"
+      }
+    },
+    {
+      "id": "sunk-cost-decisions",
+      "name": "已经付出与继续选择",
+      "type": "经典研究导览",
+      "lessonIds": [
+        "sunk-cost"
+      ],
+      "question": "不可收回的投入会不会影响继续行动的倾向？",
+      "procedure": "研究用不同已投入条件比较后续选择。漫画把问题改写成模型制作，而非真实金钱实验。",
+      "finding": "过去投入在部分任务中影响继续倾向，即使它无法由当前选择收回。",
+      "limits": "可复用成果、退款、承诺和未来成本仍应纳入判断。",
+      "source": {
+        "title": "Arkes & Blumer（1985）The Psychology of Sunk Cost",
+        "url": "https://www.sciencedirect.com/science/article/pii/0749597885900494"
+      }
+    },
+    {
+      "id": "habit-formation",
+      "name": "习惯自动性如何逐渐变化",
+      "type": "纵向观察研究",
+      "lessonIds": [
+        "habits"
+      ],
+      "question": "稳定情境下的重复，是否逐渐与自动性有关？",
+      "procedure": "Lally 等追踪日常行为的重复与自我报告自动性，而非给所有人一个固定截止日。",
+      "finding": "变化速度存在较大个体差异；固定“二十一天”规则不由该研究支持。",
+      "limits": "特定样本、行为、自我报告和拟合方法限制推广；不是成瘾治疗。",
+      "source": {
+        "title": "Lally 等（2010）How are habits formed?",
+        "url": "https://doi.org/10.1002/ejsp.674"
+      }
+    },
+    {
+      "id": "attachment-secure-base",
+      "name": "依恋中的安全基地与探索",
+      "type": "理论与观察方法导览",
+      "lessonIds": [
+        "attachment"
+      ],
+      "question": "可靠的照顾与回应怎样支持寻求安慰和继续探索？",
+      "procedure": "依恋研究使用多种适龄观察和测量方法；婴幼儿程序不能直接搬到青少年网页。本站只讲支持与探索，不安排分离诱导。",
+      "finding": "依恋理论为理解照顾关系与探索提供框架，但不能从单次故事分类个人。",
+      "limits": "不同年龄和测量的含义不相同，不以短测倒推童年、预测命运。",
+      "source": {
+        "title": "R. Chris Fraley：Attachment Through the Life Course",
+        "url": "https://nobaproject.com/modules/attachment-through-the-life-course"
+      }
+    },
+    {
+      "id": "sampling-simulation",
+      "name": "同一总体，不同抽样入口",
+      "type": "明确标注的模拟",
+      "lessonIds": [
+        "sampling"
+      ],
+      "question": "从不同位置抽取样本，结果可能怎样偏离总体？",
+      "procedure": "比较页面中两组预设的二十人模拟样本，观察抽样入口改变时结果怎样不同；再讨论哪些人可能没有被覆盖。页面不展示真实学生总体。",
+      "finding": "抽样入口与回应过程影响能否代表目标总体。",
+      "limits": "模拟比例由作者预设，不是随机抽样实测或真实学生调查，也不能用两组样本确定真实总体比例。",
+      "source": {
+        "title": "Penn State STAT 500：Lesson 1",
+        "url": "https://online.stat.psu.edu/stat500/Lesson01"
+      }
+    },
+    {
+      "id": "causal-diagrams",
+      "name": "相关背后的候选共同原因",
+      "type": "机制示意",
+      "lessonIds": [
+        "correlation"
+      ],
+      "question": "X影响Y、Y影响X与Z同时影响二者，如何区分？",
+      "procedure": "观察页面的示意散点，再揭示可能同时影响两个变量的共同因素。正文进一步介绍反向关系与研究设计；页面不模拟真实因果效应。",
+      "finding": "相关可以提出问题，但单独不能确定箭头方向或排除共同原因。",
+      "limits": "画出一个箭头不等于验证它；统计控制也不自动解决所有未测量混杂。",
+      "source": {
+        "title": "Australian Bureau of Statistics：Correlation and causation",
+        "url": "https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation"
+      }
+    },
+    {
+      "id": "reproducibility-project",
+      "name": "一次发现之后：重复与累积",
+      "type": "科学方法项目导览",
+      "lessonIds": [
+        "replication"
+      ],
+      "question": "一批研究用新数据再检验，会怎样改变对证据的理解？",
+      "procedure": "Open Science Collaboration 对选定心理学研究开展重复，比较效应与不确定性等；本站幸运笔故事不是正式研究复现。",
+      "finding": "结果提醒研究者改善设计、报告、材料共享和证据累积。",
+      "limits": "该项目覆盖特定研究，不能把比例当作整个心理学真假率。不重现不自动等于造假。",
+      "source": {
+        "title": "Open Science Collaboration（2015）Estimating the reproducibility of psychological science",
+        "url": "https://doi.org/10.1126/science.aac4716"
+      }
+    },
+    {
+      "id": "stroop-interference",
+      "name": "词义与印刷颜色的竞争",
+      "lessonIds": [
+        "attention"
+      ],
+      "type": "经典研究与简化教学",
+      "question": "为什么看到字义，会影响报告颜色？",
+      "procedure": "Stroop在1935年的系列任务比较颜色命名、读词及冲突材料。本站把印刷颜色作答改为12张小卡。",
+      "finding": "词义与颜色命名之间可能出现不对称干扰，需结合任务比较。",
+      "limits": "短任务没有常模或足够重复，不能评价个人注意能力。找图形和不注意盲视属于不同问题。",
+      "source": {
+        "title": "Stroop（1935）",
+        "url": "https://psychclassics.yorku.ca/Stroop/"
+      }
+    },
+    {
+      "id": "attribute-framing",
+      "name": "同一属性的互补表达",
+      "lessonIds": [
+        "framing"
+      ],
+      "type": "经典研究与教学示意",
+      "question": "同一比例，为什么感觉不同？",
+      "procedure": "Levin与Gaeth在1988年研究属性信息表达对评价的影响。本站用贴纸概率与幼苗比例作教学示意。",
+      "finding": "互补表达可能改变注意与评价，但对象、体验和任务也会影响结果。",
+      "limits": "属性框架与比较确定性和概率结果的风险选择框架不同，不能把切换措辞当作原实验复现。",
+      "source": {
+        "title": "Levin 与 Gaeth（1988）",
+        "url": "https://doi.org/10.1086/209174"
+      }
+    },
+    {
+      "id": "curse-information",
+      "name": "知识较多者如何预测别人",
+      "lessonIds": [
+        "knowledge-curse"
+      ],
+      "type": "原始经济实验与生活迁移",
+      "question": "知道答案以后，能轻易设想别人不知道吗？",
+      "procedure": "Camerer、Loewenstein与Weber在1989年的经济实验中比较信息条件，考察信息更多者预测信息较少者判断的表现。",
+      "finding": "已经掌握的信息可能影响对较少信息者判断的估计。",
+      "limits": "结果依赖具体任务。机器人故事、敲旋律研究和经济实验各有语境，不由此评定个人沟通能力。",
+      "source": {
+        "title": "Camerer 等（1989）",
+        "url": "https://doi.org/10.1086/261651"
+      }
+    },
+    {
+      "id": "hypothesis-testing",
+      "name": "数字三元组与竞争解释",
+      "lessonIds": [
+        "confirmation-bias"
+      ],
+      "type": "经典任务与方法讨论",
+      "question": "一个通过的例子，排除了多少猜想？",
+      "procedure": "Wason的1960年任务让参与者根据数字三元组的反馈发现规则。故事使用偶数与递增两个假设来讨论区分性测试。",
+      "finding": "只重复相似的正例可能留下多个解释，区分竞争解释的反馈更有信息。",
+      "limits": "正向测试并非总是无效，策略是否合理还依赖假设空间与环境。小游戏不测智力。",
+      "source": {
+        "title": "Wason（1960）",
+        "url": "https://doi.org/10.1080/17470216008416717"
+      }
+    },
+    {
+      "id": "measurement-evidence",
+      "name": "分数一致与用途证据",
+      "lessonIds": [
+        "test-validity"
+      ],
+      "type": "专业标准与概念示意",
+      "question": "一个稳定的分数，能支持什么解释？",
+      "procedure": "2014年教育与心理测验标准分别讨论信度、测量精确性，以及支持拟议分数解释和用途的效度证据。",
+      "finding": "需要区分一致性、误差与解释依据，并核对目标人群和使用目的。",
+      "limits": "本课不实施任何专业量表。尺与表的比喻不能替代具体测验的验证研究。",
+      "source": {
+        "title": "AERA、APA、NCME（2014）",
+        "url": "https://www.testingstandards.net/open-access-files.html"
+      }
+    },
+    {
+      "id": "gratitude-journal",
+      "name": "感恩记录与主观福祉",
+      "lessonIds": [
+        "gratitude"
+      ],
+      "type": "随机分组研究与可选活动",
+      "question": "记录支持，会改变哪些体验？",
+      "procedure": "Emmons与McCullough在2003年的研究中比较感恩、烦恼或普通事件记录，考察多项情感与福祉结果。",
+      "finding": "部分结果出现组间差异，效果受对象与活动方式影响。",
+      "limits": "组间差异不保证个人改善，不能把活动当作治疗或要求忽略伤害和困难。",
+      "source": {
+        "title": "Emmons 与 McCullough（2003）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12585811/"
+      }
+    }
+  ],
+  "note": "分支存在交叉，并非唯一分类。没有关联完整课程的分支只展示知识位置，不伪装成已完成内容。实验导览、模拟和机制示意明确区分；页面互动不收集心理测量或真实研究数据。"
+}

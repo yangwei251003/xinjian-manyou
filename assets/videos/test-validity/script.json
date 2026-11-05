@@ -1,0 +1,145 @@
+{
+  "id": "test-validity",
+  "title": "每次都测一样，就说明测得准？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "这块表每次都一样准，能量赛道吗？",
+      "en": "A consistent watch. Can it measure a track?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "一块准表，能量赛道吗？"
+    },
+    {
+      "zh": "稳定地回答，不代表回答对了问题。",
+      "en": "A stable answer may address the wrong question.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "信度，与效度证据"
+    },
+    {
+      "zh": "2014 年，测验标准分别讨论信度与效度。",
+      "en": "The 2014 Testing Standards distinguish reliability and validity.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "信度，与效度证据"
+    },
+    {
+      "zh": "一致性与误差，是需要检验的问题。",
+      "en": "Consistency and measurement error need examination.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "信度，与效度证据"
+    },
+    {
+      "zh": "分数解释和用途，也需要相应证据。",
+      "en": "Score interpretations and uses need supporting evidence.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "信度，与效度证据"
+    },
+    {
+      "zh": "同一根木条，读数差很多，要查误差。",
+      "en": "Varying readings of one stick suggest measurement error.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "一致性 · 误差 · 解释 · 用途"
+    },
+    {
+      "zh": "读数稳定，再问测量对象与解释。",
+      "en": "With stable readings, examine the intended interpretation.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "一致性 · 误差 · 解释 · 用途"
+    },
+    {
+      "zh": "跑得快慢不同，用时不能直接代表路长。",
+      "en": "Different running speeds prevent time from directly giving distance.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "一致性 · 误差 · 解释 · 用途"
+    },
+    {
+      "zh": "尺与表，是区分问题的教学类比。",
+      "en": "Ruler and watch are teaching analogies.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "一致性 · 误差 · 解释 · 用途"
+    },
+    {
+      "zh": "所以，一个重复标签不保证效度。",
+      "en": "A repeated label does not guarantee validity.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "稳定的读数，也可能答错问题"
+    },
+    {
+      "zh": "换年龄、语言或用途，需要重新核对证据。",
+      "en": "New ages, languages or uses need relevant evidence.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "稳定的读数，也可能答错问题"
+    },
+    {
+      "zh": "专业评估，也会结合多种信息。",
+      "en": "Professional assessment combines several information sources.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "稳定的读数，也可能答错问题"
+    },
+    {
+      "zh": "看到测试，先找它声称测什么。",
+      "en": "Ask what the test claims to measure.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "先问测什么，再问怎么用"
+    },
+    {
+      "zh": "再找研究对象、评分、误差和用途说明。",
+      "en": "Look for population, scoring, error and intended use.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "先问测什么，再问怎么用"
+    },
+    {
+      "zh": "本课没有对你实施心理量表。",
+      "en": "This lesson does not administer a psychological scale.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "先问测什么，再问怎么用"
+    },
+    {
+      "zh": "你比一个分数，更值得被完整理解。",
+      "en": "A person deserves fuller understanding than one score.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "一个分数，需要一段说明"
+    },
+    {
+      "zh": "会问测量的问题，也是一种科学素养。",
+      "en": "Questions about measurement are part of scientific literacy.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "一个分数，需要一段说明"
+    },
+    {
+      "zh": "让每一个分数，都带着依据和边界。",
+      "en": "Give each score its evidence and limits.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "一个分数，需要一段说明"
+    }
+  ],
+  "sources": [
+    {
+      "title": "AERA、APA、NCME：Standards for Educational and Psychological Testing（2014，开放版）",
+      "url": "https://www.testingstandards.net/open-access-files.html",
+      "note": "原始专业标准。第一章讨论效度，第二章讨论信度与精确性。"
+    },
+    {
+      "title": "APA：Understanding psychological testing and assessment",
+      "url": "https://www.apa.org/topics/testing-assessment-measurement/understanding",
+      "note": "说明测验、访谈及其他信息在专业评估中的不同作用。"
+    }
+  ]
+}

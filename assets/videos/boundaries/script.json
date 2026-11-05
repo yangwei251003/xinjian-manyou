@@ -1,0 +1,145 @@
+{
+  "id": "boundaries",
+  "title": "说了「不行」，还是好朋友吗？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "说了「这次不行」，就不是好朋友？",
+      "en": "Does saying no end a friendship?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "朋友之间，也能说不"
+    },
+    {
+      "zh": "勉强答应，有时让合作更难。",
+      "en": "Reluctant agreement can complicate cooperation.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "需要与资源，都值得说清"
+    },
+    {
+      "zh": "坚定表达资料关注清楚而尊重的沟通。",
+      "en": "Assertiveness guidance focuses on clarity and respect.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "需要与资源，都值得说清"
+    },
+    {
+      "zh": "自己的需要，与对方的需要都能被看见。",
+      "en": "Both people’s needs can be acknowledged.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "需要与资源，都值得说清"
+    },
+    {
+      "zh": "表达效果，还受关系与权力影响。",
+      "en": "Effects depend on relationships and power.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "需要与资源，都值得说清"
+    },
+    {
+      "zh": "先说眼前具体的请求。",
+      "en": "Name the concrete request.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "观察 → 限度 → 可行安排"
+    },
+    {
+      "zh": "再说明自己能做与不能做的部分。",
+      "en": "State what you can and cannot do.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "观察 → 限度 → 可行安排"
+    },
+    {
+      "zh": "如果愿意，再提出一个可行安排。",
+      "en": "Offer a feasible arrangement if you wish.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "观察 → 限度 → 可行安排"
+    },
+    {
+      "zh": "这道门表示可协商的限度。",
+      "en": "This doorway represents a negotiable limit.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "观察 → 限度 → 可行安排"
+    },
+    {
+      "zh": "但一句台词，不能解决所有关系问题。",
+      "en": "One line cannot solve every relationship problem.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "边界，不是给别人定罪"
+    },
+    {
+      "zh": "有威胁或控制时，安全与支持优先。",
+      "en": "With threats or control, prioritize safety and support.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "边界，不是给别人定罪"
+    },
+    {
+      "zh": "也不能用「边界」替代对他人的诊断。",
+      "en": "Boundaries are not diagnoses of another person.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "边界，不是给别人定罪"
+    },
+    {
+      "zh": "「我今晚要准备报告，不能全替你做」。",
+      "en": "State the limit in the actual situation.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "明确一句，留一个选择"
+    },
+    {
+      "zh": "「我能看十分钟，明天你再自己修改」。",
+      "en": "Offer limited help only if it is feasible.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "明确一句，留一个选择"
+    },
+    {
+      "zh": "清楚之后，也允许对方提出新安排。",
+      "en": "Clarity can leave room for another proposal.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "明确一句，留一个选择"
+    },
+    {
+      "zh": "你不必用疲惫，证明自己重视关系。",
+      "en": "Exhaustion need not prove that you care.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "合作，也可以从清楚开始"
+    },
+    {
+      "zh": "真实的合作，需要看见真实的资源。",
+      "en": "Real cooperation needs a view of real resources.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "合作，也可以从清楚开始"
+    },
+    {
+      "zh": "把能做的一步，说得清楚一点。",
+      "en": "Make the feasible next step a little clearer.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "合作，也可以从清楚开始"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CCI：Assertiveness",
+      "url": "https://www.cci.health.wa.gov.au/en/Resources/Looking-After-Yourself/Assertiveness",
+      "note": "区分被动、攻击与坚定表达，并提供自助教育模块。"
+    },
+    {
+      "title": "HealthyWA：Assertive communication",
+      "url": "https://www.healthywa.wa.gov.au/Articles/A_E/Assertive-communication",
+      "note": "尊重双方、具体描述问题与表达请求的公共卫生资料。"
+    }
+  ]
+}

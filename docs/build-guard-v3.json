@@ -1,0 +1,7 @@
+{
+  "test": "Manual page edit preservation",
+  "exit": 1,
+  "stoppedBeforeOverwrite": true,
+  "manualEditKept": true,
+  "baselineRestored": true
+}

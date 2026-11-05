@@ -1,0 +1,145 @@
+{
+  "id": "habits",
+  "title": "你缺的是自律，还是一个好开头？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "手机明明放下了，为什么又拿起来？",
+      "en": "Why pick up the phone just after putting it down?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "行动的入口，在哪里？"
+    },
+    {
+      "zh": "熟悉的情境，会提醒熟悉的动作。",
+      "en": "Familiar contexts can cue familiar actions.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "稳定情境中的重复"
+    },
+    {
+      "zh": "2010 年，研究者追踪日常习惯形成。",
+      "en": "A 2010 study tracked everyday habit formation.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "稳定情境中的重复"
+    },
+    {
+      "zh": "人们在稳定情境里重复自选行为。",
+      "en": "People repeated chosen actions in stable contexts.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "稳定情境中的重复"
+    },
+    {
+      "zh": "自动性的变化，并不是人人同速。",
+      "en": "Automaticity developed at different rates.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "稳定情境中的重复"
+    },
+    {
+      "zh": "把提示线索，和下一步放在一起看。",
+      "en": "Look at the cue and the next action together.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "线索 → 动作 → 更容易开始"
+    },
+    {
+      "zh": "桌面上最顺手的东西，更容易被拿起。",
+      "en": "What is easiest to reach can be easiest to start.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "线索 → 动作 → 更容易开始"
+    },
+    {
+      "zh": "反复走过的路径，逐渐更熟悉。",
+      "en": "A repeated route can grow more familiar.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "线索 → 动作 → 更容易开始"
+    },
+    {
+      "zh": "这条路，是情境与行为的教学比喻。",
+      "en": "The path is a metaphor for context and action.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "线索 → 动作 → 更容易开始"
+    },
+    {
+      "zh": "没有一个天数，能保证人人养成习惯。",
+      "en": "No fixed number of days guarantees a habit.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "习惯没有统一倒计时"
+    },
+    {
+      "zh": "一次没做，也不必变成全盘否定。",
+      "en": "One missed attempt need not define everything.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "习惯没有统一倒计时"
+    },
+    {
+      "zh": "复杂行为困难，还可能需要更多支持。",
+      "en": "Complex difficulties may need broader support.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "习惯没有统一倒计时"
+    },
+    {
+      "zh": "把书翻到下一页，减少开始前的准备。",
+      "en": "Open the book. Reduce the work before starting.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "减少一步准备，试一个小动作"
+    },
+    {
+      "zh": "先试两分钟，再记录哪些安排有帮助。",
+      "en": "Try two minutes and observe the arrangement.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "减少一步准备，试一个小动作"
+    },
+    {
+      "zh": "允许调整环境，也允许休息。",
+      "en": "Adjust the environment and allow rest.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "减少一步准备，试一个小动作"
+    },
+    {
+      "zh": "少一句「我没毅力」，多看一个线索。",
+      "en": "Look for a cue before making a global judgment.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "让开始，离你近一点"
+    },
+    {
+      "zh": "让有用的小动作，更容易发生。",
+      "en": "Make a useful small action easier.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "让开始，离你近一点"
+    },
+    {
+      "zh": "下一次开始，可以离你近一点。",
+      "en": "Bring the next beginning a little closer.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "让开始，离你近一点"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Lally 等：How are habits formed?（2010）",
+      "url": "https://doi.org/10.1002/ejsp.674",
+      "note": "日常情境中习惯自动性形成的追踪研究。"
+    },
+    {
+      "title": "Wood 与 Rünger：Psychology of Habit（2016）",
+      "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+      "note": "习惯研究综述，讨论情境线索与行为自动性。"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "id": "attachment",
+  "title": "你想确认有人在，是不够独立吗？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "出发前想确认有人在，是不够独立吗？",
+      "en": "Does needing reassurance mean lacking independence?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "探索之前，先确认连接"
+    },
+    {
+      "zh": "支持和探索，可能并不冲突。",
+      "en": "Support and exploration can work together.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "安全基地，与向外探索"
+    },
+    {
+      "zh": "依恋研究关注亲近、回应与探索。",
+      "en": "Attachment research studies closeness, response and exploration.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "安全基地，与向外探索"
+    },
+    {
+      "zh": "安全基地，描述一种支持关系。",
+      "en": "A secure base describes a supportive relationship.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "安全基地，与向外探索"
+    },
+    {
+      "zh": "概念需要放回年龄与研究情境。",
+      "en": "Age and research context remain important.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "安全基地，与向外探索"
+    },
+    {
+      "zh": "像离开发射站，仍知道怎样联系。",
+      "en": "A traveler can leave while knowing how to connect.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "靠近与远行，可以同在"
+    },
+    {
+      "zh": "可靠的回应，给探索多一个参照。",
+      "en": "Reliable response can support exploration.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "靠近与远行，可以同在"
+    },
+    {
+      "zh": "需要时靠近，准备好时继续走。",
+      "en": "Approach for support, then explore when ready.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "靠近与远行，可以同在"
+    },
+    {
+      "zh": "这里的信号站，是关系的教学隐喻。",
+      "en": "The signal station is a teaching metaphor.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "靠近与远行，可以同在"
+    },
+    {
+      "zh": "但一次黏人，不能决定依恋类型。",
+      "en": "One clingy moment cannot define attachment.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "一次分离不能给人定型"
+    },
+    {
+      "zh": "一次分离，也不能评价整个家庭。",
+      "en": "One separation cannot judge a whole family.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "一次分离不能给人定型"
+    },
+    {
+      "zh": "现实关系会随经历与条件变化。",
+      "en": "Relationships can change with experience and context.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "一次分离不能给人定型"
+    },
+    {
+      "zh": "出发前约定联系时间与可信任的人。",
+      "en": "Agree on contact times and trusted people.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "具体约定，让支持可找到"
+    },
+    {
+      "zh": "遇到困难，说明自己需要哪种帮助。",
+      "en": "Name the kind of help you need.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "具体约定，让支持可找到"
+    },
+    {
+      "zh": "支持也可以来自多个可靠关系。",
+      "en": "Support can come from several reliable relationships.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "具体约定，让支持可找到"
+    },
+    {
+      "zh": "被接住的需要，不必让你羞愧。",
+      "en": "Needing support need not bring shame.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "有连接，也有自己的路"
+    },
+    {
+      "zh": "有连接，也可以有自己的路。",
+      "en": "Connection can coexist with your own path.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "有连接，也有自己的路"
+    },
+    {
+      "zh": "知道灯在哪里，再往远处走。",
+      "en": "Know where the light is, then venture outward.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "有连接，也有自己的路"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fraley：Attachment Through the Life Course",
+      "url": "https://nobaproject.com/modules/attachment-through-the-life-course",
+      "note": "研究者模块，介绍依恋功能及跨生命历程的研究。"
+    },
+    {
+      "title": "OpenStax Psychology 2e：Stages of Development",
+      "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+      "note": "教材中的儿童发展与依恋背景；不同发展阶段的观察不能直接互换。"
+    }
+  ]
+}

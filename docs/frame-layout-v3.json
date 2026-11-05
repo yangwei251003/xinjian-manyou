@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "attention",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0.000001768261316872428,
+        "changedRatio": 0.000004340277777777778,
+        "maximum": 1,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0.000001768261316872428,
+        "changedRatio": 0.000004340277777777778,
+        "maximum": 1,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "memory",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "metacognition",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "sleep",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0.00000739454732510288,
+        "changedRatio": 0.000004340277777777778,
+        "maximum": 17,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0.000009002057613168725,
+        "changedRatio": 0.000006751543209876544,
+        "maximum": 17,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "stress",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0.00000996656378600823,
+        "changedRatio": 0.000008680555555555556,
+        "maximum": 16,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0.00001253858024691358,
+        "changedRatio": 0.000024594907407407408,
+        "maximum": 1,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "brain",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0.00000626929012345679,
+        "changedRatio": 4.822530864197531e-7,
+        "maximum": 20,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0.00000626929012345679,
+        "changedRatio": 4.822530864197531e-7,
+        "maximum": 20,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "emotions",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "reappraisal",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "habits",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "personality",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "comparison",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "attachment",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0.000012377829218106996,
+        "changedRatio": 0.000013020833333333334,
+        "maximum": 16,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0.000012377829218106996,
+        "changedRatio": 0.000013020833333333334,
+        "maximum": 16,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "attribution",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "conformity",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "listening",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0.000027327674897119342,
+        "changedRatio": 0.000029899691358024692,
+        "maximum": 15,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "framing",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "sunk-cost",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "retrieval",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0.000005626286008230453,
+        "changedRatio": 4.822530864197531e-7,
+        "maximum": 19,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0.000005626286008230453,
+        "changedRatio": 4.822530864197531e-7,
+        "maximum": 19,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "help-seeking",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0.00003279320987654321,
+        "changedRatio": 0.00002845293209876543,
+        "maximum": 18,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0.000006912294238683127,
+        "changedRatio": 0.000012056327160493826,
+        "maximum": 1,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0.000006912294238683127,
+        "changedRatio": 0.000012056327160493826,
+        "maximum": 1,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "boundaries",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "support",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0.000011252572016460906,
+        "changedRatio": 0.000009162808641975309,
+        "maximum": 16,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "correlation",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "sampling",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "replication",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "knowledge-curse",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "confirmation-bias",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "test-validity",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0.000019290123456790123,
+        "changedRatio": 0.00002170138888888889,
+        "maximum": 14,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  },
+  {
+    "id": "gratitude",
+    "layoutFailures": [],
+    "loadedFont": true,
+    "artReady": true,
+    "checks": [
+      {
+        "time": 27.4,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 27.4,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": false,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      },
+      {
+        "time": 58.3,
+        "capture": true,
+        "mae": 0,
+        "changedRatio": 0,
+        "maximum": 0,
+        "withinTolerance": true
+      }
+    ]
+  }
+]

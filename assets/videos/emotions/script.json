@@ -1,0 +1,145 @@
+{
+  "id": "emotions",
+  "title": "同样心跳快，为什么感受不同？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "心跳很快，就是害怕吗？",
+      "en": "Does a racing heart always mean fear?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "身体信号，不止一种解释"
+    },
+    {
+      "zh": "跑步、期待、紧张，都可能让它加速。",
+      "en": "Running, anticipation and tension can raise it.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "情境 · 目标 · 解释"
+    },
+    {
+      "zh": "情绪研究有不同理论与证据。",
+      "en": "Emotion research contains multiple theories.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "情境 · 目标 · 解释"
+    },
+    {
+      "zh": "身体、情境和解释，都是重要线索。",
+      "en": "Body, context and interpretation offer clues.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "情境 · 目标 · 解释"
+    },
+    {
+      "zh": "一张表情，装不下一个人的全部体验。",
+      "en": "One expression cannot contain a whole experience.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "情境 · 目标 · 解释"
+    },
+    {
+      "zh": "先看身体传来的信号。",
+      "en": "Notice the body’s signals.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "同一心跳，多个可能"
+    },
+    {
+      "zh": "再看刚才发生什么、你在意什么。",
+      "en": "Consider what happened and what matters.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "同一心跳，多个可能"
+    },
+    {
+      "zh": "给感受一个暂时的名字，而非定论。",
+      "en": "Try a provisional name for the feeling.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "同一心跳，多个可能"
+    },
+    {
+      "zh": "天气图，是解释复杂体验的比喻。",
+      "en": "Weather is a metaphor for complex experience.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "同一心跳，多个可能"
+    },
+    {
+      "zh": "同一种身体反应，不只对应一种情绪。",
+      "en": "One bodily response can fit several emotions.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "不能凭表情读出全部"
+    },
+    {
+      "zh": "同一种情绪，也不必有完全相同表情。",
+      "en": "One emotion need not have one fixed expression.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "不能凭表情读出全部"
+    },
+    {
+      "zh": "这不允许我们猜测任何人的诊断。",
+      "en": "It cannot justify a diagnosis of anyone.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "不能凭表情读出全部"
+    },
+    {
+      "zh": "可以说「我紧张，也有点期待」。",
+      "en": "You can feel both nervous and hopeful.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "先问感受与需要"
+    },
+    {
+      "zh": "再问，下一步需要准备、休息还是支持？",
+      "en": "Ask what preparation, rest or support you need.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "先问感受与需要"
+    },
+    {
+      "zh": "明显身体异常，需要合适的医疗帮助。",
+      "en": "Significant physical symptoms need appropriate care.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "先问感受与需要"
+    },
+    {
+      "zh": "情绪不必马上被分成好与坏。",
+      "en": "Feelings need not be sorted into good and bad.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "给复杂情绪，留一个位置"
+    },
+    {
+      "zh": "多一点描述，少一点急着定性。",
+      "en": "Describe more. Rush to labels less.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "给复杂情绪，留一个位置"
+    },
+    {
+      "zh": "给心里的天气，留一扇能打开的窗。",
+      "en": "Leave an open window for inner weather.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "给复杂情绪，留一个位置"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenStax Psychology 2e：Emotion",
+      "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+      "note": "综述情绪构成及不同理论，作为概念入口。"
+    },
+    {
+      "title": "Barrett 等：Emotional Expressions Reconsidered（2019）",
+      "url": "https://doi.org/10.1177/1529100619832930",
+      "note": "评估从表情推断情绪的证据，强调情境与推断限制。"
+    }
+  ]
+}
