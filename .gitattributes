@@ -1,0 +1,2 @@
+# Preserve byte-identical release checksums on every operating system.
+* -text

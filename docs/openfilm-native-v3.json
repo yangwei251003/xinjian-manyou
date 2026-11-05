@@ -1,0 +1,170 @@
+[
+  {
+    "id": "attention",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "memory",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "metacognition",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "sleep",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "stress",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "brain",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "emotions",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "reappraisal",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "habits",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "personality",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "comparison",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "attachment",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "attribution",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "conformity",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "listening",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "framing",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "sunk-cost",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "retrieval",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "help-seeking",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "boundaries",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "support",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "correlation",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "sampling",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "replication",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "knowledge-curse",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "confirmation-bias",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "test-validity",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  },
+  {
+    "id": "gratitude",
+    "exit": 0,
+    "range": "58-59",
+    "exists": true
+  }
+]

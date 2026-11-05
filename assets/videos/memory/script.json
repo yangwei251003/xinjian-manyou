@@ -1,0 +1,145 @@
+{
+  "id": "memory",
+  "title": "你那么确定，记忆就一定准确？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "你记得很清楚，就一定没记错？",
+      "en": "Can a vivid memory still contain an error?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "记忆，像一次重建"
+    },
+    {
+      "zh": "回忆，不只是按下播放键。",
+      "en": "Recall is more than pressing play.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "后来的信息，也会进来"
+    },
+    {
+      "zh": "1974 年，研究者改变提问的措辞。",
+      "en": "In 1974, researchers changed question wording.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "后来的信息，也会进来"
+    },
+    {
+      "zh": "参与者看过车辆事件，再回答问题。",
+      "en": "Viewers watched a vehicle event, then answered questions.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "后来的信息，也会进来"
+    },
+    {
+      "zh": "不同措辞，影响了部分后续报告。",
+      "en": "Wording affected some later reports.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "后来的信息，也会进来"
+    },
+    {
+      "zh": "经历留下线索，不等于完整录像。",
+      "en": "Experience leaves traces, not a complete recording.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "从片段拼成一个故事"
+    },
+    {
+      "zh": "后来听到的话，也可能参与重建。",
+      "en": "Later information may join the reconstruction.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "从片段拼成一个故事"
+    },
+    {
+      "zh": "提取时的推断，填进缺少的部分。",
+      "en": "Inferences can fill some of the gaps.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "从片段拼成一个故事"
+    },
+    {
+      "zh": "这幅拼图，是解释过程的比喻。",
+      "en": "The puzzle is a metaphor for this process.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "从片段拼成一个故事"
+    },
+    {
+      "zh": "确信是一种感受，不是准确性的保证。",
+      "en": "Confidence is a feeling, not a guarantee.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "确信 ≠ 每处都准确"
+    },
+    {
+      "zh": "这也不意味着每段记忆都不可靠。",
+      "en": "It does not make every memory unreliable.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "确信 ≠ 每处都准确"
+    },
+    {
+      "zh": "更不能据此否定他人的重要经历。",
+      "en": "It cannot dismiss someone’s important experience.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "确信 ≠ 每处都准确"
+    },
+    {
+      "zh": "核对日期、照片和当时记录。",
+      "en": "Check dates, photos and contemporaneous records.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "找记录，问开放的问题"
+    },
+    {
+      "zh": "先问「你记得什么」，少放入暗示。",
+      "en": "Ask openly: what do you remember?",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "找记录，问开放的问题"
+    },
+    {
+      "zh": "外部记录本身，也有视角与遗漏。",
+      "en": "External records also have limits.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "找记录，问开放的问题"
+    },
+    {
+      "zh": "发现差异，先留一段核对的空间。",
+      "en": "When memories differ, leave room to check.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "给记忆，多一个参照"
+    },
+    {
+      "zh": "记忆值得被听见，也值得被认真核查。",
+      "en": "Memory deserves both attention and careful checking.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "给记忆，多一个参照"
+    },
+    {
+      "zh": "给过去，多一个可靠的参照。",
+      "en": "Give the past another reliable reference.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "给记忆，多一个参照"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Loftus 与 Palmer：Reconstruction of automobile destruction（1974）",
+      "url": "https://doi.org/10.1016/S0022-5371(74)80011-3",
+      "note": "原始提问措辞与事件回忆研究。"
+    },
+    {
+      "title": "Loftus：研究出版档案",
+      "url": "https://faculty.sites.uci.edu/eloftus/publications/",
+      "note": "可查原始论文与后续记忆研究，不以故事代替实验。"
+    }
+  ]
+}

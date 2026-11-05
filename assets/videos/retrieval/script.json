@@ -1,0 +1,150 @@
+{
+  "id": "retrieval",
+  "title": "越觉得费劲，反而记得更久？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "看了三遍，为什么还是想不起？",
+      "en": "Three readings. Why is recall still hard?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "合上书，知识还在吗？"
+    },
+    {
+      "zh": "熟悉的感觉，还不是提取的证据。",
+      "en": "Familiarity is not evidence of recall.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "眼前熟悉与延迟保持"
+    },
+    {
+      "zh": "2006 年，一项实验比较两种练习。",
+      "en": "A 2006 study compared two kinds of practice.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "眼前熟悉与延迟保持"
+    },
+    {
+      "zh": "大学生学习散文，再读或尝试回忆。",
+      "en": "Students studied prose, then reread or recalled.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "眼前熟悉与延迟保持"
+    },
+    {
+      "zh": "研究把即时和延迟测验分开看。",
+      "en": "Immediate and delayed tests were separated.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "眼前熟悉与延迟保持"
+    },
+    {
+      "zh": "看着材料，答案已经摆在眼前。",
+      "en": "With the text open, answers are present.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "从记忆中，走一遍"
+    },
+    {
+      "zh": "合上材料，需要自己找到路径。",
+      "en": "Close it, and you must find the path.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "从记忆中，走一遍"
+    },
+    {
+      "zh": "没想起的部分，暴露下一次的缺口。",
+      "en": "Missing pieces reveal what needs attention.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "从记忆中，走一遍"
+    },
+    {
+      "zh": "随后核对反馈，修正错漏。",
+      "en": "Check feedback and repair the gaps.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "从记忆中，走一遍"
+    },
+    {
+      "zh": "五分钟后，重复学习组更好。",
+      "en": "After five minutes, repeated study did better.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "当下顺利 ≠ 更久保持"
+    },
+    {
+      "zh": "两天或一周后，提取练习组更好。",
+      "en": "After days, retrieval practice did better.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "当下顺利 ≠ 更久保持"
+    },
+    {
+      "zh": "当下顺利，与长期保持可能分开。",
+      "en": "Ease now and retention later can diverge.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "当下顺利 ≠ 更久保持"
+    },
+    {
+      "zh": "读完一段，试着用自己的话说出来。",
+      "en": "Explain a passage with the book closed.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "提取 → 核对 → 再尝试"
+    },
+    {
+      "zh": "再核对，再隔一段时间尝试。",
+      "en": "Check it, then try again after an interval.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "提取 → 核对 → 再尝试"
+    },
+    {
+      "zh": "效果取决于材料、反馈与安排。",
+      "en": "Effects depend on material, feedback and timing.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "提取 → 核对 → 再尝试"
+    },
+    {
+      "zh": "困难不总是失败，也可能给出线索。",
+      "en": "Difficulty can sometimes offer a clue.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "把熟悉，变成能想起"
+    },
+    {
+      "zh": "理解和提取，都需要练习。",
+      "en": "Both understanding and recall need practice.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "把熟悉，变成能想起"
+    },
+    {
+      "zh": "别只问眼熟吗，也问想得起吗。",
+      "en": "Ask both: familiar, and retrievable?",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "把熟悉，变成能想起"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dunlosky 等：Improving Students’ Learning With Effective Learning Techniques",
+      "url": "https://www.psychologicalscience.org/journals/pspi/1529100612453266/",
+      "note": "学习策略证据综述，讨论练习测验与分散学习。"
+    },
+    {
+      "title": "McDermott：Practicing Retrieval Facilitates Learning",
+      "url": "https://doi.org/10.1146/annurev-psych-010419-051019",
+      "note": "提取练习机制与适用范围综述。"
+    },
+    {
+      "title": "Roediger 与 Karpicke：Test-Enhanced Learning（2006）",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16507066/",
+      "note": "散文学习实验中，重复学习在5分钟测验较好，提取练习在2天或1周延迟测验较好。结论需结合材料和保持间隔。"
+    }
+  ]
+}

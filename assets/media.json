@@ -1,0 +1,1568 @@
+{
+  "_hero": {
+    "image": "assets/hero-v2.webp"
+  },
+  "_cast": {
+    "image": "assets/cast-v2.webp"
+  },
+  "attention": {
+    "comic": "assets/panels/attention/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/attention/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attention/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attention/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attention/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attention/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attention/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/attention/film.mp4",
+      "poster": "assets/videos/attention/poster.webp",
+      "meta": "assets/videos/attention/script.json",
+      "title": "你看见了多少，又漏掉了什么？",
+      "duration": 75.78947368421052
+    }
+  },
+  "memory": {
+    "comic": "assets/panels/memory/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/memory/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/memory/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/memory/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/memory/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/memory/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/memory/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/memory/film.mp4",
+      "poster": "assets/videos/memory/poster.webp",
+      "meta": "assets/videos/memory/script.json",
+      "title": "你那么确定，记忆就一定准确？",
+      "duration": 75.78947368421052
+    }
+  },
+  "metacognition": {
+    "comic": "assets/panels/metacognition/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/metacognition/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/metacognition/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/metacognition/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/metacognition/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/metacognition/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/metacognition/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/metacognition/film.mp4",
+      "poster": "assets/videos/metacognition/poster.webp",
+      "meta": "assets/videos/metacognition/script.json",
+      "title": "你以为会了，试过才知道？",
+      "duration": 75.78947368421052
+    }
+  },
+  "sleep": {
+    "comic": "assets/panels/sleep/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/sleep/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sleep/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sleep/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sleep/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sleep/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sleep/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/sleep/film.mp4",
+      "poster": "assets/videos/sleep/poster.webp",
+      "meta": "assets/videos/sleep/script.json",
+      "title": "睡觉，真的会耽误学习吗？",
+      "duration": 75.78947368421052
+    }
+  },
+  "stress": {
+    "comic": "assets/panels/stress/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/stress/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/stress/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/stress/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/stress/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/stress/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/stress/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/stress/film.mp4",
+      "poster": "assets/videos/stress/poster.webp",
+      "meta": "assets/videos/stress/script.json",
+      "title": "为什么书包不重，心却很累？",
+      "duration": 75.78947368421052
+    }
+  },
+  "brain": {
+    "comic": "assets/panels/brain/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/brain/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/brain/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/brain/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/brain/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/brain/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/brain/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/brain/film.mp4",
+      "poster": "assets/videos/brain/poster.webp",
+      "meta": "assets/videos/brain/script.json",
+      "title": "脑袋里，真有一个数学按钮吗？",
+      "duration": 75.78947368421052
+    }
+  },
+  "emotions": {
+    "comic": "assets/panels/emotions/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/emotions/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/emotions/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/emotions/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/emotions/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/emotions/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/emotions/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/emotions/film.mp4",
+      "poster": "assets/videos/emotions/poster.webp",
+      "meta": "assets/videos/emotions/script.json",
+      "title": "同样心跳快，为什么感受不同？",
+      "duration": 75.78947368421052
+    }
+  },
+  "reappraisal": {
+    "comic": "assets/panels/reappraisal/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/reappraisal/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/reappraisal/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/reappraisal/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/reappraisal/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/reappraisal/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/reappraisal/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/reappraisal/film.mp4",
+      "poster": "assets/videos/reappraisal/poster.webp",
+      "meta": "assets/videos/reappraisal/script.json",
+      "title": "计划变了，今天就全毁了吗？",
+      "duration": 75.78947368421052
+    }
+  },
+  "habits": {
+    "comic": "assets/panels/habits/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/habits/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/habits/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/habits/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/habits/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/habits/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/habits/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/habits/film.mp4",
+      "poster": "assets/videos/habits/poster.webp",
+      "meta": "assets/videos/habits/script.json",
+      "title": "你缺的是自律，还是一个好开头？",
+      "duration": 75.78947368421052
+    }
+  },
+  "personality": {
+    "comic": "assets/panels/personality/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/personality/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/personality/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/personality/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/personality/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/personality/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/personality/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/personality/film.mp4",
+      "poster": "assets/videos/personality/poster.webp",
+      "meta": "assets/videos/personality/script.json",
+      "title": "安静的人，为什么也会站上台？",
+      "duration": 75.78947368421052
+    }
+  },
+  "comparison": {
+    "comic": "assets/panels/comparison/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/comparison/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/comparison/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/comparison/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/comparison/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/comparison/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/comparison/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/comparison/film.mp4",
+      "poster": "assets/videos/comparison/poster.webp",
+      "meta": "assets/videos/comparison/script.json",
+      "title": "为什么别人的满分，总照着你的缺口？",
+      "duration": 75.78947368421052
+    }
+  },
+  "attachment": {
+    "comic": "assets/panels/attachment/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/attachment/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attachment/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attachment/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attachment/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attachment/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attachment/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/attachment/film.mp4",
+      "poster": "assets/videos/attachment/poster.webp",
+      "meta": "assets/videos/attachment/script.json",
+      "title": "你想确认有人在，是不够独立吗？",
+      "duration": 75.78947368421052
+    }
+  },
+  "attribution": {
+    "comic": "assets/panels/attribution/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/attribution/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attribution/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attribution/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attribution/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attribution/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/attribution/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/attribution/film.mp4",
+      "poster": "assets/videos/attribution/poster.webp",
+      "meta": "assets/videos/attribution/script.json",
+      "title": "他没回复，就一定是不在乎？",
+      "duration": 75.78947368421052
+    }
+  },
+  "conformity": {
+    "comic": "assets/panels/conformity/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/conformity/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/conformity/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/conformity/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/conformity/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/conformity/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/conformity/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/conformity/film.mp4",
+      "poster": "assets/videos/conformity/poster.webp",
+      "meta": "assets/videos/conformity/script.json",
+      "title": "大家都选它，你还相信自己的眼睛吗？",
+      "duration": 75.78947368421052
+    }
+  },
+  "listening": {
+    "comic": "assets/panels/listening/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/listening/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/listening/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/listening/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/listening/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/listening/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/listening/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/listening/film.mp4",
+      "poster": "assets/videos/listening/poster.webp",
+      "meta": "assets/videos/listening/script.json",
+      "title": "为什么你越给建议，朋友越不想说？",
+      "duration": 75.78947368421052
+    }
+  },
+  "framing": {
+    "comic": "assets/panels/framing/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/framing/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/framing/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/framing/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/framing/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/framing/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/framing/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/framing/film.mp4",
+      "poster": "assets/videos/framing/poster.webp",
+      "meta": "assets/videos/framing/script.json",
+      "title": "九成机会，为什么听起来更诱人？",
+      "duration": 75.78947368421052
+    }
+  },
+  "sunk-cost": {
+    "comic": "assets/panels/sunk-cost/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/sunk-cost/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sunk-cost/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sunk-cost/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sunk-cost/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sunk-cost/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sunk-cost/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/sunk-cost/film.mp4",
+      "poster": "assets/videos/sunk-cost/poster.webp",
+      "meta": "assets/videos/sunk-cost/script.json",
+      "title": "已经花了两小时，就一定要继续？",
+      "duration": 75.78947368421052
+    }
+  },
+  "retrieval": {
+    "comic": "assets/panels/retrieval/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/retrieval/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/retrieval/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/retrieval/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/retrieval/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/retrieval/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/retrieval/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/retrieval/film.mp4",
+      "poster": "assets/videos/retrieval/poster.webp",
+      "meta": "assets/videos/retrieval/script.json",
+      "title": "越觉得费劲，反而记得更久？",
+      "duration": 75.78947368421052
+    }
+  },
+  "help-seeking": {
+    "comic": "assets/panels/help-seeking/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/help-seeking/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/help-seeking/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/help-seeking/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/help-seeking/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/help-seeking/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/help-seeking/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/help-seeking/film.mp4",
+      "poster": "assets/videos/help-seeking/poster.webp",
+      "meta": "assets/videos/help-seeking/script.json",
+      "title": "求助，真的要等到撑不住吗？",
+      "duration": 75.78947368421052
+    }
+  },
+  "boundaries": {
+    "comic": "assets/panels/boundaries/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/boundaries/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/boundaries/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/boundaries/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/boundaries/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/boundaries/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/boundaries/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/boundaries/film.mp4",
+      "poster": "assets/videos/boundaries/poster.webp",
+      "meta": "assets/videos/boundaries/script.json",
+      "title": "说了「不行」，还是好朋友吗？",
+      "duration": 75.78947368421052
+    }
+  },
+  "support": {
+    "comic": "assets/panels/support/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/support/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/support/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/support/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/support/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/support/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/support/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/support/film.mp4",
+      "poster": "assets/videos/support/poster.webp",
+      "meta": "assets/videos/support/script.json",
+      "title": "陪朋友走一段，需要救下他的一切吗？",
+      "duration": 75.78947368421052
+    }
+  },
+  "correlation": {
+    "comic": "assets/panels/correlation/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/correlation/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/correlation/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/correlation/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/correlation/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/correlation/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/correlation/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/correlation/film.mp4",
+      "poster": "assets/videos/correlation/poster.webp",
+      "meta": "assets/videos/correlation/script.json",
+      "title": "冰淇淋卖多了，树荫为什么更挤？",
+      "duration": 75.78947368421052
+    }
+  },
+  "sampling": {
+    "comic": "assets/panels/sampling/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/sampling/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sampling/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sampling/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sampling/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sampling/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/sampling/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/sampling/film.mp4",
+      "poster": "assets/videos/sampling/poster.webp",
+      "meta": "assets/videos/sampling/script.json",
+      "title": "全班都想打篮球？你到底问了谁？",
+      "duration": 75.78947368421052
+    }
+  },
+  "replication": {
+    "comic": "assets/panels/replication/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/replication/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/replication/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/replication/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/replication/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/replication/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      },
+      {
+        "image": "assets/panels/replication/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "baked"
+      }
+    ],
+    "video": {
+      "src": "assets/videos/replication/film.mp4",
+      "poster": "assets/videos/replication/poster.webp",
+      "meta": "assets/videos/replication/script.json",
+      "title": "一篇研究说有效，就该马上相信吗？",
+      "duration": 75.78947368421052
+    }
+  },
+  "knowledge-curse": {
+    "comic": "assets/panels/knowledge-curse/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/knowledge-curse/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "阿澈",
+            "text": "就按一下回家键，很简单呀。",
+            "x": 4,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/knowledge-curse/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "米粒",
+            "text": "我知道什么叫回家。机器人知道吗？",
+            "x": 36,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/knowledge-curse/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "小满",
+            "text": "我们先把米粒能看到的画出来。",
+            "x": 4,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/knowledge-curse/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "阿澈",
+            "text": "原来我把训练时的地图也带进来了。",
+            "x": 36,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/knowledge-curse/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "阿澈",
+            "text": "先按三角，再等黄灯闪一下。",
+            "x": 4,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/knowledge-curse/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "米粒",
+            "text": "换我讲一遍，你看我漏了什么。",
+            "x": 36,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      }
+    ],
+    "video": {
+      "src": "assets/videos/knowledge-curse/film.mp4",
+      "poster": "assets/videos/knowledge-curse/poster.webp",
+      "meta": "assets/videos/knowledge-curse/script.json",
+      "title": "为什么你的「很简单」，别人听不懂？",
+      "duration": 75.78947368421052
+    }
+  },
+  "confirmation-bias": {
+    "comic": "assets/panels/confirmation-bias/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/confirmation-bias/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "小满",
+            "text": "2、4、6 能过，规律肯定是偶数！",
+            "x": 4,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/confirmation-bias/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "阿澈",
+            "text": "你试的三张，又全是偶数。",
+            "x": 36,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/confirmation-bias/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "米粒",
+            "text": "等等，往上数也说得通呀。",
+            "x": 4,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/confirmation-bias/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "小满",
+            "text": "那就试试 3、5、7！",
+            "x": 36,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/confirmation-bias/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "阿澈",
+            "text": "通过。规则其实是三个数依次变大。",
+            "x": 4,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/confirmation-bias/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "小满",
+            "text": "下次我先找一个可能让我猜错的例子。",
+            "x": 36,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      }
+    ],
+    "video": {
+      "src": "assets/videos/confirmation-bias/film.mp4",
+      "poster": "assets/videos/confirmation-bias/poster.webp",
+      "meta": "assets/videos/confirmation-bias/script.json",
+      "title": "猜对两次，为什么还可能猜错规律？",
+      "duration": 75.78947368421052
+    }
+  },
+  "test-validity": {
+    "comic": "assets/panels/test-validity/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/test-validity/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "米粒",
+            "text": "这块表每次都一样准，用它量赛道吧！",
+            "x": 4,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/test-validity/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "阿澈",
+            "text": "表知道用了多久。它知道跑了多远吗？",
+            "x": 36,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/test-validity/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "小满",
+            "text": "同样的距离，快跑和慢跑，用时会不同。",
+            "x": 4,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/test-validity/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "米粒",
+            "text": "原来读数很稳，也可能答错问题。",
+            "x": 36,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/test-validity/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "阿澈",
+            "text": "先说要量什么，再挑对工具。",
+            "x": 4,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/test-validity/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "小满",
+            "text": "看到分数，我会先问它怎么来的。",
+            "x": 36,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      }
+    ],
+    "video": {
+      "src": "assets/videos/test-validity/film.mp4",
+      "poster": "assets/videos/test-validity/poster.webp",
+      "meta": "assets/videos/test-validity/script.json",
+      "title": "每次都测一样，就说明测得准？",
+      "duration": 75.78947368421052
+    }
+  },
+  "gratitude": {
+    "comic": "assets/panels/gratitude/01.webp",
+    "panels": [
+      {
+        "image": "assets/panels/gratitude/01.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "小满",
+            "text": "今天太糟了，日记只想写一个句号。",
+            "x": 4,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/gratitude/02.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "米粒",
+            "text": "今天难过，可以照实写。",
+            "x": 36,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/gratitude/03.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "阿澈",
+            "text": "要是想写，也可以记下一件真的帮到你的事。",
+            "x": 4,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/gratitude/04.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "小满",
+            "text": "原来我记得烦，也记得有人陪我走。",
+            "x": 36,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/gratitude/05.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "小满",
+            "text": "我想写下那把伞，也写下还没解决的事。",
+            "x": 4,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      },
+      {
+        "image": "assets/panels/gratitude/06.webp",
+        "width": 1254,
+        "height": 1254,
+        "textMode": "overlay",
+        "bubbles": [
+          {
+            "speaker": "小满",
+            "text": "今天还是很难。谢谢你，刚好在。",
+            "x": 36,
+            "y": 3,
+            "w": 60
+          }
+        ]
+      }
+    ],
+    "video": {
+      "src": "assets/videos/gratitude/film.mp4",
+      "poster": "assets/videos/gratitude/poster.webp",
+      "meta": "assets/videos/gratitude/script.json",
+      "title": "糟糕的一天，还能写下什么？",
+      "duration": 75.78947368421052
+    }
+  }
+}

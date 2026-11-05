@@ -1,0 +1,145 @@
+{
+  "id": "metacognition",
+  "title": "你以为会了，试过才知道？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "会折纸飞机，你敢不看图试一次？",
+      "en": "Can you fold it without the diagram?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "我会了，凭什么？"
+    },
+    {
+      "zh": "看着会，和自己做，是两件事。",
+      "en": "Recognition and independent action differ.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "熟悉感与实际表现"
+    },
+    {
+      "zh": "学习科学研究怎样监控自己的理解。",
+      "en": "Learning science studies monitoring of understanding.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "熟悉感与实际表现"
+    },
+    {
+      "zh": "2018 年的综合报告梳理学习证据。",
+      "en": "A 2018 synthesis reviewed learning evidence.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "熟悉感与实际表现"
+    },
+    {
+      "zh": "观察、反馈和调整，组成学习的一部分。",
+      "en": "Monitoring, feedback and adjustment are part of learning.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "熟悉感与实际表现"
+    },
+    {
+      "zh": "先预测哪一步自己已经掌握。",
+      "en": "Predict what you can already do.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "预测 → 尝试 → 核对"
+    },
+    {
+      "zh": "合上材料，再解释或操作。",
+      "en": "Close the material. Explain or perform.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "预测 → 尝试 → 核对"
+    },
+    {
+      "zh": "把实际表现，和预期放在一起看。",
+      "en": "Compare actual performance with the prediction.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "预测 → 尝试 → 核对"
+    },
+    {
+      "zh": "缺口越具体，下一步越好安排。",
+      "en": "Specific gaps guide the next step.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "预测 → 尝试 → 核对"
+    },
+    {
+      "zh": "自信可能有用，却不能代替掌握证据。",
+      "en": "Confidence helps, but cannot prove mastery.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "自信不必等于掌握"
+    },
+    {
+      "zh": "一次答对，也不保证以后都能迁移。",
+      "en": "One correct answer does not guarantee transfer.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "自信不必等于掌握"
+    },
+    {
+      "zh": "难题需要理解，也需要合适反馈。",
+      "en": "Difficult tasks need understanding and feedback.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "自信不必等于掌握"
+    },
+    {
+      "zh": "读完相关与因果，换个生活例子讲。",
+      "en": "Explain correlation using a new everyday example.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "换个例子，再讲一次"
+    },
+    {
+      "zh": "说不清的地方，回到可靠材料核对。",
+      "en": "Check unclear parts against a reliable source.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "换个例子，再讲一次"
+    },
+    {
+      "zh": "把「我不行」换成具体待练的一步。",
+      "en": "Turn a global judgment into a specific next step.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "换个例子，再讲一次"
+    },
+    {
+      "zh": "学习自己，也是在学习怎样学习。",
+      "en": "Know your learning while learning the subject.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "让学习，带上反馈"
+    },
+    {
+      "zh": "允许预期被修正，才有新的方向。",
+      "en": "Revised expectations can reveal a direction.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "让学习，带上反馈"
+    },
+    {
+      "zh": "让每次尝试，留下可用的反馈。",
+      "en": "Let each attempt leave usable feedback.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "让学习，带上反馈"
+    }
+  ],
+  "sources": [
+    {
+      "title": "National Academies：How People Learn II，学习与知识",
+      "url": "https://www.nationalacademies.org/read/24783/chapter/6",
+      "note": "研究综述，讨论元认知、学习者监测与调节。"
+    },
+    {
+      "title": "Cornell：Metacognitive Strategies",
+      "url": "https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/metacognitive-strategies",
+      "note": "提供在实际学习中计划、监测与评价的教学方法。"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "test-validity",
+  "core_claim": "分数是否一致和解释是否有依据，是两个需要分别检查的问题。看到一个测试，先问它测什么、怎么测、适合用在哪里。",
+  "evidence_limits": "本课介绍测量素养，不提供测验诊断、分数换算或量表选择建议。真实评估需由合适人员结合具体目的与多种信息进行。",
+  "mechanism": {
+    "steps": [
+      "说清准备解释什么",
+      "检查一致性与误差",
+      "检查解释和用途的证据"
+    ],
+    "metaphorLimit": "尺与表的类比帮助区分问题，不能概括心理测量中全部信度估计与效度证据。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "2014",
+      "author": "AERA · APA · NCME"
+    },
+    "script_statements": [
+      {
+        "zh": "2014 年，测验标准分别讨论信度与效度。",
+        "en": "The 2014 Testing Standards distinguish reliability and validity.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "一致性与误差，是需要检验的问题。",
+        "en": "Consistency and measurement error need examination.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "分数解释和用途，也需要相应证据。",
+        "en": "Score interpretations and uses need supporting evidence.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "AERA、APA、NCME：Standards for Educational and Psychological Testing（2014，开放版）",
+      "url": "https://www.testingstandards.net/open-access-files.html",
+      "note": "原始专业标准。第一章讨论效度，第二章讨论信度与精确性。"
+    },
+    {
+      "title": "APA：Understanding psychological testing and assessment",
+      "url": "https://www.apa.org/topics/testing-assessment-measurement/understanding",
+      "note": "说明测验、访谈及其他信息在专业评估中的不同作用。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "看到测试，先找它声称测什么。",
+      "en": "Ask what the test claims to measure.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "再找研究对象、评分、误差和用途说明。",
+      "en": "Look for population, scoring, error and intended use.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "本课没有对你实施心理量表。",
+      "en": "This lesson does not administer a psychological scale.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "你比一个分数，更值得被完整理解。",
+        "en": "A person deserves fuller understanding than one score.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "会问测量的问题，也是一种科学素养。",
+        "en": "Questions about measurement are part of scientific literacy.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "让每一个分数，都带着依据和边界。",
+        "en": "Give each score its evidence and limits.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

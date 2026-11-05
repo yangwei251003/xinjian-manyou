@@ -1,0 +1,150 @@
+{
+  "id": "help-seeking",
+  "title": "求助，真的要等到撑不住吗？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "要等到撑不住，才有资格求助吗？",
+      "en": "Must things become unbearable before seeking help?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "求助，可以从哪里开始？"
+    },
+    {
+      "zh": "困难值得被听见，可以从一句话开始。",
+      "en": "A difficulty can be heard from the first sentence.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "说出困扰，也说明顾虑"
+    },
+    {
+      "zh": "权威资料鼓励了解合适的支持路径。",
+      "en": "Authoritative guidance describes routes to support.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "说出困扰，也说明顾虑"
+    },
+    {
+      "zh": "可靠成人和专业服务，作用可能不同。",
+      "en": "Trusted adults and professional services have different roles.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "说出困扰，也说明顾虑"
+    },
+    {
+      "zh": "你可以问清楚安排，也可以说明顾虑。",
+      "en": "You can ask about the process and share concerns.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "说出困扰，也说明顾虑"
+    },
+    {
+      "zh": "先说发生什么、持续多久。",
+      "en": "Describe what happened and for how long.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "把模糊困难说得具体"
+    },
+    {
+      "zh": "再说哪些生活部分被影响。",
+      "en": "Explain which parts of life are affected.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "把模糊困难说得具体"
+    },
+    {
+      "zh": "把需要帮助的一步，具体指出来。",
+      "en": "Name one step where help is needed.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "把模糊困难说得具体"
+    },
+    {
+      "zh": "路径图是求助教育，不是分诊结果。",
+      "en": "This route map is educational, not triage.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "把模糊困难说得具体"
+    },
+    {
+      "zh": "不必等到固定天数，才说出担心。",
+      "en": "No fixed waiting period is needed to voice concern.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "不必等到固定天数"
+    },
+    {
+      "zh": "一个人没听明白，可以再找合适的人。",
+      "en": "If one person misses it, seek another appropriate listener.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "不必等到固定天数"
+    },
+    {
+      "zh": "有即时危险，先联系能保障安全的人。",
+      "en": "For immediate danger, seek people who can ensure safety.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "不必等到固定天数"
+    },
+    {
+      "zh": "可以说「最近睡不好，也不想参加活动」。",
+      "en": "You can describe sleep and activity changes.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "可信任成人 → 合适服务"
+    },
+    {
+      "zh": "「我想一起了解，能得到哪些帮助」。",
+      "en": "Ask to explore what support is available.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "可信任成人 → 合适服务"
+    },
+    {
+      "zh": "涉及健康问题，交给合适专业人员评估。",
+      "en": "Appropriate professionals assess health concerns.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "可信任成人 → 合适服务"
+    },
+    {
+      "zh": "求助不是把自己交给一个标签。",
+      "en": "Seeking help need not reduce you to a label.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "第一句话，可以很小"
+    },
+    {
+      "zh": "你可以带着疑问，参与了解的过程。",
+      "en": "Bring your questions into the process.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "第一句话，可以很小"
+    },
+    {
+      "zh": "第一句话，不需要等到完美。",
+      "en": "The first sentence need not be perfect.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "第一句话，可以很小"
+    }
+  ],
+  "sources": [
+    {
+      "title": "NIMH：Caring for Your Mental Health",
+      "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+      "note": "了解心理健康支持、日常功能与寻求专业帮助。"
+    },
+    {
+      "title": "NHS：How to talk about your mental health",
+      "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-talk-about-your-mental-health/",
+      "note": "选择信任的人、表达所需支持与准备谈话。"
+    },
+    {
+      "title": "NIMH：Child and Adolescent Mental Health",
+      "url": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health",
+      "note": "支持未成年人向家长、学校支持人员或医疗人员求助；困扰与生活影响需要认真对待。"
+    }
+  ]
+}

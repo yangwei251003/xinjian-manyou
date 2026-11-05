@@ -1,0 +1,100 @@
+{
+  "id": "framing",
+  "core_claim": "描述方式会影响注意与判断；把选项翻译成相同的结果和条件，更容易看清真正的差别。",
+  "evidence_limits": "贴纸转盘是解释性教学场景，不是经典框架实验的直接复现，也不是赌博游戏。只有分母、规则、成本与结果一致时，两种说法才可能等价；一次选择不评定理性程度。",
+  "mechanism": {
+    "steps": [
+      "措辞突出不同结果",
+      "注意与判断可能改变",
+      "统一分母、条件和结果"
+    ],
+    "metaphorLimit": "相框比喻描述突出不同部分；只有结果与条件等价，才能说只是换框架。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "1988",
+      "author": "Levin · Gaeth"
+    },
+    "script_statements": [
+      {
+        "zh": "1988 年，研究者考察属性框架。",
+        "en": "A 1988 study examined attribute framing.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "互补表达，可能改变评价的注意点。",
+        "en": "Complementary descriptions may shift evaluation.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "它与风险选项框架，是不同问题。",
+        "en": "This differs from risky-choice framing.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Kahneman：Maps of Bounded Rationality 诺奖讲稿",
+      "url": "https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf",
+      "note": "判断、参照点与框架研究的作者原始综述。"
+    },
+    {
+      "title": "Tversky 与 Kahneman：The Framing of Decisions and the Psychology of Choice",
+      "url": "https://doi.org/10.1126/science.7455683",
+      "note": "1981 年经典框架研究。"
+    },
+    {
+      "title": "Levin 与 Gaeth：How Consumers Are Affected by the Framing of Attribute Information（1988）",
+      "url": "https://doi.org/10.1086/209174",
+      "note": "属性信息互补表达的原始研究，更贴近本站贴纸概率和幼苗比例教学。需与Tversky、Kahneman的风险选择框架区分。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "看见广告，先把话翻成同一结果。",
+      "en": "Translate advertising into comparable outcomes.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "同时写出得到什么、失去什么。",
+      "en": "Write both what is gained and what is lost.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "有数字时，问清它属于哪一组人。",
+      "en": "Ask which group a statistic describes.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "措辞会照亮一面，你可以再转过来看。",
+        "en": "Wording lights one side. Turn it around.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "多一个翻译步骤，就多一份比较依据。",
+        "en": "One translation step can improve comparison.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "让选择，站在同一把尺上。",
+        "en": "Place the choices against the same measure.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "attribution",
+  "title": "他没回复，就一定是不在乎？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "他没回复，就一定是不在乎？",
+      "en": "No reply. Does that mean no care?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "一个行为，一种解释？"
+    },
+    {
+      "zh": "你看到行为，大脑开始补原因。",
+      "en": "A behavior appears. A story follows.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "人，在情境之中"
+    },
+    {
+      "zh": "归因研究问，人怎样解释行为？",
+      "en": "Attribution asks how we explain behavior.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "人，在情境之中"
+    },
+    {
+      "zh": "我们可能先看见人，后看见背景。",
+      "en": "The person is salient. Context is quieter.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "人，在情境之中"
+    },
+    {
+      "zh": "这种倾向受任务与文化影响。",
+      "en": "The tendency varies across tasks and cultures.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "人，在情境之中"
+    },
+    {
+      "zh": "「迟到了」是观察。「自私」是推断。",
+      "en": "Late is an observation. Selfish is an inference.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "把镜头慢慢拉远"
+    },
+    {
+      "zh": "把两个词分开，就多出几个问题。",
+      "en": "Separate them to open more questions.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "把镜头慢慢拉远"
+    },
+    {
+      "zh": "他掌握哪些信息？遇到什么限制？",
+      "en": "What did they know? What constrained them?",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "把镜头慢慢拉远"
+    },
+    {
+      "zh": "把镜头拉远，原因可能变得更多。",
+      "en": "Zoom out. More explanations may appear.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "把镜头慢慢拉远"
+    },
+    {
+      "zh": "但存在原因，不会抹掉你的等待。",
+      "en": "A reason does not erase your waiting.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "理解原因，也谈责任"
+    },
+    {
+      "zh": "补背景和谈责任，可以同时发生。",
+      "en": "Context and responsibility can coexist.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "理解原因，也谈责任"
+    },
+    {
+      "zh": "持续模式，也是一条需要更新的信息。",
+      "en": "Repeated patterns also matter.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "理解原因，也谈责任"
+    },
+    {
+      "zh": "说出具体影响，再问发生了什么。",
+      "en": "Name the impact. Ask what happened.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "先说观察，再问背景"
+    },
+    {
+      "zh": "共同约定下一次怎样通知。",
+      "en": "Agree on how to communicate next time.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "先说观察，再问背景"
+    },
+    {
+      "zh": "这是虚构情境，真实原因仍需核实。",
+      "en": "This is fiction. Real causes need checking.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "先说观察，再问背景"
+    },
+    {
+      "zh": "别用一个瞬间，定义一个人。",
+      "en": "Do not define a person by one moment.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "给判断，留一扇窗"
+    },
+    {
+      "zh": "也别让理解，变成永远委屈自己。",
+      "en": "Understanding can include your own needs.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "给判断，留一扇窗"
+    },
+    {
+      "zh": "留一扇窗，等新的信息进来。",
+      "en": "Keep a window open for new information.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "给判断，留一扇窗"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenStax：社会心理学与情境归因",
+      "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+      "note": "归因及个人与情境解释的教材入口。"
+    },
+    {
+      "title": "Noba：Social Cognition and Attitudes",
+      "url": "https://nobaproject.com/textbooks/jericho-hockett-introduction-to-psychology-the-full-noba-collection/modules/social-cognition-and-attitudes",
+      "note": "社会判断受启发式、情感和动机影响。"
+    }
+  ]
+}

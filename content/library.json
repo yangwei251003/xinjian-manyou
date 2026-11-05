@@ -1,0 +1,543 @@
+{
+  "books": [
+    {
+      "id": "thinking",
+      "title": "思考，快与慢",
+      "author": "丹尼尔·卡尼曼",
+      "description": "从直觉与审慎思考进入判断和选择：我们怎样使用线索，又会怎样忽略它们？",
+      "boundary": "系统1/2是解释框架，不是两块脑组织；书中的具体研究仍需逐项核查。",
+      "url": "https://us.macmillan.com/books/9780374275631/thinkingfastandslow/",
+      "lessons": [
+        "framing",
+        "sunk-cost",
+        "metacognition"
+      ],
+      "hook": "同样的结果，换句话说，你还会选一样的吗？",
+      "coreIdea": "直觉能快速给出答案，也可能被显眼的线索带偏。慢下来并不自动正确；关键是找回被忽略的信息，检查比较的基准。",
+      "tryIt": "把“成功率90%”改写成“失败率10%”，再写出两句话共有的分母、结果和条件。看看改变的是事实还是感受。",
+      "readingNote": "面向成人的综合科普。先体验“选择的画框”，再读与判断、风险有关的章节；不要把整本书视作每一条研究都同样可靠的清单。",
+      "status": "研究型科普 · 具体结论逐项核验",
+      "history": "卡尼曼把多年判断与决策研究带给大众；书中的双系统是帮助解释过程的框架。",
+      "audience": "进阶阅读",
+      "sources": [
+        {
+          "title": "作者或出版社书目与内容介绍",
+          "url": "https://us.macmillan.com/books/9780374275631/thinkingfastandslow/"
+        }
+      ]
+    },
+    {
+      "id": "influence",
+      "title": "影响力",
+      "author": "罗伯特·西奥迪尼",
+      "description": "把说服线索放回日常场景，理解权威、社会认同和稀缺如何参与判断。",
+      "boundary": "说服效果依赖情境，不是一套操控他人必成功的规则。",
+      "url": "https://cialdini.com/books/influence",
+      "lessons": [
+        "conformity",
+        "framing",
+        "boundaries"
+      ],
+      "hook": "“大家都在买”，是在告诉你质量，还是在催你加入？",
+      "coreIdea": "我们常借助别人的选择、权威和稀缺信息来节省判断成本。线索可以有用，也可能被营销利用；先检查它与当前问题是否真正相关。",
+      "tryIt": "给一条虚构广告划出“事实”“人气线索”“催促行动”三部分，再问：去掉后两项，我还知道商品的哪些信息？",
+      "readingNote": "可以与成人一起讨论广告，不把说服原则用来操纵同伴。不同版本内容有变化，引用时应注明版本。",
+      "status": "社会影响科普 · 效果依赖情境",
+      "history": "原版提出六类说服原则，扩展版增加“共同身份”相关原则。",
+      "audience": "共同讨论",
+      "sources": [
+        {
+          "title": "作者或出版社书目与内容介绍",
+          "url": "https://cialdini.com/books/influence"
+        }
+      ]
+    },
+    {
+      "id": "make-it-stick",
+      "title": "认知天性",
+      "author": "彼得·布朗、亨利·罗迪格、马克·麦克丹尼尔",
+      "description": "为什么熟悉不等于掌握？通过提取与间隔，让学习走出“看起来会了”。",
+      "boundary": "不同材料和学习目标影响效果；一次小测不能证明长期收益。",
+      "url": "https://www.makeitstick.com/",
+      "lessons": [
+        "retrieval",
+        "metacognition",
+        "memory"
+      ],
+      "hook": "刚看完觉得全会了，合上书为什么说不出来？",
+      "coreIdea": "学习时的流畅感与以后能否提取不是一回事。主动回想、对照纠错与分散练习，能把“看过”转成更有机会用得上的知识。",
+      "tryIt": "读完一篇漫画后，关掉页面说出“发生了什么、为什么、下次怎么做”；再打开核对，第二天用一个新场景重讲。",
+      "readingNote": "适合把方法用于日常学习。不要把“有益的困难”理解成越难越好；任务仍需适当支持和反馈。",
+      "status": "学习科学科普 · 多项实验支持",
+      "history": "由写作者彼得·布朗与记忆研究者罗迪格、麦克丹尼尔合作，连接实验与教学应用。",
+      "audience": "学习方法",
+      "sources": [
+        {
+          "title": "作者或出版社书目与内容介绍",
+          "url": "https://www.makeitstick.com/"
+        }
+      ]
+    },
+    {
+      "id": "quiet",
+      "title": "安静",
+      "author": "苏珊·凯恩",
+      "description": "从内向者的生活体验出发，重新看待环境、表达和人格差异。",
+      "boundary": "人格是连续且受情境影响的差异，不应把人装进两个固定盒子。",
+      "url": "https://www.penguinrandomhouse.com/books/22821/quiet-by-susan-cain/9780307352149/",
+      "lessons": [
+        "personality",
+        "comparison",
+        "listening"
+      ],
+      "hook": "不抢着说话，就代表没有好点子吗？",
+      "coreIdea": "环境常奖励容易被看见的表达方式，但贡献也可以来自准备、观察与倾听。理解差异，是为了提供更多参与方式，而不是重新评出哪类人更好。",
+      "tryIt": "把小组讨论改成“先各自写一分钟，再轮流讲”。比较两次活动里哪些人的想法更容易被听见。",
+      "readingNote": "原书以成人生活和工作为重要场景。年轻读者可先看本馆人格漫画，或选择面向青少年的 Quiet Power。",
+      "status": "人格差异科普 · 不是人格测验",
+      "history": "凯恩以采访、故事和研究讨论社会对外向表达的偏好。",
+      "audience": "进阶阅读",
+      "sources": [
+        {
+          "title": "作者或出版社书目与内容介绍",
+          "url": "https://www.penguinrandomhouse.com/books/22821/quiet-by-susan-cain/9780307352149/"
+        }
+      ]
+    },
+    {
+      "id": "attached",
+      "title": "依恋",
+      "author": "阿米尔·莱文、蕾切尔·赫勒",
+      "description": "把关系中的接近、担忧与退缩变成可以讨论的问题，而不是互相指责。",
+      "boundary": "流行分类不等于个人诊断，童年经历也不决定一个人的全部未来。",
+      "url": "https://www.penguinrandomhouse.com/books/303069/attached-by-amir-levine-md-and-rachel-sf-heller-ma/9780593171660/",
+      "lessons": [
+        "attachment",
+        "listening",
+        "boundaries"
+      ],
+      "hook": "一句迟到的回复，为什么会被理解成不同的意思？",
+      "coreIdea": "本书以成人亲密关系介绍依恋。馆内借此提示：需要、期待与沟通方式值得讨论，但不能只凭一条消息把人判成固定类型。",
+      "tryIt": "面对一段虚构对话，先列出至少两个情境解释，再练习说清自己需要什么；不要猜同学属于哪种依恋类型。",
+      "readingNote": "成人亲密关系延伸阅读，不作为低龄学生的主线书目。成人恋爱分类与婴幼儿依恋研究不是同一种测量。",
+      "status": "成人关系科普 · 分类需谨慎",
+      "history": "将依恋研究转述到成人恋爱生活；本馆另设安斯沃思展签，区分研究源流与通俗应用。",
+      "audience": "成人延伸",
+      "sources": [
+        {
+          "title": "作者或出版社书目与内容介绍",
+          "url": "https://www.penguinrandomhouse.com/books/303069/attached-by-amir-levine-md-and-rachel-sf-heller-ma/9780593171660/"
+        }
+      ]
+    },
+    {
+      "id": "courage",
+      "title": "被讨厌的勇气",
+      "author": "岸见一郎、古贺史健",
+      "description": "以对话式写作讨论认可、自主与人际边界，适合作为思想探索的入口。",
+      "boundary": "这是阿德勒思想的当代普及作品，不是其原著，也不是临床共识；不将痛苦归咎于个人选择。",
+      "url": "https://www.simonandschuster.com/books/The-Courage-to-Be-Disliked/Ichiro-Kishimi/9781501197277",
+      "lessons": [
+        "boundaries",
+        "comparison",
+        "attribution"
+      ],
+      "hook": "我能决定自己的行动，但能决定别人一定喜欢我吗？",
+      "coreIdea": "这部哲学式对话鼓励思考认可、自主与责任。可以借它讨论边界，但遇到不公或伤害时，不能把责任全部推给受影响的人。",
+      "tryIt": "把“我可以做的事”“需要商量的事”“不是我能控制的事”分开写，再选择一个安全、具体的小行动。",
+      "readingNote": "是岸见一郎与古贺史健对阿德勒思想的当代演绎，不是阿德勒原著。书中的强烈主张可讨论，不等于现代临床共识。",
+      "status": "思想对话 · 非实验定论",
+      "history": "通过一位青年与哲人的连续对话展开观点，借用了苏格拉底式问答的文学形式。",
+      "audience": "共同讨论",
+      "sources": [
+        {
+          "title": "作者或出版社书目与内容介绍",
+          "url": "https://www.simonandschuster.com/books/The-Courage-to-Be-Disliked/Ichiro-Kishimi/9781501197277"
+        }
+      ]
+    },
+    {
+      "id": "meaning",
+      "title": "活出生命的意义",
+      "author": "维克多·弗兰克尔",
+      "description": "从回忆录与意义治疗思想出发，探索人在限制中怎样看待价值和行动。",
+      "boundary": "回忆录不是受控实验；不要求每一种痛苦都有意义，更不以心态解释谁得以幸存。",
+      "url": "https://www.beacon.org/Assets/ClientPages/MansSearchForMeaningtg.aspx",
+      "lessons": [
+        "support",
+        "help-seeking",
+        "reappraisal"
+      ],
+      "hook": "处境不能马上改变时，哪些关系和行动仍值得珍惜？",
+      "coreIdea": "弗兰克尔通过个人经历与意义治疗思想讨论价值和责任。理解这本书需要尊重历史与个人处境，而不是要求每个人都从痛苦里找到积极意义。",
+      "tryIt": "只从普通、安全的日常出发：选一件自己在意的小事，写出今天可以做的一步。不要求回忆或公开任何痛苦经历。",
+      "readingNote": "涉及纳粹集中营与重大苦难，适合较成熟读者在准备充分时自愿延伸。年轻学生不必阅读案例，也不必完成任何个人经历分享。",
+      "status": "回忆录与理论思想 · 非受控实验",
+      "history": "书中个人叙事与意义治疗概述是不同类型的材料，阅读时应分开判断。",
+      "audience": "成人延伸",
+      "sources": [
+        {
+          "title": "作者或出版社书目与内容介绍",
+          "url": "https://www.beacon.org/Assets/ClientPages/MansSearchForMeaningtg.aspx"
+        }
+      ]
+    },
+    {
+      "id": "emotions-made",
+      "title": "How Emotions Are Made",
+      "author": "莉莎·费尔德曼·巴雷特",
+      "description": "How Emotions Are Made 提出身体、情境与概念之间的联系，邀请我们重新观察情绪。",
+      "boundary": "这是重要理论立场，而不是所有情绪理论已达成的一致结论。",
+      "url": "https://lisafeldmanbarrett.com/books/how-emotions-are-made/",
+      "lessons": [
+        "emotions",
+        "stress",
+        "reappraisal"
+      ],
+      "hook": "同样心跳很快，可能是害怕，也可能是期待？",
+      "coreIdea": "巴雷特的建构情绪理论强调身体状态、情境、既往经验和概念如何参与情绪形成。这是理解情绪的一种理论视角，不是宣布情绪没有生物基础。",
+      "tryIt": "为“心跳变快”画两个不同的安全场景，比较情境解释；不要凭一种身体感觉判断自己或别人的情绪。",
+      "readingNote": "这里保留英文书名以避免不同中文版本混淆。可与其他情绪理论比较，不能从书中推断某个人的病因或治疗方案。",
+      "status": "理论立场 · 仍有学术讨论",
+      "history": "作者把自身情绪研究与理论综合写成大众著作。作者介绍页用于核对其主张，不等于独立验证所有主张。",
+      "audience": "进阶阅读",
+      "sources": [
+        {
+          "title": "作者或出版社书目与内容介绍",
+          "url": "https://lisafeldmanbarrett.com/books/how-emotions-are-made/"
+        }
+      ]
+    },
+    {
+      "id": "body-score",
+      "title": "身体从未忘记",
+      "author": "巴塞尔·范德考克",
+      "description": "一部围绕创伤与身体经验的流行著作，适合在充分准备与自愿的前提下延伸阅读。",
+      "boundary": "包含较重的案例；书籍和本站不能替代个体评估，具体治疗主张需对照专业指南。",
+      "url": "https://www.penguinrandomhouse.com/books/313183/the-body-keeps-the-score-by-bessel-van-der-kolk-md/",
+      "lessons": [
+        "stress",
+        "help-seeking",
+        "support"
+      ],
+      "hook": "为什么理解一个人的困难，需要同时看身体、经历和支持？",
+      "coreIdea": "本书围绕创伤经验与身心联系展开，提醒读者认真对待痛苦。具体机制和治疗主张必须另查研究与专业指南，不能靠畅销程度判断疗效。",
+      "tryIt": "本馆只做“支持”练习：为虚构人物写一句不责怪、不逼问细节的回应，并指出一个可以求助的可靠成人或专业支持渠道。",
+      "readingNote": "含较重的创伤案例，成人自愿延伸，非儿童主线。无需阅读这些内容也可以完整学习本站；不安排创伤回忆、诊断或自行治疗练习。",
+      "status": "临床叙事科普 · 治疗主张另核验",
+      "history": "结合临床叙事与作者对研究的解释。病例带来理解视角，但不能替代对治疗效果的系统比较。",
+      "audience": "成人延伸",
+      "sources": [
+        {
+          "title": "作者或出版社书目与内容介绍",
+          "url": "https://www.penguinrandomhouse.com/books/313183/the-body-keeps-the-score-by-bessel-van-der-kolk-md/"
+        }
+      ]
+    },
+    {
+      "id": "quiet-power",
+      "title": "Quiet Power",
+      "author": "苏珊·凯恩、格雷戈里·莫恩、埃丽卡·莫罗兹；格兰特·斯奈德绘",
+      "description": "把人格与环境的问题放进学校、朋友、家庭和课外活动，讨论安静的孩子也能怎样参与。",
+      "boundary": "内向不是疾病，也不代表一定害羞；书中故事不能把读者分成固定的两类。",
+      "url": "https://www.penguinrandomhouse.com/books/314363/quiet-power-by-susan-cain-with-gregory-mone-and-erica-moroz-illustrated-by-grant-snider/",
+      "lessons": [
+        "personality",
+        "comparison",
+        "listening"
+      ],
+      "hook": "不想在全班面前抢话，还有哪些办法让想法被听见？",
+      "coreIdea": "可以调整参与方式，而不是要求所有人都像同一个模板。准备、书面表达、小组合作与发言，都可能成为贡献的途径。",
+      "tryIt": "为下一次小组活动提出两种参与方式，邀请每个人选择，而不是先替别人决定“你适合安静”。",
+      "readingNote": "出版社英文版标注10岁以上。英文阅读难度和个体差异仍需考虑；本馆的中文原创漫画可以独立阅读。",
+      "status": "青少年科普 · 人格差异非标签",
+      "history": "在 Quiet 的主题基础上专为年轻读者改写，场景转向学校、家庭与友谊。",
+      "audience": "青少年延伸",
+      "sources": [
+        {
+          "title": "出版社年龄标注与书目",
+          "url": "https://www.penguinrandomhouse.com/books/314363/quiet-power-by-susan-cain-with-gregory-mone-and-erica-moroz-illustrated-by-grant-snider/"
+        },
+        {
+          "title": "作者的内容介绍",
+          "url": "https://susancain.net/book/quiet-power/"
+        }
+      ]
+    },
+    {
+      "id": "psychology-openstax",
+      "title": "Psychology 2e",
+      "author": "Rose M. Spielman、William J. Jenkins、Marilyn D. Lovett 等",
+      "description": "免费的英文入门教材，把实验方法、认知、发展、人格、社会与健康等领域放进同一张学科地图。",
+      "boundary": "面向大学入门课程，语言与部分内容不适合直接要求低龄学生独立读完；教材也不是不会更新的最终答案。",
+      "url": "https://openstax.org/books/psychology-2e/pages/preface",
+      "lessons": [
+        "correlation",
+        "sampling",
+        "replication",
+        "memory",
+        "personality"
+      ],
+      "hook": "一本热门书之外，心理学的整张地图是什么样？",
+      "coreIdea": "先看研究问题，再看方法和证据：同一个生活现象可以从不同分支解释，各分支需要相互连接。",
+      "tryIt": "选一篇漫画，找到它的心理学分支；再问它的证据来自实验、观察，还是理论解释。",
+      "readingNote": "适合教师、家长与进阶学习者核对概念。本站链接官方免费教材，不复制整章或第三方图片。",
+      "status": "入门教材 · 系统查阅入口",
+      "history": "OpenStax 以可获取的教材支持基础教育资源；第二版覆盖导论心理学的主要领域。",
+      "audience": "教师与进阶",
+      "sources": [
+        {
+          "title": "OpenStax 官方前言与作者信息",
+          "url": "https://openstax.org/books/psychology-2e/pages/preface"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "name": "卡尼曼与特沃斯基",
+      "contribution": "判断与决策、启发式和前景理论。",
+      "context": "研究具体选择条件，比给人贴“理性/非理性”标签更有帮助。",
+      "url": "https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf",
+      "lessons": [
+        "framing",
+        "sunk-cost"
+      ],
+      "id": "kahneman-tversky",
+      "hook": "同一个选择，为什么换个说法就不同？",
+      "coreIdea": "把选择放回参照点与风险条件中，研究实际判断怎样偏离简单的理性模型。",
+      "history": "两人的合作推动了判断与决策研究；前景理论发表于1979年，相关工作连接心理学与经济学。",
+      "status": "实验研究与描述模型",
+      "pitfall": "模型描述群体和条件中的规律，不是给个人盖“不理性”的章。",
+      "tryIt": "把同一选择改写成获得与失去两种说法，再检查两者是否真的等价。",
+      "sources": [
+        {
+          "title": "前景理论原始论文",
+          "url": "https://www.ucl.ac.uk/anaesthesia/sites/anaesthesia/files/kahneman-tversky.pdf"
+        }
+      ]
+    },
+    {
+      "name": "伊丽莎白·洛夫特斯",
+      "contribution": "记忆与后续信息、目击证词。",
+      "context": "记忆研究提示误差的条件，不能据此裁定某个真实个人事件的真假。",
+      "url": "https://faculty.sites.uci.edu/eloftus/publications/",
+      "lessons": [
+        "memory",
+        "correlation"
+      ],
+      "id": "loftus",
+      "hook": "记得很清楚，就一定没有记错吗？",
+      "coreIdea": "回忆会受事后信息与提问方式影响。研究关心什么条件下容易发生误差，而不是说所有记忆都不可信。",
+      "history": "洛夫特斯与合作者把记忆研究连接到目击证词与法律问题；大学论文目录可继续追溯原始研究。",
+      "status": "实验研究",
+      "pitfall": "不能根据一次小体验裁定任何真实事件的真假，也不要诱导朋友回忆痛苦经历。",
+      "tryIt": "看完一个虚构场景后，区分“亲眼看到”“别人说过”“自己推测”。",
+      "sources": [
+        {
+          "title": "UCI 学术论文目录",
+          "url": "https://faculty.sites.uci.edu/eloftus/publications/"
+        }
+      ]
+    },
+    {
+      "name": "约翰·里德利·斯特鲁普",
+      "contribution": "颜色命名与词义干扰的经典实验。",
+      "context": "实验范式说明加工冲突，网站体验不是智力或临床测量。",
+      "url": "https://psychclassics.yorku.ca/Stroop/",
+      "lessons": [
+        "attention",
+        "metacognition"
+      ],
+      "id": "stroop",
+      "hook": "想说颜色，为什么字的意思会抢先出来？",
+      "coreIdea": "当任务要求与熟练的阅读反应冲突时，完成颜色命名可能更困难。比较条件比一次反应速度更有信息。",
+      "history": "J. Ridley Stroop 在1935年发表经典干扰研究；范式后来被广泛使用和改编。",
+      "status": "经典实验范式",
+      "pitfall": "字体、设备、阅读熟练度和练习都会影响体验，不能用网站结果测智力或诊断。",
+      "tryIt": "试着先说色块颜色，再说有颜色的文字的墨色；只比较任务差异，不排名同学。",
+      "sources": [
+        {
+          "title": "1935年原始论文",
+          "url": "https://psychclassics.yorku.ca/Stroop/"
+        }
+      ]
+    },
+    {
+      "name": "班杜拉与多萝西娅、希拉·罗斯",
+      "contribution": "观察学习与经典模仿研究。",
+      "context": "保留共同作者贡献；玩具情境的短期行为不能直接外推为真实暴力的必然原因。",
+      "url": "https://www.yorku.ca/pclassic/Bandura/bobo.htm",
+      "lessons": [
+        "habits",
+        "conformity",
+        "correlation"
+      ],
+      "id": "bandura-ross",
+      "hook": "没被直接教过，也可能学会一种做法吗？",
+      "coreIdea": "观察他人的行为与结果，可以成为学习线索；学到了不等于在每种情境都会做出来。",
+      "history": "班杜拉、Dorothea Ross 和 Sheila A. Ross 于1961年发表玩偶模仿研究；合作者不应在讲述中消失。",
+      "status": "经典实验与后续理论",
+      "pitfall": "短时玩具情境不能直接证明真实暴力的必然因果；本馆不让孩子重复攻击情境。",
+      "tryIt": "观察一个安全的折纸示范，记录自己学会了哪一步，以及哪些步骤仍需要练习。",
+      "sources": [
+        {
+          "title": "1961年原始论文",
+          "url": "https://www.yorku.ca/pclassic/Bandura/bobo.htm"
+        }
+      ]
+    },
+    {
+      "name": "让·皮亚杰与合作者",
+      "contribution": "儿童认知发展、任务和知识形成。",
+      "context": "发展问题值得探索，经典阶段年龄不应成为给每个孩子下诊断的标尺。",
+      "url": "https://www.unige.ch/centre-piaget/",
+      "lessons": [
+        "brain",
+        "sampling"
+      ],
+      "id": "piaget",
+      "hook": "孩子是在记答案，还是在建立理解？",
+      "coreIdea": "皮亚杰研究知识怎样在行动和思考中发展。孩子的解释方式值得认真倾听，而不只是核对是否说出成人答案。",
+      "history": "其“发生认识论”关注知识的形成，把发展问题带入心理学研究。",
+      "status": "发展理论史",
+      "pitfall": "经典阶段不能作为给每个孩子判定能力的硬时间表；任务语言和经验也会影响表现。",
+      "tryIt": "请同伴解释一个安全的小谜题，先问“你怎么想的”，不要立刻宣布他属于哪个阶段。",
+      "sources": [
+        {
+          "title": "日内瓦大学发展理论资料",
+          "url": "https://tecfa.unige.ch/themes/sa2/act-app-dos2-fic-genetic.htm"
+        }
+      ]
+    },
+    {
+      "name": "列夫·维果茨基",
+      "contribution": "思想、语言与社会情境中的发展。",
+      "context": "原著与后人发展出的教学口号应分开；版本和译本值得核对。",
+      "url": "https://mitpress.mit.edu/9780262304917/thought-and-language/",
+      "lessons": [
+        "retrieval",
+        "listening"
+      ],
+      "id": "vygotsky",
+      "hook": "为什么把想法说出来，可能帮助我们想明白？",
+      "coreIdea": "语言不仅用来告诉别人答案，也参与思考；学习发生在与他人共同活动的社会情境中。",
+      "history": "《思维与语言》在1934年身后出版；不同译本和后来的教育应用需要区分。",
+      "status": "发展理论史",
+      "pitfall": "不能把所有合作学习方法都直接归于原著，也不能假设帮助越多学习一定越好。",
+      "tryIt": "遇到一道题，请同伴只给一个提示；自己解释下一步，再逐渐减少帮助。",
+      "sources": [
+        {
+          "title": "MIT Press 原著版本介绍",
+          "url": "https://mitpress.mit.edu/9780262304917/thought-and-language/"
+        }
+      ]
+    },
+    {
+      "name": "西格蒙德·弗洛伊德",
+      "contribution": "精神分析思想史及其文化影响。",
+      "context": "思想史的重要性不等于全部理论已获现代实验证实；这里通往真实手稿与书信。",
+      "url": "https://www.loc.gov/collections/sigmund-freud-papers/about-this-collection/",
+      "lessons": [
+        "emotions",
+        "replication"
+      ],
+      "id": "freud",
+      "hook": "心理学家曾怎样尝试理解没有被说出口的想法？",
+      "coreIdea": "精神分析强调无意识与心理冲突，深刻影响文化和思想史。读懂其影响，仍需把历史解释与可检验的现代证据分开。",
+      "history": "美国国会图书馆保存手稿、书信等材料，可看到思想的形成、传播与争论，而不只读网络名言。",
+      "status": "思想史 · 非全部实证确立",
+      "pitfall": "不要用梦境或普通行为武断推断别人的隐秘动机。无意识加工的现代证据不等于证实全部精神分析主张。",
+      "tryIt": "把一条网络“名言”拆成作者、原文、作品、版本四项；找不到出处，就先不引用。",
+      "sources": [
+        {
+          "title": "美国国会图书馆档案",
+          "url": "https://www.loc.gov/collections/sigmund-freud-papers/about-this-collection/"
+        }
+      ]
+    },
+    {
+      "name": "莉莎·费尔德曼·巴雷特",
+      "contribution": "情绪、身体和情境关系的研究与理论。",
+      "context": "呈现理论主张和争议，不把复杂情绪画成单一脑区按钮。",
+      "url": "https://lisafeldmanbarrett.com/books/how-emotions-are-made/",
+      "lessons": [
+        "emotions",
+        "brain",
+        "stress"
+      ],
+      "id": "barrett",
+      "hook": "情绪是一枚按钮，还是身体与情境共同参与？",
+      "coreIdea": "建构情绪理论强调概念、经验、身体状态与情境的作用，提供一种理解情绪如何形成的视角。",
+      "history": "巴雷特用研究和大众著作阐述理论；需要将作者自述与独立比较不同理论的研究分开。",
+      "status": "当代理论 · 持续讨论",
+      "pitfall": "不要把复杂情绪对应到单一脑区，也不要把理论说成“所有科学家已经同意”。",
+      "tryIt": "为同一种身体感受列出不同情境，讨论还需要知道什么才能理解一个人的感受。",
+      "sources": [
+        {
+          "title": "作者对理论著作的介绍",
+          "url": "https://lisafeldmanbarrett.com/books/how-emotions-are-made/"
+        }
+      ]
+    },
+    {
+      "id": "ainsworth",
+      "name": "玛丽·安斯沃思与合作者",
+      "contribution": "照料关系的观察研究与“陌生情境”研究程序。",
+      "context": "依恋描述关系中的模式，不是给孩子或家长打好坏分。",
+      "url": "https://modules.ilabs.uw.edu/module/attachment-in-practice/measuring-attachment-strange-situation/",
+      "lessons": [
+        "attachment",
+        "support",
+        "sampling"
+      ],
+      "hook": "为什么有可靠的支持，反而更敢去探索？",
+      "coreIdea": "研究者观察幼儿在陌生环境、分离和重聚中的行为，以了解照料关系。观察的是关系和情境中的模式，而非固定人格。",
+      "history": "安斯沃思把自然观察与结构化研究程序相结合；后续研究者继续检验和扩展分类与解释。",
+      "status": "发展研究 · 专门观察程序",
+      "pitfall": "不能拿校园分组、一次哭泣或网络问卷代替专业研究程序；不要自行制造分离压力来测试儿童。",
+      "tryIt": "不做分离试验。只为虚构人物设计一个安心探索的约定：何时回来、遇到困难找谁、怎样联系。",
+      "sources": [
+        {
+          "title": "华盛顿大学 I-LABS：研究程序说明",
+          "url": "https://modules.ilabs.uw.edu/module/attachment-in-practice/measuring-attachment-strange-situation/"
+        }
+      ]
+    },
+    {
+      "id": "roediger",
+      "name": "亨利·罗迪格与学习研究者",
+      "contribution": "记忆、提取练习以及实验研究向教育的转化。",
+      "context": "练习回想是一种学习机会，不必变成高压排名。",
+      "url": "https://psych.washu.edu/people/henry-roediger",
+      "lessons": [
+        "retrieval",
+        "memory",
+        "metacognition"
+      ],
+      "hook": "测一测是在检查学会没有，还是也在帮助学习？",
+      "coreIdea": "从记忆中主动提取，可能改善后续保持；反馈能帮助纠错。立即觉得容易，与过几天还能想起来，是两个不同的观察点。",
+      "history": "罗迪格与合作者研究提取、记忆错误和教学应用，提醒我们记忆既有力量也有局限。",
+      "status": "学习实验与综述",
+      "pitfall": "一次网站体验不是长期效果研究；提取练习不是单纯增加考试，更不是放弃理解与讲解。",
+      "tryIt": "合上页面用自己的话解释机制，核对后纠错；隔一天在新情境中再试，不按速度给自己贴标签。",
+      "sources": [
+        {
+          "title": "华盛顿大学圣路易斯校区研究介绍",
+          "url": "https://psych.washu.edu/people/henry-roediger"
+        },
+        {
+          "title": "Roediger 与 Butler：提取练习综述",
+          "url": "https://psychnet.wustl.edu/memory/wp-content/uploads/2018/04/Roediger-Butler-2011_TCS.pdf"
+        }
+      ]
+    }
+  ],
+  "curation": {
+    "title": "从故事走进思想，再回到证据",
+    "note": "展签是本站原创导读，不是书籍全文或心理学家的原话。畅销程度与证据强度不是同一件事；成人延伸书目不进入低龄主线。",
+    "sourceChecked": "2026-11-01",
+    "bookCount": 11,
+    "peopleCount": 10
+  }
+}

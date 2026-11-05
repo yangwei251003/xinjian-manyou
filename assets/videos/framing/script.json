@@ -1,0 +1,150 @@
+{
+  "id": "framing",
+  "title": "九成机会，为什么听起来更诱人？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "九成能得到，和一成得不到，你选谁？",
+      "en": "A ninety-percent gain or a ten-percent miss?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "九成得到，一成得不到"
+    },
+    {
+      "zh": "先别急，两句话可能指向同一比例。",
+      "en": "Wait. They may describe the same proportion.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "同一属性，换一种表达"
+    },
+    {
+      "zh": "1988 年，研究者考察属性框架。",
+      "en": "A 1988 study examined attribute framing.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "同一属性，换一种表达"
+    },
+    {
+      "zh": "互补表达，可能改变评价的注意点。",
+      "en": "Complementary descriptions may shift evaluation.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "同一属性，换一种表达"
+    },
+    {
+      "zh": "它与风险选项框架，是不同问题。",
+      "en": "This differs from risky-choice framing.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "同一属性，换一种表达"
+    },
+    {
+      "zh": "这里有一百个教学圆点。",
+      "en": "Here are one hundred illustrative dots.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "先对齐分母与条件"
+    },
+    {
+      "zh": "九十个得到，十个得不到。",
+      "en": "Ninety gains. Ten misses.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "先对齐分母与条件"
+    },
+    {
+      "zh": "换措辞，圆点总数保持不变。",
+      "en": "Change the wording. Keep the counts fixed.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "先对齐分母与条件"
+    },
+    {
+      "zh": "先检查分母、规则、成本是否相同。",
+      "en": "Check the denominator, rules and costs.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "先对齐分母与条件"
+    },
+    {
+      "zh": "等等，感觉变了，数量未必变了。",
+      "en": "The feeling can change while the count stays.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "措辞变化，不一定数量变化"
+    },
+    {
+      "zh": "但条件不同，两种说法就未必等价。",
+      "en": "Different conditions may make them unequal.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "措辞变化，不一定数量变化"
+    },
+    {
+      "zh": "一次选择，也不能给理性程度打分。",
+      "en": "One choice cannot rank your rationality.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "措辞变化，不一定数量变化"
+    },
+    {
+      "zh": "看见广告，先把话翻成同一结果。",
+      "en": "Translate advertising into comparable outcomes.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "翻译成同一组结果再比较"
+    },
+    {
+      "zh": "同时写出得到什么、失去什么。",
+      "en": "Write both what is gained and what is lost.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "翻译成同一组结果再比较"
+    },
+    {
+      "zh": "有数字时，问清它属于哪一组人。",
+      "en": "Ask which group a statistic describes.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "翻译成同一组结果再比较"
+    },
+    {
+      "zh": "措辞会照亮一面，你可以再转过来看。",
+      "en": "Wording lights one side. Turn it around.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "让选择，站在同一把尺上"
+    },
+    {
+      "zh": "多一个翻译步骤，就多一份比较依据。",
+      "en": "One translation step can improve comparison.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "让选择，站在同一把尺上"
+    },
+    {
+      "zh": "让选择，站在同一把尺上。",
+      "en": "Place the choices against the same measure.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "让选择，站在同一把尺上"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kahneman：Maps of Bounded Rationality 诺奖讲稿",
+      "url": "https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf",
+      "note": "判断、参照点与框架研究的作者原始综述。"
+    },
+    {
+      "title": "Tversky 与 Kahneman：The Framing of Decisions and the Psychology of Choice",
+      "url": "https://doi.org/10.1126/science.7455683",
+      "note": "1981 年经典框架研究。"
+    },
+    {
+      "title": "Levin 与 Gaeth：How Consumers Are Affected by the Framing of Attribute Information（1988）",
+      "url": "https://doi.org/10.1086/209174",
+      "note": "属性信息互补表达的原始研究，更贴近本站贴纸概率和幼苗比例教学。需与Tversky、Kahneman的风险选择框架区分。"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "metacognition",
+  "core_claim": "元认知是观察和调节自己的学习；“感觉熟悉”需要用实际尝试来校准。",
+  "evidence_limits": "这个练习帮助发现理解缺口，不是元认知能力测验。学习效果取决于材料、反馈和持续练习；也不能据此承诺固定幅度的成绩提升。",
+  "mechanism": {
+    "steps": [
+      "预测自己会什么",
+      "独立尝试暴露缺口",
+      "用反馈调整策略"
+    ],
+    "metaphorLimit": "仪表盘比喻自我监测；熟悉感不是完全没用，但需用实际表现校准。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "2018",
+      "author": "How People Learn II"
+    },
+    "script_statements": [
+      {
+        "zh": "学习科学研究怎样监控自己的理解。",
+        "en": "Learning science studies monitoring of understanding.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "2018 年的综合报告梳理学习证据。",
+        "en": "A 2018 synthesis reviewed learning evidence.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "观察、反馈和调整，组成学习的一部分。",
+        "en": "Monitoring, feedback and adjustment are part of learning.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "National Academies：How People Learn II，学习与知识",
+      "url": "https://www.nationalacademies.org/read/24783/chapter/6",
+      "note": "研究综述，讨论元认知、学习者监测与调节。"
+    },
+    {
+      "title": "Cornell：Metacognitive Strategies",
+      "url": "https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/metacognitive-strategies",
+      "note": "提供在实际学习中计划、监测与评价的教学方法。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "读完相关与因果，换个生活例子讲。",
+      "en": "Explain correlation using a new everyday example.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "说不清的地方，回到可靠材料核对。",
+      "en": "Check unclear parts against a reliable source.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "把「我不行」换成具体待练的一步。",
+      "en": "Turn a global judgment into a specific next step.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "学习自己，也是在学习怎样学习。",
+        "en": "Know your learning while learning the subject.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "允许预期被修正，才有新的方向。",
+        "en": "Revised expectations can reveal a direction.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "让每次尝试，留下可用的反馈。",
+        "en": "Let each attempt leave usable feedback.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

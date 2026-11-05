@@ -1,0 +1,145 @@
+{
+  "id": "correlation",
+  "title": "冰淇淋卖多了，树荫为什么更挤？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "冰淇淋卖多了，树荫下的人也变多。",
+      "en": "Ice-cream sales rise. More people seek shade.",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "一起变化，就是因果吗？"
+    },
+    {
+      "zh": "难道冰淇淋，把大家赶进了树荫？",
+      "en": "Did ice cream send them into the shade?",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "相关描述关系，设计检验解释"
+    },
+    {
+      "zh": "统计方法区分相关与因果。",
+      "en": "Statistical reasoning separates correlation and causation.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "相关描述关系，设计检验解释"
+    },
+    {
+      "zh": "相关描述变量怎样一起变化。",
+      "en": "Correlation describes how variables vary together.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "相关描述关系，设计检验解释"
+    },
+    {
+      "zh": "因果判断，需要更有说服力的设计。",
+      "en": "Causal claims need more persuasive designs.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "相关描述关系，设计检验解释"
+    },
+    {
+      "zh": "先画两列记录，观察共同趋势。",
+      "en": "Plot the records and observe their joint trend.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "先看共同变化，再看第三因素"
+    },
+    {
+      "zh": "一种解释，是前者影响后者。",
+      "en": "One explanation is a direct influence.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "先看共同变化，再看第三因素"
+    },
+    {
+      "zh": "另一种解释，是第三个因素影响两者。",
+      "en": "Another is a shared third influence.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "先看共同变化，再看第三因素"
+    },
+    {
+      "zh": "天气变热，就可能同时影响这两件事。",
+      "en": "Hot weather could affect both.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "先看共同变化，再看第三因素"
+    },
+    {
+      "zh": "但想到天气，也不等于已经证明它。",
+      "en": "Suggesting weather does not prove it.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "一个故事，仍未证明原因"
+    },
+    {
+      "zh": "时间顺序、遗漏因素和反向作用都要问。",
+      "en": "Ask about timing, omitted factors and reverse influence.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "一个故事，仍未证明原因"
+    },
+    {
+      "zh": "故事中的散点，全部是教学模拟。",
+      "en": "These plotted points are simulated for teaching.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "一个故事，仍未证明原因"
+    },
+    {
+      "zh": "读新闻时，先找研究怎样比较。",
+      "en": "Look for the study’s comparisons in a news story.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "时间顺序 · 比较 · 其他解释"
+    },
+    {
+      "zh": "再问有没有其他解释被检验。",
+      "en": "Ask which other explanations were tested.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "时间顺序 · 比较 · 其他解释"
+    },
+    {
+      "zh": "有条件的实验与合适方法，能增加依据。",
+      "en": "Suitable designs and methods can strengthen evidence.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "时间顺序 · 比较 · 其他解释"
+    },
+    {
+      "zh": "会提出第三个因素，是新的起点。",
+      "en": "A third-factor idea is a new starting point.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "让问号，比等号多停一会"
+    },
+    {
+      "zh": "让问题继续，证据才有机会增加。",
+      "en": "Keep asking so evidence can accumulate.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "让问号，比等号多停一会"
+    },
+    {
+      "zh": "看到相关，先给等号留个问号。",
+      "en": "Meet a correlation with a question before an equation.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "让问号，比等号多停一会"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Australian Bureau of Statistics：Correlation and causation",
+      "url": "https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation",
+      "note": "官方统计教育：相关、因果与其他解释。"
+    },
+    {
+      "title": "Penn State STAT 100：Lesson 5",
+      "url": "https://online.stat.psu.edu/stat100/Lesson05",
+      "note": "大学课程：关联、因果及研究解释边界。"
+    }
+  ]
+}

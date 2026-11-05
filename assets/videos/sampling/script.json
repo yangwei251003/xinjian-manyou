@@ -1,0 +1,145 @@
+{
+  "id": "sampling",
+  "title": "全班都想打篮球？你到底问了谁？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "问了二十个人，就知道全校想什么？",
+      "en": "Do twenty answers reveal a whole school?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "一张问卷，谁能进来？"
+    },
+    {
+      "zh": "先看你站在谁面前发问。",
+      "en": "First ask whom you approached.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "目标总体，与实际样本"
+    },
+    {
+      "zh": "抽样方法关注总体、选入机会与回应。",
+      "en": "Sampling considers the population, selection and response.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "目标总体，与实际样本"
+    },
+    {
+      "zh": "想了解全校，目标人群是全校学生。",
+      "en": "For a school-wide question, the target is all students.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "目标总体，与实际样本"
+    },
+    {
+      "zh": "实际听到的声音，可能只是其中一部分。",
+      "en": "The voices heard may cover only one part.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "目标总体，与实际样本"
+    },
+    {
+      "zh": "站在篮球场旁，容易听到篮球爱好者。",
+      "en": "A basketball court tends to reach basketball fans.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "入口改变，听见的人也改变"
+    },
+    {
+      "zh": "入口改变，样本组成可能跟着改变。",
+      "en": "Change the entry point, and the sample may change.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "入口改变，听见的人也改变"
+    },
+    {
+      "zh": "更广的班级与年级，减少某些遗漏。",
+      "en": "Broader coverage can reduce some omissions.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "入口改变，听见的人也改变"
+    },
+    {
+      "zh": "仍要核对谁有机会、谁真的回应。",
+      "en": "Check who had a chance and who responded.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "入口改变，听见的人也改变"
+    },
+    {
+      "zh": "人数增加，不自动消除选择偏差。",
+      "en": "More responses do not automatically remove selection bias.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "人数大，不保证有代表性"
+    },
+    {
+      "zh": "随机抽样，也不同于随机分配条件。",
+      "en": "Random sampling differs from random assignment.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "人数大，不保证有代表性"
+    },
+    {
+      "zh": "这里的人数与投票，是虚构教学示意。",
+      "en": "These people and votes are illustrative simulations.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "人数大，不保证有代表性"
+    },
+    {
+      "zh": "看到「大家都认为」，先问大家是谁。",
+      "en": "When “everyone thinks,” ask who counts as everyone.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "谁被遗漏 · 谁没回应"
+    },
+    {
+      "zh": "同时看招募方式与未回应的人。",
+      "en": "Check recruitment and nonresponse.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "谁被遗漏 · 谁没回应"
+    },
+    {
+      "zh": "真实调查还要尊重隐私与同意。",
+      "en": "Real surveys require privacy and consent.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "谁被遗漏 · 谁没回应"
+    },
+    {
+      "zh": "数字需要分母，声音需要来处。",
+      "en": "Numbers need denominators. Voices need origins.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "先问谁，再看多少"
+    },
+    {
+      "zh": "让没被听见的人，也有出现的机会。",
+      "en": "Leave a chance for missing voices to be heard.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "先问谁，再看多少"
+    },
+    {
+      "zh": "先问谁，再问多少。",
+      "en": "Ask who before asking how many.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "先问谁，再看多少"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Penn State STAT 500：Lesson 1",
+      "url": "https://online.stat.psu.edu/stat500/Lesson01",
+      "note": "大学统计课程：总体、样本、调查与抽样基础。"
+    },
+    {
+      "title": "University of Texas：Biased Sampling",
+      "url": "https://web.ma.utexas.edu/users/mks/statmistakes/biasedsampling.html",
+      "note": "统计误用教学：选择偏差与代表性限制。"
+    }
+  ]
+}

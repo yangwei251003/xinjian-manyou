@@ -1,0 +1,145 @@
+{
+  "id": "personality",
+  "title": "安静的人，为什么也会站上台？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "他很安静，为什么也能站上台？",
+      "en": "Why can a quiet person still take the stage?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "一个标签，够描述你吗？"
+    },
+    {
+      "zh": "一个标签，装不下所有情境。",
+      "en": "One label cannot cover every situation.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "特质，是倾向而非命运"
+    },
+    {
+      "zh": "人格研究描述相对稳定的行为倾向。",
+      "en": "Trait research describes relatively stable tendencies.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "特质，是倾向而非命运"
+    },
+    {
+      "zh": "也关注人与情境的共同作用。",
+      "en": "It also examines people in situations.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "特质，是倾向而非命运"
+    },
+    {
+      "zh": "倾向，可以帮助理解差异。",
+      "en": "Tendencies can help explain differences.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "特质，是倾向而非命运"
+    },
+    {
+      "zh": "同一个人，有时想聊，有时想独处。",
+      "en": "One person may seek company and solitude.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "人，也在情境中变化"
+    },
+    {
+      "zh": "目标、熟悉程度和支持，会改变表现。",
+      "en": "Goals, familiarity and support can change behavior.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "人，也在情境中变化"
+    },
+    {
+      "zh": "用连续刻度，比硬分两类更贴近特质。",
+      "en": "Continuous scales often fit traits better than two boxes.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "人，也在情境中变化"
+    },
+    {
+      "zh": "刻度图是示意，没有你的测量分数。",
+      "en": "This scale is illustrative, not your test score.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "人，也在情境中变化"
+    },
+    {
+      "zh": "安静，不自动等于缺少社交能力。",
+      "en": "Quiet does not automatically mean socially unable.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "一次表现不能画出全貌"
+    },
+    {
+      "zh": "活跃，也不等于永远喜欢热闹。",
+      "en": "Outgoing does not mean always wanting a crowd.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "一次表现不能画出全貌"
+    },
+    {
+      "zh": "一次短测，不能决定未来的专业与人生。",
+      "en": "A short quiz cannot determine a life path.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "一次表现不能画出全貌"
+    },
+    {
+      "zh": "描述自己时，加上「在什么情况下」。",
+      "en": "Describe yourself with the situation included.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "观察倾向，也观察条件"
+    },
+    {
+      "zh": "也看看过去一段时间的持续倾向。",
+      "en": "Look at tendencies across time as well.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "观察倾向，也观察条件"
+    },
+    {
+      "zh": "真正的测量，需要合适证据与用途。",
+      "en": "Measurement needs evidence suited to its purpose.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "观察倾向，也观察条件"
+    },
+    {
+      "zh": "你可以有倾向，也可以有新的尝试。",
+      "en": "You can have tendencies and try something new.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "给自己，保留变化的空间"
+    },
+    {
+      "zh": "理解自己，让选择更具体。",
+      "en": "Self-understanding can make choices more specific.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "给自己，保留变化的空间"
+    },
+    {
+      "zh": "把标签松开一点，给变化留位置。",
+      "en": "Loosen the label. Leave room for change.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "给自己，保留变化的空间"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Diener 与 Lucas：Personality Traits",
+      "url": "https://nobaproject.com/modules/personality-traits",
+      "note": "研究者模块，介绍连续人格维度与人与情境的讨论。"
+    },
+    {
+      "title": "IPIP：International Personality Item Pool",
+      "url": "https://ipip.ori.org/",
+      "note": "公开人格测量题项与量表资料；开放题项不等于任意改编后仍有效。"
+    }
+  ]
+}

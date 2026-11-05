@@ -1,0 +1,150 @@
+{
+  "id": "reappraisal",
+  "title": "计划变了，今天就全毁了吗？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "下雨了，今天就全毁了吗？",
+      "en": "It rained. Is the whole day ruined?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "一场雨，多种意义"
+    },
+    {
+      "zh": "失望是真的，结论还可以再看看。",
+      "en": "Disappointment is real. The conclusion can be examined.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "情绪调节，研究中的方法"
+    },
+    {
+      "zh": "2012 年，一项元分析比较调节策略。",
+      "en": "A 2012 meta-analysis compared regulation strategies.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "情绪调节，研究中的方法"
+    },
+    {
+      "zh": "认知重评，关注情境意义的改变。",
+      "en": "Reappraisal concerns changing a situation’s meaning.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "情绪调节，研究中的方法"
+    },
+    {
+      "zh": "研究效果受策略和情境影响。",
+      "en": "Effects depend on strategy and context.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "情绪调节，研究中的方法"
+    },
+    {
+      "zh": "「展览没办成」是已经发生的事。",
+      "en": "The exhibition was cancelled. That happened.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "事件没变，解释可以比较"
+    },
+    {
+      "zh": "「所有努力都没用」多走了一步。",
+      "en": "“Every effort was wasted” goes further.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "事件没变，解释可以比较"
+    },
+    {
+      "zh": "也许准备的画，还能换个地方展出。",
+      "en": "The artwork might find another venue.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "事件没变，解释可以比较"
+    },
+    {
+      "zh": "比较解释，是寻找可能的行动。",
+      "en": "Compare interpretations to find possible actions.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "事件没变，解释可以比较"
+    },
+    {
+      "zh": "但不需要说服自己完全不难过。",
+      "en": "You need not erase disappointment.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "重评不等于强行开心"
+    },
+    {
+      "zh": "遇到伤害，也不能只靠换个想法。",
+      "en": "Harm cannot be solved by reframing alone.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "重评不等于强行开心"
+    },
+    {
+      "zh": "保护、资源和改变条件仍然重要。",
+      "en": "Protection, resources and changed conditions matter.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "重评不等于强行开心"
+    },
+    {
+      "zh": "先承认事实，再描述自己的感受。",
+      "en": "Acknowledge the facts and name the feeling.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "事实 · 感受 · 可做的一步"
+    },
+    {
+      "zh": "问一个具体问题：还有什么能做？",
+      "en": "Ask one concrete question: what remains possible?",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "事实 · 感受 · 可做的一步"
+    },
+    {
+      "zh": "没有轻松下来，也不表示做错了。",
+      "en": "Feeling no relief does not mean failure.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "事实 · 感受 · 可做的一步"
+    },
+    {
+      "zh": "不是把雨变晴，而是再找一条路。",
+      "en": "Keep the rain real. Explore another route.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "允许失落，也允许继续"
+    },
+    {
+      "zh": "你的失望，和下一步可以同在。",
+      "en": "Disappointment and a next step can coexist.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "允许失落，也允许继续"
+    },
+    {
+      "zh": "给今天，留一个尚未写完的结尾。",
+      "en": "Leave today an ending still to be written.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "允许失落，也允许继续"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Webb、Miles 与 Sheeran：情绪调节策略元分析（2012）",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22582737/",
+      "note": "比较不同情绪调节过程的研究效果与条件。"
+    },
+    {
+      "title": "Troy 等：Person-by-Situation Approach to Emotion Regulation（2013）",
+      "url": "https://doi.org/10.1177/0956797613496434",
+      "note": "讨论重评与情境可控制性的关联，并非策略有效性的普遍因果结论；另见2016年勘误。"
+    },
+    {
+      "title": "Troy 等：2016年勘误",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26786821/",
+      "note": "修正部分原始得分和分析数值；作者报告实质结论未变。"
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+[
+  {
+    "url": "https://doi.org/10.1068/p281059",
+    "title": "Simons 与 Chabris：Gorillas in our midst（1999）",
+    "lessons": [
+      "attention"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://www.dansimons.com/research.html",
+    "title": "Daniel Simons：研究论文与示范资料",
+    "lessons": [
+      "attention"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://psychclassics.yorku.ca/Stroop/",
+    "title": "Stroop：Studies of Interference in Serial Verbal Reactions（1935）",
+    "lessons": [
+      "attention"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://doi.org/10.1016/S0022-5371(74)80011-3",
+    "title": "Loftus 与 Palmer：Reconstruction of automobile destruction（1974）",
+    "lessons": [
+      "memory"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://faculty.sites.uci.edu/eloftus/publications/",
+    "title": "Loftus：研究出版档案",
+    "lessons": [
+      "memory"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.nationalacademies.org/read/24783/chapter/6",
+    "title": "National Academies：How People Learn II，学习与知识",
+    "lessons": [
+      "metacognition"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/metacognitive-strategies",
+    "title": "Cornell：Metacognitive Strategies",
+    "lessons": [
+      "metacognition"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf",
+    "title": "NINDS：Understanding Sleep",
+    "lessons": [
+      "sleep"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.nichd.nih.gov/health/topics/sleep/conditioninfo/Pages/what-happens.aspx",
+    "title": "NICHD：What happens during sleep?",
+    "lessons": [
+      "sleep"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.cdc.gov/sleep/about/index.html",
+    "title": "CDC：About Sleep，按年龄的睡眠建议",
+    "lessons": [
+      "sleep"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+    "title": "NIMH：I’m So Stressed Out!",
+    "lessons": [
+      "stress"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+    "title": "NIMH：Caring for Your Mental Health",
+    "lessons": [
+      "stress",
+      "help-seeking"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health",
+    "title": "NIMH：Child and Adolescent Mental Health",
+    "lessons": [
+      "stress",
+      "help-seeking",
+      "support"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16406760/",
+    "title": "Poldrack：Can cognitive processes be inferred from neuroimaging data?（2006）",
+    "lessons": [
+      "brain"
+    ],
+    "http_status": 203,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3240863/",
+    "title": "Poldrack：From reverse inference to large-scale decoding（2011）",
+    "lessons": [
+      "brain"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+    "title": "OpenStax Psychology 2e：Emotion",
+    "lessons": [
+      "emotions"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://doi.org/10.1177/1529100619832930",
+    "title": "Barrett 等：Emotional Expressions Reconsidered（2019）",
+    "lessons": [
+      "emotions"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22582737/",
+    "title": "Webb、Miles 与 Sheeran：情绪调节策略元分析（2012）",
+    "lessons": [
+      "reappraisal"
+    ],
+    "http_status": 203,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://doi.org/10.1177/0956797613496434",
+    "title": "Troy 等：Person-by-Situation Approach to Emotion Regulation（2013）",
+    "lessons": [
+      "reappraisal"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26786821/",
+    "title": "Troy 等：2016年勘误",
+    "lessons": [
+      "reappraisal"
+    ],
+    "http_status": 203,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://doi.org/10.1002/ejsp.674",
+    "title": "Lally 等：How are habits formed?（2010）",
+    "lessons": [
+      "habits"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+    "title": "Wood 与 Rünger：Psychology of Habit（2016）",
+    "lessons": [
+      "habits"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://nobaproject.com/modules/personality-traits",
+    "title": "Diener 与 Lucas：Personality Traits",
+    "lessons": [
+      "personality"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://ipip.ori.org/",
+    "title": "IPIP：International Personality Item Pool",
+    "lessons": [
+      "personality"
+    ],
+    "http_status": null,
+    "checked": "2026-11-05",
+    "availability": "URLError"
+  },
+  {
+    "url": "https://nobaproject.com/modules/social-comparison",
+    "title": "Garcia 与 Halldorsson：Social Comparison",
+    "lessons": [
+      "comparison"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://dictionary.apa.org/social-comparison-theory",
+    "title": "APA Dictionary：Social comparison theory",
+    "lessons": [
+      "comparison"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://nobaproject.com/modules/attachment-through-the-life-course",
+    "title": "Fraley：Attachment Through the Life Course",
+    "lessons": [
+      "attachment"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+    "title": "OpenStax Psychology 2e：Stages of Development",
+    "lessons": [
+      "attachment"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+    "title": "OpenStax：社会心理学与情境归因",
+    "lessons": [
+      "attribution",
+      "conformity"
+    ],
+    "http_status": null,
+    "checked": "2026-11-05",
+    "availability": "URLError"
+  },
+  {
+    "url": "https://nobaproject.com/textbooks/jericho-hockett-introduction-to-psychology-the-full-noba-collection/modules/social-cognition-and-attitudes",
+    "title": "Noba：Social Cognition and Attitudes",
+    "lessons": [
+      "attribution"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://openstax.org/books/psychology-2e/pages/12-4-conformity-compliance-and-obedience",
+    "title": "OpenStax：Conformity, Compliance, and Obedience",
+    "lessons": [
+      "conformity"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.tandfonline.com/doi/pdf/10.1080/10904018.2013.813234",
+    "title": "Weger 等：The Relative Effectiveness of Active Listening in Initial Interactions",
+    "lessons": [
+      "listening"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://www.cdc.gov/emotional-well-being/conversations-matter/",
+    "title": "CDC：How to Listen and Support Someone in Need",
+    "lessons": [
+      "listening"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf",
+    "title": "Kahneman：Maps of Bounded Rationality 诺奖讲稿",
+    "lessons": [
+      "framing"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://doi.org/10.1126/science.7455683",
+    "title": "Tversky 与 Kahneman：The Framing of Decisions and the Psychology of Choice",
+    "lessons": [
+      "framing"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://doi.org/10.1086/209174",
+    "title": "Levin 与 Gaeth：How Consumers Are Affected by the Framing of Attribute Information（1988）",
+    "lessons": [
+      "framing"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://www.sciencedirect.com/science/article/pii/0749597885900494",
+    "title": "Arkes 与 Blumer：The Psychology of Sunk Cost",
+    "lessons": [
+      "sunk-cost"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/bdm.2405",
+    "title": "Thorsteinson 与 Billings：Progress Decisions Involving Time: Sunk Cost or Completion Effects",
+    "lessons": [
+      "sunk-cost"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://www.psychologicalscience.org/journals/pspi/1529100612453266/",
+    "title": "Dunlosky 等：Improving Students’ Learning With Effective Learning Techniques",
+    "lessons": [
+      "retrieval"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://doi.org/10.1146/annurev-psych-010419-051019",
+    "title": "McDermott：Practicing Retrieval Facilitates Learning",
+    "lessons": [
+      "retrieval"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16507066/",
+    "title": "Roediger 与 Karpicke：Test-Enhanced Learning（2006）",
+    "lessons": [
+      "retrieval"
+    ],
+    "http_status": 203,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-talk-about-your-mental-health/",
+    "title": "NHS：How to talk about your mental health",
+    "lessons": [
+      "help-seeking"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.cci.health.wa.gov.au/en/Resources/Looking-After-Yourself/Assertiveness",
+    "title": "CCI：Assertiveness",
+    "lessons": [
+      "boundaries"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.healthywa.wa.gov.au/Articles/A_E/Assertive-communication",
+    "title": "HealthyWA：Assertive communication",
+    "lessons": [
+      "boundaries"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.nhs.uk/every-mind-matters/supporting-others/helping-others/",
+    "title": "NHS：Helping others",
+    "lessons": [
+      "support"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.cuh.nhs.uk/patient-information/supporting-a-friend-with-their-mental-health/",
+    "title": "Cambridge University Hospitals：Supporting a friend with their mental health",
+    "lessons": [
+      "support"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.unicef.org/serbia/en/documents/i-support-my-friends",
+    "title": "UNICEF：I Support My Friends",
+    "lessons": [
+      "support"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation",
+    "title": "Australian Bureau of Statistics：Correlation and causation",
+    "lessons": [
+      "correlation"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://online.stat.psu.edu/stat100/Lesson05",
+    "title": "Penn State STAT 100：Lesson 5",
+    "lessons": [
+      "correlation"
+    ],
+    "http_status": null,
+    "checked": "2026-11-05",
+    "availability": "URLError"
+  },
+  {
+    "url": "https://online.stat.psu.edu/stat500/Lesson01",
+    "title": "Penn State STAT 500：Lesson 1",
+    "lessons": [
+      "sampling"
+    ],
+    "http_status": null,
+    "checked": "2026-11-05",
+    "availability": "URLError"
+  },
+  {
+    "url": "https://web.ma.utexas.edu/users/mks/statmistakes/biasedsampling.html",
+    "title": "University of Texas：Biased Sampling",
+    "lessons": [
+      "sampling"
+    ],
+    "http_status": null,
+    "checked": "2026-11-05",
+    "availability": "URLError"
+  },
+  {
+    "url": "https://doi.org/10.1126/science.aac4716",
+    "title": "Open Science Collaboration：Estimating the reproducibility of psychological science",
+    "lessons": [
+      "replication"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://www.psychologicalscience.org/publications/replication",
+    "title": "Association for Psychological Science：Registered Replication Reports",
+    "lessons": [
+      "replication"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://doi.org/10.1086/261651",
+    "title": "Camerer、Loewenstein 与 Weber：The Curse of Knowledge in Economic Settings（1989）",
+    "lessons": [
+      "knowledge-curse"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://gwern.net/doc/psychology/cognitive-bias/illusion-of-depth/1990-newton.pdf",
+    "title": "Elizabeth Newton：The Rocky Road from Actions to Intentions（1990）",
+    "lessons": [
+      "knowledge-curse"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://doi.org/10.1080/17470216008416717",
+    "title": "Wason：On the Failure to Eliminate Hypotheses in a Conceptual Task（1960）",
+    "lessons": [
+      "confirmation-bias"
+    ],
+    "http_status": 403,
+    "checked": "2026-11-05",
+    "availability": "automated access restricted or unavailable"
+  },
+  {
+    "url": "https://pages.ucsd.edu/~mckenzie/KlaymanHaPsychReview1987.pdf",
+    "title": "Klayman 与 Ha：Confirmation, Disconfirmation, and Information in Hypothesis Testing（1987）",
+    "lessons": [
+      "confirmation-bias"
+    ],
+    "http_status": null,
+    "checked": "2026-11-05",
+    "availability": "URLError"
+  },
+  {
+    "url": "https://www.testingstandards.net/open-access-files.html",
+    "title": "AERA、APA、NCME：Standards for Educational and Psychological Testing（2014，开放版）",
+    "lessons": [
+      "test-validity"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://www.apa.org/topics/testing-assessment-measurement/understanding",
+    "title": "APA：Understanding psychological testing and assessment",
+    "lessons": [
+      "test-validity"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12585811/",
+    "title": "Emmons 与 McCullough：Counting Blessings Versus Burdens（2003）",
+    "lessons": [
+      "gratitude"
+    ],
+    "http_status": 203,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  },
+  {
+    "url": "https://nobaproject.com/modules/happiness-the-science-of-subjective-well-being",
+    "title": "Noba：Happiness — The Science of Subjective Well-Being",
+    "lessons": [
+      "gratitude"
+    ],
+    "http_status": 200,
+    "checked": "2026-11-05",
+    "claim_review": "see lesson source notes; HTTP availability alone does not verify a claim"
+  }
+]

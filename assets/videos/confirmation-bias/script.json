@@ -1,0 +1,145 @@
+{
+  "id": "confirmation-bias",
+  "title": "猜对两次，为什么还可能猜错规律？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "2、4、6能通过，规则就是偶数？",
+      "en": "Two, four, six pass. Must the rule be even numbers?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "证据，在支持哪一个猜想？"
+    },
+    {
+      "zh": "也可能还有一个你没想到的解释。",
+      "en": "Another explanation may fit just as well.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "2–4–6，与规则发现"
+    },
+    {
+      "zh": "1960 年，Wason研究数字规则发现。",
+      "en": "In 1960, Wason studied numerical rule discovery.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "2–4–6，与规则发现"
+    },
+    {
+      "zh": "参与者提交三元组，再依据反馈猜规则。",
+      "en": "Participants submitted triples and received feedback.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "2–4–6，与规则发现"
+    },
+    {
+      "zh": "相似正例，可能留下多个假设。",
+      "en": "Similar positive cases can leave several hypotheses open.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "2–4–6，与规则发现"
+    },
+    {
+      "zh": "「全是偶数」接受2、4、6。",
+      "en": "“All even” accepts two, four, six.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "一个正例，可能支持多个解释"
+    },
+    {
+      "zh": "「依次增大」也接受同一个例子。",
+      "en": "“Increasing” accepts the same example.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "一个正例，可能支持多个解释"
+    },
+    {
+      "zh": "多试一组4、6、8，还没有分清。",
+      "en": "Four, six, eight still cannot distinguish them.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "一个正例，可能支持多个解释"
+    },
+    {
+      "zh": "试3、5、7，两种猜想给出不同预测。",
+      "en": "Three, five, seven separate the predictions.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "一个正例，可能支持多个解释"
+    },
+    {
+      "zh": "但是，正向测试不总是无效策略。",
+      "en": "Positive testing is not always an ineffective strategy.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "正向测试并不总是坏策略"
+    },
+    {
+      "zh": "方法的价值，取决于环境与竞争解释。",
+      "en": "Its value depends on context and competing explanations.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "正向测试并不总是坏策略"
+    },
+    {
+      "zh": "目标是增加信息，不是永远反着想。",
+      "en": "Seek information, not automatic opposition.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "正向测试并不总是坏策略"
+    },
+    {
+      "zh": "先写「什么结果会让我改主意」。",
+      "en": "Write what outcome would change your mind.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "选择让预测不同的例子"
+    },
+    {
+      "zh": "也认真检查反例的质量与来源。",
+      "en": "Check the quality and source of a counterexample.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "选择让预测不同的例子"
+    },
+    {
+      "zh": "游戏只是改编，不给思维能力打分。",
+      "en": "This adaptation does not grade reasoning ability.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "选择让预测不同的例子"
+    },
+    {
+      "zh": "愿意修改一个猜想，是思考的一部分。",
+      "en": "Revising a hypothesis is part of thinking.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "给猜想，留一条改道"
+    },
+    {
+      "zh": "别只给自己找掌声，也找新的线索。",
+      "en": "Seek new clues as well as agreement.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "给猜想，留一条改道"
+    },
+    {
+      "zh": "给猜想，留一条可以改道的路。",
+      "en": "Leave a route for your hypothesis to change.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "给猜想，留一条改道"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wason：On the Failure to Eliminate Hypotheses in a Conceptual Task（1960）",
+      "url": "https://doi.org/10.1080/17470216008416717",
+      "note": "2-4-6规则发现任务的原始研究。故事采用教学改编。"
+    },
+    {
+      "title": "Klayman 与 Ha：Confirmation, Disconfirmation, and Information in Hypothesis Testing（1987）",
+      "url": "https://pages.ucsd.edu/~mckenzie/KlaymanHaPsychReview1987.pdf",
+      "note": "讨论正向测试的合理性与限制，防止把确认偏误简单等同于所有验证行为。"
+    }
+  ]
+}

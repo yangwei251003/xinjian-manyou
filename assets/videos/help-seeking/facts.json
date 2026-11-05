@@ -1,0 +1,100 @@
+{
+  "id": "help-seeking",
+  "core_claim": "求助可以从可信任的人或合适的专业服务开始；你可以询问、选择，也可以说明自己的顾虑。",
+  "evidence_limits": "这是一堂求助教育课，不提供诊断。持续、明显或令人担心的困扰，可以向可靠成人和合适专业人员求助，不必等到固定天数。遇到即时安全危险，应立即联系身边能保障安全的人或当地紧急服务。",
+  "mechanism": {
+    "steps": [
+      "注意困扰及日常影响",
+      "找可靠成人表达具体情况",
+      "共同联系合适支持或专业评估"
+    ],
+    "metaphorLimit": "支持地图帮助准备求助，不是服务保障或个体治疗路线。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "NIMH · NHS",
+      "author": "青少年心理健康 · 权威资料"
+    },
+    "script_statements": [
+      {
+        "zh": "权威资料鼓励了解合适的支持路径。",
+        "en": "Authoritative guidance describes routes to support.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "可靠成人和专业服务，作用可能不同。",
+        "en": "Trusted adults and professional services have different roles.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "你可以问清楚安排，也可以说明顾虑。",
+        "en": "You can ask about the process and share concerns.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "NIMH：Caring for Your Mental Health",
+      "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+      "note": "了解心理健康支持、日常功能与寻求专业帮助。"
+    },
+    {
+      "title": "NHS：How to talk about your mental health",
+      "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-talk-about-your-mental-health/",
+      "note": "选择信任的人、表达所需支持与准备谈话。"
+    },
+    {
+      "title": "NIMH：Child and Adolescent Mental Health",
+      "url": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health",
+      "note": "支持未成年人向家长、学校支持人员或医疗人员求助；困扰与生活影响需要认真对待。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "可以说「最近睡不好，也不想参加活动」。",
+      "en": "You can describe sleep and activity changes.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "「我想一起了解，能得到哪些帮助」。",
+      "en": "Ask to explore what support is available.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "涉及健康问题，交给合适专业人员评估。",
+      "en": "Appropriate professionals assess health concerns.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "求助不是把自己交给一个标签。",
+        "en": "Seeking help need not reduce you to a label.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "你可以带着疑问，参与了解的过程。",
+        "en": "Bring your questions into the process.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "第一句话，不需要等到完美。",
+        "en": "The first sentence need not be perfect.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

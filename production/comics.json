@@ -1,0 +1,336 @@
+{
+  "generatedWith": "Built-in imagegen, one independent generation per panel",
+  "date": "2026-11-05",
+  "files": [
+    {
+      "id": "knowledge-curse",
+      "panel": 1,
+      "filename": "exec-79a42be8-321d-49b4-8ecb-4f8ca3b29b33.png"
+    },
+    {
+      "id": "knowledge-curse",
+      "panel": 2,
+      "filename": "exec-cdc1da3b-2015-4ddc-90c1-b6acc27828fd.png"
+    },
+    {
+      "id": "knowledge-curse",
+      "panel": 3,
+      "filename": "exec-50ba2664-716c-459a-89bc-dd3ff7ed2494.png"
+    },
+    {
+      "id": "knowledge-curse",
+      "panel": 4,
+      "filename": "exec-17ac567a-01e6-4d30-a469-2438d58105cc.png"
+    },
+    {
+      "id": "knowledge-curse",
+      "panel": 5,
+      "filename": "exec-642a2ab7-df8a-4ab4-863e-13a58e1c4462.png"
+    },
+    {
+      "id": "knowledge-curse",
+      "panel": 6,
+      "filename": "exec-0ab6ed98-9bee-4e95-9a78-b31908e22f75.png"
+    },
+    {
+      "id": "confirmation-bias",
+      "panel": 1,
+      "filename": "exec-981c5909-dfda-4e49-a6ac-055a468f1f38.png"
+    },
+    {
+      "id": "confirmation-bias",
+      "panel": 2,
+      "filename": "exec-8195ef5f-3437-41db-971f-47bcd76f86f3.png"
+    },
+    {
+      "id": "confirmation-bias",
+      "panel": 3,
+      "filename": "exec-ca26520f-bda8-4d89-b5aa-0eecf36007e0.png"
+    },
+    {
+      "id": "confirmation-bias",
+      "panel": 4,
+      "filename": "exec-efae419c-3fef-4682-8254-e14b38ef2532.png"
+    },
+    {
+      "id": "confirmation-bias",
+      "panel": 5,
+      "filename": "exec-67b7e835-78cd-4010-9640-8e8caab64ad9.png"
+    },
+    {
+      "id": "confirmation-bias",
+      "panel": 6,
+      "filename": "exec-caf674b6-570e-4eee-99c4-48dd214d150b.png"
+    },
+    {
+      "id": "test-validity",
+      "panel": 1,
+      "filename": "exec-24c89281-b833-4427-a707-89af4956dee0.png"
+    },
+    {
+      "id": "test-validity",
+      "panel": 2,
+      "filename": "exec-3da2c61b-389b-4aca-9fde-8a869a209d47.png"
+    },
+    {
+      "id": "test-validity",
+      "panel": 3,
+      "filename": "exec-9f2287a4-84ec-494c-a9ae-2052081d4302.png"
+    },
+    {
+      "id": "test-validity",
+      "panel": 4,
+      "filename": "exec-93f8029a-9a03-469d-9e78-069bac0d7a17.png"
+    },
+    {
+      "id": "test-validity",
+      "panel": 5,
+      "filename": "exec-42231de1-746c-468b-bd7b-df18b3bca71a.png"
+    },
+    {
+      "id": "test-validity",
+      "panel": 6,
+      "filename": "exec-e1690943-f6d7-48c8-8fd7-1f431849990e.png"
+    },
+    {
+      "id": "gratitude",
+      "panel": 1,
+      "filename": "exec-e56ce29c-bfb0-43bf-b520-99fa16a81081.png"
+    },
+    {
+      "id": "gratitude",
+      "panel": 2,
+      "filename": "exec-a6f17681-a89b-4c5a-82ef-0409507c3476.png"
+    },
+    {
+      "id": "gratitude",
+      "panel": 3,
+      "filename": "exec-3eb23167-98fa-482e-8bbd-e277d60b8b7f.png"
+    },
+    {
+      "id": "gratitude",
+      "panel": 4,
+      "filename": "exec-2c45bdc9-9f1b-48e7-aaef-4ad009506d09.png"
+    },
+    {
+      "id": "gratitude",
+      "panel": 5,
+      "filename": "exec-8f443370-b46e-4884-b7c5-9f1af7524202.png"
+    },
+    {
+      "id": "gratitude",
+      "panel": 6,
+      "filename": "exec-dc5a4bdd-a884-4196-a09d-3d8c0ea213b4.png"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "knowledge-curse",
+      "i": 1,
+      "speaker": "阿澈",
+      "dialogue": "就按一下回家键，很简单呀。",
+      "side": "left",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 1 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Dynamic low-angle wide shot in a sunlit school robotics club. Teal-jacket boy points casually at the 2-button yellow-and-teal wheeled shoebox robot on a wooden workbench. Yellow-overalls girl with two buns, a newcomer to this club activity, leans in doubtfully. Coral hoodie girl watches from the far right. Dark green garden through windows. Editorial layout: reserve the upper 24% on the left side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "knowledge-curse",
+      "i": 2,
+      "speaker": "米粒",
+      "dialogue": "我知道什么叫回家。机器人知道吗？",
+      "side": "right",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 2 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Comedy reaction medium close-up, yellow-overalls girl eyes wide, puzzled between two small buttons on the robot control pad. Teal boy on the left looks surprised; the turquoise two-button remote has an abstract circle and triangle, no writing. Editorial layout: reserve the upper 24% on the right side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "knowledge-curse",
+      "i": 3,
+      "speaker": "小满",
+      "dialogue": "我们先把米粒能看到的画出来。",
+      "side": "left",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 3 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Overhead insert of hands by an unmarked sketch on a scrap of paper, pointing out what a newcomer can see: only two raised round and triangle symbols. Lower portion shows yellow sleeve and coral sleeve. On right teal notebook closed so contents cannot be seen. Tidy, believable geometry. Editorial layout: reserve the upper 24% on the left side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "knowledge-curse",
+      "i": 4,
+      "speaker": "阿澈",
+      "dialogue": "原来我把训练时的地图也带进来了。",
+      "side": "right",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 4 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Side-profile reveal: boy opens his own cyan notebook and realizes it contains a vivid route with a little outlined house and numbered-free pictograms. Girl has only the plain remote; both in the same sunlit workshop, two perspectives composed with the notebook between them. Editorial layout: reserve the upper 24% on the right side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "knowledge-curse",
+      "i": 5,
+      "speaker": "阿澈",
+      "dialogue": "先按三角，再等黄灯闪一下。",
+      "side": "left",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 5 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Medium detail: boy slowly demonstrates on the triangular physical button on controller, yellow lamp illuminates on the little robot at center, yellow-overalls girl watches the light closely. Show one action and one light, no second robot, no motion overlays over the characters. Editorial layout: reserve the upper 24% on the left side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "knowledge-curse",
+      "i": 6,
+      "speaker": "米粒",
+      "dialogue": "换我讲一遍，你看我漏了什么。",
+      "side": "right",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 6 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Closing tracking-angle still with little wheeled robot traveling on a marked route along workbench to a small cardboard garage, the three children amused as the yellow-overalls girl explains using her hand. Clear workshop architecture, sunlight and a feeling of accomplished teamwork. Editorial layout: reserve the upper 24% on the right side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "confirmation-bias",
+      "i": 1,
+      "speaker": "小满",
+      "dialogue": "2、4、6 能过，规律肯定是偶数！",
+      "side": "left",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 1 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Coral-hoodie girl excitedly deduces a puzzle from three illustrated number cards on a warm wooden school fair stall. Use blank white faces for the cards so numbers can be overlaid outside the art if needed. Teal glasses boy with a stamp sits across the table, yellow overalls girl listens. Editorial layout: reserve the upper 24% on the left side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "confirmation-bias",
+      "i": 2,
+      "speaker": "阿澈",
+      "dialogue": "你试的三张，又全是偶数。",
+      "side": "right",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 2 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Medium close shot of teal glasses boy accepting a submission with a tiny star stamp, coral-hoodie girl proudly displays a trio of cream cards. Focus on gesture, no printing. Sunny canopy and yellow-flag bokeh. Editorial layout: reserve the upper 24% on the right side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "confirmation-bias",
+      "i": 3,
+      "speaker": "米粒",
+      "dialogue": "等等，往上数也说得通呀。",
+      "side": "left",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 3 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Yellow-overalls girl reorganizes six smooth colored wooden blocks into an ascending staircase on the stall tabletop, while coral girl realizes a second possibility. One staircase silhouette with three clean distinct steps; no readable numbers or letters. Editorial layout: reserve the upper 24% on the left side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "confirmation-bias",
+      "i": 4,
+      "speaker": "小满",
+      "dialogue": "那就试试 3、5、7！",
+      "side": "right",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 4 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Macro close-up of coral sleeve sliding a fresh set of three blank light-cream cards towards the teal-jacket judge’s stamp. All three cards are a matching trio, three ascending visual slots; yellow-overalls girl leans in on right with suspense. Reflected sunlight. Editorial layout: reserve the upper 24% on the right side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "confirmation-bias",
+      "i": 5,
+      "speaker": "阿澈",
+      "dialogue": "通过。规则其实是三个数依次变大。",
+      "side": "left",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 5 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Reveal moment at stall, teal-jacket boy flips up a paper drawing of a simple three-step rising staircase. Coral and yellow characters see it with a look of recognition. Blue and gold school fair palette, no symbols other than staircase, no writing. Editorial layout: reserve the upper 24% on the left side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "confirmation-bias",
+      "i": 6,
+      "speaker": "小满",
+      "dialogue": "下次我先找一个可能让我猜错的例子。",
+      "side": "right",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 6 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Wide closing beat with coral girl guiding a younger kid through the same puzzle; she pulls her hand back thoughtfully before choosing a card, yellow overalls girl grins. Sunlit festive handmade school fair, two main actions separated by clear negative space. Editorial layout: reserve the upper 24% on the right side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "test-validity",
+      "i": 1,
+      "speaker": "米粒",
+      "dialogue": "这块表每次都一样准，用它量赛道吧！",
+      "side": "left",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 1 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Yellow-overalls girl with double buns holds up a small reliable stopwatch and confidently stands at start of a short schoolyard chalk lane. Coral girl in profile and teal boy hold sports club clipboards, vivid blue sky and greenery. Stopwatch face clean without numbers. Editorial layout: reserve the upper 24% on the left side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "test-validity",
+      "i": 2,
+      "speaker": "阿澈",
+      "dialogue": "表知道用了多久。它知道跑了多远吗？",
+      "side": "right",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 2 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: A low-angle close view of same yellow girl's hand holding stopwatch beside the school track and teal glasses boy pointing down the lane. Meter tape rests rolled up, prominent distinction in physical objects, no scale text. Editorial layout: reserve the upper 24% on the right side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "test-validity",
+      "i": 3,
+      "speaker": "小满",
+      "dialogue": "同样的距离，快跑和慢跑，用时会不同。",
+      "side": "left",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 3 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: One wide action composition at the track showing coral girl just reaching the chalk finish with a fast stride, yellow girl standing with stopwatch in foreground, teal boy measuring endpoints with a taut tape. Use speed strokes only, no repeated ghost bodies or generated words. Editorial layout: reserve the upper 24% on the left side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "test-validity",
+      "i": 4,
+      "speaker": "米粒",
+      "dialogue": "原来读数很稳，也可能答错问题。",
+      "side": "right",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 4 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Thoughtful close-up of yellow-overalls girl holding the round stopwatch in one hand and a soft measuring tape in the other. She compares the two visibly different tools. School track setting blurred, a quiet recognition expression. Editorial layout: reserve the upper 24% on the right side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "test-validity",
+      "i": 5,
+      "speaker": "阿澈",
+      "dialogue": "先说要量什么，再挑对工具。",
+      "side": "left",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 5 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Top-down perspective of three children at a picnic table by the track. Hands separate a tape measure alongside a scale-free outline of lane length and a stopwatch alongside a runner silhouette drawn on paper, no letters or numbers. Clear graphic arrangement. Editorial layout: reserve the upper 24% on the left side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "test-validity",
+      "i": 6,
+      "speaker": "小满",
+      "dialogue": "看到分数，我会先问它怎么来的。",
+      "side": "right",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 6 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Medium three-quarter closing image, coral girl calmly asks a question as she and friends look at a mock blank survey form on a clipboard at school; teal boy holds one corner and yellow girl raises hand. Empty circles, no labels, gentle afternoon light. Editorial layout: reserve the upper 24% on the right side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "gratitude",
+      "i": 1,
+      "speaker": "小满",
+      "dialogue": "今天太糟了，日记只想写一个句号。",
+      "side": "left",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 1 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Rainy afternoon inside bright classroom with green views, coral hoodie girl looks tired sitting at wooden desk with a small open notebook and one faint pencil dot. Yellow-overalls friend sits a little farther back, sympathetic. Do not draw readable text. Editorial layout: reserve the upper 24% on the left side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "gratitude",
+      "i": 2,
+      "speaker": "米粒",
+      "dialogue": "今天难过，可以照实写。",
+      "side": "right",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 2 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Close intimate two-person shot, yellow-overalls girl slides a tissue gently toward coral hoodie girl, who is looking out the rain-streaked window. Respectful distance, no forced smiles. Clean, warm paper grain and blue reflections. Editorial layout: reserve the upper 24% on the right side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "gratitude",
+      "i": 3,
+      "speaker": "阿澈",
+      "dialogue": "要是想写，也可以记下一件真的帮到你的事。",
+      "side": "left",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 3 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Teal-jacket boy holds a shared umbrella near the classroom door; foreground desk and coral girl observing him, her attention shifts from the rain to a concrete offer of help. Other character absent, no caption or lettering. Editorial layout: reserve the upper 24% on the left side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "gratitude",
+      "i": 4,
+      "speaker": "小满",
+      "dialogue": "原来我记得烦，也记得有人陪我走。",
+      "side": "right",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 4 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Reflection scene in school corridor after rain, coral girl and teal boy share a teal umbrella walking through puddles with natural body language, rain-cleared leaves and small warm reflections. Show a wistful mixed expression, not all smiles. Editorial layout: reserve the upper 24% on the right side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "gratitude",
+      "i": 5,
+      "speaker": "小满",
+      "dialogue": "我想写下那把伞，也写下还没解决的事。",
+      "side": "left",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 5 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Close overhead view of coral girl's hands sketching a small turquoise umbrella and a storm cloud side by side in a blank paper notebook. Art-only icons; one wrist coral sleeve, hand with a pencil naturally drawn. Soft desk lamp, reflective atmosphere. Editorial layout: reserve the upper 24% on the left side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    },
+    {
+      "id": "gratitude",
+      "i": 6,
+      "speaker": "小满",
+      "dialogue": "今天还是很难。谢谢你，刚好在。",
+      "side": "right",
+      "prompt": "Use case: illustration-story. Create a brand-new standalone square 1:1 illustrated frame 6 for the Chinese youth psychology comic 心间漫游, print-level painterly watercolor-and-gouache anime, vibrant sunlit ink-drawn school adventure, warm paper grain, articulate facial expression, bright natural color. Reference attachment is solely the character/style model sheet, NOT the framing or an edit target. Use exactly the schoolchildren specified by this shot with recognizable matching hair and clothes (小满 black bob and coral hoodie with coral hairclip, 阿澈 dark tousled hair, round glasses and teal jacket, 米粒 two dark buns, white t-shirt and mustard-yellow overalls). Shot: Last scene after the rain, three children at the school entrance under warm sky, coral girl offers a small unlettered thank-you drawing of an umbrella to teal boy, yellow-overalls girl quietly delighted. Tender, unforced, path into garden. Editorial layout: reserve the upper 24% on the right side as quiet low-detail painted sky/window/wall, no heads or hands there, so the website can add one speech bubble, point the relevant speaker's face or action toward the reserved half without moving it into that negative space. Put faces below 26% from the top. Full-bleed one single cinematic panel, no gutter, no panel grid, no speech bubble or placeholder drawn in the art, NO text, letters, numbers, logos, signature or watermark. Keep youthful, cheerful or reflective as the scene requires; convincing body proportions and exactly needed characters only. The final artwork is one image, not a page of multiple scenes."
+    }
+  ],
+  "revisions": [
+    {
+      "id": "knowledge-curse",
+      "panel": 5,
+      "filename": "exec-4f41a5c0-fb49-4ba1-84b7-c7c04aeeb6af.png",
+      "verified": "object continuity / three countable cards",
+      "method": "built-in imagegen targeted edit"
+    },
+    {
+      "id": "confirmation-bias",
+      "panel": 4,
+      "filename": "exec-656cc890-d959-4284-bb1d-20f1d73316f3.png",
+      "verified": "object continuity / three countable cards",
+      "method": "built-in imagegen targeted edit"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "replication",
+  "core_claim": "科学可靠性来自持续检验与证据累积；单次结果、重复结果和研究条件都值得认真比较。",
+  "evidence_limits": "故事中的研究标题和卡片均为虚构教学道具，不对应某项真实效应。可重复性项目只覆盖其选定研究；不重现不是自动证伪，重现也不是对所有情境的终极证明。",
+  "mechanism": {
+    "steps": [
+      "提出问题并预先说明方法",
+      "重复研究并报告不同结果",
+      "结合设计质量累积证据"
+    ],
+    "metaphorLimit": "搭桥比喻证据累积，不是简单数成功次数；漫画个人练习不等于正式复现。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "2015",
+      "author": "Open Science Collaboration"
+    },
+    "script_statements": [
+      {
+        "zh": "2015 年，一个合作项目复现心理学研究。",
+        "en": "A 2015 collaboration replicated psychology studies.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "它考察一批特定发表研究的可重复性。",
+        "en": "It examined a selected set of published studies.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "结果提醒人们关注方法与证据累积。",
+        "en": "The results emphasized methods and accumulating evidence.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Open Science Collaboration：Estimating the reproducibility of psychological science",
+      "url": "https://doi.org/10.1126/science.aac4716",
+      "note": "二〇一五年重复研究项目，注意其抽取范围与解释限制。"
+    },
+    {
+      "title": "Association for Psychological Science：Registered Replication Reports",
+      "url": "https://www.psychologicalscience.org/publications/replication",
+      "note": "预注册重复研究的目的、流程与方法公开。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "读到单篇研究，再找后续与综合证据。",
+      "en": "Look beyond one paper to later and combined evidence.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "留意预注册、透明材料和公开方法。",
+      "en": "Look for preregistration, materials and transparent methods.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "也检查研究者怎样说明不确定性。",
+      "en": "Check how uncertainty is explained.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "可靠，不是永远不变。",
+        "en": "Reliability need not mean never changing.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "而是允许新的证据改变我们的理解。",
+        "en": "It includes letting new evidence change understanding.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "让好奇心，也经得起追问。",
+        "en": "Let curiosity stand up to further questions.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

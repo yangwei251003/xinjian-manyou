@@ -1,0 +1,145 @@
+{
+  "id": "comparison",
+  "title": "为什么别人的满分，总照着你的缺口？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "别人晒满分，你只看见自己的橡皮屑？",
+      "en": "Their perfect work makes you see only your erasures?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "一张照片，不是全部人生"
+    },
+    {
+      "zh": "比较，会悄悄改变评价的参照。",
+      "en": "Comparison can quietly change the reference point.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "比较对象，改变评价"
+    },
+    {
+      "zh": "社会比较研究关注人怎样评价自己。",
+      "en": "Social comparison examines self-evaluation.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "比较对象，改变评价"
+    },
+    {
+      "zh": "参照对象与比较维度，都重要。",
+      "en": "The target and dimension both matter.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "比较对象，改变评价"
+    },
+    {
+      "zh": "同样的差距，可能引出不同感受。",
+      "en": "The same gap can prompt different feelings.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "比较对象，改变评价"
+    },
+    {
+      "zh": "看见别人最终作品，却没见练习过程。",
+      "en": "You see the finished work, not all the practice.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "选谁 · 比什么 · 怎么解释"
+    },
+    {
+      "zh": "把自己的过程，和别人的橱窗相比较。",
+      "en": "Your process meets someone else’s display window.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "选谁 · 比什么 · 怎么解释"
+    },
+    {
+      "zh": "信息不对称，可能放大差距的感觉。",
+      "en": "Unequal information may magnify the felt gap.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "选谁 · 比什么 · 怎么解释"
+    },
+    {
+      "zh": "这面镜子，是比较过程的比喻。",
+      "en": "This mirror represents the comparison process.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "选谁 · 比什么 · 怎么解释"
+    },
+    {
+      "zh": "但不能据此说所有展示都在造假。",
+      "en": "This does not mean every display is false.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "橱窗不能代表全部过程"
+    },
+    {
+      "zh": "换一种比较，也不保证立即舒服。",
+      "en": "A different comparison does not guarantee relief.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "橱窗不能代表全部过程"
+    },
+    {
+      "zh": "感受还与目标、关系和处境相连。",
+      "en": "Goals, relationships and context also matter.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "橱窗不能代表全部过程"
+    },
+    {
+      "zh": "问问那幅画，有什么方法能学？",
+      "en": "Ask what method the artwork can teach.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "找策略，也看自己的进步"
+    },
+    {
+      "zh": "再和过去的自己，比一个具体变化。",
+      "en": "Compare one specific change with your own past.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "找策略，也看自己的进步"
+    },
+    {
+      "zh": "需要时先离开展示，给注意一点空间。",
+      "en": "Take space from the display when useful.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "找策略，也看自己的进步"
+    },
+    {
+      "zh": "别人的亮点，可以是线索。",
+      "en": "Another person’s strength can offer a clue.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "把比较，换成一条线索"
+    },
+    {
+      "zh": "你的价值，仍比一项比较更宽。",
+      "en": "Your worth is wider than one comparison.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "把比较，换成一条线索"
+    },
+    {
+      "zh": "把目光，带回可做的一小步。",
+      "en": "Return your attention to one doable step.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "把比较，换成一条线索"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Garcia 与 Halldorsson：Social Comparison",
+      "url": "https://nobaproject.com/modules/social-comparison",
+      "note": "研究者综述比较方向、相关性及其不同后果。"
+    },
+    {
+      "title": "APA Dictionary：Social comparison theory",
+      "url": "https://dictionary.apa.org/social-comparison-theory",
+      "note": "解释向上、向下与同水平比较，以及对比和同化反应。"
+    }
+  ]
+}

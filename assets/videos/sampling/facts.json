@@ -1,0 +1,95 @@
+{
+  "id": "sampling",
+  "core_claim": "解释调查结果之前，先问目标人群是谁、谁有机会被选中，以及谁最终回应了。",
+  "evidence_limits": "漫画投票是虚构教学例子，不是对真实学生的调查。实际调查需考虑隐私和同意；随机抽样是选人，随机分配是分条件，两者目的不同。",
+  "mechanism": {
+    "steps": [
+      "明确想了解的人群",
+      "检查抽样与回应过程",
+      "按覆盖范围解释结果"
+    ],
+    "metaphorLimit": "水果篮比喻覆盖偏差，页面数字与故事投票是教学设定而非真实学生数据。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "统计方法",
+      "author": "Penn State · Texas"
+    },
+    "script_statements": [
+      {
+        "zh": "抽样方法关注总体、选入机会与回应。",
+        "en": "Sampling considers the population, selection and response.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "想了解全校，目标人群是全校学生。",
+        "en": "For a school-wide question, the target is all students.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "实际听到的声音，可能只是其中一部分。",
+        "en": "The voices heard may cover only one part.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Penn State STAT 500：Lesson 1",
+      "url": "https://online.stat.psu.edu/stat500/Lesson01",
+      "note": "大学统计课程：总体、样本、调查与抽样基础。"
+    },
+    {
+      "title": "University of Texas：Biased Sampling",
+      "url": "https://web.ma.utexas.edu/users/mks/statmistakes/biasedsampling.html",
+      "note": "统计误用教学：选择偏差与代表性限制。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "看到「大家都认为」，先问大家是谁。",
+      "en": "When “everyone thinks,” ask who counts as everyone.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "同时看招募方式与未回应的人。",
+      "en": "Check recruitment and nonresponse.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "真实调查还要尊重隐私与同意。",
+      "en": "Real surveys require privacy and consent.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "数字需要分母，声音需要来处。",
+        "en": "Numbers need denominators. Voices need origins.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "让没被听见的人，也有出现的机会。",
+        "en": "Leave a chance for missing voices to be heard.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "先问谁，再问多少。",
+        "en": "Ask who before asking how many.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

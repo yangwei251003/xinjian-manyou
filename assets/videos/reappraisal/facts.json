@@ -1,0 +1,100 @@
+{
+  "id": "reappraisal",
+  "core_claim": "认知重评是改变对情境意义的理解，不是否认事实、消除所有难过或要求永远积极。",
+  "evidence_limits": "练习不是心理治疗，也不适合用来重新解释严重伤害。没有变轻松不代表做错了；情境、支持和实际行动都重要。",
+  "mechanism": {
+    "steps": [
+      "区分事实与推断",
+      "寻找另一种符合证据的解释",
+      "检查是否需要实际行动"
+    ],
+    "metaphorLimit": "换窗比喻重新理解意义，不是改变事实或要求忽视伤害。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "2012",
+      "author": "Webb · Miles · Sheeran"
+    },
+    "script_statements": [
+      {
+        "zh": "2012 年，一项元分析比较调节策略。",
+        "en": "A 2012 meta-analysis compared regulation strategies.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "认知重评，关注情境意义的改变。",
+        "en": "Reappraisal concerns changing a situation’s meaning.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "研究效果受策略和情境影响。",
+        "en": "Effects depend on strategy and context.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Webb、Miles 与 Sheeran：情绪调节策略元分析（2012）",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22582737/",
+      "note": "比较不同情绪调节过程的研究效果与条件。"
+    },
+    {
+      "title": "Troy 等：Person-by-Situation Approach to Emotion Regulation（2013）",
+      "url": "https://doi.org/10.1177/0956797613496434",
+      "note": "讨论重评与情境可控制性的关联，并非策略有效性的普遍因果结论；另见2016年勘误。"
+    },
+    {
+      "title": "Troy 等：2016年勘误",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26786821/",
+      "note": "修正部分原始得分和分析数值；作者报告实质结论未变。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "先承认事实，再描述自己的感受。",
+      "en": "Acknowledge the facts and name the feeling.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "问一个具体问题：还有什么能做？",
+      "en": "Ask one concrete question: what remains possible?",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "没有轻松下来，也不表示做错了。",
+      "en": "Feeling no relief does not mean failure.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "不是把雨变晴，而是再找一条路。",
+        "en": "Keep the rain real. Explore another route.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "你的失望，和下一步可以同在。",
+        "en": "Disappointment and a next step can coexist.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "给今天，留一个尚未写完的结尾。",
+        "en": "Leave today an ending still to be written.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

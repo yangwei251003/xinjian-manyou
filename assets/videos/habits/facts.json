@@ -1,0 +1,95 @@
+{
+  "id": "habits",
+  "core_claim": "习惯与稳定情境中的重复有关；改变线索和动作的便利程度，往往比只责怪意志更具体。",
+  "evidence_limits": "这不是成瘾治疗，也不能用习惯模型概括所有行为困难。研究中形成自动性的时间差异不能转成个人成功期限；复杂困扰可能需要更多支持。",
+  "mechanism": {
+    "steps": [
+      "稳定情境提供线索",
+      "重复使动作更容易自动启动",
+      "调整线索和便利程度"
+    ],
+    "metaphorLimit": "小路比喻线索与反应联系，不表示习惯不可改变或人完全失去选择。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "2010",
+      "author": "Lally 等"
+    },
+    "script_statements": [
+      {
+        "zh": "2010 年，研究者追踪日常习惯形成。",
+        "en": "A 2010 study tracked everyday habit formation.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "人们在稳定情境里重复自选行为。",
+        "en": "People repeated chosen actions in stable contexts.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "自动性的变化，并不是人人同速。",
+        "en": "Automaticity developed at different rates.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Lally 等：How are habits formed?（2010）",
+      "url": "https://doi.org/10.1002/ejsp.674",
+      "note": "日常情境中习惯自动性形成的追踪研究。"
+    },
+    {
+      "title": "Wood 与 Rünger：Psychology of Habit（2016）",
+      "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+      "note": "习惯研究综述，讨论情境线索与行为自动性。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "把书翻到下一页，减少开始前的准备。",
+      "en": "Open the book. Reduce the work before starting.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "先试两分钟，再记录哪些安排有帮助。",
+      "en": "Try two minutes and observe the arrangement.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "允许调整环境，也允许休息。",
+      "en": "Adjust the environment and allow rest.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "少一句「我没毅力」，多看一个线索。",
+        "en": "Look for a cue before making a global judgment.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "让有用的小动作，更容易发生。",
+        "en": "Make a useful small action easier.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "下一次开始，可以离你近一点。",
+        "en": "Bring the next beginning a little closer.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

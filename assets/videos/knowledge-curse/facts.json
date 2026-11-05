@@ -1,0 +1,95 @@
+{
+  "id": "knowledge-curse",
+  "core_claim": "已经知道的信息，可能让我们高估别人理解的容易程度。把省略的步骤说出来，再请对方复述，能多一条核对的线索。",
+  "evidence_limits": "这是虚构的机器人教学故事。信息差只是沟通困难的一种解释，不能用来替代对语言、情境、可访问性或关系问题的具体了解。",
+  "mechanism": {
+    "steps": [
+      "已掌握的信息变得显而易见",
+      "高估对方能接上的步骤",
+      "复述与可见反馈暴露缺口"
+    ],
+    "metaphorLimit": "两个信息世界是解释性画法。故事没有测量任何人的读心或沟通能力。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "1989",
+      "author": "Camerer · Loewenstein · Weber"
+    },
+    "script_statements": [
+      {
+        "zh": "1989 年，研究者考察知识诅咒。",
+        "en": "Researchers studied the curse of knowledge in 1989.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "实验比较信息更多与更少者。",
+        "en": "Experiments compared different information states.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "已知信息，可能影响对他人判断的预测。",
+        "en": "What we know can bias what we predict.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Camerer、Loewenstein 与 Weber：The Curse of Knowledge in Economic Settings（1989）",
+      "url": "https://doi.org/10.1086/261651",
+      "note": "原始经济实验。区分信息较多者与较少者，未直接检验本课机器人教学方案。"
+    },
+    {
+      "title": "Elizabeth Newton：The Rocky Road from Actions to Intentions（1990）",
+      "url": "https://gwern.net/doc/psychology/cognitive-bias/illusion-of-depth/1990-newton.pdf",
+      "note": "后续视角采择与敲节奏研究。论文不同位置计数口径有差别，本课不引用未经统一的百分比。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "先说具体动作，再给可见反馈。",
+      "en": "Give a concrete action and a visible signal.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "请对方复述，看看缺的是哪一步。",
+      "en": "Invite a retelling to find a missing step.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "复述检查说明，保留提问的余地。",
+      "en": "Use retelling to check the explanation.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "沟通从对方能看见的地方开始。",
+        "en": "Start from what the other person can see.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "少一点「怎么还不懂」，多一点具体。",
+        "en": "Replace impatience with concrete detail.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "把地图摊开，我们就有机会同行。",
+        "en": "Open the map. Then we can walk together.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

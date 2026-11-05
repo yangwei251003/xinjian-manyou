@@ -1,0 +1,95 @@
+{
+  "id": "attribution",
+  "core_claim": "解释一个行为时，既看个人倾向，也查当时情境；理解原因和约定责任可以同时发生。",
+  "evidence_limits": "漫画里的原因是作者设定，不是对真实迟到者的解释。归因倾向受情境和文化影响；持续行为模式、权力差异与安全风险同样需要考虑。",
+  "mechanism": {
+    "steps": [
+      "观察他人行为",
+      "提出个人与情境解释",
+      "补信息再讨论责任"
+    ],
+    "metaphorLimit": "拉远镜头比喻补充背景，不表示故事中每个解释都能直接用于真实事件。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "1958 →",
+      "author": "归因研究 · 教材综合"
+    },
+    "script_statements": [
+      {
+        "zh": "归因研究问，人怎样解释行为？",
+        "en": "Attribution asks how we explain behavior.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "我们可能先看见人，后看见背景。",
+        "en": "The person is salient. Context is quieter.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "这种倾向受任务与文化影响。",
+        "en": "The tendency varies across tasks and cultures.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "OpenStax：社会心理学与情境归因",
+      "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+      "note": "归因及个人与情境解释的教材入口。"
+    },
+    {
+      "title": "Noba：Social Cognition and Attitudes",
+      "url": "https://nobaproject.com/textbooks/jericho-hockett-introduction-to-psychology-the-full-noba-collection/modules/social-cognition-and-attitudes",
+      "note": "社会判断受启发式、情感和动机影响。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "说出具体影响，再问发生了什么。",
+      "en": "Name the impact. Ask what happened.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "共同约定下一次怎样通知。",
+      "en": "Agree on how to communicate next time.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "这是虚构情境，真实原因仍需核实。",
+      "en": "This is fiction. Real causes need checking.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "别用一个瞬间，定义一个人。",
+        "en": "Do not define a person by one moment.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "也别让理解，变成永远委屈自己。",
+        "en": "Understanding can include your own needs.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "留一扇窗，等新的信息进来。",
+        "en": "Keep a window open for new information.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

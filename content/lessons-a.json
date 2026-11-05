@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "attention",
+    "zone": "perception",
+    "title": "谁把小恐龙变没了？",
+    "question": "认真看了，为什么还是会漏掉？",
+    "summary": "校园义卖会上，小满只顾寻找红色徽章，竟没发现眼前的小恐龙。三位朋友决定换个任务，再看一次。",
+    "duration": 8,
+    "tags": [
+      "选择性注意",
+      "认知",
+      "日常"
+    ],
+    "accent": "sage",
+    "panels": [
+      {
+        "speaker": "小满",
+        "dialogue": "找到红色徽章就能集章！我一枚也不漏。",
+        "caption": "校园义卖会开场，小满盯着摊位上的红色徽章。",
+        "visual": "Wide dynamic school fair. Xiaoman in coral hoodie leans eagerly toward a table of red round badges among varied colored trinkets; Ache in teal stands beside her. Mila in yellow overalls stands visibly behind the table holding a bright little green toy dinosaur above her shoulder. Clear action and readable environment, not clutter.",
+        "imagePrompt": "Standalone frame 1 of 6. Scene: Wide dynamic school fair. Xiaoman in coral hoodie leans eagerly toward a table of red round badges among varied colored trinkets; Ache in teal stands beside her. Mila in yellow overalls stands visibly behind the table holding a bright little green toy dinosaur above her shoulder. Clear action and readable environment, not clutter. Speaker: 小满. Exact Chinese speech bubble text: 「找到红色徽章就能集章！我一枚也不漏。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "我举了半天小恐龙，你真的没看见？",
+        "caption": "收摊时，米粒举起那只绿色玩具，小满愣住了。",
+        "visual": "Comic close-up reaction: Xiaoman recoils with huge surprised eyes, hair and coral hood moving; Mila cheerfully holds the green toy dinosaur close by, Ache notices her reaction. Humorous surprise, no shame.",
+        "imagePrompt": "Standalone frame 2 of 6. Scene: Comic close-up reaction: Xiaoman recoils with huge surprised eyes, hair and coral hood moving; Mila cheerfully holds the green toy dinosaur close by, Ache notices her reaction. Humorous surprise, no shame. Speaker: 米粒. Exact Chinese speech bubble text: 「我举了半天小恐龙，你真的没看见？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "先别怪眼睛。刚才你给自己什么任务？",
+        "caption": "阿澈指向红徽章，小满想起自己一直在找什么。",
+        "visual": "Overhead clue investigation: coral-sleeved Xiaoman's hand circles red badges on tabletop, Ache in teal points to them with curiosity; the green dinosaur is on a corner of the same table. Hands correct, badges main focus.",
+        "imagePrompt": "Standalone frame 3 of 6. Scene: Overhead clue investigation: coral-sleeved Xiaoman's hand circles red badges on tabletop, Ache in teal points to them with curiosity; the green dinosaur is on a corner of the same table. Hands correct, badges main focus. Speaker: 阿澈. Exact Chinese speech bubble text: 「先别怪眼睛。刚才你给自己什么任务？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "像一束光只照着徽章，旁边的就漏掉了。",
+        "caption": "这是注意的比喻，不是脑子里真的有灯。",
+        "visual": "Clearly imaginative conceptual cutaway: stylized dark indigo stage of familiar fair objects, ONE broad golden spotlight illuminating red badges while green toy dinosaur rests visibly in dim teal off to side. A small coral Xiaoman silhouette observes from edge, no literal anatomical brain, no alien magical diagnosis.",
+        "imagePrompt": "Standalone frame 4 of 6. Scene: Clearly imaginative conceptual cutaway: stylized dark indigo stage of familiar fair objects, ONE broad golden spotlight illuminating red badges while green toy dinosaur rests visibly in dim teal off to side. A small coral Xiaoman silhouette observes from edge, no literal anatomical brain, no alien magical diagnosis. Speaker: 小满. Exact Chinese speech bubble text: 「像一束光只照着徽章，旁边的就漏掉了。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "这次换个任务：找出所有绿色的东西！",
+        "caption": "他们换一组物品再找。第二次已经有了提示。",
+        "visual": "Return to bright real school table with a visibly NEW arrangement: green toy dinosaur, green leaf, green cup, red badges spread apart. Xiaoman immediately points at the dinosaur, Ache points to leaf, Mila encourages. Cooperative action, lively tilted camera.",
+        "imagePrompt": "Standalone frame 5 of 6. Scene: Return to bright real school table with a visibly NEW arrangement: green toy dinosaur, green leaf, green cup, red badges spread apart. Xiaoman immediately points at the dinosaur, Ache points to leaf, Mila encourages. Cooperative action, lively tilted camera. Speaker: 米粒. Exact Chinese speech bubble text: 「这次换个任务：找出所有绿色的东西！」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "下次朋友叫我，我先停下手里的事，再抬头。",
+        "caption": "放学时，小满合上书，和挥手的朋友对上目光。",
+        "visual": "Warm school exit wide ending: Xiaoman has CLOSED her book and looks directly at Ache waving hello. Mila beside him holds the little green dinosaur peeking from pocket. Happy connection, springy movement, no text.",
+        "imagePrompt": "Standalone frame 6 of 6. Scene: Warm school exit wide ending: Xiaoman has CLOSED her book and looks directly at Ache waving hello. Mila beside him holds the little green dinosaur peeking from pocket. Happy connection, springy movement, no text. Speaker: 小满. Exact Chinese speech bubble text: 「下次朋友叫我，我先停下手里的事，再抬头。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      }
+    ],
+    "takeaway": "注意是有选择的；没报告某个细节，不等于它不在眼前，也不等于这个人不在乎。",
+    "explanation": [
+      {
+        "heading": "目标像一束可移动的光",
+        "text": "同一个场景里同时存在很多信息，但我们处理它们的优先级并不一样。正在寻找入口、数物品或阅读文字时，与任务有关的内容更容易进入后续处理。聚光灯只是帮助理解的比喻，注意不是大脑里真的有一盏灯；它也会受到显著性、预期和经验的影响。"
+      },
+      {
+        "heading": "遗漏可以发生在认真做事时",
+        "text": "不注意盲视研究让参与者专注于一项任务，再考察他们是否报告意外出现的事物。有人会漏掉很醒目的目标。这揭示了注意的限制，而不是证明人永远看不清现实。事先知道会有意外目标，或第二次再看，都可能改变体验，不能当作同一条件下的测验。"
+      },
+      {
+        "heading": "让环境替注意分担工作",
+        "text": "当你既要找路又要找人，可以先停下来，明确下一步只做哪件事；团队协作则可把关键信息放在固定位置，并要求对方确认。这样的设计减少了目标竞争，不意味着所有错误都能消除。对别人的遗漏先询问当时在做什么，通常比立刻归因为冷漠更有信息。"
+      },
+      {
+        "heading": "两种任务，两个问题",
+        "text": "故事和找图形活动讨论任务目标引导注意。下方的词义与颜色竞争，则参考Stroop在1935年的颜色命名研究。读字的习惯可能干扰报告印刷颜色，这与漏看意外物体不是同一项研究。12张卡的短体验只帮助观察差别，无法用于诊断或能力比较。"
+      }
+    ],
+    "tryThis": {
+      "title": "把知识带回生活",
+      "text": "同学专心拼模型，没回应你的招呼，怎样再试一次？ 先确认对方是否听到；暂停并取得目光回应；说出请求后请对方复述。我先等你放下零件，再问能不能一起整理材料。 不计分、不排名，也不用提交真实隐私。"
+    },
+    "boundary": "这段故事和桌面活动是教学改编，不是标准化测量。一次漏看不能用于判断 ADHD、智力或重视程度；视觉与任务经验差异也会影响表现。",
+    "evidenceLabel": "研究支持 · 情境依赖",
+    "sources": [
+      {
+        "title": "Simons 与 Chabris：Gorillas in our midst（1999）",
+        "url": "https://doi.org/10.1068/p281059",
+        "note": "原始不注意盲视研究，支持任务与意外目标报告之间的关系。"
+      },
+      {
+        "title": "Daniel Simons：研究论文与示范资料",
+        "url": "https://www.dansimons.com/research.html",
+        "note": "研究者资料入口，可进一步了解注意、视觉记忆与变化盲视。"
+      },
+      {
+        "title": "Stroop：Studies of Interference in Serial Verbal Reactions（1935）",
+        "url": "https://psychclassics.yorku.ca/Stroop/",
+        "note": "词义干扰与印刷颜色命名的原始研究。网页12张卡是简化教学活动，不是标准化测验，也与不注意盲视的任务不同。"
+      }
+    ],
+    "quiz": {
+      "question": "你在找教室门牌时没看见墙上的新画，哪种变化最能检查任务目标的作用？",
+      "options": [
+        "让朋友评价你是否细心",
+        "换一组场景并明确改为找画，比较注意到的内容",
+        "在原地多盯同一张画几秒"
+      ],
+      "correct": 1,
+      "feedback": "明确改变任务并使用新场景，较能体验目标如何引导注意。原场景第二次看已有提示，不是同条件复测；这仍不是标准实验。"
+    },
+    "related": [
+      "memory",
+      "attribution"
+    ],
+    "artPrompt": "Generate EACH panel as a SEPARATE original full-size image, one imagegen call per panel, never crop a multi-panel sheet. Expressive youth graphic-novel art, clean bold ink, vivid coral/teal/yellow/indigo. Xiaoman 小满: girl12 black bob/coral hairclip/coral hoodie/indigo trousers. Ache 阿澈: boy13 tousled short black hair/round glasses/teal jacket/cream T-shirt/indigo trousers. Mila 米粒: girl12 twin buns/yellow overalls/white T-shirt. Follow the panel visual and speaker exactly; place its exact Chinese dialogue inside a readable speech bubble pointing to the speaker, with large legible typography; do not invent text or alter wording. Caption stays as accessible supporting text. Preserve character continuity and meaningful action. Individual panel script follows in panels[].",
+    "branch": "cognitive",
+    "branches": [
+      "cognitive"
+    ],
+    "scenes": [
+      "school",
+      "friendship"
+    ],
+    "mechanism": {
+      "steps": [
+        "当前任务设置优先级",
+        "部分信息更容易被处理",
+        "未被报告的细节可能被遗漏"
+      ],
+      "metaphorLimit": "聚光灯只比喻处理优先级，注意不是脑内真的有灯。"
+    },
+    "misconception": {
+      "myth": "没看见我，就是不在乎我。",
+      "correction": "遗漏也可能与当时任务有关，需要了解处境。"
+    },
+    "practice": {
+      "prompt": "同学专心拼模型，没回应你的招呼，怎样再试一次？",
+      "steps": [
+        "先确认对方是否听到",
+        "暂停并取得目光回应",
+        "说出请求后请对方复述"
+      ],
+      "example": "我先等你放下零件，再问能不能一起整理材料。"
+    },
+    "learningGoals": [
+      "能解释：当前任务设置优先级如何影响后面的过程。",
+      "能应用：同学专心拼模型，没回应你的招呼，怎样再试一次？"
+    ],
+    "prediction": {
+      "question": "小满漏看恐龙，先查哪条信息最有帮助？",
+      "options": [
+        {
+          "text": "她当时在找什么",
+          "feedback": "先了解任务目标，可以判断注意是否集中在别处。"
+        },
+        {
+          "text": "她是不是不喜欢米粒",
+          "feedback": "这是假设人物态度；单次遗漏不足以支持它。"
+        },
+        {
+          "text": "她平时考试排第几",
+          "feedback": "考试名次不能直接解释这一次没看见。"
+        }
+      ]
+    },
+    "evidence": {
+      "level": "研究支持 · 情境依赖",
+      "claim": "注意是有选择的；没报告某个细节，不等于它不在眼前，也不等于这个人不在乎。",
+      "limits": "这段故事和桌面活动是教学改编，不是标准化测量。一次漏看不能用于判断 ADHD、智力或重视程度；视觉与任务经验差异也会影响表现。"
+    },
+    "audience": "面向小学高年级至初中的阅读设计；成人也可探索。年龄适配尚未经过真实学生研究。",
+    "experimentIds": [
+      "inattentional-blindness",
+      "stroop-interference"
+    ],
+    "readingLayers": {
+      "story": "先读漫画和一句话发现",
+      "mechanism": "再看机制与想一想",
+      "deeper": "最后展开研究解释、边界与来源"
+    },
+    "aliases": [
+      "选择性注意",
+      "不注意盲视",
+      "注意盲视",
+      "斯特鲁普",
+      "Stroop",
+      "颜色干扰"
+    ]
+  },
+  {
+    "id": "memory",
+    "zone": "perception",
+    "title": "奖杯上的星星去哪了？",
+    "question": "记得很清楚，就一定没有记错吗？",
+    "summary": "班级奖杯上的图案引发争论。三个小侦探发现，回忆不像一段随时重播的录像。",
+    "duration": 8,
+    "tags": [
+      "记忆重构",
+      "自信",
+      "关系"
+    ],
+    "accent": "terracotta",
+    "panels": [
+      {
+        "speaker": "小满",
+        "dialogue": "我敢肯定，奖杯上有一颗金色星星！",
+        "caption": "活动结束，三人凭记忆画奖杯。",
+        "visual": "小满猛举画有星形奖杯的画纸，阿澈画圆形奖杯，米粒画带条纹奖杯，桌面三张草图相互不同。",
+        "imagePrompt": "Standalone frame 1 of 6. Scene: 小满猛举画有星形奖杯的画纸，阿澈画圆形奖杯，米粒画带条纹奖杯，桌面三张草图相互不同。 Speaker: 小满. Exact Chinese speech bubble text: 「我敢肯定，奖杯上有一颗金色星星！」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "我只记得亮闪闪的，星星是后来听你说的。",
+        "caption": "越讨论，大家的画越像。",
+        "visual": "近景，阿澈正迟疑着在自己的画里添星形，远处小满兴奋指着她的画，表示后来听到的内容加入画面。",
+        "imagePrompt": "Standalone frame 2 of 6. Scene: 近景，阿澈正迟疑着在自己的画里添星形，远处小满兴奋指着她的画，表示后来听到的内容加入画面。 Speaker: 阿澈. Exact Chinese speech bubble text: 「我只记得亮闪闪的，星星是后来听你说的。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "先别跟着改，我们各自写下确定的部分。",
+        "caption": "把看见的和听说的分开。",
+        "visual": "米粒用折立纸板分隔桌面，三人各自回想并画草图，动作具体而非说教。",
+        "imagePrompt": "Standalone frame 3 of 6. Scene: 米粒用折立纸板分隔桌面，三人各自回想并画草图，动作具体而非说教。 Speaker: 米粒. Exact Chinese speech bubble text: 「先别跟着改，我们各自写下确定的部分。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "原来回忆像拼图，有些空位被猜测补上了。",
+        "caption": "拼图只是隐喻，不是真实脑结构。",
+        "visual": "想象画面：小满站在巨大不完整奖杯拼图前，手中星形拼片与缺口并不吻合，阿澈拿着不同来源的碎片。",
+        "imagePrompt": "Standalone frame 4 of 6. Scene: 想象画面：小满站在巨大不完整奖杯拼图前，手中星形拼片与缺口并不吻合，阿澈拿着不同来源的碎片。 Speaker: 小满. Exact Chinese speech bubble text: 「原来回忆像拼图，有些空位被猜测补上了。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "找到现场照片了：星星在奖杯后面的海报上！",
+        "caption": "照片提供了新的核对线索。",
+        "visual": "三人凑近相机照片，照片清楚显示圆形奖杯，后方墙上海报有金色星星，三人惊讶。",
+        "imagePrompt": "Standalone frame 5 of 6. Scene: 三人凑近相机照片，照片清楚显示圆形奖杯，后方墙上海报有金色星星，三人惊讶。 Speaker: 米粒. Exact Chinese speech bubble text: 「找到现场照片了：星星在奖杯后面的海报上！」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "下次有分歧，先找记录，不急着说谁撒谎。",
+        "caption": "保留不确定，比争赢更有用。",
+        "visual": "小满把三张不同草图与照片并排放好，向阿澈伸手和好，米粒用夹子夹住现场照片。",
+        "imagePrompt": "Standalone frame 6 of 6. Scene: 小满把三张不同草图与照片并排放好，向阿澈伸手和好，米粒用夹子夹住现场照片。 Speaker: 小满. Exact Chinese speech bubble text: 「下次有分歧，先找记录，不急着说谁撒谎。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      }
+    ],
+    "takeaway": "回忆不是播放录像；原经历、后续信息和提取时的推断，都可能影响记得的内容。",
+    "explanation": [
+      {
+        "heading": "记忆会保留，也会重建",
+        "text": "我们经历事件时，并不会以同等清晰度保存每个细节。之后回忆，会利用留下的线索、已有知识和当下的问题组织一个答案。重建并不意味着记忆都是假的：我们通常能记住许多有用信息，但对于具体细节，需要区分记得、猜测和从别人那里得知。"
+      },
+      {
+        "heading": "问法也可能进入记忆",
+        "text": "Loftus 与 Palmer 的经典研究改变询问车祸速度时使用的词语，发现问题措辞会影响判断，部分后续报告也出现差异。这支持后续信息可能影响回忆，而不是证明任何提问都会制造假记忆。研究有特定材料和条件；日常争执不能只凭这个概念判谁说了假话。"
+      },
+      {
+        "heading": "给不确定性留一个位置",
+        "text": "在共同回忆之前先独立记录，注明细节来自亲眼所见、照片还是转述，可以减少信息混合。照片、聊天记录也有视角与缺漏，适合和其他材料一起核对。说“这一部分我不确定”不是记忆失败，而是在把确信程度和证据质量分开。"
+      }
+    ],
+    "tryThis": {
+      "title": "把知识带回生活",
+      "text": "朋友对活动细节记得不一样，怎样核对而不互相指责？ 各自先记录；区分亲眼看见与后来听说；寻找照片或当时记录。我记得帽子是蓝的，但也可能看的是旁边的旗子，我们找原照片。 不计分、不排名，也不用提交真实隐私。"
+    },
+    "boundary": "本故事不是对读者进行错误记忆诱导。不能用记忆研究否定某人的创伤经历或目击证言，也不能由回忆差异推断谁故意撒谎。",
+    "evidenceLabel": "研究支持 · 情境依赖",
+    "sources": [
+      {
+        "title": "Loftus 与 Palmer：Reconstruction of automobile destruction（1974）",
+        "url": "https://doi.org/10.1016/S0022-5371(74)80011-3",
+        "note": "原始提问措辞与事件回忆研究。"
+      },
+      {
+        "title": "Loftus：研究出版档案",
+        "url": "https://faculty.sites.uci.edu/eloftus/publications/",
+        "note": "可查原始论文与后续记忆研究，不以故事代替实验。"
+      }
+    ],
+    "quiz": {
+      "question": "两位同学先后听了同一段转述后，回忆变一致了。最需要补查什么？",
+      "options": [
+        "他们现在说得是否流畅",
+        "他们的自信是否提高",
+        "转述前各自的记录与当时证据"
+      ],
+      "correct": 2,
+      "feedback": "一致可能来自共享信息，也可能符合事实。要区分，需要查看转述前的独立记录与其他证据，而不是只看流畅和自信。"
+    },
+    "related": [
+      "attention",
+      "metacognition"
+    ],
+    "artPrompt": "Generate EACH panel as a SEPARATE original full-size image, one imagegen call per panel, never crop a multi-panel sheet. Expressive youth graphic-novel art, clean bold ink, vivid coral/teal/yellow/indigo. Xiaoman 小满: girl12 black bob/coral hairclip/coral hoodie/indigo trousers. Ache 阿澈: boy13 tousled short black hair/round glasses/teal jacket/cream T-shirt/indigo trousers. Mila 米粒: girl12 twin buns/yellow overalls/white T-shirt. Follow the panel visual and speaker exactly; place its exact Chinese dialogue inside a readable speech bubble pointing to the speaker, with large legible typography; do not invent text or alter wording. Caption stays as accessible supporting text. Preserve character continuity and meaningful action. Individual panel script follows in panels[].",
+    "branch": "cognitive",
+    "branches": [
+      "cognitive"
+    ],
+    "scenes": [
+      "school",
+      "friendship"
+    ],
+    "mechanism": {
+      "steps": [
+        "经历时编码不完整",
+        "后来信息可能混入",
+        "回忆时重新组织"
+      ],
+      "metaphorLimit": "拼图比喻重建过程，不代表每次回忆都错误，也不表示记忆由固定小块组成。"
+    },
+    "misconception": {
+      "myth": "记得越清楚，内容就越准确。",
+      "correction": "确信程度与准确性不是同一件事。"
+    },
+    "practice": {
+      "prompt": "朋友对活动细节记得不一样，怎样核对而不互相指责？",
+      "steps": [
+        "各自先记录",
+        "区分亲眼看见与后来听说",
+        "寻找照片或当时记录"
+      ],
+      "example": "我记得帽子是蓝的，但也可能看的是旁边的旗子，我们找原照片。"
+    },
+    "learningGoals": [
+      "能解释：经历时编码不完整如何影响后面的过程。",
+      "能应用：朋友对活动细节记得不一样，怎样核对而不互相指责？"
+    ],
+    "prediction": {
+      "question": "两人都很确信，但回忆不同，下一步是什么？",
+      "options": [
+        {
+          "text": "让最确信的人决定",
+          "feedback": "确信能说明主观把握，不等于已经核实准确性。"
+        },
+        {
+          "text": "各自保留版本，找当时记录",
+          "feedback": "先独立记录可减少彼此影响，再用外部线索核对。"
+        },
+        {
+          "text": "一起讨论到说法一致",
+          "feedback": "一致可能是互相影响的结果，仍需独立证据。"
+        }
+      ]
+    },
+    "evidence": {
+      "level": "研究支持 · 情境依赖",
+      "claim": "回忆不是播放录像；原经历、后续信息和提取时的推断，都可能影响记得的内容。",
+      "limits": "本故事不是对读者进行错误记忆诱导。不能用记忆研究否定某人的创伤经历或目击证言，也不能由回忆差异推断谁故意撒谎。"
+    },
+    "audience": "面向小学高年级至初中的阅读设计；成人也可探索。年龄适配尚未经过真实学生研究。",
+    "experimentIds": [
+      "misinformation"
+    ],
+    "readingLayers": {
+      "story": "先读漫画和一句话发现",
+      "mechanism": "再看机制与想一想",
+      "deeper": "最后展开研究解释、边界与来源"
+    },
+    "aliases": [
+      "重建记忆",
+      "错误记忆",
+      "误导信息效应"
+    ]
+  },
+  {
+    "id": "metacognition",
+    "zone": "perception",
+    "title": "会了？让纸飞机来验收",
+    "question": "为什么看懂步骤，动手却卡住？",
+    "summary": "阿澈读了三遍折纸说明，觉得自己已经掌握。真正关上说明书，才发现缺了哪一步。",
+    "duration": 8,
+    "tags": [
+      "元认知",
+      "学习判断",
+      "熟悉感"
+    ],
+    "accent": "sage",
+    "panels": [
+      {
+        "speaker": "阿澈",
+        "dialogue": "这架纸飞机我看三遍了，肯定会折！",
+        "caption": "熟悉的图解让人很有把握。",
+        "visual": "阿澈自信把折纸说明书合上，小满和米粒拿纸等他示范。",
+        "imagePrompt": "Standalone frame 1 of 6. Scene: 阿澈自信把折纸说明书合上，小满和米粒拿纸等他示范。 Speaker: 阿澈. Exact Chinese speech bubble text: 「这架纸飞机我看三遍了，肯定会折！」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "等一下……这条边到底往哪折？",
+        "caption": "第一道转折就卡住了。",
+        "visual": "特写阿澈手中折乱的纸，双手停在半空，表情从自信变困惑。",
+        "imagePrompt": "Standalone frame 2 of 6. Scene: 特写阿澈手中折乱的纸，双手停在半空，表情从自信变困惑。 Speaker: 阿澈. Exact Chinese speech bubble text: 「等一下……这条边到底往哪折？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "先别偷看，画出你确定的三步。",
+        "caption": "让“我会了”变成可观察的动作。",
+        "visual": "米粒递来三张空白卡，阿澈依次画折叠步骤，最后一张留空。",
+        "imagePrompt": "Standalone frame 3 of 6. Scene: 米粒递来三张空白卡，阿澈依次画折叠步骤，最后一张留空。 Speaker: 米粒. Exact Chinese speech bubble text: 「先别偷看，画出你确定的三步。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "脑里的“熟悉灯”亮了，不代表每一步都有路。",
+        "caption": "仪表盘是检查学习的隐喻。",
+        "visual": "想象画面：阿澈驾小型纸飞机，仪表盘一盏灯亮但前方路线缺一段；米粒指向缺口而非庆祝。",
+        "imagePrompt": "Standalone frame 4 of 6. Scene: 想象画面：阿澈驾小型纸飞机，仪表盘一盏灯亮但前方路线缺一段；米粒指向缺口而非庆祝。 Speaker: 小满. Exact Chinese speech bubble text: 「脑里的“熟悉灯”亮了，不代表每一步都有路。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "我只重看卡住的这一步，再独立折一次。",
+        "caption": "用反馈调整下一次学习。",
+        "visual": "阿澈把说明书翻到缺失步骤，随后合书折纸，小满对照飞机构造。",
+        "imagePrompt": "Standalone frame 5 of 6. Scene: 阿澈把说明书翻到缺失步骤，随后合书折纸，小满对照飞机构造。 Speaker: 阿澈. Exact Chinese speech bubble text: 「我只重看卡住的这一步，再独立折一次。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "这次能飞了；明天不看说明再试，才更稳。",
+        "caption": "一次成功不等于永远记得。",
+        "visual": "三人在操场试飞纸飞机，阿澈把说明书放入书包而不是随身看，米粒接住飞机。",
+        "imagePrompt": "Standalone frame 6 of 6. Scene: 三人在操场试飞纸飞机，阿澈把说明书放入书包而不是随身看，米粒接住飞机。 Speaker: 阿澈. Exact Chinese speech bubble text: 「这次能飞了；明天不看说明再试，才更稳。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      }
+    ],
+    "takeaway": "元认知是观察和调节自己的学习；“感觉熟悉”需要用实际尝试来校准。",
+    "explanation": [
+      {
+        "heading": "学习时还有一个观察者",
+        "text": "我们一边学习，一边估计自己是否理解、该花多少时间、何时停下。这种对自身认知过程的监测与调节，通常称为元认知。它不是一个固定的聪明程度标签，也不等于不断反省自己；它更像在具体任务中问：目标是什么，我现在能独立做到什么？"
+      },
+      {
+        "heading": "流畅感可能给错提示",
+        "text": "看过很多遍的材料比较容易处理，因此会让人产生“我知道”的感觉。但熟悉页面、跟得上示范，与离开提示后解释或运用知识之间，可能存在距离。校准不是一味降低自信，而是比较预期表现与真实表现，让把握程度更贴近证据。"
+      },
+      {
+        "heading": "把判断放到反馈之后",
+        "text": "先预测自己能完成哪一步，再独立尝试，最后对照标准找差距，这个小循环能帮助分配下一轮学习。好的反馈要具体到错误原因，而不是只给“会了”或“不会”。任务难度、已有知识和反馈质量都会影响这个过程，不能用一次答错给能力定终身。"
+      }
+    ],
+    "tryThis": {
+      "title": "把知识带回生活",
+      "text": "选一个刚学过的知识点，校准“我会了”。 先写预测能做到哪步；不看资料解释或操作；核对差异后只补缺口。我以为能讲完水循环，实际漏了凝结；重学这一段后换个例子再讲。 不计分、不排名，也不用提交真实隐私。"
+    },
+    "boundary": "这个练习帮助发现理解缺口，不是元认知能力测验。学习效果取决于材料、反馈和持续练习；也不能据此承诺固定幅度的成绩提升。",
+    "evidenceLabel": "研究支持 · 情境依赖",
+    "sources": [
+      {
+        "title": "National Academies：How People Learn II，学习与知识",
+        "url": "https://www.nationalacademies.org/read/24783/chapter/6",
+        "note": "研究综述，讨论元认知、学习者监测与调节。"
+      },
+      {
+        "title": "Cornell：Metacognitive Strategies",
+        "url": "https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/metacognitive-strategies",
+        "note": "提供在实际学习中计划、监测与评价的教学方法。"
+      }
+    ],
+    "quiz": {
+      "question": "练习前估计能讲五步，实际独立讲出三步。下一轮怎样调整最具体？",
+      "options": [
+        "保持原计划，把全篇再看五遍",
+        "找出漏掉的两步及原因，练后重新检查",
+        "把自信一律降到最低"
+      ],
+      "correct": 1,
+      "feedback": "校准是用实际表现修正判断和安排，不是惩罚自信。全篇重看可能有用，但不如先定位缺口具体。"
+    },
+    "related": [
+      "retrieval",
+      "memory",
+      "confirmation-bias"
+    ],
+    "artPrompt": "Generate EACH panel as a SEPARATE original full-size image, one imagegen call per panel, never crop a multi-panel sheet. Expressive youth graphic-novel art, clean bold ink, vivid coral/teal/yellow/indigo. Xiaoman 小满: girl12 black bob/coral hairclip/coral hoodie/indigo trousers. Ache 阿澈: boy13 tousled short black hair/round glasses/teal jacket/cream T-shirt/indigo trousers. Mila 米粒: girl12 twin buns/yellow overalls/white T-shirt. Follow the panel visual and speaker exactly; place its exact Chinese dialogue inside a readable speech bubble pointing to the speaker, with large legible typography; do not invent text or alter wording. Caption stays as accessible supporting text. Preserve character continuity and meaningful action. Individual panel script follows in panels[].",
+    "branch": "educational",
+    "branches": [
+      "educational",
+      "cognitive"
+    ],
+    "scenes": [
+      "learning",
+      "school"
+    ],
+    "mechanism": {
+      "steps": [
+        "预测自己会什么",
+        "独立尝试暴露缺口",
+        "用反馈调整策略"
+      ],
+      "metaphorLimit": "仪表盘比喻自我监测；熟悉感不是完全没用，但需用实际表现校准。"
+    },
+    "misconception": {
+      "myth": "看懂讲解就等于能独立完成。",
+      "correction": "熟悉可以帮助理解，但实际尝试才能检查能否使用。"
+    },
+    "practice": {
+      "prompt": "选一个刚学过的知识点，校准“我会了”。",
+      "steps": [
+        "先写预测能做到哪步",
+        "不看资料解释或操作",
+        "核对差异后只补缺口"
+      ],
+      "example": "我以为能讲完水循环，实际漏了凝结；重学这一段后换个例子再讲。"
+    },
+    "learningGoals": [
+      "能解释：预测自己会什么如何影响后面的过程。",
+      "能应用：选一个刚学过的知识点，校准“我会了”。"
+    ],
+    "prediction": {
+      "question": "看完折纸图解后，怎样更好地检查是否掌握？",
+      "options": [
+        {
+          "text": "再看一遍，确认是否眼熟",
+          "feedback": "可用于复习，但熟悉感并不直接显示能否独立操作。"
+        },
+        {
+          "text": "不看图解实际折一次",
+          "feedback": "实际表现可以暴露具体卡点，再用反馈调整。"
+        },
+        {
+          "text": "先问朋友觉得自己聪不聪明",
+          "feedback": "笼统评价无法定位缺的是哪一步。"
+        }
+      ]
+    },
+    "evidence": {
+      "level": "研究支持 · 情境依赖",
+      "claim": "元认知是观察和调节自己的学习；“感觉熟悉”需要用实际尝试来校准。",
+      "limits": "这个练习帮助发现理解缺口，不是元认知能力测验。学习效果取决于材料、反馈和持续练习；也不能据此承诺固定幅度的成绩提升。"
+    },
+    "audience": "面向小学高年级至初中的阅读设计；成人也可探索。年龄适配尚未经过真实学生研究。",
+    "experimentIds": [
+      "retrieval-practice"
+    ],
+    "readingLayers": {
+      "story": "先读漫画和一句话发现",
+      "mechanism": "再看机制与想一想",
+      "deeper": "最后展开研究解释、边界与来源"
+    }
+  },
+  {
+    "id": "sleep",
+    "zone": "body",
+    "title": "枕头不是学习的敌人",
+    "question": "再熬一会儿，真的更划算吗？",
+    "summary": "为了科学节，小满想熬夜背完整份讲稿。伙伴们一起重新安排准备与休息。",
+    "duration": 8,
+    "tags": [
+      "睡眠",
+      "记忆",
+      "节律"
+    ],
+    "accent": "blue",
+    "panels": [
+      {
+        "speaker": "小满",
+        "dialogue": "再背一小时，我就能把明天的讲解全记住。",
+        "caption": "夜深了，桌灯还亮着。",
+        "visual": "小满趴在书桌前揉眼睛，讲稿和小火箭模型堆满桌面，窗外夜色深。",
+        "imagePrompt": "Standalone frame 1 of 6. Scene: 小满趴在书桌前揉眼睛，讲稿和小火箭模型堆满桌面，窗外夜色深。 Speaker: 小满. Exact Chinese speech bubble text: 「再背一小时，我就能把明天的讲解全记住。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "咦，我刚刚已经读过这一行了吗？",
+        "caption": "困倦让练习变得吃力。",
+        "visual": "近景小满的指尖在同一行来回移动，纸上位置以抽象线条呈现不写字。",
+        "imagePrompt": "Standalone frame 2 of 6. Scene: 近景小满的指尖在同一行来回移动，纸上位置以抽象线条呈现不写字。 Speaker: 小满. Exact Chinese speech bubble text: 「咦，我刚刚已经读过这一行了吗？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "先挑三个重点，剩下的明早核对；也要留足睡觉时间。",
+        "caption": "伙伴帮忙调整准备计划。",
+        "visual": "日落回忆画面，米粒和小满把厚讲稿分成三小叠，旁边放着关掉的台灯与书包。",
+        "imagePrompt": "Standalone frame 3 of 6. Scene: 日落回忆画面，米粒和小满把厚讲稿分成三小叠，旁边放着关掉的台灯与书包。 Speaker: 米粒. Exact Chinese speech bubble text: 「先挑三个重点，剩下的明早核对；也要留足睡觉时间。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "睡觉时，大脑并不是把电源拔掉。",
+        "caption": "夜间整理站是机制隐喻。",
+        "visual": "想象的夜间图书整理站，纸卡被送入不同书架，墙上月亮；三人化作小小观察者，不画拟真脑区。",
+        "imagePrompt": "Standalone frame 4 of 6. Scene: 想象的夜间图书整理站，纸卡被送入不同书架，墙上月亮；三人化作小小观察者，不画拟真脑区。 Speaker: 阿澈. Exact Chinese speech bubble text: 「睡觉时，大脑并不是把电源拔掉。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "今天到这里，明早再合上稿子讲一次。",
+        "caption": "睡眠支持学习，但不能代替学习。",
+        "visual": "小满合书熄灯，起床后的画面作为小角落展现她拿模型口头练习。",
+        "imagePrompt": "Standalone frame 5 of 6. Scene: 小满合书熄灯，起床后的画面作为小角落展现她拿模型口头练习。 Speaker: 小满. Exact Chinese speech bubble text: 「今天到这里，明早再合上稿子讲一次。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "没想起的地方我再补，不用把失误怪给一晚睡眠。",
+        "caption": "不做熬夜对照实验。",
+        "visual": "科学节摊位，小满拿模型讲解，阿澈递给她提示卡，米粒微笑，不呈现满分奖牌。",
+        "imagePrompt": "Standalone frame 6 of 6. Scene: 科学节摊位，小满拿模型讲解，阿澈递给她提示卡，米粒微笑，不呈现满分奖牌。 Speaker: 小满. Exact Chinese speech bubble text: 「没想起的地方我再补，不用把失误怪给一晚睡眠。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      }
+    ],
+    "takeaway": "睡眠支持注意、学习和记忆等过程；它不能替代学习，也不保证醒来就自动掌握。",
+    "explanation": [
+      {
+        "heading": "睡眠不是一段空白",
+        "text": "人在睡眠中会经历不同阶段，脑与身体的活动方式随之变化。睡眠与新信息的学习、记忆巩固及白天的警觉性有关，因此不能只把它当成学习之后剩下的时间。这里的“整理”是比喻：不是所有记忆都被同样加强，也不是把一天经历原样搬进长期仓库。"
+      },
+      {
+        "heading": "困倦也会影响眼前这一刻",
+        "text": "如果注意难以维持，反复阅读可能只是让页面显得熟悉，而没有形成清楚的理解。睡眠不足可能影响学习、记忆和表现，但一次效率低也可能与任务难度、压力或环境有关。仅看一个人打哈欠，不能判断原因，更不能推断某种疾病。"
+      },
+      {
+        "heading": "把年龄与支持也放进计划",
+        "text": "儿童和青少年不能直接套用成人作息：CDC列出的日常睡眠建议中，6—12岁为9—12小时，13—17岁为8—10小时。这是一般健康建议，不是网页诊断或个人处方。可以和家人共同安排任务与休息；如果经常睡不好、白天明显受影响，应由可靠成人协助咨询医疗人员。不要为了验证本课故意熬夜。"
+      }
+    ],
+    "tryThis": {
+      "title": "把知识带回生活",
+      "text": "和家人一起让准备任务不挤占睡眠。 估计明天起床时间；优先完成关键准备并留足休息；若长期睡不好向可靠成人及医疗人员求助。把讲稿压成三张提示卡，明天再练，不把整夜重读当作唯一方案。 不计分、不排名，也不用提交真实隐私。"
+    },
+    "boundary": "这不是睡眠障碍评估或治疗方案，不提供睡眠限制训练。故事没有对照组，不能用人物第二天的状态证明睡眠对该任务的因果效果。",
+    "evidenceLabel": "研究支持 · 情境依赖",
+    "sources": [
+      {
+        "title": "NINDS：Understanding Sleep",
+        "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf",
+        "note": "官方科普，说明睡眠阶段、学习记忆及睡眠健康。"
+      },
+      {
+        "title": "NICHD：What happens during sleep?",
+        "url": "https://www.nichd.nih.gov/health/topics/sleep/conditioninfo/Pages/what-happens.aspx",
+        "note": "解释睡眠阶段与学习、记忆、表现的关系。"
+      },
+      {
+        "title": "CDC：About Sleep，按年龄的睡眠建议",
+        "url": "https://www.cdc.gov/sleep/about/index.html",
+        "note": "补充年龄相关建议；不能把成人睡眠时长直接套给儿童。"
+      }
+    ],
+    "quiz": {
+      "question": "同学睡足后一次测验仍没做好，能推出什么？",
+      "options": [
+        "睡眠对学习没有作用",
+        "准备方式、题目与身体状态等仍需一起了解",
+        "只需继续延长睡眠，不必调整学习"
+      ],
+      "correct": 1,
+      "feedback": "一次结果受多个因素影响，不能用它否定睡眠作用，也不能将睡眠当成唯一变量。"
+    },
+    "related": [
+      "memory",
+      "retrieval"
+    ],
+    "artPrompt": "Generate EACH panel as a SEPARATE original full-size image, one imagegen call per panel, never crop a multi-panel sheet. Expressive youth graphic-novel art, clean bold ink, vivid coral/teal/yellow/indigo. Xiaoman 小满: girl12 black bob/coral hairclip/coral hoodie/indigo trousers. Ache 阿澈: boy13 tousled short black hair/round glasses/teal jacket/cream T-shirt/indigo trousers. Mila 米粒: girl12 twin buns/yellow overalls/white T-shirt. Follow the panel visual and speaker exactly; place its exact Chinese dialogue inside a readable speech bubble pointing to the speaker, with large legible typography; do not invent text or alter wording. Caption stays as accessible supporting text. Preserve character continuity and meaningful action. Individual panel script follows in panels[].",
+    "branch": "biological",
+    "branches": [
+      "biological",
+      "health",
+      "cognitive"
+    ],
+    "scenes": [
+      "home",
+      "learning"
+    ],
+    "mechanism": {
+      "steps": [
+        "白天学习形成新信息",
+        "睡眠参与多种恢复与记忆过程",
+        "清醒后仍需练习与核对"
+      ],
+      "metaphorLimit": "整理站是睡眠参与记忆过程的隐喻，不是原样搬运知识，也不能代替学习。"
+    },
+    "misconception": {
+      "myth": "睡着听录音，就能代替白天学习。",
+      "correction": "睡眠支持学习，但不是自动下载知识。"
+    },
+    "practice": {
+      "prompt": "和家人一起让准备任务不挤占睡眠。",
+      "steps": [
+        "估计明天起床时间",
+        "优先完成关键准备并留足休息",
+        "若长期睡不好向可靠成人及医疗人员求助"
+      ],
+      "example": "把讲稿压成三张提示卡，明天再练，不把整夜重读当作唯一方案。"
+    },
+    "learningGoals": [
+      "能解释：白天学习形成新信息如何影响后面的过程。",
+      "能应用：和家人一起让准备任务不挤占睡眠。"
+    ],
+    "prediction": {
+      "question": "明早有展示，今晚还有准备没做完，先讨论什么？",
+      "options": [
+        {
+          "text": "怎样安排关键准备和足够休息",
+          "feedback": "一起调整任务与休息，比简单延长重读更可行。"
+        },
+        {
+          "text": "用睡觉时播放讲稿替代练习",
+          "feedback": "睡眠不能把未学内容自动下载进去。"
+        },
+        {
+          "text": "明天表现只取决于今晚睡多久",
+          "feedback": "准备程度、任务、身体状况等也会影响表现。"
+        }
+      ]
+    },
+    "evidence": {
+      "level": "研究支持 · 情境依赖",
+      "claim": "睡眠支持注意、学习和记忆等过程；它不能替代学习，也不保证醒来就自动掌握。",
+      "limits": "这不是睡眠障碍评估或治疗方案，不提供睡眠限制训练。故事没有对照组，不能用人物第二天的状态证明睡眠对该任务的因果效果。"
+    },
+    "audience": "面向小学高年级至初中的阅读设计；成人也可探索。年龄适配尚未经过真实学生研究。",
+    "experimentIds": [],
+    "readingLayers": {
+      "story": "先读漫画和一句话发现",
+      "mechanism": "再看机制与想一想",
+      "deeper": "最后展开研究解释、边界与来源"
+    },
+    "aliases": [
+      "睡眠不足",
+      "记忆巩固"
+    ]
+  },
+  {
+    "id": "stress",
+    "zone": "body",
+    "title": "书包里装着一座山",
+    "question": "压力大时，只靠“想开一点”够吗？",
+    "summary": "比赛、作业和排练挤在同一天。小满的书包变成了想象中的石头山。",
+    "duration": 8,
+    "tags": [
+      "压力",
+      "身体信号",
+      "资源"
+    ],
+    "accent": "terracotta",
+    "panels": [
+      {
+        "speaker": "小满",
+        "dialogue": "怎么每件事都说“今天必须完成”？",
+        "caption": "几个任务同时赶来。",
+        "visual": "小满背包被想象中的作业石、球赛石、排练石压成小山，人物弯腰但非受伤。",
+        "imagePrompt": "Standalone frame 1 of 6. Scene: 小满背包被想象中的作业石、球赛石、排练石压成小山，人物弯腰但非受伤。 Speaker: 小满. Exact Chinese speech bubble text: 「怎么每件事都说“今天必须完成”？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "你的心跳很快，是不是身体在提醒：负荷太多了？",
+        "caption": "身体反应需要结合处境理解。",
+        "visual": "阿澈扶住滑落的任务卡，小满手放胸前，米粒搬来凳子让她坐下。",
+        "imagePrompt": "Standalone frame 2 of 6. Scene: 阿澈扶住滑落的任务卡，小满手放胸前，米粒搬来凳子让她坐下。 Speaker: 阿澈. Exact Chinese speech bubble text: 「你的心跳很快，是不是身体在提醒：负荷太多了？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "我一直告诉自己别紧张，可事情一点没变少。",
+        "caption": "仅责怪情绪，解决不了任务冲突。",
+        "visual": "小满试图用小扇子扇走想象乌云，背包石块仍沉重，形成温和视觉幽默。",
+        "imagePrompt": "Standalone frame 3 of 6. Scene: 小满试图用小扇子扇走想象乌云，背包石块仍沉重，形成温和视觉幽默。 Speaker: 小满. Exact Chinese speech bubble text: 「我一直告诉自己别紧张，可事情一点没变少。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "我们把能推迟、能分工、需要求助的分开。",
+        "caption": "让实际资源加入应对。",
+        "visual": "俯视桌面，三人将三种图案任务卡分到三个篮子，石头山逐渐变成可搬小块。",
+        "imagePrompt": "Standalone frame 4 of 6. Scene: 俯视桌面，三人将三种图案任务卡分到三个篮子，石头山逐渐变成可搬小块。 Speaker: 米粒. Exact Chinese speech bubble text: 「我们把能推迟、能分工、需要求助的分开。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "我去找老师说明排练和作业撞在一起了。",
+        "caption": "表达具体困难，而不是独自硬扛。",
+        "visual": "小满和可信任老师对着日程卡讨论，阿澈陪在门外，老师认真倾听。",
+        "imagePrompt": "Standalone frame 5 of 6. Scene: 小满和可信任老师对着日程卡讨论，阿澈陪在门外，老师认真倾听。 Speaker: 小满. Exact Chinese speech bubble text: 「我去找老师说明排练和作业撞在一起了。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "还有点紧张，但我知道先做哪一件，也知道能找谁。",
+        "caption": "压力不必瞬间归零。",
+        "visual": "小满背着较轻书包走向教室，仍有一小朵云但有清晰脚步路径，伙伴同行。",
+        "imagePrompt": "Standalone frame 6 of 6. Scene: 小满背着较轻书包走向教室，仍有一小朵云但有清晰脚步路径，伙伴同行。 Speaker: 小满. Exact Chinese speech bubble text: 「还有点紧张，但我知道先做哪一件，也知道能找谁。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      }
+    ],
+    "takeaway": "压力反应与现实负荷、可用资源和情境有关；应对不只有调整想法，也包括改变条件和寻求支持。",
+    "explanation": [
+      {
+        "heading": "警报不是人格判决",
+        "text": "面对任务量、变化或威胁，身心可能出现紧绷、担忧、睡眠变化等反应。短期压力有时让人集中准备，持续或难以承受的压力则可能影响生活。出现反应并不自动意味着脆弱或生病，也不意味着每个人都应该用同样的方法应对。"
+      },
+      {
+        "heading": "身体给的是线索，不是答案",
+        "text": "肩膀紧、心跳快或胃部不适，都可能有不止一种原因。心理学能帮助我们关注情境与反应的联系，却不能只凭一条身体感受判断根源。先看最近发生了什么、持续多久、是否影响生活，比给自己贴标签更有用；新的或令人担忧的身体症状仍需适当医疗评估。"
+      },
+      {
+        "heading": "支持也可以改变负荷",
+        "text": "应对可以发生在不同层面：休息与日常照顾、重新安排任务、明确期限、请别人分担，以及寻求专业帮助。不是所有压力源都能立刻改变，经济和制度条件也很重要。如果困扰持续、越来越难以应付或明显干扰日常生活，可以向合适的专业人员咨询。"
+      }
+    ],
+    "tryThis": {
+      "title": "把知识带回生活",
+      "text": "把一个真实压力源拆成可以处理的小部分。 列事实不评价自己；选可调整的一项；向合适的人提出具体请求。两项任务撞期，我先请老师确认优先级，而不是要求自己同时完成。 不计分、不排名，也不用提交真实隐私。"
+    },
+    "boundary": "活动用于认识压力，不诊断焦虑或其他状况，也不把身体症状一概解释为心理原因。若出现紧急或严重身体不适，应及时寻求医疗帮助。",
+    "evidenceLabel": "研究支持 · 情境依赖",
+    "sources": [
+      {
+        "title": "NIMH：I’m So Stressed Out!",
+        "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+        "note": "官方材料，区分压力与持续困扰，并说明寻求帮助的考虑。"
+      },
+      {
+        "title": "NIMH：Caring for Your Mental Health",
+        "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+        "note": "官方自我照顾与专业支持信息，不作为诊断工具。"
+      },
+      {
+        "title": "NIMH：Child and Adolescent Mental Health",
+        "url": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health",
+        "note": "支持未成年人向家长、学校支持人员或医疗人员求助；困扰与生活影响需要认真对待。"
+      }
+    ],
+    "quiz": {
+      "question": "两位同学作业一样多，一位压力更大。还应了解什么？",
+      "options": [
+        "只比较谁的意志更强",
+        "只看任务总页数",
+        "任务难度、其他负担、可用时间和支持"
+      ],
+      "correct": 2,
+      "feedback": "表面任务量相同，不代表资源、经验和其他负担相同。具体了解比人格评价更能找到帮助。"
+    },
+    "related": [
+      "help-seeking",
+      "boundaries"
+    ],
+    "artPrompt": "Generate EACH panel as a SEPARATE original full-size image, one imagegen call per panel, never crop a multi-panel sheet. Expressive youth graphic-novel art, clean bold ink, vivid coral/teal/yellow/indigo. Xiaoman 小满: girl12 black bob/coral hairclip/coral hoodie/indigo trousers. Ache 阿澈: boy13 tousled short black hair/round glasses/teal jacket/cream T-shirt/indigo trousers. Mila 米粒: girl12 twin buns/yellow overalls/white T-shirt. Follow the panel visual and speaker exactly; place its exact Chinese dialogue inside a readable speech bubble pointing to the speaker, with large legible typography; do not invent text or alter wording. Caption stays as accessible supporting text. Preserve character continuity and meaningful action. Individual panel script follows in panels[].",
+    "branch": "health",
+    "branches": [
+      "health",
+      "affective"
+    ],
+    "scenes": [
+      "learning",
+      "school",
+      "home"
+    ],
+    "mechanism": {
+      "steps": [
+        "任务要求与资源发生冲突",
+        "身体和心理出现反应",
+        "改变负荷与增加支持"
+      ],
+      "metaphorLimit": "背包与石块比喻任务负荷，不意味着所有身体反应都来自心理压力。"
+    },
+    "misconception": {
+      "myth": "压力大说明自己不够坚强。",
+      "correction": "现实要求、资源与支持都影响压力，不只是个人意志。"
+    },
+    "practice": {
+      "prompt": "把一个真实压力源拆成可以处理的小部分。",
+      "steps": [
+        "列事实不评价自己",
+        "选可调整的一项",
+        "向合适的人提出具体请求"
+      ],
+      "example": "两项任务撞期，我先请老师确认优先级，而不是要求自己同时完成。"
+    },
+    "learningGoals": [
+      "能解释：任务要求与资源发生冲突如何影响后面的过程。",
+      "能应用：把一个真实压力源拆成可以处理的小部分。"
+    ],
+    "prediction": {
+      "question": "任务撞在一起，小满很紧张，哪条信息能帮助选择办法？",
+      "options": [
+        {
+          "text": "她是不是平时容易紧张",
+          "feedback": "个人倾向可能有关，但还需要看实际负荷。"
+        },
+        {
+          "text": "哪些任务能调整、谁能提供支持",
+          "feedback": "这能找到可改变的要求与资源。"
+        },
+        {
+          "text": "同学有没有比她更忙",
+          "feedback": "别人的负荷不能决定她此刻需要什么支持。"
+        }
+      ]
+    },
+    "evidence": {
+      "level": "研究支持 · 情境依赖",
+      "claim": "压力反应与现实负荷、可用资源和情境有关；应对不只有调整想法，也包括改变条件和寻求支持。",
+      "limits": "活动用于认识压力，不诊断焦虑或其他状况，也不把身体症状一概解释为心理原因。若出现紧急或严重身体不适，应及时寻求医疗帮助。"
+    },
+    "audience": "面向小学高年级至初中的阅读设计；成人也可探索。年龄适配尚未经过真实学生研究。",
+    "experimentIds": [],
+    "readingLayers": {
+      "story": "先读漫画和一句话发现",
+      "mechanism": "再看机制与想一想",
+      "deeper": "最后展开研究解释、边界与来源"
+    }
+  },
+  {
+    "id": "brain",
+    "zone": "body",
+    "title": "脑袋里有个“数学按钮”？",
+    "question": "一个脑区亮了，就能读懂想法吗？",
+    "summary": "科学节海报把大脑画成一排开关。米粒决定用一场乐队排练拆开这个误会。",
+    "duration": 8,
+    "tags": [
+      "认知神经科学",
+      "网络",
+      "科学读图"
+    ],
+    "accent": "blue",
+    "panels": [
+      {
+        "speaker": "米粒",
+        "dialogue": "只要按这个按钮，就能变数学高手？也太方便了吧！",
+        "caption": "一张夸张海报引起好奇。",
+        "visual": "米粒看着玩具脑形面板，上面画计算器图标按钮，小满伸指想按，阿澈疑惑。",
+        "imagePrompt": "Standalone frame 1 of 6. Scene: 米粒看着玩具脑形面板，上面画计算器图标按钮，小满伸指想按，阿澈疑惑。 Speaker: 米粒. Exact Chinese speech bubble text: 「只要按这个按钮，就能变数学高手？也太方便了吧！」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "可我们做题时，还得看、记、理解题目呀。",
+        "caption": "同一任务包含多种过程。",
+        "visual": "阿澈解谜桌游，眼睛看图、手指摆块、旁边思考气泡显示记忆卡，非解剖脑图。",
+        "imagePrompt": "Standalone frame 2 of 6. Scene: 阿澈解谜桌游，眼睛看图、手指摆块、旁边思考气泡显示记忆卡，非解剖脑图。 Speaker: 阿澈. Exact Chinese speech bubble text: 「可我们做题时，还得看、记、理解题目呀。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "像乐队：不是只有鼓手在工作。",
+        "caption": "协作网络比单一开关更贴近一些过程。",
+        "visual": "三人分别敲鼓、弹键盘、摇沙锤，一位缺席乐手留下空椅子，表现合作。",
+        "imagePrompt": "Standalone frame 3 of 6. Scene: 三人分别敲鼓、弹键盘、摇沙锤，一位缺席乐手留下空椅子，表现合作。 Speaker: 小满. Exact Chinese speech bubble text: 「像乐队：不是只有鼓手在工作。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "听到鼓声，也不能断定他们在演哪一首歌。",
+        "caption": "同一部件可参与不同任务。",
+        "visual": "两幅想象小舞台有相同鼓但不同乐器组合，米粒拿放大镜比较。",
+        "imagePrompt": "Standalone frame 4 of 6. Scene: 两幅想象小舞台有相同鼓但不同乐器组合，米粒拿放大镜比较。 Speaker: 米粒. Exact Chinese speech bubble text: 「听到鼓声，也不能断定他们在演哪一首歌。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "看脑成像，要问：做了什么任务，跟什么比较？",
+        "caption": "颜色不等于直接读心。",
+        "visual": "科学展台屏幕显示抽象彩色脑图，阿澈同时查看两张任务图卡，小满取下读心魔术帽。",
+        "imagePrompt": "Standalone frame 5 of 6. Scene: 科学展台屏幕显示抽象彩色脑图，阿澈同时查看两张任务图卡，小满取下读心魔术帽。 Speaker: 阿澈. Exact Chinese speech bubble text: 「看脑成像，要问：做了什么任务，跟什么比较？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "我们的新海报，要把“协作”和“证据”一起画上。",
+        "caption": "隐喻帮助入门，不替代脑科学。",
+        "visual": "三人合作重画海报：多节点连线连接阅读、运动、记忆图标，不写文字。",
+        "imagePrompt": "Standalone frame 6 of 6. Scene: 三人合作重画海报：多节点连线连接阅读、运动、记忆图标，不写文字。 Speaker: 米粒. Exact Chinese speech bubble text: 「我们的新海报，要把“协作”和“证据”一起画上。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      }
+    ],
+    "takeaway": "脑区与心理过程通常不是一对一的开关关系；解释脑成像需要任务、比较条件和更多证据。",
+    "explanation": [
+      {
+        "heading": "部分分工，不是单独承包",
+        "text": "大脑存在有意义的结构和功能差异，但复杂行为通常需要多个系统协作。同一区域可能参与不同任务，同一心理过程也可能涉及分布式活动。乐队是帮助理解的比喻，不是对神经机制的精确模型；我们不能据此断言所有区域都做同一件事。"
+      },
+      {
+        "heading": "从亮点倒推想法要谨慎",
+        "text": "研究中，某任务伴随某区域活动变化，不自动意味着日后看见该区域变化就能唯一确定心理状态。这类反向推断是否有信息，取决于活动模式对目标过程有多特殊、比较条件和基础概率等。不能把“可能相关”直接升级成“扫描读出了真心”。"
+      },
+      {
+        "heading": "先问图从哪里来",
+        "text": "遇到漂亮的脑图，先找它是示意图、单个案例还是统计结果，再看研究比较了什么条件、测量什么以及样本来自哪里。脑成像是重要的研究工具，其价值不需要靠读心或性格决定论来证明。媒体标题和研究者实际结论之间，常值得多停留一步。"
+      }
+    ],
+    "tryThis": {
+      "title": "把知识带回生活",
+      "text": "看到一张“脑区亮了”的科普图时，问哪三个问题？ 任务是什么；与什么条件比较；还有哪些解释或证据。看到运动相关区域活跃，先问是否真实运动、想象运动或观察动作。 不计分、不排名，也不用提交真实隐私。"
+    },
+    "boundary": "乐队与网络画面是教学隐喻，不是大脑解剖或医学影像。这里不解释任何人的临床检查，也不宣称所有反向推断都毫无价值。",
+    "evidenceLabel": "研究支持 · 情境依赖",
+    "sources": [
+      {
+        "title": "Poldrack：Can cognitive processes be inferred from neuroimaging data?（2006）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16406760/",
+        "note": "讨论反向推断所需的证据及限制。"
+      },
+      {
+        "title": "Poldrack：From reverse inference to large-scale decoding（2011）",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3240863/",
+        "note": "解释概率性推断与多变量解码，而非把脑图当读心术。"
+      }
+    ],
+    "quiz": {
+      "question": "某区域在听音乐与读句子时都更活跃，这更支持哪种谨慎解释？",
+      "options": [
+        "两种任务一定在做完全相同的心理活动",
+        "这个区域可能参与多种过程，需进一步比较",
+        "脑成像因此不可能提供任何有用信息"
+      ],
+      "correct": 1,
+      "feedback": "共同活动可提出共享过程假设，却不足以证明两种活动相同。需要任务设计、模式与其他证据。"
+    },
+    "related": [
+      "correlation",
+      "sampling"
+    ],
+    "artPrompt": "Generate EACH panel as a SEPARATE original full-size image, one imagegen call per panel, never crop a multi-panel sheet. Expressive youth graphic-novel art, clean bold ink, vivid coral/teal/yellow/indigo. Xiaoman 小满: girl12 black bob/coral hairclip/coral hoodie/indigo trousers. Ache 阿澈: boy13 tousled short black hair/round glasses/teal jacket/cream T-shirt/indigo trousers. Mila 米粒: girl12 twin buns/yellow overalls/white T-shirt. Follow the panel visual and speaker exactly; place its exact Chinese dialogue inside a readable speech bubble pointing to the speaker, with large legible typography; do not invent text or alter wording. Caption stays as accessible supporting text. Preserve character continuity and meaningful action. Individual panel script follows in panels[].",
+    "branch": "neuroscience",
+    "branches": [
+      "neuroscience"
+    ],
+    "scenes": [
+      "science",
+      "learning"
+    ],
+    "mechanism": {
+      "steps": [
+        "一个任务包含多个过程",
+        "多个脑区协同参与",
+        "解释成像需比较条件与更多证据"
+      ],
+      "metaphorLimit": "乐队比喻协作网络，不是脑区精确解剖，也不表示所有区域功能相同。"
+    },
+    "misconception": {
+      "myth": "看到某脑区活跃，就知道人在想什么。",
+      "correction": "同一区域可参与多种过程，不能只凭一处活跃读心。"
+    },
+    "practice": {
+      "prompt": "看到一张“脑区亮了”的科普图时，问哪三个问题？",
+      "steps": [
+        "任务是什么",
+        "与什么条件比较",
+        "还有哪些解释或证据"
+      ],
+      "example": "看到运动相关区域活跃，先问是否真实运动、想象运动或观察动作。"
+    },
+    "learningGoals": [
+      "能解释：一个任务包含多个过程如何影响后面的过程。",
+      "能应用：看到一张“脑区亮了”的科普图时，问哪三个问题？"
+    ],
+    "prediction": {
+      "question": "一张脑图某处更亮，能先得出什么？",
+      "options": [
+        {
+          "text": "参与者肯定在害怕",
+          "feedback": "同一区域可能参与多种过程，不能这样直接读心。"
+        },
+        {
+          "text": "需要知道任务和比较条件",
+          "feedback": "“更亮”是相对某种测量与比较而言，要结合研究设计。"
+        },
+        {
+          "text": "这张图完全没有信息",
+          "feedback": "它可能有价值，但解读范围需要证据。"
+        }
+      ]
+    },
+    "evidence": {
+      "level": "研究支持 · 情境依赖",
+      "claim": "脑区与心理过程通常不是一对一的开关关系；解释脑成像需要任务、比较条件和更多证据。",
+      "limits": "乐队与网络画面是教学隐喻，不是大脑解剖或医学影像。这里不解释任何人的临床检查，也不宣称所有反向推断都毫无价值。"
+    },
+    "audience": "面向小学高年级至初中的阅读设计；成人也可探索。年龄适配尚未经过真实学生研究。",
+    "experimentIds": [],
+    "readingLayers": {
+      "story": "先读漫画和一句话发现",
+      "mechanism": "再看机制与想一想",
+      "deeper": "最后展开研究解释、边界与来源"
+    }
+  },
+  {
+    "id": "emotions",
+    "zone": "emotion",
+    "title": "心里的天气预报不止一种",
+    "question": "心跳快，为什么有时害怕、有时期待？",
+    "summary": "上台前、跑步后、拆礼物时，都可能心跳加快。阿澈发现一个信号不是情绪密码。",
+    "duration": 8,
+    "tags": [
+      "情绪",
+      "身体感受",
+      "情境"
+    ],
+    "accent": "terracotta",
+    "panels": [
+      {
+        "speaker": "阿澈",
+        "dialogue": "我心跳这么快，今天的演讲一定会失败！",
+        "caption": "演讲前，他站在幕布后。",
+        "visual": "阿澈抓着演讲卡躲在舞台幕布后，胸前夸张心跳线，观众席远景。",
+        "imagePrompt": "Standalone frame 1 of 6. Scene: 阿澈抓着演讲卡躲在舞台幕布后，胸前夸张心跳线，观众席远景。 Speaker: 阿澈. Exact Chinese speech bubble text: 「我心跳这么快，今天的演讲一定会失败！」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "刚才跑完步，我也心跳快；拆礼物时也会。",
+        "caption": "相似身体感受，出现在不同场景。",
+        "visual": "米粒想象三格小场景：跑步、拆礼物、舞台，不画确定情绪诊断仪。",
+        "imagePrompt": "Standalone frame 2 of 6. Scene: 米粒想象三格小场景：跑步、拆礼物、舞台，不画确定情绪诊断仪。 Speaker: 米粒. Exact Chinese speech bubble text: 「刚才跑完步，我也心跳快；拆礼物时也会。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "你现在除了心跳，还在担心什么、期待什么？",
+        "caption": "把身体、处境和想法放在一起。",
+        "visual": "小满蹲在阿澈旁边，桌上摆心形、舞台、思考泡泡三个图卡。",
+        "imagePrompt": "Standalone frame 3 of 6. Scene: 小满蹲在阿澈旁边，桌上摆心形、舞台、思考泡泡三个图卡。 Speaker: 小满. Exact Chinese speech bubble text: 「你现在除了心跳，还在担心什么、期待什么？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "我怕忘词，也想让大家看到我们的作品。",
+        "caption": "两种感受可以同时存在。",
+        "visual": "阿澈两侧分别是小雨云和太阳，两种天气共存，手中模型连接二者。",
+        "imagePrompt": "Standalone frame 4 of 6. Scene: 阿澈两侧分别是小雨云和太阳，两种天气共存，手中模型连接二者。 Speaker: 阿澈. Exact Chinese speech bubble text: 「我怕忘词，也想让大家看到我们的作品。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "那就带上提示卡，先把第一句话练一遍。",
+        "caption": "情绪理解可以带来具体行动。",
+        "visual": "米粒帮他夹好提示卡，阿澈面对两位朋友短练，姿势逐渐放松。",
+        "imagePrompt": "Standalone frame 5 of 6. Scene: 米粒帮他夹好提示卡，阿澈面对两位朋友短练，姿势逐渐放松。 Speaker: 米粒. Exact Chinese speech bubble text: 「那就带上提示卡，先把第一句话练一遍。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "我还是有点紧张，但不用先把紧张消灭才能开始。",
+        "caption": "不从一个信号给人贴标签。",
+        "visual": "阿澈走上舞台展示模型，仍有细小心跳线，小满米粒在侧幕支持。",
+        "imagePrompt": "Standalone frame 6 of 6. Scene: 阿澈走上舞台展示模型，仍有细小心跳线，小满米粒在侧幕支持。 Speaker: 阿澈. Exact Chinese speech bubble text: 「我还是有点紧张，但不用先把紧张消灭才能开始。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      }
+    ],
+    "takeaway": "身体感受是情绪理解的一部分；情境、目标和解释同样重要，不能仅凭一个信号读出唯一情绪。",
+    "explanation": [
+      {
+        "heading": "情绪有不止一层信息",
+        "text": "情绪常涉及主观感受、身体变化、表达以及行动倾向。这些方面有联系，却不是每次都一一对应。同样说“紧张”，可能包含担忧、期待和准备行动；同样心跳加快，也可能出现在运动、兴奋或其他情况下。描述具体情境比仅凭一个词替自己下结论更细致。"
+      },
+      {
+        "heading": "理论仍在讨论如何组合",
+        "text": "心理学对身体反应、评价、经验和情绪类别之间的关系有不同理论。某些研究强调评价，另一些强调情境和概念的作用；本故事只展示“一种信号不能唯一决定解释”，并不验证任何完整理论。科学中的讨论不妨碍我们在生活里认真询问自己的体验。"
+      },
+      {
+        "heading": "听见感受，而不急着读心",
+        "text": "看见别人皱眉，可以问发生了什么，而不是断定对方生气。对自己也一样：除了给感受命名，还可问正在面对什么、在意什么、希望做什么。情绪词是沟通工具，不是必须选对的标准答案；一个人也可以同时有看似矛盾的感受。"
+      }
+    ],
+    "tryThis": {
+      "title": "把知识带回生活",
+      "text": "给一段演讲前的紧张做不打分的观察。 说出身体感受；说出担心和期待；选一个能帮助准备的动作。我手心出汗，既怕忘词也想分享，所以带一张提示卡。 不计分、不排名，也不用提交真实隐私。"
+    },
+    "boundary": "故事不是根据心率判断情绪的实验，也不解释任何异常身体症状。情绪理论存在争论；一个场景不能证明某理论是唯一正确的机制。",
+    "evidenceLabel": "研究支持 · 情境依赖",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e：Emotion",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+        "note": "综述情绪构成及不同理论，作为概念入口。"
+      },
+      {
+        "title": "Barrett 等：Emotional Expressions Reconsidered（2019）",
+        "url": "https://doi.org/10.1177/1529100619832930",
+        "note": "评估从表情推断情绪的证据，强调情境与推断限制。"
+      }
+    ],
+    "quiz": {
+      "question": "朋友皱眉但说“我在想怎么拼”，你原以为他生气了。下一步？",
+      "options": [
+        "结合他的说明和情境更新理解",
+        "认为皱眉比他说的话更可靠",
+        "要求他选一个标准情绪类别"
+      ],
+      "correct": 0,
+      "feedback": "表情是线索之一，不是唯一密码。本人说明和具体任务都应纳入理解，也保留后续沟通空间。"
+    },
+    "related": [
+      "reappraisal",
+      "stress",
+      "gratitude"
+    ],
+    "artPrompt": "Generate EACH panel as a SEPARATE original full-size image, one imagegen call per panel, never crop a multi-panel sheet. Expressive youth graphic-novel art, clean bold ink, vivid coral/teal/yellow/indigo. Xiaoman 小满: girl12 black bob/coral hairclip/coral hoodie/indigo trousers. Ache 阿澈: boy13 tousled short black hair/round glasses/teal jacket/cream T-shirt/indigo trousers. Mila 米粒: girl12 twin buns/yellow overalls/white T-shirt. Follow the panel visual and speaker exactly; place its exact Chinese dialogue inside a readable speech bubble pointing to the speaker, with large legible typography; do not invent text or alter wording. Caption stays as accessible supporting text. Preserve character continuity and meaningful action. Individual panel script follows in panels[].",
+    "branch": "affective",
+    "branches": [
+      "affective",
+      "biological"
+    ],
+    "scenes": [
+      "school",
+      "friendship"
+    ],
+    "mechanism": {
+      "steps": [
+        "注意身体信号",
+        "结合情境、目标和解释",
+        "选择合适行动"
+      ],
+      "metaphorLimit": "天气比喻复杂感受，不是用太阳或雨云为人判定情绪。"
+    },
+    "misconception": {
+      "myth": "一种表情或心跳只对应一种情绪。",
+      "correction": "相似信号可能出现在不同情境，也可能有混合感受。"
+    },
+    "practice": {
+      "prompt": "给一段演讲前的紧张做不打分的观察。",
+      "steps": [
+        "说出身体感受",
+        "说出担心和期待",
+        "选一个能帮助准备的动作"
+      ],
+      "example": "我手心出汗，既怕忘词也想分享，所以带一张提示卡。"
+    },
+    "learningGoals": [
+      "能解释：注意身体信号如何影响后面的过程。",
+      "能应用：给一段演讲前的紧张做不打分的观察。"
+    ],
+    "prediction": {
+      "question": "阿澈上台前心跳快，最合理的下一步是？",
+      "options": [
+        {
+          "text": "把它直接命名为害怕",
+          "feedback": "单一身体信号不够，可能还有期待、运动等因素。"
+        },
+        {
+          "text": "问他身体感受、处境和想法",
+          "feedback": "综合这些信息更有助于理解感受与需要。"
+        },
+        {
+          "text": "让他等到毫无情绪再上台",
+          "feedback": "有情绪不一定意味着不能行动，可结合准备与支持。"
+        }
+      ]
+    },
+    "evidence": {
+      "level": "研究支持 · 情境依赖",
+      "claim": "身体感受是情绪理解的一部分；情境、目标和解释同样重要，不能仅凭一个信号读出唯一情绪。",
+      "limits": "故事不是根据心率判断情绪的实验，也不解释任何异常身体症状。情绪理论存在争论；一个场景不能证明某理论是唯一正确的机制。"
+    },
+    "audience": "面向小学高年级至初中的阅读设计；成人也可探索。年龄适配尚未经过真实学生研究。",
+    "experimentIds": [],
+    "readingLayers": {
+      "story": "先读漫画和一句话发现",
+      "mechanism": "再看机制与想一想",
+      "deeper": "最后展开研究解释、边界与来源"
+    }
+  },
+  {
+    "id": "reappraisal",
+    "zone": "emotion",
+    "title": "下雨，计划就全毁了吗？",
+    "question": "换一种解释，是不是骗自己开心？",
+    "summary": "期待已久的户外展览遇到下雨。三人既保留失望，也重新寻找能做的事情。",
+    "duration": 8,
+    "tags": [
+      "认知重评",
+      "情绪调节",
+      "灵活性"
+    ],
+    "accent": "terracotta",
+    "panels": [
+      {
+        "speaker": "小满",
+        "dialogue": "准备这么久，全毁了！",
+        "caption": "第一滴雨落在展板上。",
+        "visual": "小满抱着手绘展板站在雨棚边，户外桌布被雨打湿，表情失落。",
+        "imagePrompt": "Standalone frame 1 of 6. Scene: 小满抱着手绘展板站在雨棚边，户外桌布被雨打湿，表情失落。 Speaker: 小满. Exact Chinese speech bubble text: 「准备这么久，全毁了！」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "我也失望。先把画搬进来，别让雨淋坏。",
+        "caption": "承认感受，同时处理现实。",
+        "visual": "米粒和阿澈抬展板进室内，小满帮忙擦水，不出现立即快乐表情。",
+        "imagePrompt": "Standalone frame 2 of 6. Scene: 米粒和阿澈抬展板进室内，小满帮忙擦水，不出现立即快乐表情。 Speaker: 米粒. Exact Chinese speech bubble text: 「我也失望。先把画搬进来，别让雨淋坏。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "“户外办不了”和“所有努力都没用”，是同一件事吗？",
+        "caption": "分开事实和额外推断。",
+        "visual": "阿澈把雨伞图卡与碎裂奖杯想象图卡分开，雨外窗清晰可见。",
+        "imagePrompt": "Standalone frame 3 of 6. Scene: 阿澈把雨伞图卡与碎裂奖杯想象图卡分开，雨外窗清晰可见。 Speaker: 阿澈. Exact Chinese speech bubble text: 「“户外办不了”和“所有努力都没用”，是同一件事吗？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "不是。画还在，来的人也许可以进教室看。",
+        "caption": "找到符合事实的另一个解释。",
+        "visual": "小满想象两扇窗：一扇雨景，一扇室内小展览，伸手推开后一扇。",
+        "imagePrompt": "Standalone frame 4 of 6. Scene: 小满想象两扇窗：一扇雨景，一扇室内小展览，伸手推开后一扇。 Speaker: 小满. Exact Chinese speech bubble text: 「不是。画还在，来的人也许可以进教室看。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "问问老师能不能借教室，再通知大家换地方。",
+        "caption": "重评要与实际行动配合。",
+        "visual": "三人一起把桌椅排成小展厅，老师打开教室门，雨伞收在门口。",
+        "imagePrompt": "Standalone frame 5 of 6. Scene: 三人一起把桌椅排成小展厅，老师打开教室门，雨伞收在门口。 Speaker: 米粒. Exact Chinese speech bubble text: 「问问老师能不能借教室，再通知大家换地方。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "我仍然想要晴天，但今天并不只有“全毁了”这一种结局。",
+        "caption": "不要求永远积极，也不否认困难。",
+        "visual": "小满在室内讲画，窗外仍下雨，朋友看展，不用大团圆奖杯。",
+        "imagePrompt": "Standalone frame 6 of 6. Scene: 小满在室内讲画，窗外仍下雨，朋友看展，不用大团圆奖杯。 Speaker: 小满. Exact Chinese speech bubble text: 「我仍然想要晴天，但今天并不只有“全毁了”这一种结局。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      }
+    ],
+    "takeaway": "认知重评是改变对情境意义的理解，不是否认事实、消除所有难过或要求永远积极。",
+    "explanation": [
+      {
+        "heading": "事实与解释可以分开",
+        "text": "下雨是事实，“全部白忙了”则是对这件事意义的解释。重评不是把雨说成晴天，而是检查是否遗漏了别的真实信息：哪些目标受阻、哪些仍能实现。一个更完整的解释，可以和失望同时存在，不需要先证明原来的情绪不应该出现。"
+      },
+      {
+        "heading": "一种策略，不是万能答案",
+        "text": "研究常比较重评、抑制等情绪调节策略，但平均效果不代表每个人、每种情境都一样。策略是否合适，与可控制程度、当前目标和个人资源有关。如果问题能够直接处理，采取行动可能很重要；面对伤害或不公平，重评不该被用来要求受影响者忍耐。"
+      },
+      {
+        "heading": "先接住，再寻找可能",
+        "text": "在关系中，太快提出“换个角度”容易让对方觉得没被听见。可以先确认事实和感受，再询问是否愿意一起想办法。故事中的室内展览只是一次小范围选择；真实生活有些损失暂时没有替代方案，允许自己难过本身也是尊重体验。"
+      }
+    ],
+    "tryThis": {
+      "title": "把知识带回生活",
+      "text": "把“这次失误说明我不行”改成可核对的说法。 记录实际发生的事；列一个有证据的其他解释；决定补救或求助。我漏讲了一段，不等于整场都失败；我可以补充说明并练转场。 不计分、不排名，也不用提交真实隐私。"
+    },
+    "boundary": "练习不是心理治疗，也不适合用来重新解释严重伤害。没有变轻松不代表做错了；情境、支持和实际行动都重要。",
+    "evidenceLabel": "研究支持 · 情境依赖",
+    "sources": [
+      {
+        "title": "Webb、Miles 与 Sheeran：情绪调节策略元分析（2012）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22582737/",
+        "note": "比较不同情绪调节过程的研究效果与条件。"
+      },
+      {
+        "title": "Troy 等：Person-by-Situation Approach to Emotion Regulation（2013）",
+        "url": "https://doi.org/10.1177/0956797613496434",
+        "note": "讨论重评与情境可控制性的关联，并非策略有效性的普遍因果结论；另见2016年勘误。"
+      },
+      {
+        "title": "Troy 等：2016年勘误",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26786821/",
+        "note": "修正部分原始得分和分析数值；作者报告实质结论未变。"
+      }
+    ],
+    "quiz": {
+      "question": "同学反复拿走你的东西，哪种回应更合适？",
+      "options": [
+        "把它解释成“他很喜欢我”，不再处理",
+        "先明确事实与限度，必要时找老师支持",
+        "要求自己不要生气，再继续借给他"
+      ],
+      "correct": 1,
+      "feedback": "重评不能用来合理化持续不尊重。现实问题需要边界与支持，合理的不满不必被消除。"
+    },
+    "related": [
+      "emotions",
+      "boundaries"
+    ],
+    "artPrompt": "Generate EACH panel as a SEPARATE original full-size image, one imagegen call per panel, never crop a multi-panel sheet. Expressive youth graphic-novel art, clean bold ink, vivid coral/teal/yellow/indigo. Xiaoman 小满: girl12 black bob/coral hairclip/coral hoodie/indigo trousers. Ache 阿澈: boy13 tousled short black hair/round glasses/teal jacket/cream T-shirt/indigo trousers. Mila 米粒: girl12 twin buns/yellow overalls/white T-shirt. Follow the panel visual and speaker exactly; place its exact Chinese dialogue inside a readable speech bubble pointing to the speaker, with large legible typography; do not invent text or alter wording. Caption stays as accessible supporting text. Preserve character continuity and meaningful action. Individual panel script follows in panels[].",
+    "branch": "affective",
+    "branches": [
+      "affective"
+    ],
+    "scenes": [
+      "school",
+      "friendship"
+    ],
+    "mechanism": {
+      "steps": [
+        "区分事实与推断",
+        "寻找另一种符合证据的解释",
+        "检查是否需要实际行动"
+      ],
+      "metaphorLimit": "换窗比喻重新理解意义，不是改变事实或要求忽视伤害。"
+    },
+    "misconception": {
+      "myth": "换个想法就是强迫自己开心。",
+      "correction": "重评不能抹去事实，也不要求消除合理的难过。"
+    },
+    "practice": {
+      "prompt": "把“这次失误说明我不行”改成可核对的说法。",
+      "steps": [
+        "记录实际发生的事",
+        "列一个有证据的其他解释",
+        "决定补救或求助"
+      ],
+      "example": "我漏讲了一段，不等于整场都失败；我可以补充说明并练转场。"
+    },
+    "learningGoals": [
+      "能解释：区分事实与推断如何影响后面的过程。",
+      "能应用：把“这次失误说明我不行”改成可核对的说法。"
+    ],
+    "prediction": {
+      "question": "雨中展览受阻，哪种回应符合重评？",
+      "options": [
+        {
+          "text": "一点都不可惜，别难过",
+          "feedback": "这可能否认合理感受，并没有重新检查意义。"
+        },
+        {
+          "text": "户外办不了，但作品还可换场地展示",
+          "feedback": "承认事实，同时找到有根据的其他解释和行动。"
+        },
+        {
+          "text": "只要换想法，雨就不是问题",
+          "feedback": "现实条件仍需处理，想法不能改变所有外部困难。"
+        }
+      ]
+    },
+    "evidence": {
+      "level": "研究支持 · 情境依赖",
+      "claim": "认知重评是改变对情境意义的理解，不是否认事实、消除所有难过或要求永远积极。",
+      "limits": "练习不是心理治疗，也不适合用来重新解释严重伤害。没有变轻松不代表做错了；情境、支持和实际行动都重要。"
+    },
+    "audience": "面向小学高年级至初中的阅读设计；成人也可探索。年龄适配尚未经过真实学生研究。",
+    "experimentIds": [],
+    "readingLayers": {
+      "story": "先读漫画和一句话发现",
+      "mechanism": "再看机制与想一想",
+      "deeper": "最后展开研究解释、边界与来源"
+    }
+  },
+  {
+    "id": "habits",
+    "zone": "emotion",
+    "title": "书桌上的自动导航",
+    "question": "为什么手总先伸向那个东西？",
+    "summary": "一坐到书桌前，小满就顺手打开平板。她决定改变起点，而不只责怪自己。",
+    "duration": 8,
+    "tags": [
+      "习惯",
+      "线索",
+      "行为变化"
+    ],
+    "accent": "ochre",
+    "panels": [
+      {
+        "speaker": "小满",
+        "dialogue": "我只是想查个词，怎么又点进小游戏了？",
+        "caption": "熟悉的位置，引出熟悉动作。",
+        "visual": "小满坐在书桌前，平板紧靠手边，未开的练习本在远处，手已伸向游戏图标。",
+        "imagePrompt": "Standalone frame 1 of 6. Scene: 小满坐在书桌前，平板紧靠手边，未开的练习本在远处，手已伸向游戏图标。 Speaker: 小满. Exact Chinese speech bubble text: 「我只是想查个词，怎么又点进小游戏了？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "先看看：每次开始前，桌上都是什么样？",
+        "caption": "观察线索，不先评价人。",
+        "visual": "阿澈用放大镜观察桌面摆放，小满回忆几次同样的伸手路径。",
+        "imagePrompt": "Standalone frame 2 of 6. Scene: 阿澈用放大镜观察桌面摆放，小满回忆几次同样的伸手路径。 Speaker: 阿澈. Exact Chinese speech bubble text: 「先看看：每次开始前，桌上都是什么样？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "这条“顺手小路”走多了，就容易又走过去。",
+        "caption": "小路只是自动性隐喻。",
+        "visual": "想象画面：书桌化为花园，宽路直通平板，窄路绕到书本，三人站在岔口。",
+        "imagePrompt": "Standalone frame 3 of 6. Scene: 想象画面：书桌化为花园，宽路直通平板，窄路绕到书本，三人站在岔口。 Speaker: 米粒. Exact Chinese speech bubble text: 「这条“顺手小路”走多了，就容易又走过去。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "我把平板放到客厅，桌上只留第一题和笔。",
+        "caption": "提高旧动作门槛，降低新动作门槛。",
+        "visual": "小满将平板放在客厅架子，回书桌拉开椅子，纸笔置于正前方。",
+        "imagePrompt": "Standalone frame 4 of 6. Scene: 小满将平板放在客厅架子，回书桌拉开椅子，纸笔置于正前方。 Speaker: 小满. Exact Chinese speech bubble text: 「我把平板放到客厅，桌上只留第一题和笔。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "坐下后先做两分钟；忘了一次，明天还可以继续。",
+        "caption": "小动作重复，不设神奇期限。",
+        "visual": "连贯小画面：小满几天坐下做一小题，其中一天空白，用轻松表情重新开始。",
+        "imagePrompt": "Standalone frame 5 of 6. Scene: 连贯小画面：小满几天坐下做一小题，其中一天空白，用轻松表情重新开始。 Speaker: 小满. Exact Chinese speech bubble text: 「坐下后先做两分钟；忘了一次，明天还可以继续。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "我们记录哪些布置有帮助，不给自己贴“没毅力”的标签。",
+        "caption": "环境和支持也是改变的一部分。",
+        "visual": "三人比较桌面前后草图，把书本放近，把干扰收远，没有连续打卡奖励或排名。",
+        "imagePrompt": "Standalone frame 6 of 6. Scene: 三人比较桌面前后草图，把书本放近，把干扰收远，没有连续打卡奖励或排名。 Speaker: 阿澈. Exact Chinese speech bubble text: 「我们记录哪些布置有帮助，不给自己贴“没毅力”的标签。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      }
+    ],
+    "takeaway": "习惯与稳定情境中的重复有关；改变线索和动作的便利程度，往往比只责怪意志更具体。",
+    "explanation": [
+      {
+        "heading": "有时是情境先拉了你一下",
+        "text": "行为在相似环境里反复发生，情境线索与反应之间可能形成联系，动作逐渐不再需要每次重新决策。这不代表人完全失去控制，也不意味着所有经常做的事都是同样的习惯。理解线索，是把“我为什么又这样”转成一个可以观察的问题。"
+      },
+      {
+        "heading": "没有人人通用的倒计时",
+        "text": "Lally 等追踪日常行为形成自动性的研究，发现不同人的变化速度差异很大。因此，不能把“二十一天”或某个平均天数当成所有习惯的截止线。研究使用特定行为和自我报告，也有样本与拟合限制；它提供的是变化过程的证据，不是保证成功的配方。"
+      },
+      {
+        "heading": "先让下一步容易发生",
+        "text": "把书放到书桌旁边、把手机放远一点，是改变环境与动作成本的例子。先选很小且现实的目标，再观察稳定情境是否能帮忙。偶尔遗漏不必解释成整个人失败；如果动作始终难以发生，可以调整线索、规模或目标，而不只是加重自责。"
+      }
+    ],
+    "tryThis": {
+      "title": "把知识带回生活",
+      "text": "为“回家先放好书包”设计一个容易启动的动作。 把篮子放在进门处；每次进门先放书包；几天后观察是否更顺手再调整。不是写十条自律口号，而是给书包一个触手可及的固定位置。 不计分、不排名，也不用提交真实隐私。"
+    },
+    "boundary": "这不是成瘾治疗，也不能用习惯模型概括所有行为困难。研究中形成自动性的时间差异不能转成个人成功期限；复杂困扰可能需要更多支持。",
+    "evidenceLabel": "研究支持 · 情境依赖",
+    "sources": [
+      {
+        "title": "Lally 等：How are habits formed?（2010）",
+        "url": "https://doi.org/10.1002/ejsp.674",
+        "note": "日常情境中习惯自动性形成的追踪研究。"
+      },
+      {
+        "title": "Wood 与 Rünger：Psychology of Habit（2016）",
+        "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+        "note": "习惯研究综述，讨论情境线索与行为自动性。"
+      }
+    ],
+    "quiz": {
+      "question": "换了座位后，原本顺手的整理动作变少了。哪种解释值得先检查？",
+      "options": [
+        "自动性从此永久消失",
+        "自己突然变得懒惰",
+        "原来触发整理的环境线索变了"
+      ],
+      "correct": 2,
+      "feedback": "习惯常与稳定情境有关。先检查线索与便利程度，比用一次变化评价人格更可操作。"
+    },
+    "related": [
+      "metacognition",
+      "stress"
+    ],
+    "artPrompt": "Generate EACH panel as a SEPARATE original full-size image, one imagegen call per panel, never crop a multi-panel sheet. Expressive youth graphic-novel art, clean bold ink, vivid coral/teal/yellow/indigo. Xiaoman 小满: girl12 black bob/coral hairclip/coral hoodie/indigo trousers. Ache 阿澈: boy13 tousled short black hair/round glasses/teal jacket/cream T-shirt/indigo trousers. Mila 米粒: girl12 twin buns/yellow overalls/white T-shirt. Follow the panel visual and speaker exactly; place its exact Chinese dialogue inside a readable speech bubble pointing to the speaker, with large legible typography; do not invent text or alter wording. Caption stays as accessible supporting text. Preserve character continuity and meaningful action. Individual panel script follows in panels[].",
+    "branch": "behavioral",
+    "branches": [
+      "behavioral",
+      "educational"
+    ],
+    "scenes": [
+      "home",
+      "learning"
+    ],
+    "mechanism": {
+      "steps": [
+        "稳定情境提供线索",
+        "重复使动作更容易自动启动",
+        "调整线索和便利程度"
+      ],
+      "metaphorLimit": "小路比喻线索与反应联系，不表示习惯不可改变或人完全失去选择。"
+    },
+    "misconception": {
+      "myth": "养成习惯只要固定二十一天。",
+      "correction": "自动性形成时间差异很大，没有适用于所有人的神奇期限。"
+    },
+    "practice": {
+      "prompt": "为“回家先放好书包”设计一个容易启动的动作。",
+      "steps": [
+        "把篮子放在进门处",
+        "每次进门先放书包",
+        "几天后观察是否更顺手再调整"
+      ],
+      "example": "不是写十条自律口号，而是给书包一个触手可及的固定位置。"
+    },
+    "learningGoals": [
+      "能解释：稳定情境提供线索如何影响后面的过程。",
+      "能应用：为“回家先放好书包”设计一个容易启动的动作。"
+    ],
+    "prediction": {
+      "question": "想少被平板打断，先试哪种可观察改变？",
+      "options": [
+        {
+          "text": "把平板移开，书本放到手边",
+          "feedback": "改变动作的便利程度后，观察是否帮助启动目标行为。"
+        },
+        {
+          "text": "每天骂自己一次不够自律",
+          "feedback": "自责没有明确改变线索或操作条件。"
+        },
+        {
+          "text": "坚持到某个固定天数就保证成功",
+          "feedback": "习惯形成差异大，不能用固定天数保证个人结果。"
+        }
+      ]
+    },
+    "evidence": {
+      "level": "研究支持 · 情境依赖",
+      "claim": "习惯与稳定情境中的重复有关；改变线索和动作的便利程度，往往比只责怪意志更具体。",
+      "limits": "这不是成瘾治疗，也不能用习惯模型概括所有行为困难。研究中形成自动性的时间差异不能转成个人成功期限；复杂困扰可能需要更多支持。"
+    },
+    "audience": "面向小学高年级至初中的阅读设计；成人也可探索。年龄适配尚未经过真实学生研究。",
+    "experimentIds": [
+      "habit-formation"
+    ],
+    "readingLayers": {
+      "story": "先读漫画和一句话发现",
+      "mechanism": "再看机制与想一想",
+      "deeper": "最后展开研究解释、边界与来源"
+    }
+  },
+  {
+    "id": "personality",
+    "zone": "self",
+    "title": "“安静星人”也会拿起麦克风",
+    "question": "性格是固定盒子，还是有高有低的倾向？",
+    "summary": "阿澈被分到“安静组”，却在机器人展台讲得停不下来。标签装不下完整的人。",
+    "duration": 8,
+    "tags": [
+      "人格维度",
+      "情境",
+      "自我认识"
+    ],
+    "accent": "sage",
+    "panels": [
+      {
+        "speaker": "小满",
+        "dialogue": "阿澈平时话少，让他负责幕后好了？",
+        "caption": "一次印象变成了分工依据。",
+        "visual": "小满把阿澈的头像卡放进小盒子，盒子画安静嘴巴图标，阿澈看着话筒欲言又止。",
+        "imagePrompt": "Standalone frame 1 of 6. Scene: 小满把阿澈的头像卡放进小盒子，盒子画安静嘴巴图标，阿澈看着话筒欲言又止。 Speaker: 小满. Exact Chinese speech bubble text: 「阿澈平时话少，让他负责幕后好了？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "可机器人这部分，我很想讲给大家听。",
+        "caption": "兴趣和熟悉程度也影响表现。",
+        "visual": "阿澈抱机器人模型向前一步，眼睛发亮，手伸向话筒。",
+        "imagePrompt": "Standalone frame 2 of 6. Scene: 阿澈抱机器人模型向前一步，眼睛发亮，手伸向话筒。 Speaker: 阿澈. Exact Chinese speech bubble text: 「可机器人这部分，我很想讲给大家听。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "先试讲一小段，再一起决定分工吧。",
+        "caption": "用新的观察补充旧印象。",
+        "visual": "米粒架起小展台，小满坐下听，阿澈操作机器人演示。",
+        "imagePrompt": "Standalone frame 3 of 6. Scene: 米粒架起小展台，小满坐下听，阿澈操作机器人演示。 Speaker: 米粒. Exact Chinese speech bubble text: 「先试讲一小段，再一起决定分工吧。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "原来人不是“安静”和“热闹”两个抽屉。",
+        "caption": "特质更像连续刻度，不是身份盒子。",
+        "visual": "想象中的两只抽屉被拉成一条彩色连续刻度路，三人可在不同位置移动。",
+        "imagePrompt": "Standalone frame 4 of 6. Scene: 想象中的两只抽屉被拉成一条彩色连续刻度路，三人可在不同位置移动。 Speaker: 小满. Exact Chinese speech bubble text: 「原来人不是“安静”和“热闹”两个抽屉。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "我还是不爱大聚会，但讲熟悉的东西会自在些。",
+        "caption": "倾向与具体情境可以同时成立。",
+        "visual": "左右对比同一阿澈在热闹人群稍退后、在机器人小组积极交流，外形完全一致。",
+        "imagePrompt": "Standalone frame 5 of 6. Scene: 左右对比同一阿澈在热闹人群稍退后、在机器人小组积极交流，外形完全一致。 Speaker: 阿澈. Exact Chinese speech bubble text: 「我还是不爱大聚会，但讲熟悉的东西会自在些。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "那就让你讲机器人，也给每个人留试一试的机会。",
+        "caption": "标签不能替人决定能做什么。",
+        "visual": "三人重新分配图卡，阿澈拿话筒，小满整理展板，米粒操作装置。",
+        "imagePrompt": "Standalone frame 6 of 6. Scene: 三人重新分配图卡，阿澈拿话筒，小满整理展板，米粒操作装置。 Speaker: 小满. Exact Chinese speech bubble text: 「那就让你讲机器人，也给每个人留试一试的机会。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      }
+    ],
+    "takeaway": "人格特质描述相对稳定的倾向，但人的行为也会随情境、目标和经验而变化。",
+    "explanation": [
+      {
+        "heading": "维度不是几只抽屉",
+        "text": "常用的五因素模型用外向性、尽责性等连续维度描述差异。一个人可以在某个维度偏高或偏低，许多人处在中间，并不是被分成几种互不相通的人。维度也不是道德等级：某种倾向的便利与代价，往往要放到具体目标和环境中讨论。"
+      },
+      {
+        "heading": "稳定与变化并不矛盾",
+        "text": "特质研究关注跨时间与情境的总体倾向，而不是保证每次行为都相同。安静的人可能在熟悉主题中很主动，健谈的人也可能需要独处。看到一次反常表现，不足以否定所有特质；反过来，一个特质分数也不能替代对当下情境和个人选择的了解。"
+      },
+      {
+        "heading": "把描述变成可用的信息",
+        "text": "与其说“我就是这种人”，可以记录哪些环境让自己容易投入、哪些任务需要更多准备，并试着安排更合适的角色。正式量表还需要合适版本、评分和解释依据。平台用故事认识模型，不给读者生成固定类型，也不替人决定职业或关系是否适合。"
+      }
+    ],
+    "tryThis": {
+      "title": "把知识带回生活",
+      "text": "重新描述一个被贴标签的同学或自己。 写出具体行为；补一个不同情境的表现；保留尝试新角色的机会。他大组讨论较少说话，但讲熟悉模型很投入，所以可以先试讲。 不计分、不排名，也不用提交真实隐私。"
+    },
+    "boundary": "本课没有实施人格量表，故事中的表现不能换算成特质分数。任何单次短测都不应被当作诊断、命运预测或重大选择的唯一依据。",
+    "evidenceLabel": "研究支持 · 情境依赖",
+    "sources": [
+      {
+        "title": "Diener 与 Lucas：Personality Traits",
+        "url": "https://nobaproject.com/modules/personality-traits",
+        "note": "研究者模块，介绍连续人格维度与人与情境的讨论。"
+      },
+      {
+        "title": "IPIP：International Personality Item Pool",
+        "url": "https://ipip.ori.org/",
+        "note": "公开人格测量题项与量表资料；开放题项不等于任意改编后仍有效。"
+      }
+    ],
+    "quiz": {
+      "question": "同一同学在熟人小组很健谈，在陌生大组很少说话，怎样描述更准确？",
+      "options": [
+        "他的表现受情境影响，需多次观察总体倾向",
+        "两种表现说明他没有人格",
+        "只取最热闹的一次判断他属于哪一类"
+      ],
+      "correct": 0,
+      "feedback": "人格描述总体倾向，但情境会影响具体行为。不能只挑一次最显眼的表现归类。"
+    },
+    "related": [
+      "comparison",
+      "attachment",
+      "test-validity"
+    ],
+    "artPrompt": "Generate EACH panel as a SEPARATE original full-size image, one imagegen call per panel, never crop a multi-panel sheet. Expressive youth graphic-novel art, clean bold ink, vivid coral/teal/yellow/indigo. Xiaoman 小满: girl12 black bob/coral hairclip/coral hoodie/indigo trousers. Ache 阿澈: boy13 tousled short black hair/round glasses/teal jacket/cream T-shirt/indigo trousers. Mila 米粒: girl12 twin buns/yellow overalls/white T-shirt. Follow the panel visual and speaker exactly; place its exact Chinese dialogue inside a readable speech bubble pointing to the speaker, with large legible typography; do not invent text or alter wording. Caption stays as accessible supporting text. Preserve character continuity and meaningful action. Individual panel script follows in panels[].",
+    "branch": "personality",
+    "branches": [
+      "personality"
+    ],
+    "scenes": [
+      "school",
+      "self"
+    ],
+    "mechanism": {
+      "steps": [
+        "多次行为显现相对倾向",
+        "情境与目标改变具体表现",
+        "用更多观察更新理解"
+      ],
+      "metaphorLimit": "刻度比喻连续差异，不是用户分数；人物故事不能生成特质测量结果。"
+    },
+    "misconception": {
+      "myth": "人格类型能决定适合哪门学科。",
+      "correction": "特质描述倾向，不替人决定能力、价值或未来。"
+    },
+    "practice": {
+      "prompt": "重新描述一个被贴标签的同学或自己。",
+      "steps": [
+        "写出具体行为",
+        "补一个不同情境的表现",
+        "保留尝试新角色的机会"
+      ],
+      "example": "他大组讨论较少说话，但讲熟悉模型很投入，所以可以先试讲。"
+    },
+    "learningGoals": [
+      "能解释：多次行为显现相对倾向如何影响后面的过程。",
+      "能应用：重新描述一个被贴标签的同学或自己。"
+    ],
+    "prediction": {
+      "question": "阿澈平时安静，今天却主动讲解，说明什么？",
+      "options": [
+        {
+          "text": "他以前都是装的",
+          "feedback": "不同情境的表现可以不同，无需推断伪装。"
+        },
+        {
+          "text": "倾向与情境可能共同影响表现",
+          "feedback": "更熟悉的主题、角色与目标都可能影响行为。"
+        },
+        {
+          "text": "今天已经变成另一种人格类型",
+          "feedback": "一次行为不能判定人格发生类别转换。"
+        }
+      ]
+    },
+    "evidence": {
+      "level": "研究支持 · 情境依赖",
+      "claim": "人格特质描述相对稳定的倾向，但人的行为也会随情境、目标和经验而变化。",
+      "limits": "本课没有实施人格量表，故事中的表现不能换算成特质分数。任何单次短测都不应被当作诊断、命运预测或重大选择的唯一依据。"
+    },
+    "audience": "面向小学高年级至初中的阅读设计；成人也可探索。年龄适配尚未经过真实学生研究。",
+    "experimentIds": [],
+    "readingLayers": {
+      "story": "先读漫画和一句话发现",
+      "mechanism": "再看机制与想一想",
+      "deeper": "最后展开研究解释、边界与来源"
+    }
+  },
+  {
+    "id": "comparison",
+    "zone": "self",
+    "title": "别人的满分画，我的橡皮屑",
+    "question": "比较什么时候能帮助学习？",
+    "summary": "小满看到一张漂亮作品，再看自己的草稿，突然不想画了。米粒带来了作者的废稿。",
+    "duration": 8,
+    "tags": [
+      "社会比较",
+      "自我评价",
+      "成长"
+    ],
+    "accent": "ochre",
+    "panels": [
+      {
+        "speaker": "小满",
+        "dialogue": "别人的画像海报，我的只有一桌橡皮屑。",
+        "caption": "成品和草稿被摆在同一把尺上。",
+        "visual": "小满低头看擦破的草稿，另一侧展示漂亮原创校园海报，不用真实IP。",
+        "imagePrompt": "Standalone frame 1 of 6. Scene: 小满低头看擦破的草稿，另一侧展示漂亮原创校园海报，不用真实IP。 Speaker: 小满. Exact Chinese speech bubble text: 「别人的画像海报，我的只有一桌橡皮屑。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "你看到的是最后一张，还是全部尝试？",
+        "caption": "先问比较材料是否对等。",
+        "visual": "阿澈掀起海报背后的一角，露出一摞修改过的草稿。",
+        "imagePrompt": "Standalone frame 2 of 6. Scene: 阿澈掀起海报背后的一角，露出一摞修改过的草稿。 Speaker: 阿澈. Exact Chinese speech bubble text: 「你看到的是最后一张，还是全部尝试？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "看，这里也改了好多次；我们只挑一个方法学。",
+        "caption": "把整体评判换成具体观察。",
+        "visual": "米粒手指海报中的前后景构图，小满拿小框只框出这一部分。",
+        "imagePrompt": "Standalone frame 3 of 6. Scene: 米粒手指海报中的前后景构图，小满拿小框只框出这一部分。 Speaker: 米粒. Exact Chinese speech bubble text: 「看，这里也改了好多次；我们只挑一个方法学。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "“我不如别人”像一座山，“我练构图”像一级台阶。",
+        "caption": "山与台阶是目标变化的隐喻。",
+        "visual": "想象巨大成品海报山化成可攀的小台阶，小满迈第一步，阿澈扶住画架。",
+        "imagePrompt": "Standalone frame 4 of 6. Scene: 想象巨大成品海报山化成可攀的小台阶，小满迈第一步，阿澈扶住画架。 Speaker: 小满. Exact Chinese speech bubble text: 「“我不如别人”像一座山，“我练构图”像一级台阶。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "今天先画三个不同构图，再跟昨天的自己比。",
+        "caption": "选择可行动的维度。",
+        "visual": "小满在三张小纸上快速画不同构图，旧草稿留在旁边作为对照。",
+        "imagePrompt": "Standalone frame 5 of 6. Scene: 小满在三张小纸上快速画不同构图，旧草稿留在旁边作为对照。 Speaker: 小满. Exact Chinese speech bubble text: 「今天先画三个不同构图，再跟昨天的自己比。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "还是会羡慕也没关系；比较不必决定你的价值。",
+        "caption": "感受可以保留，方法可以调整。",
+        "visual": "三人将不同风格作品并排贴墙，没有胜负奖牌，小满手里仍握橡皮但重新画画。",
+        "imagePrompt": "Standalone frame 6 of 6. Scene: 三人将不同风格作品并排贴墙，没有胜负奖牌，小满手里仍握橡皮但重新画画。 Speaker: 米粒. Exact Chinese speech bubble text: 「还是会羡慕也没关系；比较不必决定你的价值。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      }
+    ],
+    "takeaway": "比较会影响自我评价，但比较对象、维度和解释方式，会改变它带来的是压力还是启发。",
+    "explanation": [
+      {
+        "heading": "比较也是寻找坐标",
+        "text": "当缺少客观标准时，人会借助他人的表现或意见来定位自己。我们可能向上比较、向下比较，也可能与相近的人比较。哪一种比较发生，取决于什么事情对自己重要、对象是否相关，以及当下目标；不能用“爱比较”概括一个人的全部性格。"
+      },
+      {
+        "heading": "向上不一定只有伤害",
+        "text": "看见更优秀的人，有时会扩大差距感，有时也会带来灵感。重要的不只是别人有多好，还包括我们怎样理解差距：是无法跨越的身份差别，还是可以学习的过程。社交页面通常呈现经过挑选的信息，因此不宜用一张成片推断对方全部生活或自己的整体价值。"
+      },
+      {
+        "heading": "把排行榜换成学习问题",
+        "text": "如果你想进步，可以将比较收窄到具体动作、资源与练习阶段，问“哪一步能借鉴”。也可以与自己过去的表现比较，但不必要求每天都更好。比较无法完全消失，目标是选择对当前生活更有用的参照，而不是从此禁止自己羡慕或失落。"
+      }
+    ],
+    "tryThis": {
+      "title": "把知识带回生活",
+      "text": "把一次让你受挫的比较变成一个小练习。 说明是否在比同类阶段；选一个可观察技巧；与自己的前一次尝试比较。不拿别人完成稿对照我的第一稿；今天练三个构图再比较。 不计分、不排名，也不用提交真实隐私。"
+    },
+    "boundary": "作品中的照片选择是生活示例，不是关于所有社交媒体用户的因果结论。没有哪种比较策略对所有人都同样有效，也不把失落归咎于不够积极。",
+    "evidenceLabel": "研究支持 · 情境依赖",
+    "sources": [
+      {
+        "title": "Garcia 与 Halldorsson：Social Comparison",
+        "url": "https://nobaproject.com/modules/social-comparison",
+        "note": "研究者综述比较方向、相关性及其不同后果。"
+      },
+      {
+        "title": "APA Dictionary：Social comparison theory",
+        "url": "https://dictionary.apa.org/social-comparison-theory",
+        "note": "解释向上、向下与同水平比较，以及对比和同化反应。"
+      }
+    ],
+    "quiz": {
+      "question": "你想学习一位优秀同学的演讲，哪个比较最能指导下一步？",
+      "options": [
+        "比较谁更受欢迎",
+        "比较身份与天赋",
+        "比较开场、停顿和结构，并挑一项练习"
+      ],
+      "correct": 2,
+      "feedback": "具体技巧能转为行动；受欢迎程度和笼统天赋难以说明该练哪一步。"
+    },
+    "related": [
+      "personality",
+      "metacognition"
+    ],
+    "artPrompt": "Generate EACH panel as a SEPARATE original full-size image, one imagegen call per panel, never crop a multi-panel sheet. Expressive youth graphic-novel art, clean bold ink, vivid coral/teal/yellow/indigo. Xiaoman 小满: girl12 black bob/coral hairclip/coral hoodie/indigo trousers. Ache 阿澈: boy13 tousled short black hair/round glasses/teal jacket/cream T-shirt/indigo trousers. Mila 米粒: girl12 twin buns/yellow overalls/white T-shirt. Follow the panel visual and speaker exactly; place its exact Chinese dialogue inside a readable speech bubble pointing to the speaker, with large legible typography; do not invent text or alter wording. Caption stays as accessible supporting text. Preserve character continuity and meaningful action. Individual panel script follows in panels[].",
+    "branch": "social",
+    "branches": [
+      "social",
+      "personality"
+    ],
+    "scenes": [
+      "self",
+      "learning"
+    ],
+    "mechanism": {
+      "steps": [
+        "选择比较对象与维度",
+        "解释差距影响感受",
+        "将可学方法转为行动"
+      ],
+      "metaphorLimit": "山与台阶比喻目标大小，不保证换比较方式后情绪立即变好。"
+    },
+    "misconception": {
+      "myth": "比不过别人，就证明自己没有天赋。",
+      "correction": "比较材料和维度可能不对等，也不能衡量一个人的全部价值。"
+    },
+    "practice": {
+      "prompt": "把一次让你受挫的比较变成一个小练习。",
+      "steps": [
+        "说明是否在比同类阶段",
+        "选一个可观察技巧",
+        "与自己的前一次尝试比较"
+      ],
+      "example": "不拿别人完成稿对照我的第一稿；今天练三个构图再比较。"
+    },
+    "learningGoals": [
+      "能解释：选择比较对象与维度如何影响后面的过程。",
+      "能应用：把一次让你受挫的比较变成一个小练习。"
+    ],
+    "prediction": {
+      "question": "小满看成品很受挫，怎样把比较变得更有用？",
+      "options": [
+        {
+          "text": "用更多优秀成品证明差距",
+          "feedback": "可能增加信息，但不一定产生具体可行的下一步。"
+        },
+        {
+          "text": "看相近阶段作品，并选一个技巧练习",
+          "feedback": "把整体价值评判转为对等、具体的学习。"
+        },
+        {
+          "text": "从此再也不看别人作品",
+          "feedback": "可以暂时休息，但比较也可能提供方法，不必一概禁止。"
+        }
+      ]
+    },
+    "evidence": {
+      "level": "研究支持 · 情境依赖",
+      "claim": "比较会影响自我评价，但比较对象、维度和解释方式，会改变它带来的是压力还是启发。",
+      "limits": "作品中的照片选择是生活示例，不是关于所有社交媒体用户的因果结论。没有哪种比较策略对所有人都同样有效，也不把失落归咎于不够积极。"
+    },
+    "audience": "面向小学高年级至初中的阅读设计；成人也可探索。年龄适配尚未经过真实学生研究。",
+    "experimentIds": [],
+    "readingLayers": {
+      "story": "先读漫画和一句话发现",
+      "mechanism": "再看机制与想一想",
+      "deeper": "最后展开研究解释、边界与来源"
+    }
+  },
+  {
+    "id": "attachment",
+    "zone": "self",
+    "title": "探险之前，我想确认你还在",
+    "question": "需要支持，为什么不等于不独立？",
+    "summary": "第一次参加两天的科学营，小满既想探索，也担心和家人分开。约定的联系让她更敢出发。",
+    "duration": 8,
+    "tags": [
+      "依恋",
+      "安全基地",
+      "沟通"
+    ],
+    "accent": "terracotta",
+    "panels": [
+      {
+        "speaker": "小满",
+        "dialogue": "我很想去科学营，可晚上想家怎么办？",
+        "caption": "期待与不安一起装进行李。",
+        "visual": "小满坐在打开的旅行包旁，一手拿科学营模型一手握家庭合照，母亲在旁认真听。",
+        "imagePrompt": "Standalone frame 1 of 6. Scene: 小满坐在打开的旅行包旁，一手拿科学营模型一手握家庭合照，母亲在旁认真听。 Speaker: 小满. Exact Chinese speech bubble text: 「我很想去科学营，可晚上想家怎么办？」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "家长",
+        "dialogue": "我们约好联系时间，也记下营地老师能帮你的事情。",
+        "caption": "可预期的回应提供支持。",
+        "visual": "家长与小满共同写联系卡，卡上只有电话和时钟图标，无号码文字。",
+        "imagePrompt": "Standalone frame 2 of 6. Scene: 家长与小满共同写联系卡，卡上只有电话和时钟图标，无号码文字。 Speaker: 家长. Exact Chinese speech bubble text: 「我们约好联系时间，也记下营地老师能帮你的事情。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "阿澈",
+        "dialogue": "想找熟悉的人，不代表你不能自己探索。",
+        "caption": "亲近与探索不是只能二选一。",
+        "visual": "营地入口阿澈背书包与小满并肩，远处有安全成人老师和探索展台。",
+        "imagePrompt": "Standalone frame 3 of 6. Scene: 营地入口阿澈背书包与小满并肩，远处有安全成人老师和探索展台。 Speaker: 阿澈. Exact Chinese speech bubble text: 「想找熟悉的人，不代表你不能自己探索。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "米粒",
+        "dialogue": "像出发前知道补给站在哪，但你仍然自己走路。",
+        "caption": "补给站是安全基地的隐喻。",
+        "visual": "想象探险地图有温暖补给站和探索路径，小满自己走向观察台，家长不拉绳控制。",
+        "imagePrompt": "Standalone frame 4 of 6. Scene: 想象探险地图有温暖补给站和探索路径，小满自己走向观察台，家长不拉绳控制。 Speaker: 米粒. Exact Chinese speech bubble text: 「像出发前知道补给站在哪，但你仍然自己走路。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "遇到问题我先找营地老师，晚上再分享今天的发现。",
+        "caption": "支持来自可靠的人和具体安排。",
+        "visual": "小满向佩戴工作人员胸牌的老师询问活动地点，手指地图，伙伴在旁。",
+        "imagePrompt": "Standalone frame 5 of 6. Scene: 小满向佩戴工作人员胸牌的老师询问活动地点，手指地图，伙伴在旁。 Speaker: 小满. Exact Chinese speech bubble text: 「遇到问题我先找营地老师，晚上再分享今天的发现。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      },
+      {
+        "speaker": "小满",
+        "dialogue": "我今天有点想家，也真的发现了好多新东西。",
+        "caption": "一次分离不能给人判定依恋类型。",
+        "visual": "傍晚小满在约定时间与家长视频，旁边是当天收集的树叶和观察笔记，表情复杂而满足。",
+        "imagePrompt": "Standalone frame 6 of 6. Scene: 傍晚小满在约定时间与家长视频，旁边是当天收集的树叶和观察笔记，表情复杂而满足。 Speaker: 小满. Exact Chinese speech bubble text: 「我今天有点想家，也真的发现了好多新东西。」. One full-size image, no comic grid, no extra panels, no captions outside bubble, no watermark."
+      }
+    ],
+    "takeaway": "依恋关注亲近、支持与探索的关系；理解需要与回应方式，比给人贴固定类型更有用。",
+    "explanation": [
+      {
+        "heading": "支持和探索可以相互帮助",
+        "text": "依恋理论最初关注儿童与照顾者之间的情感联系：在不安或需要帮助时寻求支持，在得到支持后继续探索。“安全基地”强调这种关系功能，不是要求家长每时每刻代替孩子解决问题。科学营故事借这个概念理解支持安排，不是原始研究的直接复刻。"
+      },
+      {
+        "heading": "不能把一次想家变成终身类型",
+        "text": "不同年龄的依恋研究使用不同观察与测量方式。婴幼儿实验、青少年关系与成人自陈量表不能随意混用。一次想家、一次联系请求或一次退缩，都不足以判断某人的依恋类型，也不能据此推断照顾者全部行为或预测一生。"
+      },
+      {
+        "heading": "把需要变成具体安排",
+        "text": "准备新活动时，可以与可靠成人讨论担心的事情、何时联系、现场找谁、遇到意外怎么办。家庭与现实资源不同，支持也可能来自其他可靠照顾者或老师。若存在威胁、伤害或强迫，不能把它合理化为依恋差异，应优先寻求安全的成人支持。"
+      }
+    ],
+    "tryThis": {
+      "title": "把知识带回生活",
+      "text": "第一次参加新活动前，与可靠成人商量支持安排。 说出最担心的一件事；约定联系与现场求助对象；活动后分享哪里需要调整。我担心晚上想家，先确认值班老师和联系时间，再参加活动。 不计分、不排名，也不用提交真实隐私。"
+    },
+    "boundary": "漫画是虚构成长故事，不是依恋测验。需要支持并不等于不独立；一次分离表现不能给孩子或家长贴标签。",
+    "evidenceLabel": "研究支持 · 情境依赖",
+    "sources": [
+      {
+        "title": "Fraley：Attachment Through the Life Course",
+        "url": "https://nobaproject.com/modules/attachment-through-the-life-course",
+        "note": "研究者模块，介绍依恋功能及跨生命历程的研究。"
+      },
+      {
+        "title": "OpenStax Psychology 2e：Stages of Development",
+        "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+        "note": "教材中的儿童发展与依恋背景；不同发展阶段的观察不能直接互换。"
+      }
+    ],
+    "quiz": {
+      "question": "孩子参加新活动前想确认家长何时联系，这个行为单独能说明什么？",
+      "options": [
+        "他在此刻寻求支持；不能据此判定固定依恋类型",
+        "他将来一定不能独立生活",
+        "家长应该减少所有回应以训练独立"
+      ],
+      "correct": 0,
+      "feedback": "依恋理论关注支持与探索，但单个行为不足以分类，更不能预测一生。安排应结合实际需要与安全。"
+    },
+    "related": [
+      "listening",
+      "boundaries"
+    ],
+    "artPrompt": "Generate EACH panel as a SEPARATE original full-size image, one imagegen call per panel, never crop a multi-panel sheet. Expressive youth graphic-novel art, clean bold ink, vivid coral/teal/yellow/indigo. Xiaoman 小满: girl12 black bob/coral hairclip/coral hoodie/indigo trousers. Ache 阿澈: boy13 tousled short black hair/round glasses/teal jacket/cream T-shirt/indigo trousers. Mila 米粒: girl12 twin buns/yellow overalls/white T-shirt. Follow the panel visual and speaker exactly; place its exact Chinese dialogue inside a readable speech bubble pointing to the speaker, with large legible typography; do not invent text or alter wording. Caption stays as accessible supporting text. Preserve character continuity and meaningful action. Individual panel script follows in panels[].",
+    "branch": "developmental",
+    "branches": [
+      "developmental",
+      "social"
+    ],
+    "scenes": [
+      "home",
+      "self"
+    ],
+    "mechanism": {
+      "steps": [
+        "感到不确定或需要支持",
+        "向可靠照顾者寻求回应",
+        "支持可帮助继续探索"
+      ],
+      "metaphorLimit": "补给站比喻可靠支持，不代表照顾者要代办所有事或孩子必须接受固定联系安排。"
+    },
+    "misconception": {
+      "myth": "需要照顾者支持就是不独立。",
+      "correction": "亲近与探索可以相互支持，不能用一次行为定依恋类型。"
+    },
+    "practice": {
+      "prompt": "第一次参加新活动前，与可靠成人商量支持安排。",
+      "steps": [
+        "说出最担心的一件事",
+        "约定联系与现场求助对象",
+        "活动后分享哪里需要调整"
+      ],
+      "example": "我担心晚上想家，先确认值班老师和联系时间，再参加活动。"
+    },
+    "learningGoals": [
+      "能解释：感到不确定或需要支持如何影响后面的过程。",
+      "能应用：第一次参加新活动前，与可靠成人商量支持安排。"
+    ],
+    "prediction": {
+      "question": "小满想家又想参加科学营，哪种安排更支持探索？",
+      "options": [
+        {
+          "text": "为了独立，禁止所有联系",
+          "feedback": "独立与获得可靠支持不是互相排斥的。"
+        },
+        {
+          "text": "约定联系与现场求助对象",
+          "feedback": "可预期的支持能帮助处理不安并继续探索。"
+        },
+        {
+          "text": "凭这次想家判断依恋类型",
+          "feedback": "一次场景不能用于分类或诊断。"
+        }
+      ]
+    },
+    "evidence": {
+      "level": "研究支持 · 情境依赖",
+      "claim": "依恋关注亲近、支持与探索的关系；理解需要与回应方式，比给人贴固定类型更有用。",
+      "limits": "漫画是虚构成长故事，不是依恋测验。需要支持并不等于不独立；一次分离表现不能给孩子或家长贴标签。"
+    },
+    "audience": "面向小学高年级至初中的阅读设计；成人也可探索。年龄适配尚未经过真实学生研究。",
+    "experimentIds": [
+      "attachment-secure-base"
+    ],
+    "readingLayers": {
+      "story": "先读漫画和一句话发现",
+      "mechanism": "再看机制与想一想",
+      "deeper": "最后展开研究解释、边界与来源"
+    }
+  }
+]

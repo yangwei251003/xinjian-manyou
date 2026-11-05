@@ -1,0 +1,150 @@
+{
+  "id": "stress",
+  "title": "为什么书包不重，心却很累？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "书包不重，为什么还是觉得累？",
+      "en": "The bag is light. Why does it feel heavy?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "看不见的负荷"
+    },
+    {
+      "zh": "负荷里，可能装着好几种要求。",
+      "en": "Several demands can sit inside one load.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "要求，与可用资源"
+    },
+    {
+      "zh": "压力资料关注身心反应与应对资源。",
+      "en": "Stress guidance considers responses and resources.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "要求，与可用资源"
+    },
+    {
+      "zh": "考试、冲突、变化，都可能成为来源。",
+      "en": "Tests, conflict and change can create demands.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "要求，与可用资源"
+    },
+    {
+      "zh": "同一件事，在不同处境下感受不同。",
+      "en": "The same event can feel different in context.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "要求，与可用资源"
+    },
+    {
+      "zh": "当要求超过眼前可用资源，负担变大。",
+      "en": "Demands may exceed available resources.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "把一团压力拆开"
+    },
+    {
+      "zh": "心跳、肌肉和注意，也可能变化。",
+      "en": "Heart rate, muscles and attention may change.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "把一团压力拆开"
+    },
+    {
+      "zh": "把「一切都很糟」拆成具体任务。",
+      "en": "Break a global burden into concrete tasks.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "把一团压力拆开"
+    },
+    {
+      "zh": "哪些能调整，哪些需要别人参与？",
+      "en": "What can change? Who could help?",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "把一团压力拆开"
+    },
+    {
+      "zh": "不是所有压力，都靠改变想法解决。",
+      "en": "Changing thoughts cannot solve every stressor.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "不只是想开一点"
+    },
+    {
+      "zh": "睡眠、条件与现实帮助，同样重要。",
+      "en": "Rest, conditions and practical help also matter.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "不只是想开一点"
+    },
+    {
+      "zh": "身体不适，也不能一概归因于心理。",
+      "en": "Physical symptoms need appropriate attention.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "不只是想开一点"
+    },
+    {
+      "zh": "列出能推迟、能分工和需要求助的事。",
+      "en": "Sort what to delay, share or seek help for.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "能推迟 · 能分工 · 需支持"
+    },
+    {
+      "zh": "把「我撑不住」变成一个具体请求。",
+      "en": "Turn overwhelm into a concrete request.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "能推迟 · 能分工 · 需支持"
+    },
+    {
+      "zh": "持续明显的困扰，寻找可靠支持。",
+      "en": "Find reliable support for persistent distress.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "能推迟 · 能分工 · 需支持"
+    },
+    {
+      "zh": "感到沉重，不代表你不够努力。",
+      "en": "Feeling burdened does not mean lacking effort.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "给肩膀，找一个支点"
+    },
+    {
+      "zh": "休息与求助，也能成为行动。",
+      "en": "Rest and help-seeking can be actions.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "给肩膀，找一个支点"
+    },
+    {
+      "zh": "肩膀之外，还可以有支点。",
+      "en": "A shoulder need not carry everything alone.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "给肩膀，找一个支点"
+    }
+  ],
+  "sources": [
+    {
+      "title": "NIMH：I’m So Stressed Out!",
+      "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+      "note": "官方材料，区分压力与持续困扰，并说明寻求帮助的考虑。"
+    },
+    {
+      "title": "NIMH：Caring for Your Mental Health",
+      "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+      "note": "官方自我照顾与专业支持信息，不作为诊断工具。"
+    },
+    {
+      "title": "NIMH：Child and Adolescent Mental Health",
+      "url": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health",
+      "note": "支持未成年人向家长、学校支持人员或医疗人员求助；困扰与生活影响需要认真对待。"
+    }
+  ]
+}

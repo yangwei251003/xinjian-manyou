@@ -1,0 +1,100 @@
+{
+  "id": "sleep",
+  "core_claim": "睡眠支持注意、学习和记忆等过程；它不能替代学习，也不保证醒来就自动掌握。",
+  "evidence_limits": "这不是睡眠障碍评估或治疗方案，不提供睡眠限制训练。故事没有对照组，不能用人物第二天的状态证明睡眠对该任务的因果效果。",
+  "mechanism": {
+    "steps": [
+      "白天学习形成新信息",
+      "睡眠参与多种恢复与记忆过程",
+      "清醒后仍需练习与核对"
+    ],
+    "metaphorLimit": "整理站是睡眠参与记忆过程的隐喻，不是原样搬运知识，也不能代替学习。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "NIH",
+      "author": "睡眠科学 · 权威综述"
+    },
+    "script_statements": [
+      {
+        "zh": "睡眠科学关注睡与醒怎样协作。",
+        "en": "Sleep science examines waking and sleeping together.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "权威综述把睡眠与学习、记忆相联系。",
+        "en": "Authoritative reviews link sleep with learning and memory.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "夜晚不是把大脑直接关机。",
+        "en": "The brain does not simply switch off at night.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "NINDS：Understanding Sleep",
+      "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf",
+      "note": "官方科普，说明睡眠阶段、学习记忆及睡眠健康。"
+    },
+    {
+      "title": "NICHD：What happens during sleep?",
+      "url": "https://www.nichd.nih.gov/health/topics/sleep/conditioninfo/Pages/what-happens.aspx",
+      "note": "解释睡眠阶段与学习、记忆、表现的关系。"
+    },
+    {
+      "title": "CDC：About Sleep，按年龄的睡眠建议",
+      "url": "https://www.cdc.gov/sleep/about/index.html",
+      "note": "补充年龄相关建议；不能把成人睡眠时长直接套给儿童。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "复习挑重点，给休息留出时间。",
+      "en": "Prioritize revision and leave time for rest.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "早上再回想，核对昨天的理解。",
+      "en": "Recall and check your understanding in the morning.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "持续睡眠困扰，可向可靠成人求助。",
+      "en": "Seek appropriate support for persistent sleep trouble.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "身体需要休息，不是学习的背叛。",
+        "en": "Resting the body is compatible with learning.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "给计划留空白，也是在照顾下一步。",
+        "en": "Space in a plan can support the next step.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "让白天与夜晚，完成各自的工作。",
+        "en": "Let day and night do their different work.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

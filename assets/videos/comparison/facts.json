@@ -1,0 +1,95 @@
+{
+  "id": "comparison",
+  "core_claim": "比较会影响自我评价，但比较对象、维度和解释方式，会改变它带来的是压力还是启发。",
+  "evidence_limits": "作品中的照片选择是生活示例，不是关于所有社交媒体用户的因果结论。没有哪种比较策略对所有人都同样有效，也不把失落归咎于不够积极。",
+  "mechanism": {
+    "steps": [
+      "选择比较对象与维度",
+      "解释差距影响感受",
+      "将可学方法转为行动"
+    ],
+    "metaphorLimit": "山与台阶比喻目标大小，不保证换比较方式后情绪立即变好。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "1954 →",
+      "author": "社会比较研究"
+    },
+    "script_statements": [
+      {
+        "zh": "社会比较研究关注人怎样评价自己。",
+        "en": "Social comparison examines self-evaluation.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "参照对象与比较维度，都重要。",
+        "en": "The target and dimension both matter.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "同样的差距，可能引出不同感受。",
+        "en": "The same gap can prompt different feelings.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Garcia 与 Halldorsson：Social Comparison",
+      "url": "https://nobaproject.com/modules/social-comparison",
+      "note": "研究者综述比较方向、相关性及其不同后果。"
+    },
+    {
+      "title": "APA Dictionary：Social comparison theory",
+      "url": "https://dictionary.apa.org/social-comparison-theory",
+      "note": "解释向上、向下与同水平比较，以及对比和同化反应。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "问问那幅画，有什么方法能学？",
+      "en": "Ask what method the artwork can teach.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "再和过去的自己，比一个具体变化。",
+      "en": "Compare one specific change with your own past.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "需要时先离开展示，给注意一点空间。",
+      "en": "Take space from the display when useful.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "别人的亮点，可以是线索。",
+        "en": "Another person’s strength can offer a clue.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "你的价值，仍比一项比较更宽。",
+        "en": "Your worth is wider than one comparison.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "把目光，带回可做的一小步。",
+        "en": "Return your attention to one doable step.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

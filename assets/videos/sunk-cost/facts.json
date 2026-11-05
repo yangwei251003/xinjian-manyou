@@ -1,0 +1,95 @@
+{
+  "id": "sunk-cost",
+  "core_claim": "不可收回的投入与未来的收益成本分开考虑；继续或停止，都应有面向未来的理由。",
+  "evidence_limits": "经典研究显示的是特定决策中的群体倾向，不是每个人的固定缺陷。退费、承诺、技能积累和未来机会都可能改变判断；不把本课套成结束关系或投资的指令。",
+  "mechanism": {
+    "steps": [
+      "已经付出的不可回收投入引起牵挂",
+      "与未来成本收益混在一起",
+      "按未来理由重新比较"
+    ],
+    "metaphorLimit": "绳结比喻过去投入的心理牵挂，不要求丢弃仍有用的技能、材料或承诺。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "1985",
+      "author": "Arkes · Blumer"
+    },
+    "script_statements": [
+      {
+        "zh": "1985 年，Arkes与Blumer研究沉没成本。",
+        "en": "Arkes and Blumer studied sunk cost in 1985.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "实验考察已投入资源对继续选择的影响。",
+        "en": "They examined how prior investment affects continuation.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "群体倾向，不是每个人固定的缺点。",
+        "en": "A group tendency is not an individual destiny.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Arkes 与 Blumer：The Psychology of Sunk Cost",
+      "url": "https://www.sciencedirect.com/science/article/pii/0749597885900494",
+      "note": "沉没成本效应的经典实验与现场研究。"
+    },
+    {
+      "title": "Thorsteinson 与 Billings：Progress Decisions Involving Time: Sunk Cost or Completion Effects",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/bdm.2405",
+      "note": "2024 年研究区分时间投入与完成进度，显示效应大小及任务差异。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "纸城堡可缩小，也可以改成街区。",
+      "en": "A paper castle can shrink or become a neighborhood.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "比较明天的用途，而不只数昨天的小时。",
+      "en": "Compare tomorrow’s use, not only yesterday’s hours.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "真实选择，还要考虑安全与责任。",
+      "en": "Real decisions include safety and responsibility.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "承认付出，不必让它替你决定全部。",
+        "en": "Honor the effort without letting it decide everything.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "留下经验，把方向交还给未来。",
+        "en": "Keep the experience. Let the future guide the direction.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "下一步，仍然属于可以选择的你。",
+        "en": "The next step is still yours to consider.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

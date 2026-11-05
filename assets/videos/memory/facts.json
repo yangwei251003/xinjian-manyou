@@ -1,0 +1,95 @@
+{
+  "id": "memory",
+  "core_claim": "回忆不是播放录像；原经历、后续信息和提取时的推断，都可能影响记得的内容。",
+  "evidence_limits": "本故事不是对读者进行错误记忆诱导。不能用记忆研究否定某人的创伤经历或目击证言，也不能由回忆差异推断谁故意撒谎。",
+  "mechanism": {
+    "steps": [
+      "经历时编码不完整",
+      "后来信息可能混入",
+      "回忆时重新组织"
+    ],
+    "metaphorLimit": "拼图比喻重建过程，不代表每次回忆都错误，也不表示记忆由固定小块组成。"
+  },
+  "research_anchor": {
+    "credit": {
+      "year": "1974",
+      "author": "Loftus · Palmer"
+    },
+    "script_statements": [
+      {
+        "zh": "1974 年，研究者改变提问的措辞。",
+        "en": "In 1974, researchers changed question wording.",
+        "start": 6.315789473684211,
+        "end": 9.473684210526315
+      },
+      {
+        "zh": "参与者看过车辆事件，再回答问题。",
+        "en": "Viewers watched a vehicle event, then answered questions.",
+        "start": 9.473684210526315,
+        "end": 12.631578947368421
+      },
+      {
+        "zh": "不同措辞，影响了部分后续报告。",
+        "en": "Wording affected some later reports.",
+        "start": 12.631578947368421,
+        "end": 15.789473684210527
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "Loftus 与 Palmer：Reconstruction of automobile destruction（1974）",
+      "url": "https://doi.org/10.1016/S0022-5371(74)80011-3",
+      "note": "原始提问措辞与事件回忆研究。"
+    },
+    {
+      "title": "Loftus：研究出版档案",
+      "url": "https://faculty.sites.uci.edu/eloftus/publications/",
+      "note": "可查原始论文与后续记忆研究，不以故事代替实验。"
+    }
+  ],
+  "daily_application": [
+    {
+      "zh": "核对日期、照片和当时记录。",
+      "en": "Check dates, photos and contemporaneous records.",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579
+    },
+    {
+      "zh": "先问「你记得什么」，少放入暗示。",
+      "en": "Ask openly: what do you remember?",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211
+    },
+    {
+      "zh": "外部记录本身，也有视角与遗漏。",
+      "en": "External records also have limits.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842
+    }
+  ],
+  "closing": {
+    "type": "原创总结，研究者姓名标记出处",
+    "cues": [
+      {
+        "zh": "发现差异，先留一段核对的空间。",
+        "en": "When memories differ, leave room to check.",
+        "start": 66.3157894736842,
+        "end": 69.47368421052632
+      },
+      {
+        "zh": "记忆值得被听见，也值得被认真核查。",
+        "en": "Memory deserves both attention and careful checking.",
+        "start": 69.47368421052632,
+        "end": 72.63157894736842
+      },
+      {
+        "zh": "给过去，多一个可靠的参照。",
+        "en": "Give the past another reliable reference.",
+        "start": 72.63157894736842,
+        "end": 75.78947368421052
+      }
+    ]
+  },
+  "review_status": "已关联课程出处与证据边界，专业逐条审读待完成"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "listening",
+  "title": "为什么你越给建议，朋友越不想说？",
+  "duration": 75.78947368421052,
+  "cues": [
+    {
+      "zh": "你给了好多建议，朋友却安静了？",
+      "en": "You offered advice. Why did your friend go quiet?",
+      "start": 0,
+      "end": 3.1578947368421053,
+      "visual": "办法到了，理解到了吗？"
+    },
+    {
+      "zh": "也许办法先到了，理解还没到。",
+      "en": "Perhaps advice arrived before understanding.",
+      "start": 3.1578947368421053,
+      "end": 6.315789473684211,
+      "visual": "主动倾听，初次互动研究"
+    },
+    {
+      "zh": "2014 年，一项研究比较初次互动中的回应。",
+      "en": "A 2014 study compared responses in initial interactions.",
+      "start": 6.315789473684211,
+      "end": 9.473684210526315,
+      "visual": "主动倾听，初次互动研究"
+    },
+    {
+      "zh": "主动倾听，是其中被考察的方式。",
+      "en": "Active listening was one response style examined.",
+      "start": 9.473684210526315,
+      "end": 12.631578947368421,
+      "visual": "主动倾听，初次互动研究"
+    },
+    {
+      "zh": "研究场景有限，不能保证所有关系改善。",
+      "en": "Limited settings cannot guarantee every relationship improves.",
+      "start": 12.631578947368421,
+      "end": 15.789473684210527,
+      "visual": "主动倾听，初次互动研究"
+    },
+    {
+      "zh": "先把注意放在对方说的经历。",
+      "en": "Attend to the experience they describe.",
+      "start": 15.789473684210527,
+      "end": 22.105263157894736,
+      "visual": "听见 → 试着理解 → 核对"
+    },
+    {
+      "zh": "用不确定的语气，试着复述。",
+      "en": "Offer a tentative reflection.",
+      "start": 22.105263157894736,
+      "end": 28.42105263157895,
+      "visual": "听见 → 试着理解 → 核对"
+    },
+    {
+      "zh": "「你很失落，对吗？」给纠正留位置。",
+      "en": "“That felt disappointing?” leaves room for correction.",
+      "start": 28.42105263157895,
+      "end": 34.73684210526316,
+      "visual": "听见 → 试着理解 → 核对"
+    },
+    {
+      "zh": "核对之后，再问需要什么帮助。",
+      "en": "Then check what kind of help is wanted.",
+      "start": 34.73684210526316,
+      "end": 41.05263157894737,
+      "visual": "听见 → 试着理解 → 核对"
+    },
+    {
+      "zh": "理解感受，不等于赞同所有判断。",
+      "en": "Understanding a feeling need not endorse every judgment.",
+      "start": 41.05263157894737,
+      "end": 44.21052631578947,
+      "visual": "理解，不等于赞同全部"
+    },
+    {
+      "zh": "也不意味着你必须承接全部问题。",
+      "en": "You do not have to carry every problem.",
+      "start": 44.21052631578947,
+      "end": 47.36842105263158,
+      "visual": "理解，不等于赞同全部"
+    },
+    {
+      "zh": "遇到危险，安全与合适支持优先。",
+      "en": "Safety and appropriate support come first.",
+      "start": 47.36842105263158,
+      "end": 50.526315789473685,
+      "visual": "理解，不等于赞同全部"
+    },
+    {
+      "zh": "可以问「想说一会儿，还是一起想办法？」",
+      "en": "Ask: listen for a while, or explore solutions?",
+      "start": 50.526315789473685,
+      "end": 56.8421052631579,
+      "visual": "先问想被听见，还是想找办法"
+    },
+    {
+      "zh": "如果对方不想谈，也尊重这个选择。",
+      "en": "Respect a wish not to talk.",
+      "start": 56.8421052631579,
+      "end": 63.15789473684211,
+      "visual": "先问想被听见，还是想找办法"
+    },
+    {
+      "zh": "倾听需要练习，也需要彼此的边界。",
+      "en": "Listening needs practice and boundaries.",
+      "start": 63.15789473684211,
+      "end": 66.3157894736842,
+      "visual": "先问想被听见，还是想找办法"
+    },
+    {
+      "zh": "有时，最有用的是少抢一句。",
+      "en": "Sometimes it helps to leave a little more space.",
+      "start": 66.3157894736842,
+      "end": 69.47368421052632,
+      "visual": "把下一句话，留给对方"
+    },
+    {
+      "zh": "让对方有机会，把自己的故事说完整。",
+      "en": "Allow someone to finish their own story.",
+      "start": 69.47368421052632,
+      "end": 72.63157894736842,
+      "visual": "把下一句话，留给对方"
+    },
+    {
+      "zh": "把下一句话，留给正在说的人。",
+      "en": "Leave the next words to the person speaking.",
+      "start": 72.63157894736842,
+      "end": 75.78947368421052,
+      "visual": "把下一句话，留给对方"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Weger 等：The Relative Effectiveness of Active Listening in Initial Interactions",
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/10904018.2013.813234",
+      "note": "积极倾听在初次互动中的实验研究，适用范围有限。"
+    },
+    {
+      "title": "CDC：How to Listen and Support Someone in Need",
+      "url": "https://www.cdc.gov/emotional-well-being/conversations-matter/",
+      "note": "倾听、开放式问题与减少干扰的专业公共健康建议。"
+    }
+  ]
+}
