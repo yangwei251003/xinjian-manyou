@@ -1,0 +1,87 @@
+{
+  "id": "future-cost",
+  "title": "已经投进去的币",
+  "style": "像素街机 · 路线选择",
+  "duration": 56,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "sunk-cost"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 8,
+      "zh": "你投了三枚不能退的代币，才发现这个游戏不太好玩。",
+      "en": "You spent three non-refundable tokens and found the game uninteresting.",
+      "shot": "insert"
+    },
+    {
+      "start": 8,
+      "end": 12.6,
+      "zh": "已经付出、现在收不回来的三枚币，是沉没成本。",
+      "en": "The three spent and unrecoverable tokens are sunk costs.",
+      "shot": "locked"
+    },
+    {
+      "start": 12.6,
+      "end": 17,
+      "zh": "继续玩，或者现在离开，它们都留在机器里。",
+      "en": "They stay in the machine whichever option you choose.",
+      "shot": "locked"
+    },
+    {
+      "start": 17,
+      "end": 22.2,
+      "zh": "真正会被下一步改变的是后面二十分钟。",
+      "en": "What your next choice can change is the next twenty minutes.",
+      "shot": "fork"
+    },
+    {
+      "start": 22.2,
+      "end": 28,
+      "zh": "继续玩能得到什么？把时间留给另一件事又能得到什么？",
+      "en": "What would continuing give you? What would doing something else give you?",
+      "shot": "fork"
+    },
+    {
+      "start": 28,
+      "end": 33.2,
+      "zh": "如果还有一张票能退，退回的金额要算进现在的选择。",
+      "en": "If a ticket is refundable, include that refund in today’s decision.",
+      "shot": "refund"
+    },
+    {
+      "start": 33.2,
+      "end": 39,
+      "zh": "违约代价、剩余乐趣和未来学习机会，也仍然相关。",
+      "en": "Switching costs, remaining enjoyment, and future learning can still matter.",
+      "shot": "refund"
+    },
+    {
+      "start": 39,
+      "end": 48,
+      "zh": "把画面停在现在。假如刚到这儿，你会怎么用剩下的时间？",
+      "en": "Pause at the present. If you had just arrived, how would you spend the remaining time?",
+      "shot": "reset"
+    },
+    {
+      "start": 48,
+      "end": 56,
+      "zh": "选择留下或转身，都用下一步的收获和代价作理由。",
+      "en": "Choose to stay or leave based on what the next step costs and offers.",
+      "shot": "credits"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Arkes 与 Blumer：The Psychology of Sunk Cost",
+      "url": "https://www.sciencedirect.com/science/article/pii/0749597885900494",
+      "note": "沉没成本效应的经典实验与现场研究。"
+    },
+    {
+      "title": "Thorsteinson 与 Billings：Progress Decisions Involving Time: Sunk Cost or Completion Effects",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/bdm.2405",
+      "note": "2024 年研究区分时间投入与完成进度，显示效应大小及任务差异。"
+    }
+  ]
+}

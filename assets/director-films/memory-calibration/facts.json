@@ -1,0 +1,55 @@
+{
+  "id": "memory-calibration",
+  "lessonFacts": [
+    {
+      "lessonId": "memory",
+      "core_claim": "回忆不是播放录像；原经历、后续信息和提取时的推断，都可能影响记得的内容。",
+      "evidence_limits": "本故事不是对读者进行错误记忆诱导。不能用记忆研究否定某人的创伤经历或目击证言，也不能由回忆差异推断谁故意撒谎。",
+      "mechanism": {
+        "steps": [
+          "经历时编码不完整",
+          "后来信息可能混入",
+          "回忆时重新组织"
+        ],
+        "metaphorLimit": "拼图比喻重建过程，不代表每次回忆都错误，也不表示记忆由固定小块组成。"
+      },
+      "sources": [
+        {
+          "title": "Loftus 与 Palmer：Reconstruction of automobile destruction（1974）",
+          "url": "https://doi.org/10.1016/S0022-5371(74)80011-3",
+          "note": "原始提问措辞与事件回忆研究。"
+        },
+        {
+          "title": "Loftus：研究出版档案",
+          "url": "https://faculty.sites.uci.edu/eloftus/publications/",
+          "note": "可查原始论文与后续记忆研究，不以故事代替实验。"
+        }
+      ]
+    },
+    {
+      "lessonId": "metacognition",
+      "core_claim": "元认知是观察和调节自己的学习；“感觉熟悉”需要用实际尝试来校准。",
+      "evidence_limits": "这个练习帮助发现理解缺口，不是元认知能力测验。学习效果取决于材料、反馈和持续练习；也不能据此承诺固定幅度的成绩提升。",
+      "mechanism": {
+        "steps": [
+          "预测自己会什么",
+          "独立尝试暴露缺口",
+          "用反馈调整策略"
+        ],
+        "metaphorLimit": "仪表盘比喻自我监测；熟悉感不是完全没用，但需用实际表现校准。"
+      },
+      "sources": [
+        {
+          "title": "National Academies：How People Learn II，学习与知识",
+          "url": "https://www.nationalacademies.org/read/24783/chapter/6",
+          "note": "研究综述，讨论元认知、学习者监测与调节。"
+        },
+        {
+          "title": "Cornell：Metacognitive Strategies",
+          "url": "https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/metacognitive-strategies",
+          "note": "提供在实际学习中计划、监测与评价的教学方法。"
+        }
+      ]
+    }
+  ]
+}

@@ -46,11 +46,21 @@
       }
     ],
     "video": {
-      "src": "assets/videos/attention/film.mp4",
-      "poster": "assets/videos/attention/poster.webp",
-      "meta": "assets/videos/attention/script.json",
-      "title": "你看见了多少，又漏掉了什么？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/attention-limits/film.mp4",
+      "poster": "assets/director-films/attention-limits/poster.webp",
+      "meta": "assets/director-films/attention-limits/script.json",
+      "title": "球场上的第七位",
+      "duration": 54,
+      "filmId": "attention-limits",
+      "style": "俯拍球场 · 观察挑战",
+      "color": "#174b68",
+      "relatedLessons": [
+        {
+          "id": "attention",
+          "title": "选择性注意"
+        }
+      ],
+      "collection": true
     }
   },
   "memory": {
@@ -94,11 +104,25 @@
       }
     ],
     "video": {
-      "src": "assets/videos/memory/film.mp4",
-      "poster": "assets/videos/memory/poster.webp",
-      "meta": "assets/videos/memory/script.json",
-      "title": "你那么确定，记忆就一定准确？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/memory-calibration/film.mp4",
+      "poster": "assets/director-films/memory-calibration/poster.webp",
+      "meta": "assets/director-films/memory-calibration/script.json",
+      "title": "同一声碰撞，两种回忆",
+      "duration": 61,
+      "filmId": "memory-calibration",
+      "style": "胶片档案 · 证词剪接",
+      "color": "#b45238",
+      "relatedLessons": [
+        {
+          "id": "memory",
+          "title": "记忆重构"
+        },
+        {
+          "id": "metacognition",
+          "title": "元认知"
+        }
+      ],
+      "collection": true
     }
   },
   "metacognition": {
@@ -142,11 +166,25 @@
       }
     ],
     "video": {
-      "src": "assets/videos/metacognition/film.mp4",
-      "poster": "assets/videos/metacognition/poster.webp",
-      "meta": "assets/videos/metacognition/script.json",
-      "title": "你以为会了，试过才知道？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/memory-calibration/film.mp4",
+      "poster": "assets/director-films/memory-calibration/poster.webp",
+      "meta": "assets/director-films/memory-calibration/script.json",
+      "title": "同一声碰撞，两种回忆",
+      "duration": 61,
+      "filmId": "memory-calibration",
+      "style": "胶片档案 · 证词剪接",
+      "color": "#b45238",
+      "relatedLessons": [
+        {
+          "id": "memory",
+          "title": "记忆重构"
+        },
+        {
+          "id": "metacognition",
+          "title": "元认知"
+        }
+      ],
+      "collection": true
     }
   },
   "sleep": {
@@ -190,11 +228,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/sleep/film.mp4",
-      "poster": "assets/videos/sleep/poster.webp",
-      "meta": "assets/videos/sleep/script.json",
-      "title": "睡觉，真的会耽误学习吗？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/learning-loop/film.mp4",
+      "poster": "assets/director-films/learning-loop/poster.webp",
+      "meta": "assets/director-films/learning-loop/script.json",
+      "title": "把书合上以后",
+      "duration": 65,
+      "filmId": "learning-loop",
+      "style": "俯视书桌 · 纸页折叠",
+      "color": "#bb832e",
+      "relatedLessons": [
+        {
+          "id": "retrieval",
+          "title": "提取练习"
+        },
+        {
+          "id": "habits",
+          "title": "习惯"
+        },
+        {
+          "id": "sleep",
+          "title": "睡眠"
+        }
+      ],
+      "collection": true
     }
   },
   "stress": {
@@ -238,11 +294,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/stress/film.mp4",
-      "poster": "assets/videos/stress/poster.webp",
-      "meta": "assets/videos/stress/script.json",
-      "title": "为什么书包不重，心却很累？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/emotion-context/film.mp4",
+      "poster": "assets/director-films/emotion-context/poster.webp",
+      "meta": "assets/director-films/emotion-context/script.json",
+      "title": "心跳没有字幕",
+      "duration": 58,
+      "filmId": "emotion-context",
+      "style": "舞台灯光 · 同一身体信号",
+      "color": "#82427a",
+      "relatedLessons": [
+        {
+          "id": "emotions",
+          "title": "情绪"
+        },
+        {
+          "id": "stress",
+          "title": "压力"
+        },
+        {
+          "id": "reappraisal",
+          "title": "认知重评"
+        }
+      ],
+      "collection": true
     }
   },
   "brain": {
@@ -286,11 +360,25 @@
       }
     ],
     "video": {
-      "src": "assets/videos/brain/film.mp4",
-      "poster": "assets/videos/brain/poster.webp",
-      "meta": "assets/videos/brain/script.json",
-      "title": "脑袋里，真有一个数学按钮吗？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/measurement-inference/film.mp4",
+      "poster": "assets/director-films/measurement-inference/poster.webp",
+      "meta": "assets/director-films/measurement-inference/script.json",
+      "title": "测得稳，真的测对了吗",
+      "duration": 63,
+      "filmId": "measurement-inference",
+      "style": "测量蓝图 · 仪器与脑图",
+      "color": "#2c5c9d",
+      "relatedLessons": [
+        {
+          "id": "brain",
+          "title": "认知神经科学"
+        },
+        {
+          "id": "test-validity",
+          "title": "心理测量"
+        }
+      ],
+      "collection": true
     }
   },
   "emotions": {
@@ -334,11 +422,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/emotions/film.mp4",
-      "poster": "assets/videos/emotions/poster.webp",
-      "meta": "assets/videos/emotions/script.json",
-      "title": "同样心跳快，为什么感受不同？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/emotion-context/film.mp4",
+      "poster": "assets/director-films/emotion-context/poster.webp",
+      "meta": "assets/director-films/emotion-context/script.json",
+      "title": "心跳没有字幕",
+      "duration": 58,
+      "filmId": "emotion-context",
+      "style": "舞台灯光 · 同一身体信号",
+      "color": "#82427a",
+      "relatedLessons": [
+        {
+          "id": "emotions",
+          "title": "情绪"
+        },
+        {
+          "id": "stress",
+          "title": "压力"
+        },
+        {
+          "id": "reappraisal",
+          "title": "认知重评"
+        }
+      ],
+      "collection": true
     }
   },
   "reappraisal": {
@@ -382,11 +488,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/reappraisal/film.mp4",
-      "poster": "assets/videos/reappraisal/poster.webp",
-      "meta": "assets/videos/reappraisal/script.json",
-      "title": "计划变了，今天就全毁了吗？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/emotion-context/film.mp4",
+      "poster": "assets/director-films/emotion-context/poster.webp",
+      "meta": "assets/director-films/emotion-context/script.json",
+      "title": "心跳没有字幕",
+      "duration": 58,
+      "filmId": "emotion-context",
+      "style": "舞台灯光 · 同一身体信号",
+      "color": "#82427a",
+      "relatedLessons": [
+        {
+          "id": "emotions",
+          "title": "情绪"
+        },
+        {
+          "id": "stress",
+          "title": "压力"
+        },
+        {
+          "id": "reappraisal",
+          "title": "认知重评"
+        }
+      ],
+      "collection": true
     }
   },
   "habits": {
@@ -430,11 +554,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/habits/film.mp4",
-      "poster": "assets/videos/habits/poster.webp",
-      "meta": "assets/videos/habits/script.json",
-      "title": "你缺的是自律，还是一个好开头？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/learning-loop/film.mp4",
+      "poster": "assets/director-films/learning-loop/poster.webp",
+      "meta": "assets/director-films/learning-loop/script.json",
+      "title": "把书合上以后",
+      "duration": 65,
+      "filmId": "learning-loop",
+      "style": "俯视书桌 · 纸页折叠",
+      "color": "#bb832e",
+      "relatedLessons": [
+        {
+          "id": "retrieval",
+          "title": "提取练习"
+        },
+        {
+          "id": "habits",
+          "title": "习惯"
+        },
+        {
+          "id": "sleep",
+          "title": "睡眠"
+        }
+      ],
+      "collection": true
     }
   },
   "personality": {
@@ -478,11 +620,25 @@
       }
     ],
     "video": {
-      "src": "assets/videos/personality/film.mp4",
-      "poster": "assets/videos/personality/poster.webp",
-      "meta": "assets/videos/personality/script.json",
-      "title": "安静的人，为什么也会站上台？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/comparison-personality/film.mp4",
+      "poster": "assets/director-films/comparison-personality/poster.webp",
+      "meta": "assets/director-films/comparison-personality/script.json",
+      "title": "把镜头拉远一点",
+      "duration": 50,
+      "filmId": "comparison-personality",
+      "style": "摄影画廊 · 取景框拉远",
+      "color": "#388575",
+      "relatedLessons": [
+        {
+          "id": "comparison",
+          "title": "社会比较"
+        },
+        {
+          "id": "personality",
+          "title": "人格维度"
+        }
+      ],
+      "collection": true
     }
   },
   "comparison": {
@@ -526,11 +682,25 @@
       }
     ],
     "video": {
-      "src": "assets/videos/comparison/film.mp4",
-      "poster": "assets/videos/comparison/poster.webp",
-      "meta": "assets/videos/comparison/script.json",
-      "title": "为什么别人的满分，总照着你的缺口？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/comparison-personality/film.mp4",
+      "poster": "assets/director-films/comparison-personality/poster.webp",
+      "meta": "assets/director-films/comparison-personality/script.json",
+      "title": "把镜头拉远一点",
+      "duration": 50,
+      "filmId": "comparison-personality",
+      "style": "摄影画廊 · 取景框拉远",
+      "color": "#388575",
+      "relatedLessons": [
+        {
+          "id": "comparison",
+          "title": "社会比较"
+        },
+        {
+          "id": "personality",
+          "title": "人格维度"
+        }
+      ],
+      "collection": true
     }
   },
   "attachment": {
@@ -574,11 +744,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/attachment/film.mp4",
-      "poster": "assets/videos/attachment/poster.webp",
-      "meta": "assets/videos/attachment/script.json",
-      "title": "你想确认有人在，是不够独立吗？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/support-exploration/film.mp4",
+      "poster": "assets/director-films/support-exploration/poster.webp",
+      "meta": "assets/director-films/support-exploration/script.json",
+      "title": "独立也有补给站",
+      "duration": 61,
+      "filmId": "support-exploration",
+      "style": "剪纸山径 · 一次远足",
+      "color": "#575ea2",
+      "relatedLessons": [
+        {
+          "id": "attachment",
+          "title": "依恋"
+        },
+        {
+          "id": "support",
+          "title": "社会支持"
+        },
+        {
+          "id": "help-seeking",
+          "title": "求助"
+        }
+      ],
+      "collection": true
     }
   },
   "attribution": {
@@ -622,11 +810,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/attribution/film.mp4",
-      "poster": "assets/videos/attribution/poster.webp",
-      "meta": "assets/videos/attribution/script.json",
-      "title": "他没回复，就一定是不在乎？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/communication-gap/film.mp4",
+      "poster": "assets/director-films/communication-gap/poster.webp",
+      "meta": "assets/director-films/communication-gap/script.json",
+      "title": "站到他那一边",
+      "duration": 62,
+      "filmId": "communication-gap",
+      "style": "机械工坊 · 视角翻转",
+      "color": "#75852a",
+      "relatedLessons": [
+        {
+          "id": "attribution",
+          "title": "归因"
+        },
+        {
+          "id": "knowledge-curse",
+          "title": "知识诅咒"
+        },
+        {
+          "id": "listening",
+          "title": "倾听"
+        }
+      ],
+      "collection": true
     }
   },
   "conformity": {
@@ -670,11 +876,25 @@
       }
     ],
     "video": {
-      "src": "assets/videos/conformity/film.mp4",
-      "poster": "assets/videos/conformity/poster.webp",
-      "meta": "assets/videos/conformity/script.json",
-      "title": "大家都选它，你还相信自己的眼睛吗？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/evidence-agreement/film.mp4",
+      "poster": "assets/director-films/evidence-agreement/poster.webp",
+      "meta": "assets/director-films/evidence-agreement/script.json",
+      "title": "2、4、6，试个反例",
+      "duration": 61,
+      "filmId": "evidence-agreement",
+      "style": "黑板游戏 · 数字谜题",
+      "color": "#38624d",
+      "relatedLessons": [
+        {
+          "id": "conformity",
+          "title": "从众"
+        },
+        {
+          "id": "confirmation-bias",
+          "title": "确认偏误"
+        }
+      ],
+      "collection": true
     }
   },
   "listening": {
@@ -718,11 +938,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/listening/film.mp4",
-      "poster": "assets/videos/listening/poster.webp",
-      "meta": "assets/videos/listening/script.json",
-      "title": "为什么你越给建议，朋友越不想说？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/communication-gap/film.mp4",
+      "poster": "assets/director-films/communication-gap/poster.webp",
+      "meta": "assets/director-films/communication-gap/script.json",
+      "title": "站到他那一边",
+      "duration": 62,
+      "filmId": "communication-gap",
+      "style": "机械工坊 · 视角翻转",
+      "color": "#75852a",
+      "relatedLessons": [
+        {
+          "id": "attribution",
+          "title": "归因"
+        },
+        {
+          "id": "knowledge-curse",
+          "title": "知识诅咒"
+        },
+        {
+          "id": "listening",
+          "title": "倾听"
+        }
+      ],
+      "collection": true
     }
   },
   "framing": {
@@ -766,11 +1004,21 @@
       }
     ],
     "video": {
-      "src": "assets/videos/framing/film.mp4",
-      "poster": "assets/videos/framing/poster.webp",
-      "meta": "assets/videos/framing/script.json",
-      "title": "九成机会，为什么听起来更诱人？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/framing-choice/film.mp4",
+      "poster": "assets/director-films/framing-choice/poster.webp",
+      "meta": "assets/director-films/framing-choice/script.json",
+      "title": "一张票的两面",
+      "duration": 57,
+      "filmId": "framing-choice",
+      "style": "双色印刷 · 实物翻面",
+      "color": "#c64a34",
+      "relatedLessons": [
+        {
+          "id": "framing",
+          "title": "框架效应"
+        }
+      ],
+      "collection": true
     }
   },
   "sunk-cost": {
@@ -814,11 +1062,21 @@
       }
     ],
     "video": {
-      "src": "assets/videos/sunk-cost/film.mp4",
-      "poster": "assets/videos/sunk-cost/poster.webp",
-      "meta": "assets/videos/sunk-cost/script.json",
-      "title": "已经花了两小时，就一定要继续？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/future-cost/film.mp4",
+      "poster": "assets/director-films/future-cost/poster.webp",
+      "meta": "assets/director-films/future-cost/script.json",
+      "title": "已经投进去的币",
+      "duration": 56,
+      "filmId": "future-cost",
+      "style": "像素街机 · 路线选择",
+      "color": "#7864bd",
+      "relatedLessons": [
+        {
+          "id": "sunk-cost",
+          "title": "沉没成本"
+        }
+      ],
+      "collection": true
     }
   },
   "retrieval": {
@@ -862,11 +1120,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/retrieval/film.mp4",
-      "poster": "assets/videos/retrieval/poster.webp",
-      "meta": "assets/videos/retrieval/script.json",
-      "title": "越觉得费劲，反而记得更久？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/learning-loop/film.mp4",
+      "poster": "assets/director-films/learning-loop/poster.webp",
+      "meta": "assets/director-films/learning-loop/script.json",
+      "title": "把书合上以后",
+      "duration": 65,
+      "filmId": "learning-loop",
+      "style": "俯视书桌 · 纸页折叠",
+      "color": "#bb832e",
+      "relatedLessons": [
+        {
+          "id": "retrieval",
+          "title": "提取练习"
+        },
+        {
+          "id": "habits",
+          "title": "习惯"
+        },
+        {
+          "id": "sleep",
+          "title": "睡眠"
+        }
+      ],
+      "collection": true
     }
   },
   "help-seeking": {
@@ -910,11 +1186,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/help-seeking/film.mp4",
-      "poster": "assets/videos/help-seeking/poster.webp",
-      "meta": "assets/videos/help-seeking/script.json",
-      "title": "求助，真的要等到撑不住吗？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/support-exploration/film.mp4",
+      "poster": "assets/director-films/support-exploration/poster.webp",
+      "meta": "assets/director-films/support-exploration/script.json",
+      "title": "独立也有补给站",
+      "duration": 61,
+      "filmId": "support-exploration",
+      "style": "剪纸山径 · 一次远足",
+      "color": "#575ea2",
+      "relatedLessons": [
+        {
+          "id": "attachment",
+          "title": "依恋"
+        },
+        {
+          "id": "support",
+          "title": "社会支持"
+        },
+        {
+          "id": "help-seeking",
+          "title": "求助"
+        }
+      ],
+      "collection": true
     }
   },
   "boundaries": {
@@ -958,11 +1252,21 @@
       }
     ],
     "video": {
-      "src": "assets/videos/boundaries/film.mp4",
-      "poster": "assets/videos/boundaries/poster.webp",
-      "meta": "assets/videos/boundaries/script.json",
-      "title": "说了「不行」，还是好朋友吗？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/clear-boundaries/film.mp4",
+      "poster": "assets/director-films/clear-boundaries/poster.webp",
+      "meta": "assets/director-films/clear-boundaries/script.json",
+      "title": "把今天的时间摊开",
+      "duration": 56,
+      "filmId": "clear-boundaries",
+      "style": "剪贴剧场 · 时间带剪裁",
+      "color": "#ce624e",
+      "relatedLessons": [
+        {
+          "id": "boundaries",
+          "title": "边界"
+        }
+      ],
+      "collection": true
     }
   },
   "support": {
@@ -1006,11 +1310,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/support/film.mp4",
-      "poster": "assets/videos/support/poster.webp",
-      "meta": "assets/videos/support/script.json",
-      "title": "陪朋友走一段，需要救下他的一切吗？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/support-exploration/film.mp4",
+      "poster": "assets/director-films/support-exploration/poster.webp",
+      "meta": "assets/director-films/support-exploration/script.json",
+      "title": "独立也有补给站",
+      "duration": 61,
+      "filmId": "support-exploration",
+      "style": "剪纸山径 · 一次远足",
+      "color": "#575ea2",
+      "relatedLessons": [
+        {
+          "id": "attachment",
+          "title": "依恋"
+        },
+        {
+          "id": "support",
+          "title": "社会支持"
+        },
+        {
+          "id": "help-seeking",
+          "title": "求助"
+        }
+      ],
+      "collection": true
     }
   },
   "correlation": {
@@ -1054,11 +1376,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/correlation/film.mp4",
-      "poster": "assets/videos/correlation/poster.webp",
-      "meta": "assets/videos/correlation/script.json",
-      "title": "冰淇淋卖多了，树荫为什么更挤？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/research-chain/film.mp4",
+      "poster": "assets/director-films/research-chain/poster.webp",
+      "meta": "assets/director-films/research-chain/script.json",
+      "title": "一辆冰淇淋车的调查",
+      "duration": 69,
+      "filmId": "research-chain",
+      "style": "微缩校园 · 数据从现场长出来",
+      "color": "#ad6244",
+      "relatedLessons": [
+        {
+          "id": "sampling",
+          "title": "抽样"
+        },
+        {
+          "id": "correlation",
+          "title": "相关与因果"
+        },
+        {
+          "id": "replication",
+          "title": "可重复性"
+        }
+      ],
+      "collection": true
     }
   },
   "sampling": {
@@ -1102,11 +1442,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/sampling/film.mp4",
-      "poster": "assets/videos/sampling/poster.webp",
-      "meta": "assets/videos/sampling/script.json",
-      "title": "全班都想打篮球？你到底问了谁？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/research-chain/film.mp4",
+      "poster": "assets/director-films/research-chain/poster.webp",
+      "meta": "assets/director-films/research-chain/script.json",
+      "title": "一辆冰淇淋车的调查",
+      "duration": 69,
+      "filmId": "research-chain",
+      "style": "微缩校园 · 数据从现场长出来",
+      "color": "#ad6244",
+      "relatedLessons": [
+        {
+          "id": "sampling",
+          "title": "抽样"
+        },
+        {
+          "id": "correlation",
+          "title": "相关与因果"
+        },
+        {
+          "id": "replication",
+          "title": "可重复性"
+        }
+      ],
+      "collection": true
     }
   },
   "replication": {
@@ -1150,11 +1508,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/replication/film.mp4",
-      "poster": "assets/videos/replication/poster.webp",
-      "meta": "assets/videos/replication/script.json",
-      "title": "一篇研究说有效，就该马上相信吗？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/research-chain/film.mp4",
+      "poster": "assets/director-films/research-chain/poster.webp",
+      "meta": "assets/director-films/research-chain/script.json",
+      "title": "一辆冰淇淋车的调查",
+      "duration": 69,
+      "filmId": "research-chain",
+      "style": "微缩校园 · 数据从现场长出来",
+      "color": "#ad6244",
+      "relatedLessons": [
+        {
+          "id": "sampling",
+          "title": "抽样"
+        },
+        {
+          "id": "correlation",
+          "title": "相关与因果"
+        },
+        {
+          "id": "replication",
+          "title": "可重复性"
+        }
+      ],
+      "collection": true
     }
   },
   "knowledge-curse": {
@@ -1252,11 +1628,29 @@
       }
     ],
     "video": {
-      "src": "assets/videos/knowledge-curse/film.mp4",
-      "poster": "assets/videos/knowledge-curse/poster.webp",
-      "meta": "assets/videos/knowledge-curse/script.json",
-      "title": "为什么你的「很简单」，别人听不懂？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/communication-gap/film.mp4",
+      "poster": "assets/director-films/communication-gap/poster.webp",
+      "meta": "assets/director-films/communication-gap/script.json",
+      "title": "站到他那一边",
+      "duration": 62,
+      "filmId": "communication-gap",
+      "style": "机械工坊 · 视角翻转",
+      "color": "#75852a",
+      "relatedLessons": [
+        {
+          "id": "attribution",
+          "title": "归因"
+        },
+        {
+          "id": "knowledge-curse",
+          "title": "知识诅咒"
+        },
+        {
+          "id": "listening",
+          "title": "倾听"
+        }
+      ],
+      "collection": true
     }
   },
   "confirmation-bias": {
@@ -1354,11 +1748,25 @@
       }
     ],
     "video": {
-      "src": "assets/videos/confirmation-bias/film.mp4",
-      "poster": "assets/videos/confirmation-bias/poster.webp",
-      "meta": "assets/videos/confirmation-bias/script.json",
-      "title": "猜对两次，为什么还可能猜错规律？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/evidence-agreement/film.mp4",
+      "poster": "assets/director-films/evidence-agreement/poster.webp",
+      "meta": "assets/director-films/evidence-agreement/script.json",
+      "title": "2、4、6，试个反例",
+      "duration": 61,
+      "filmId": "evidence-agreement",
+      "style": "黑板游戏 · 数字谜题",
+      "color": "#38624d",
+      "relatedLessons": [
+        {
+          "id": "conformity",
+          "title": "从众"
+        },
+        {
+          "id": "confirmation-bias",
+          "title": "确认偏误"
+        }
+      ],
+      "collection": true
     }
   },
   "test-validity": {
@@ -1456,11 +1864,25 @@
       }
     ],
     "video": {
-      "src": "assets/videos/test-validity/film.mp4",
-      "poster": "assets/videos/test-validity/poster.webp",
-      "meta": "assets/videos/test-validity/script.json",
-      "title": "每次都测一样，就说明测得准？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/measurement-inference/film.mp4",
+      "poster": "assets/director-films/measurement-inference/poster.webp",
+      "meta": "assets/director-films/measurement-inference/script.json",
+      "title": "测得稳，真的测对了吗",
+      "duration": 63,
+      "filmId": "measurement-inference",
+      "style": "测量蓝图 · 仪器与脑图",
+      "color": "#2c5c9d",
+      "relatedLessons": [
+        {
+          "id": "brain",
+          "title": "认知神经科学"
+        },
+        {
+          "id": "test-validity",
+          "title": "心理测量"
+        }
+      ],
+      "collection": true
     }
   },
   "gratitude": {
@@ -1558,11 +1980,21 @@
       }
     ],
     "video": {
-      "src": "assets/videos/gratitude/film.mp4",
-      "poster": "assets/videos/gratitude/poster.webp",
-      "meta": "assets/videos/gratitude/script.json",
-      "title": "糟糕的一天，还能写下什么？",
-      "duration": 75.78947368421052
+      "src": "assets/director-films/gratitude-both/film.mp4",
+      "poster": "assets/director-films/gratitude-both/poster.webp",
+      "meta": "assets/director-films/gratitude-both/script.json",
+      "title": "给今天留两个位置",
+      "duration": 63,
+      "filmId": "gratitude-both",
+      "style": "水彩雨景 · 展开日记",
+      "color": "#526984",
+      "relatedLessons": [
+        {
+          "id": "gratitude",
+          "title": "感恩记录"
+        }
+      ],
+      "collection": true
     }
   }
 }

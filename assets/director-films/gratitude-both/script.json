@@ -1,0 +1,101 @@
+{
+  "id": "gratitude-both",
+  "title": "给今天留两个位置",
+  "style": "水彩雨景 · 展开日记",
+  "duration": 63,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "gratitude"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 5.1,
+      "zh": "放学下雨，公交刚走，你的鞋也湿了。",
+      "en": "It rains after school. You miss the bus and your shoes get wet.",
+      "shot": "rainwalk"
+    },
+    {
+      "start": 5.1,
+      "end": 11,
+      "zh": "等车的时候，有人把伞往你这边挪了一点。",
+      "en": "While you wait, someone shifts their umbrella to cover you.",
+      "shot": "rainwalk"
+    },
+    {
+      "start": 11,
+      "end": 16.3,
+      "zh": "左页记今天的难处，右页记那一小段被照顾。",
+      "en": "Put today’s difficulty on the left page and the small kindness on the right.",
+      "shot": "two-pages"
+    },
+    {
+      "start": 16.3,
+      "end": 22,
+      "zh": "两件事都发生过，可以都留下来。",
+      "en": "Both things happened. Both can stay on the page.",
+      "shot": "two-pages"
+    },
+    {
+      "start": 22,
+      "end": 27,
+      "zh": "写具体一点。“他挪了半把伞，我的书包没再淋湿。”",
+      "en": "Be specific. “They moved the umbrella and my bag stayed dry.”",
+      "shot": "detail"
+    },
+    {
+      "start": 27,
+      "end": 32,
+      "zh": "感恩记录是在练习留意这些本来容易过去的细节。",
+      "en": "Gratitude journaling practices noticing details that can slip by.",
+      "shot": "detail"
+    },
+    {
+      "start": 32,
+      "end": 37.2,
+      "zh": "埃蒙斯和麦卡洛比较过不同记录任务。",
+      "en": "Emmons and McCullough compared different journaling assignments.",
+      "shot": "experiment"
+    },
+    {
+      "start": 37.2,
+      "end": 44,
+      "zh": "与对照组相比，感恩记录组有些福祉指标更好。",
+      "en": "The gratitude groups did better on some well-being measures than control groups.",
+      "shot": "experiment"
+    },
+    {
+      "start": 44,
+      "end": 49,
+      "zh": "把这当成可选的小练习。今天找不到也可以空着。",
+      "en": "Treat it as an optional exercise. You can leave the page blank today.",
+      "shot": "optional"
+    },
+    {
+      "start": 49,
+      "end": 54,
+      "zh": "刚才的双页写法，是把这个思路用在日常的示范。",
+      "en": "The two-page layout is a practical illustration.",
+      "shot": "optional"
+    },
+    {
+      "start": 54,
+      "end": 63,
+      "zh": "下次写日记时，给困难和支持各留一个位置。",
+      "en": "Next time you journal, give both hardship and support a place.",
+      "shot": "close-book"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Emmons 与 McCullough：Counting Blessings Versus Burdens（2003）",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12585811/",
+      "note": "多项感恩记录实验的原始摘要。支持的是特定人群、活动与指标中的差异。"
+    },
+    {
+      "title": "Noba：Happiness — The Science of Subjective Well-Being",
+      "url": "https://nobaproject.com/modules/happiness-the-science-of-subjective-well-being",
+      "note": "福祉研究的教材背景，介绍测量、相关因素与不同层次的幸福感。"
+    }
+  ]
+}

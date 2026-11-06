@@ -4,3 +4,4 @@
 # Keep vendored license/source bytes while ignoring upstream whitespace conventions.
 production/narrative/reference/** -whitespace
 production/narrative/assets/*-OFL.txt -whitespace
+production/director-cuts/assets/*-OFL.txt -whitespace

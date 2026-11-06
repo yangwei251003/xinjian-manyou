@@ -1,0 +1,39 @@
+.film-library{background:#f6efe1;color:#253836}
+.library-top{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:18px max(24px,calc((100% - 1180px)/2));
+  border-bottom:1px solid #d5cbbc;font-size:14px;white-space:nowrap
+}
+.library-top a{color:#2c655a;text-decoration:none;font-weight:750}
+.library-top span{color:#585950}
+.library-main{max-width:1230px;margin:0 auto;padding:38px 25px 68px}
+.library-intro{max-width:760px;padding-bottom:30px}
+.library-kicker{margin:0 0 12px;color:#796a4f;font-size:13px;font-weight:800;letter-spacing:.09em}
+.library-intro h1{margin:0 0 14px;font-size:clamp(30px,5vw,62px);line-height:1.17;letter-spacing:-.045em}
+.library-intro p:last-child{margin:0;font-size:17px;line-height:1.7;color:#485b55}
+.film-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:23px}
+.film-tile{
+  display:flex;flex-direction:column;min-width:0;overflow:hidden;
+  border:1px solid #d4c9b5;border-radius:12px;background:#fffbf1
+}
+.film-tile-link{display:block;text-decoration:none;color:inherit}
+.film-tile-link:hover .film-tile-title{text-decoration:underline;text-underline-offset:3px}
+.film-tile-poster{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;background:var(--film-accent,#325c51)}
+.film-tile-body{padding:13px 16px 16px;border-top:4px solid var(--film-accent,#325c51)}
+.film-tile-meta{display:flex;justify-content:space-between;align-items:baseline;gap:8px;color:#52655b;font-size:12px}
+.film-tile-title{font-size:20px;line-height:1.38;margin:5px 0 0}
+.film-tile a[aria-current]{box-shadow:inset 0 0 0 2px #b17542}
+.film-library a:focus-visible,.film-library button:focus-visible{outline:3px solid #ab6434;outline-offset:3px}
+#now-playing{margin:0 0 30px;scroll-margin-top:18px}
+#now-playing .lesson-film{margin:0}
+#now-playing .film-frame{max-width:min(100%,960px);margin-inline:auto}
+#now-playing .film-connections a{white-space:nowrap;color:#bbd4ff}
+#now-playing .film-live span{font-size:18px}
+#film-loading{grid-column:1/-1}
+@media(max-width:850px){.film-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}}
+@media(max-width:550px){
+  .library-top{padding:14px 16px}
+  .library-main{padding:25px 16px 50px}
+  .film-grid{grid-template-columns:1fr}
+  .film-tile-title{font-size:20px}
+}

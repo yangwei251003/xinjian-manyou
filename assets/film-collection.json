@@ -1,0 +1,296 @@
+[
+  {
+    "src": "assets/director-films/attention-limits/film.mp4",
+    "poster": "assets/director-films/attention-limits/poster.webp",
+    "meta": "assets/director-films/attention-limits/script.json",
+    "title": "球场上的第七位",
+    "duration": 54,
+    "filmId": "attention-limits",
+    "style": "俯拍球场 · 观察挑战",
+    "color": "#174b68",
+    "relatedLessons": [
+      {
+        "id": "attention",
+        "title": "选择性注意"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/memory-calibration/film.mp4",
+    "poster": "assets/director-films/memory-calibration/poster.webp",
+    "meta": "assets/director-films/memory-calibration/script.json",
+    "title": "同一声碰撞，两种回忆",
+    "duration": 61,
+    "filmId": "memory-calibration",
+    "style": "胶片档案 · 证词剪接",
+    "color": "#b45238",
+    "relatedLessons": [
+      {
+        "id": "memory",
+        "title": "记忆重构"
+      },
+      {
+        "id": "metacognition",
+        "title": "元认知"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/learning-loop/film.mp4",
+    "poster": "assets/director-films/learning-loop/poster.webp",
+    "meta": "assets/director-films/learning-loop/script.json",
+    "title": "把书合上以后",
+    "duration": 65,
+    "filmId": "learning-loop",
+    "style": "俯视书桌 · 纸页折叠",
+    "color": "#bb832e",
+    "relatedLessons": [
+      {
+        "id": "retrieval",
+        "title": "提取练习"
+      },
+      {
+        "id": "habits",
+        "title": "习惯"
+      },
+      {
+        "id": "sleep",
+        "title": "睡眠"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/emotion-context/film.mp4",
+    "poster": "assets/director-films/emotion-context/poster.webp",
+    "meta": "assets/director-films/emotion-context/script.json",
+    "title": "心跳没有字幕",
+    "duration": 58,
+    "filmId": "emotion-context",
+    "style": "舞台灯光 · 同一身体信号",
+    "color": "#82427a",
+    "relatedLessons": [
+      {
+        "id": "emotions",
+        "title": "情绪"
+      },
+      {
+        "id": "stress",
+        "title": "压力"
+      },
+      {
+        "id": "reappraisal",
+        "title": "认知重评"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/comparison-personality/film.mp4",
+    "poster": "assets/director-films/comparison-personality/poster.webp",
+    "meta": "assets/director-films/comparison-personality/script.json",
+    "title": "把镜头拉远一点",
+    "duration": 50,
+    "filmId": "comparison-personality",
+    "style": "摄影画廊 · 取景框拉远",
+    "color": "#388575",
+    "relatedLessons": [
+      {
+        "id": "comparison",
+        "title": "社会比较"
+      },
+      {
+        "id": "personality",
+        "title": "人格维度"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/support-exploration/film.mp4",
+    "poster": "assets/director-films/support-exploration/poster.webp",
+    "meta": "assets/director-films/support-exploration/script.json",
+    "title": "独立也有补给站",
+    "duration": 61,
+    "filmId": "support-exploration",
+    "style": "剪纸山径 · 一次远足",
+    "color": "#575ea2",
+    "relatedLessons": [
+      {
+        "id": "attachment",
+        "title": "依恋"
+      },
+      {
+        "id": "support",
+        "title": "社会支持"
+      },
+      {
+        "id": "help-seeking",
+        "title": "求助"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/communication-gap/film.mp4",
+    "poster": "assets/director-films/communication-gap/poster.webp",
+    "meta": "assets/director-films/communication-gap/script.json",
+    "title": "站到他那一边",
+    "duration": 62,
+    "filmId": "communication-gap",
+    "style": "机械工坊 · 视角翻转",
+    "color": "#75852a",
+    "relatedLessons": [
+      {
+        "id": "attribution",
+        "title": "归因"
+      },
+      {
+        "id": "knowledge-curse",
+        "title": "知识诅咒"
+      },
+      {
+        "id": "listening",
+        "title": "倾听"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/evidence-agreement/film.mp4",
+    "poster": "assets/director-films/evidence-agreement/poster.webp",
+    "meta": "assets/director-films/evidence-agreement/script.json",
+    "title": "2、4、6，试个反例",
+    "duration": 61,
+    "filmId": "evidence-agreement",
+    "style": "黑板游戏 · 数字谜题",
+    "color": "#38624d",
+    "relatedLessons": [
+      {
+        "id": "conformity",
+        "title": "从众"
+      },
+      {
+        "id": "confirmation-bias",
+        "title": "确认偏误"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/framing-choice/film.mp4",
+    "poster": "assets/director-films/framing-choice/poster.webp",
+    "meta": "assets/director-films/framing-choice/script.json",
+    "title": "一张票的两面",
+    "duration": 57,
+    "filmId": "framing-choice",
+    "style": "双色印刷 · 实物翻面",
+    "color": "#c64a34",
+    "relatedLessons": [
+      {
+        "id": "framing",
+        "title": "框架效应"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/future-cost/film.mp4",
+    "poster": "assets/director-films/future-cost/poster.webp",
+    "meta": "assets/director-films/future-cost/script.json",
+    "title": "已经投进去的币",
+    "duration": 56,
+    "filmId": "future-cost",
+    "style": "像素街机 · 路线选择",
+    "color": "#7864bd",
+    "relatedLessons": [
+      {
+        "id": "sunk-cost",
+        "title": "沉没成本"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/measurement-inference/film.mp4",
+    "poster": "assets/director-films/measurement-inference/poster.webp",
+    "meta": "assets/director-films/measurement-inference/script.json",
+    "title": "测得稳，真的测对了吗",
+    "duration": 63,
+    "filmId": "measurement-inference",
+    "style": "测量蓝图 · 仪器与脑图",
+    "color": "#2c5c9d",
+    "relatedLessons": [
+      {
+        "id": "brain",
+        "title": "认知神经科学"
+      },
+      {
+        "id": "test-validity",
+        "title": "心理测量"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/research-chain/film.mp4",
+    "poster": "assets/director-films/research-chain/poster.webp",
+    "meta": "assets/director-films/research-chain/script.json",
+    "title": "一辆冰淇淋车的调查",
+    "duration": 69,
+    "filmId": "research-chain",
+    "style": "微缩校园 · 数据从现场长出来",
+    "color": "#ad6244",
+    "relatedLessons": [
+      {
+        "id": "sampling",
+        "title": "抽样"
+      },
+      {
+        "id": "correlation",
+        "title": "相关与因果"
+      },
+      {
+        "id": "replication",
+        "title": "可重复性"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/clear-boundaries/film.mp4",
+    "poster": "assets/director-films/clear-boundaries/poster.webp",
+    "meta": "assets/director-films/clear-boundaries/script.json",
+    "title": "把今天的时间摊开",
+    "duration": 56,
+    "filmId": "clear-boundaries",
+    "style": "剪贴剧场 · 时间带剪裁",
+    "color": "#ce624e",
+    "relatedLessons": [
+      {
+        "id": "boundaries",
+        "title": "边界"
+      }
+    ],
+    "collection": true
+  },
+  {
+    "src": "assets/director-films/gratitude-both/film.mp4",
+    "poster": "assets/director-films/gratitude-both/poster.webp",
+    "meta": "assets/director-films/gratitude-both/script.json",
+    "title": "给今天留两个位置",
+    "duration": 63,
+    "filmId": "gratitude-both",
+    "style": "水彩雨景 · 展开日记",
+    "color": "#526984",
+    "relatedLessons": [
+      {
+        "id": "gratitude",
+        "title": "感恩记录"
+      }
+    ],
+    "collection": true
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "future-cost",
+  "lessonFacts": [
+    {
+      "lessonId": "sunk-cost",
+      "core_claim": "不可收回的投入与未来的收益成本分开考虑；继续或停止，都应有面向未来的理由。",
+      "evidence_limits": "经典研究显示的是特定决策中的群体倾向，不是每个人的固定缺陷。退费、承诺、技能积累和未来机会都可能改变判断；不把本课套成结束关系或投资的指令。",
+      "mechanism": {
+        "steps": [
+          "已经付出的不可回收投入引起牵挂",
+          "与未来成本收益混在一起",
+          "按未来理由重新比较"
+        ],
+        "metaphorLimit": "绳结比喻过去投入的心理牵挂，不要求丢弃仍有用的技能、材料或承诺。"
+      },
+      "sources": [
+        {
+          "title": "Arkes 与 Blumer：The Psychology of Sunk Cost",
+          "url": "https://www.sciencedirect.com/science/article/pii/0749597885900494",
+          "note": "沉没成本效应的经典实验与现场研究。"
+        },
+        {
+          "title": "Thorsteinson 与 Billings：Progress Decisions Involving Time: Sunk Cost or Completion Effects",
+          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/bdm.2405",
+          "note": "2024 年研究区分时间投入与完成进度，显示效应大小及任务差异。"
+        }
+      ]
+    }
+  ]
+}

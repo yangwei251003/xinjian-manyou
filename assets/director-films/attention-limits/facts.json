@@ -1,0 +1,35 @@
+{
+  "id": "attention-limits",
+  "lessonFacts": [
+    {
+      "lessonId": "attention",
+      "core_claim": "注意是有选择的；没报告某个细节，不等于它不在眼前，也不等于这个人不在乎。",
+      "evidence_limits": "这段故事和桌面活动是教学改编，不是标准化测量。一次漏看不能用于判断 ADHD、智力或重视程度；视觉与任务经验差异也会影响表现。",
+      "mechanism": {
+        "steps": [
+          "当前任务设置优先级",
+          "部分信息更容易被处理",
+          "未被报告的细节可能被遗漏"
+        ],
+        "metaphorLimit": "聚光灯只比喻处理优先级，注意不是脑内真的有灯。"
+      },
+      "sources": [
+        {
+          "title": "Simons 与 Chabris：Gorillas in our midst（1999）",
+          "url": "https://doi.org/10.1068/p281059",
+          "note": "原始不注意盲视研究，支持任务与意外目标报告之间的关系。"
+        },
+        {
+          "title": "Daniel Simons：研究论文与示范资料",
+          "url": "https://www.dansimons.com/research.html",
+          "note": "研究者资料入口，可进一步了解注意、视觉记忆与变化盲视。"
+        },
+        {
+          "title": "Stroop：Studies of Interference in Serial Verbal Reactions（1935）",
+          "url": "https://psychclassics.yorku.ca/Stroop/",
+          "note": "词义干扰与印刷颜色命名的原始研究。网页12张卡是简化教学活动，不是标准化测验，也与不注意盲视的任务不同。"
+        }
+      ]
+    }
+  ]
+}

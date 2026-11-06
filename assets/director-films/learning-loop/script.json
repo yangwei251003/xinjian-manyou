@@ -1,0 +1,147 @@
+{
+  "id": "learning-loop",
+  "title": "把书合上以后",
+  "style": "俯视书桌 · 纸页折叠",
+  "duration": 65,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "retrieval",
+    "habits",
+    "sleep"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 4.3,
+      "zh": "答案摆在眼前，很容易觉得自己已经会了。",
+      "en": "With the answer in sight, it is easy to feel that you know it.",
+      "shot": "fold"
+    },
+    {
+      "start": 4.3,
+      "end": 8,
+      "zh": "现在合上纸页，试着自己说出来。",
+      "en": "Now fold the page shut and try to recall it.",
+      "shot": "fold"
+    },
+    {
+      "start": 8,
+      "end": 12.7,
+      "zh": "先找答案，再打开核对。这就是一次提取练习。",
+      "en": "Retrieve the answer before reopening the page to check it.",
+      "shot": "recall"
+    },
+    {
+      "start": 12.7,
+      "end": 18,
+      "zh": "忘了的地方圈出来，下一次只多练这个缺口。",
+      "en": "Mark the missing piece and practice it again.",
+      "shot": "recall"
+    },
+    {
+      "start": 18,
+      "end": 22.7,
+      "zh": "一项实验比较了重读和回忆练习。",
+      "en": "An experiment compared rereading and retrieval practice.",
+      "shot": "comparison"
+    },
+    {
+      "start": 22.7,
+      "end": 28.1,
+      "zh": "五分钟后，重读过的文章记得更多。",
+      "en": "After five minutes, reread passages were remembered better.",
+      "shot": "comparison"
+    },
+    {
+      "start": 28.1,
+      "end": 34,
+      "zh": "两天或一周后，练过回忆的文章保留更多。",
+      "en": "After two days or one week, recall-practiced passages were retained better.",
+      "shot": "comparison"
+    },
+    {
+      "start": 34,
+      "end": 39,
+      "zh": "把两道回忆题接在每天收书包这个固定动作后面。",
+      "en": "Attach two recall questions to a regular action like packing your bag.",
+      "shot": "habit"
+    },
+    {
+      "start": 39,
+      "end": 44,
+      "zh": "稳定情境里的反复行动，有助于形成习惯。",
+      "en": "Repetition in a stable context helps build a habit.",
+      "shot": "habit"
+    },
+    {
+      "start": 44,
+      "end": 48.6,
+      "zh": "睡眠也参与学习后的记忆巩固。",
+      "en": "Sleep also participates in memory consolidation after learning.",
+      "shot": "night"
+    },
+    {
+      "start": 48.6,
+      "end": 55,
+      "zh": "给学习留下一段正常的睡眠时间，第二天再检索一次。",
+      "en": "Leave time for normal sleep, then retrieve again the next day.",
+      "shot": "night"
+    },
+    {
+      "start": 55,
+      "end": 59.8,
+      "zh": "今天先回忆并核对，明天不看答案再试一次。",
+      "en": "Recall and check today. Try again tomorrow without the answer.",
+      "shot": "next-day"
+    },
+    {
+      "start": 59.8,
+      "end": 65,
+      "zh": "几天后能自己想起，比刚看过时的熟悉感更有用。",
+      "en": "Being able to recall it days later is more informative than immediate familiarity.",
+      "shot": "next-day"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Dunlosky 等：Improving Students’ Learning With Effective Learning Techniques",
+      "url": "https://www.psychologicalscience.org/journals/pspi/1529100612453266/",
+      "note": "学习策略证据综述，讨论练习测验与分散学习。"
+    },
+    {
+      "title": "McDermott：Practicing Retrieval Facilitates Learning",
+      "url": "https://doi.org/10.1146/annurev-psych-010419-051019",
+      "note": "提取练习机制与适用范围综述。"
+    },
+    {
+      "title": "Roediger 与 Karpicke：Test-Enhanced Learning（2006）",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16507066/",
+      "note": "散文学习实验中，重复学习在5分钟测验较好，提取练习在2天或1周延迟测验较好。结论需结合材料和保持间隔。"
+    },
+    {
+      "title": "Lally 等：How are habits formed?（2010）",
+      "url": "https://doi.org/10.1002/ejsp.674",
+      "note": "日常情境中习惯自动性形成的追踪研究。"
+    },
+    {
+      "title": "Wood 与 Rünger：Psychology of Habit（2016）",
+      "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+      "note": "习惯研究综述，讨论情境线索与行为自动性。"
+    },
+    {
+      "title": "NINDS：Understanding Sleep",
+      "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf",
+      "note": "官方科普，说明睡眠阶段、学习记忆及睡眠健康。"
+    },
+    {
+      "title": "NICHD：What happens during sleep?",
+      "url": "https://www.nichd.nih.gov/health/topics/sleep/conditioninfo/Pages/what-happens.aspx",
+      "note": "解释睡眠阶段与学习、记忆、表现的关系。"
+    },
+    {
+      "title": "CDC：About Sleep，按年龄的睡眠建议",
+      "url": "https://www.cdc.gov/sleep/about/index.html",
+      "note": "补充年龄相关建议；不能把成人睡眠时长直接套给儿童。"
+    }
+  ]
+}

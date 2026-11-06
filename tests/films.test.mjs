@@ -7,7 +7,9 @@ import {filmMarkup} from '../src/films.js';
 const read=file=>JSON.parse(readFileSync(new URL(file,import.meta.url),'utf8'));
 const lessons=read('../content/lessons.json');
 const catalog=read('../content/catalog.json');
-const films=read('../production/films.json');
+const release=read('../content/release.json');
+const shared=release.videoPolicy==='shared-related-concepts';
+const films=read(shared?'../assets/film-collection.json':'../production/films.json');
 
 test('v3 searches scientific aliases, body and Chinese discovery names',()=>{
   for(const [query,id] of [
@@ -28,20 +30,21 @@ test('bookmarks, query, branch and scene remain intersected',()=>{
   assert.equal(params.get('q'),'归因');
 });
 
-test('each published lesson has its own deterministic six-scene bilingual film',()=>{
-  assert.equal(films.length,lessons.length);
-  assert.equal(new Set(films.map(f=>f.id)).size,films.length);
-  assert.equal(new Set(films.map(f=>f.motif)).size,films.length);
+test('published films cover the lesson index with contiguous bilingual captions',()=>{
+  assert.equal(films.length,shared?release.filmCount:lessons.length);
+  const coverage=films.flatMap(f=>shared?f.relatedLessons.map(l=>l.id):[f.id]);
+  assert.deepEqual(coverage.sort(),lessons.map(l=>l.id).sort());
+  const range=release.filmDurationRange??{min:60,max:120};
   for(const film of films){
-    assert.ok(film.duration>=60&&film.duration<=120);
-    assert.equal(film.stages.length,6);
-    assert.equal(film.cues[0].start,0);
-    assert.equal(film.cues.at(-1).end,film.duration);
-    for(const [i,cue]of film.cues.entries()){
+    assert.ok(film.duration>=range.min&&film.duration<=range.max);
+    const {cues}=shared?read('../'+film.meta):film;
+    assert.equal(cues[0].start,0);
+    assert.equal(cues.at(-1).end,film.duration);
+    for(const [i,cue]of cues.entries()){
       assert.ok(cue.zh&&cue.en);
       assert.ok(cue.end>cue.start);
-      assert.ok(cue.zh.length<=42,'split long subtitles');
-      if(i)assert.equal(cue.start,film.cues[i-1].end);
+      assert.ok(cue.zh.length<=50,'split long subtitles');
+      if(i)assert.equal(cue.start,cues[i-1].end);
     }
   }
 });

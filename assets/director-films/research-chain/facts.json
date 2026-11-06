@@ -1,0 +1,80 @@
+{
+  "id": "research-chain",
+  "lessonFacts": [
+    {
+      "lessonId": "sampling",
+      "core_claim": "解释调查结果之前，先问目标人群是谁、谁有机会被选中，以及谁最终回应了。",
+      "evidence_limits": "漫画投票是虚构教学例子，不是对真实学生的调查。实际调查需考虑隐私和同意；随机抽样是选人，随机分配是分条件，两者目的不同。",
+      "mechanism": {
+        "steps": [
+          "明确想了解的人群",
+          "检查抽样与回应过程",
+          "按覆盖范围解释结果"
+        ],
+        "metaphorLimit": "水果篮比喻覆盖偏差，页面数字与故事投票是教学设定而非真实学生数据。"
+      },
+      "sources": [
+        {
+          "title": "Penn State STAT 500：Lesson 1",
+          "url": "https://online.stat.psu.edu/stat500/Lesson01",
+          "note": "大学统计课程：总体、样本、调查与抽样基础。"
+        },
+        {
+          "title": "University of Texas：Biased Sampling",
+          "url": "https://web.ma.utexas.edu/users/mks/statmistakes/biasedsampling.html",
+          "note": "统计误用教学：选择偏差与代表性限制。"
+        }
+      ]
+    },
+    {
+      "lessonId": "correlation",
+      "core_claim": "相关描述共同变化；判断因果还需要研究设计、时间顺序与对其他解释的检验。",
+      "evidence_limits": "这是使用虚构场景讲解研究方法，不是关于冰淇淋、天气或健康的真实调查结论。温度是故事中提出的候选共同原因，不是已经证明的结果。",
+      "mechanism": {
+        "steps": [
+          "两变量共同变化",
+          "考虑反向因果与第三变量",
+          "用研究设计检验候选解释"
+        ],
+        "metaphorLimit": "木偶共同手柄比喻候选共同原因；画出这个解释不等于已经验证。"
+      },
+      "sources": [
+        {
+          "title": "Australian Bureau of Statistics：Correlation and causation",
+          "url": "https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation",
+          "note": "官方统计教育：相关、因果与其他解释。"
+        },
+        {
+          "title": "Penn State STAT 100：Lesson 5",
+          "url": "https://online.stat.psu.edu/stat100/Lesson05",
+          "note": "大学课程：关联、因果及研究解释边界。"
+        }
+      ]
+    },
+    {
+      "lessonId": "replication",
+      "core_claim": "科学可靠性来自持续检验与证据累积；单次结果、重复结果和研究条件都值得认真比较。",
+      "evidence_limits": "故事中的研究标题和卡片均为虚构教学道具，不对应某项真实效应。可重复性项目只覆盖其选定研究；不重现不是自动证伪，重现也不是对所有情境的终极证明。",
+      "mechanism": {
+        "steps": [
+          "提出问题并预先说明方法",
+          "重复研究并报告不同结果",
+          "结合设计质量累积证据"
+        ],
+        "metaphorLimit": "搭桥比喻证据累积，不是简单数成功次数；漫画个人练习不等于正式复现。"
+      },
+      "sources": [
+        {
+          "title": "Open Science Collaboration：Estimating the reproducibility of psychological science",
+          "url": "https://doi.org/10.1126/science.aac4716",
+          "note": "二〇一五年重复研究项目，注意其抽取范围与解释限制。"
+        },
+        {
+          "title": "Association for Psychological Science：Registered Replication Reports",
+          "url": "https://www.psychologicalscience.org/publications/replication",
+          "note": "预注册重复研究的目的、流程与方法公开。"
+        }
+      ]
+    }
+  ]
+}

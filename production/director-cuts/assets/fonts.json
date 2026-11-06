@@ -1,0 +1,20 @@
+[
+  {
+    "file": "sans.woff2",
+    "source": "https://github.com/notofonts/noto-cjk",
+    "license": "SIL OFL 1.1",
+    "sha256": "cf90a1192ad71b3cdc6a5175f041c4a62a0db86b0833d9313914d5f428274fba"
+  },
+  {
+    "file": "serif.woff2",
+    "source": "https://github.com/notofonts/noto-cjk",
+    "license": "SIL OFL 1.1",
+    "sha256": "3ffcb0464d56b5e8d6f0e553e5aa969443a52d5a3b437731b34fae14e1321074"
+  },
+  {
+    "file": "play.woff2",
+    "source": "https://fonts.google.com/specimen/ZCOOL+KuaiLe",
+    "license": "SIL OFL 1.1",
+    "sha256": "8f687534cb2de1204efca99ce8275446bce2e4386b7b0e02c7c38db9a907cd49"
+  }
+]

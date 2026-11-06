@@ -1,0 +1,106 @@
+{
+  "id": "framing-choice",
+  "title": "一张票的两面",
+  "style": "双色印刷 · 实物翻面",
+  "duration": 57,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "framing"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 8,
+      "zh": "同一批体验名额。100 人里，有 90 人抽中。",
+      "en": "Of 100 people, 90 got a spot in the same draw.",
+      "shot": "ticket"
+    },
+    {
+      "start": 8,
+      "end": 13,
+      "zh": "翻到票的另一面。100 人里，有 10 人没抽中。",
+      "en": "Turn the ticket over. Of 100 people, 10 did not get a spot.",
+      "shot": "flip"
+    },
+    {
+      "start": 13,
+      "end": 18,
+      "zh": "两面说的是同一批人。你先注意到的部分变了。",
+      "en": "Both sides refer to the same group. Your first focus changed.",
+      "shot": "flip"
+    },
+    {
+      "start": 18,
+      "end": 22.5,
+      "zh": "把两种印刷叠到同一个网格上，分母一直是 100。",
+      "en": "Overlay the two prints. The denominator stays at 100.",
+      "shot": "ink"
+    },
+    {
+      "start": 22.5,
+      "end": 27,
+      "zh": "表达方式可能影响评价，这叫框架效应。",
+      "en": "The wording can influence evaluations. This is a framing effect.",
+      "shot": "ink"
+    },
+    {
+      "start": 27,
+      "end": 32.4,
+      "zh": "食品研究比较过“75% 瘦肉”和“25% 脂肪”两种标签。",
+      "en": "A food study compared labels saying “75% lean” and “25% fat.”",
+      "shot": "package"
+    },
+    {
+      "start": 32.4,
+      "end": 38,
+      "zh": "标成“75% 瘦肉”时评价更正面。品尝后，措辞影响减弱。",
+      "en": "The “75% lean” label was rated more favorably. Tasting reduced the effect.",
+      "shot": "package"
+    },
+    {
+      "start": 38,
+      "end": 43.9,
+      "zh": "给属性换个说法，和在确定与有风险的结果间选择，是两件事。",
+      "en": "Relabeling an attribute and choosing between a certain and a risky outcome are different tasks.",
+      "shot": "two-choices"
+    },
+    {
+      "start": 43.9,
+      "end": 49,
+      "zh": "先确定比较的是谁、哪个结果、用什么分母。",
+      "en": "First identify the group, outcome, and denominator.",
+      "shot": "two-choices"
+    },
+    {
+      "start": 49,
+      "end": 53,
+      "zh": "做决定前，把正面和反面写成同一句。",
+      "en": "Before deciding, write both sides in one sentence.",
+      "shot": "both-sides"
+    },
+    {
+      "start": 53,
+      "end": 57,
+      "zh": "100 人里，90 人抽中，10 人没抽中。",
+      "en": "Of 100 people, 90 got a spot and 10 did not.",
+      "shot": "both-sides"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kahneman：Maps of Bounded Rationality 诺奖讲稿",
+      "url": "https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf",
+      "note": "判断、参照点与框架研究的作者原始综述。"
+    },
+    {
+      "title": "Tversky 与 Kahneman：The Framing of Decisions and the Psychology of Choice",
+      "url": "https://doi.org/10.1126/science.7455683",
+      "note": "1981 年经典框架研究。"
+    },
+    {
+      "title": "Levin 与 Gaeth：How Consumers Are Affected by the Framing of Attribute Information（1988）",
+      "url": "https://doi.org/10.1086/209174",
+      "note": "属性信息互补表达的原始研究，更贴近本站贴纸概率和幼苗比例教学。需与Tversky、Kahneman的风险选择框架区分。"
+    }
+  ]
+}

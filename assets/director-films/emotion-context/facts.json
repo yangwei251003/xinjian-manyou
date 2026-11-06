@@ -1,0 +1,90 @@
+{
+  "id": "emotion-context",
+  "lessonFacts": [
+    {
+      "lessonId": "emotions",
+      "core_claim": "身体感受是情绪理解的一部分；情境、目标和解释同样重要，不能仅凭一个信号读出唯一情绪。",
+      "evidence_limits": "故事不是根据心率判断情绪的实验，也不解释任何异常身体症状。情绪理论存在争论；一个场景不能证明某理论是唯一正确的机制。",
+      "mechanism": {
+        "steps": [
+          "注意身体信号",
+          "结合情境、目标和解释",
+          "选择合适行动"
+        ],
+        "metaphorLimit": "天气比喻复杂感受，不是用太阳或雨云为人判定情绪。"
+      },
+      "sources": [
+        {
+          "title": "OpenStax Psychology 2e：Emotion",
+          "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+          "note": "综述情绪构成及不同理论，作为概念入口。"
+        },
+        {
+          "title": "Barrett 等：Emotional Expressions Reconsidered（2019）",
+          "url": "https://doi.org/10.1177/1529100619832930",
+          "note": "评估从表情推断情绪的证据，强调情境与推断限制。"
+        }
+      ]
+    },
+    {
+      "lessonId": "stress",
+      "core_claim": "压力反应与现实负荷、可用资源和情境有关；应对不只有调整想法，也包括改变条件和寻求支持。",
+      "evidence_limits": "活动用于认识压力，不诊断焦虑或其他状况，也不把身体症状一概解释为心理原因。若出现紧急或严重身体不适，应及时寻求医疗帮助。",
+      "mechanism": {
+        "steps": [
+          "任务要求与资源发生冲突",
+          "身体和心理出现反应",
+          "改变负荷与增加支持"
+        ],
+        "metaphorLimit": "背包与石块比喻任务负荷，不意味着所有身体反应都来自心理压力。"
+      },
+      "sources": [
+        {
+          "title": "NIMH：I’m So Stressed Out!",
+          "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+          "note": "官方材料，区分压力与持续困扰，并说明寻求帮助的考虑。"
+        },
+        {
+          "title": "NIMH：Caring for Your Mental Health",
+          "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+          "note": "官方自我照顾与专业支持信息，不作为诊断工具。"
+        },
+        {
+          "title": "NIMH：Child and Adolescent Mental Health",
+          "url": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health",
+          "note": "支持未成年人向家长、学校支持人员或医疗人员求助；困扰与生活影响需要认真对待。"
+        }
+      ]
+    },
+    {
+      "lessonId": "reappraisal",
+      "core_claim": "认知重评是改变对情境意义的理解，不是否认事实、消除所有难过或要求永远积极。",
+      "evidence_limits": "练习不是心理治疗，也不适合用来重新解释严重伤害。没有变轻松不代表做错了；情境、支持和实际行动都重要。",
+      "mechanism": {
+        "steps": [
+          "区分事实与推断",
+          "寻找另一种符合证据的解释",
+          "检查是否需要实际行动"
+        ],
+        "metaphorLimit": "换窗比喻重新理解意义，不是改变事实或要求忽视伤害。"
+      },
+      "sources": [
+        {
+          "title": "Webb、Miles 与 Sheeran：情绪调节策略元分析（2012）",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22582737/",
+          "note": "比较不同情绪调节过程的研究效果与条件。"
+        },
+        {
+          "title": "Troy 等：Person-by-Situation Approach to Emotion Regulation（2013）",
+          "url": "https://doi.org/10.1177/0956797613496434",
+          "note": "讨论重评与情境可控制性的关联，并非策略有效性的普遍因果结论；另见2016年勘误。"
+        },
+        {
+          "title": "Troy 等：2016年勘误",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26786821/",
+          "note": "修正部分原始得分和分析数值；作者报告实质结论未变。"
+        }
+      ]
+    }
+  ]
+}

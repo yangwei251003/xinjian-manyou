@@ -1,0 +1,126 @@
+{
+  "id": "support-exploration",
+  "title": "独立也有补给站",
+  "style": "剪纸山径 · 一次远足",
+  "duration": 61,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "attachment",
+    "support",
+    "help-seeking"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 9,
+      "zh": "有个可以回去的补给站，你会更敢往前走吗？",
+      "en": "Would a place to return to make it easier to explore?",
+      "shot": "trailhead"
+    },
+    {
+      "start": 9,
+      "end": 14.6,
+      "zh": "依恋研究用“安全基地”形容照料者提供的探索后盾。",
+      "en": "Attachment research calls a caregiver who supports exploration a secure base.",
+      "shot": "secure-base"
+    },
+    {
+      "start": 14.6,
+      "end": 21,
+      "zh": "孩子可以出发，遇到不安时回来获得安抚，再去探索。",
+      "en": "A child can explore, return for comfort, and explore again.",
+      "shot": "secure-base"
+    },
+    {
+      "start": 21,
+      "end": 25.9,
+      "zh": "长大以后，社会支持也能提供走下一步的条件。",
+      "en": "Later in life, social support can make the next step possible.",
+      "shot": "bridge"
+    },
+    {
+      "start": 25.9,
+      "end": 31,
+      "zh": "陪伴、信息和实际帮忙，适用于不同的困难。",
+      "en": "Companionship, information, and practical help meet different needs.",
+      "shot": "bridge"
+    },
+    {
+      "start": 31,
+      "end": 35.1,
+      "zh": "求助可以从一句具体的话开始。",
+      "en": "Help-seeking can begin with one concrete request.",
+      "shot": "ask"
+    },
+    {
+      "start": 35.1,
+      "end": 42,
+      "zh": "“我卡在第二步了，你愿意陪我看一下吗？”",
+      "en": "“I’m stuck on step two. Could you look at it with me?”",
+      "shot": "ask"
+    },
+    {
+      "start": 42,
+      "end": 48.1,
+      "zh": "先找信任的人。困扰持续或涉及安全时，找合适的成人或专业支持。",
+      "en": "Ask someone you trust. Persistent or safety-related problems can call for adult or professional support.",
+      "shot": "network"
+    },
+    {
+      "start": 48.1,
+      "end": 53,
+      "zh": "一条路暂时走不通，还能试另外一个支持点。",
+      "en": "If one route is unavailable, try another support point.",
+      "shot": "network"
+    },
+    {
+      "start": 53,
+      "end": 61,
+      "zh": "别人给你一块踏板，决定怎么走的仍然是你。",
+      "en": "Someone can offer a foothold while you decide how to proceed.",
+      "shot": "lookout"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Fraley：Attachment Through the Life Course",
+      "url": "https://nobaproject.com/modules/attachment-through-the-life-course",
+      "note": "研究者模块，介绍依恋功能及跨生命历程的研究。"
+    },
+    {
+      "title": "OpenStax Psychology 2e：Stages of Development",
+      "url": "https://openstax.org/books/psychology-2e/pages/9-3-stages-of-development",
+      "note": "教材中的儿童发展与依恋背景；不同发展阶段的观察不能直接互换。"
+    },
+    {
+      "title": "NHS：Helping others",
+      "url": "https://www.nhs.uk/every-mind-matters/supporting-others/helping-others/",
+      "note": "询问、倾听、实际帮助、避免强迫与照顾自身。"
+    },
+    {
+      "title": "Cambridge University Hospitals：Supporting a friend with their mental health",
+      "url": "https://www.cuh.nhs.uk/patient-information/supporting-a-friend-with-their-mental-health/",
+      "note": "尊重选择、提供支持及帮助者自身限度的健康教育。"
+    },
+    {
+      "title": "NIMH：Child and Adolescent Mental Health",
+      "url": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health",
+      "note": "支持未成年人向家长、学校支持人员或医疗人员求助；困扰与生活影响需要认真对待。"
+    },
+    {
+      "title": "UNICEF：I Support My Friends",
+      "url": "https://www.unicef.org/serbia/en/documents/i-support-my-friends",
+      "note": "同伴支持应有可信任成人指导，并重视儿童保护与支持者的限度。"
+    },
+    {
+      "title": "NIMH：Caring for Your Mental Health",
+      "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+      "note": "了解心理健康支持、日常功能与寻求专业帮助。"
+    },
+    {
+      "title": "NHS：How to talk about your mental health",
+      "url": "https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/how-to-talk-about-your-mental-health/",
+      "note": "选择信任的人、表达所需支持与准备谈话。"
+    }
+  ]
+}

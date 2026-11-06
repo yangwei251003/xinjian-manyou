@@ -22,9 +22,10 @@ jobs:
       - run: npm run check && npm test && npm run validate
       - name: Prepare static site
         run: |
-          mkdir _site
-          cp index.html .nojekyll LICENSE CONTENT-LICENSE.md _site/
-          cp -R src content assets _site/
+          mkdir -p _site/assets
+          cp index.html films.html edition.json .nojekyll LICENSE CONTENT-LICENSE.md _site/
+          cp -R src content _site/
+          rsync -a --exclude='/videos/' assets/ _site/assets/
       - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         with:
           path: _site

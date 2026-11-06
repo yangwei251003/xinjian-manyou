@@ -60,7 +60,7 @@ for(const l of lessons){
    const factTable=read(path.join(path.dirname(film.meta),'facts.json'));const facts=shared?{...factTable.lessonFacts?.find(f=>f.lessonId===l.id),id:l.id}:factTable;
    assert(facts.id===l.id&&facts.core_claim===l.evidence.claim&&facts.evidence_limits===l.evidence.limits,`${l.id}: film fact table must match course claims and limits`);
    assert(facts.sources?.length>=2&&facts.mechanism?.metaphorLimit,`${l.id}: incomplete film fact sources or teaching boundary`);
-   assert(script.cues?.length>=12,`${l.id}: incomplete bilingual storyboard`);
+   assert(script.cues?.length>=(release.minFilmCues??12),`${l.id}: incomplete bilingual storyboard`);
    for(const [i,cue]of script.cues.entries()){
     assert(cue.zh&&cue.en&&Number.isFinite(cue.start)&&cue.end>cue.start,`${l.id}: invalid cue ${i}`);
     assert(Math.abs(cue.start-(script.cues[i-1]?.end||0))<0.01,`${l.id}: subtitle gap or overlap at ${i}`);

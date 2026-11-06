@@ -1,0 +1,90 @@
+{
+  "id": "learning-loop",
+  "lessonFacts": [
+    {
+      "lessonId": "retrieval",
+      "core_claim": "尝试从记忆中提取，再核对反馈，常比只重复阅读更有利于保持；困难感不等于没有学到。",
+      "evidence_limits": "一次网页练习不能证明长期增益。提取练习效果受材料、反馈、难度与时间安排影响；需要理解的任务不能被纯机械背诵替代。",
+      "mechanism": {
+        "steps": [
+          "从记忆中主动尝试",
+          "发现缺口并核对反馈",
+          "间隔后用新问题再提取"
+        ],
+        "metaphorLimit": "断桥比喻暂时提取缺口，不意味着脑内通路损坏，也不能据此判定能力。"
+      },
+      "sources": [
+        {
+          "title": "Dunlosky 等：Improving Students’ Learning With Effective Learning Techniques",
+          "url": "https://www.psychologicalscience.org/journals/pspi/1529100612453266/",
+          "note": "学习策略证据综述，讨论练习测验与分散学习。"
+        },
+        {
+          "title": "McDermott：Practicing Retrieval Facilitates Learning",
+          "url": "https://doi.org/10.1146/annurev-psych-010419-051019",
+          "note": "提取练习机制与适用范围综述。"
+        },
+        {
+          "title": "Roediger 与 Karpicke：Test-Enhanced Learning（2006）",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16507066/",
+          "note": "散文学习实验中，重复学习在5分钟测验较好，提取练习在2天或1周延迟测验较好。结论需结合材料和保持间隔。"
+        }
+      ]
+    },
+    {
+      "lessonId": "habits",
+      "core_claim": "习惯与稳定情境中的重复有关；改变线索和动作的便利程度，往往比只责怪意志更具体。",
+      "evidence_limits": "这不是成瘾治疗，也不能用习惯模型概括所有行为困难。研究中形成自动性的时间差异不能转成个人成功期限；复杂困扰可能需要更多支持。",
+      "mechanism": {
+        "steps": [
+          "稳定情境提供线索",
+          "重复使动作更容易自动启动",
+          "调整线索和便利程度"
+        ],
+        "metaphorLimit": "小路比喻线索与反应联系，不表示习惯不可改变或人完全失去选择。"
+      },
+      "sources": [
+        {
+          "title": "Lally 等：How are habits formed?（2010）",
+          "url": "https://doi.org/10.1002/ejsp.674",
+          "note": "日常情境中习惯自动性形成的追踪研究。"
+        },
+        {
+          "title": "Wood 与 Rünger：Psychology of Habit（2016）",
+          "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+          "note": "习惯研究综述，讨论情境线索与行为自动性。"
+        }
+      ]
+    },
+    {
+      "lessonId": "sleep",
+      "core_claim": "睡眠支持注意、学习和记忆等过程；它不能替代学习，也不保证醒来就自动掌握。",
+      "evidence_limits": "这不是睡眠障碍评估或治疗方案，不提供睡眠限制训练。故事没有对照组，不能用人物第二天的状态证明睡眠对该任务的因果效果。",
+      "mechanism": {
+        "steps": [
+          "白天学习形成新信息",
+          "睡眠参与多种恢复与记忆过程",
+          "清醒后仍需练习与核对"
+        ],
+        "metaphorLimit": "整理站是睡眠参与记忆过程的隐喻，不是原样搬运知识，也不能代替学习。"
+      },
+      "sources": [
+        {
+          "title": "NINDS：Understanding Sleep",
+          "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/understanding-sleep.pdf",
+          "note": "官方科普，说明睡眠阶段、学习记忆及睡眠健康。"
+        },
+        {
+          "title": "NICHD：What happens during sleep?",
+          "url": "https://www.nichd.nih.gov/health/topics/sleep/conditioninfo/Pages/what-happens.aspx",
+          "note": "解释睡眠阶段与学习、记忆、表现的关系。"
+        },
+        {
+          "title": "CDC：About Sleep，按年龄的睡眠建议",
+          "url": "https://www.cdc.gov/sleep/about/index.html",
+          "note": "补充年龄相关建议；不能把成人睡眠时长直接套给儿童。"
+        }
+      ]
+    }
+  ]
+}

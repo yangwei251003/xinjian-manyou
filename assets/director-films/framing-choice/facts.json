@@ -1,0 +1,35 @@
+{
+  "id": "framing-choice",
+  "lessonFacts": [
+    {
+      "lessonId": "framing",
+      "core_claim": "描述方式会影响注意与判断；把选项翻译成相同的结果和条件，更容易看清真正的差别。",
+      "evidence_limits": "贴纸转盘是解释性教学场景，不是经典框架实验的直接复现，也不是赌博游戏。只有分母、规则、成本与结果一致时，两种说法才可能等价；一次选择不评定理性程度。",
+      "mechanism": {
+        "steps": [
+          "措辞突出不同结果",
+          "注意与判断可能改变",
+          "统一分母、条件和结果"
+        ],
+        "metaphorLimit": "相框比喻描述突出不同部分；只有结果与条件等价，才能说只是换框架。"
+      },
+      "sources": [
+        {
+          "title": "Kahneman：Maps of Bounded Rationality 诺奖讲稿",
+          "url": "https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf",
+          "note": "判断、参照点与框架研究的作者原始综述。"
+        },
+        {
+          "title": "Tversky 与 Kahneman：The Framing of Decisions and the Psychology of Choice",
+          "url": "https://doi.org/10.1126/science.7455683",
+          "note": "1981 年经典框架研究。"
+        },
+        {
+          "title": "Levin 与 Gaeth：How Consumers Are Affected by the Framing of Attribute Information（1988）",
+          "url": "https://doi.org/10.1086/209174",
+          "note": "属性信息互补表达的原始研究，更贴近本站贴纸概率和幼苗比例教学。需与Tversky、Kahneman的风险选择框架区分。"
+        }
+      ]
+    }
+  ]
+}

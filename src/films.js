@@ -9,9 +9,9 @@ export function filmMarkup(film){
   if(!film?.src)return '';
   return `<section id="film" class="lesson-film" aria-labelledby="film-title" data-film-src="${e(film.src)}" data-film-meta="${e(film.meta)}">
     <div class="film-heading">
-      <div class="section-eyebrow">心间漫游短片 · VIBE STUDIES</div>
+      <div class="section-eyebrow">心间漫游短片</div>
       <h2 id="film-title">${e(film.title)}</h2>
-      <p>${timeLabel(film.duration)} · 双语字幕 · 器乐配乐</p>
+      <p>${timeLabel(film.duration)} · ${e(film.style||'双语字幕')} · ${film.style?'原创声音':'器乐配乐'}</p>
       ${film.relatedLessons?.length?`<p class="film-connections">本片关联：${film.relatedLessons.map(l=>`<a href="#/story/${encodeURIComponent(l.id)}">${e(l.title)}</a>`).join(' · ')}</p>`:''}
       ${film.collection?'<p><a href="films.html">浏览全部 14 支短片 ↗</a></p>':''}
     </div>

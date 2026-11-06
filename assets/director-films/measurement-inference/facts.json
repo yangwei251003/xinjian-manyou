@@ -1,0 +1,55 @@
+{
+  "id": "measurement-inference",
+  "lessonFacts": [
+    {
+      "lessonId": "brain",
+      "core_claim": "脑区与心理过程通常不是一对一的开关关系；解释脑成像需要任务、比较条件和更多证据。",
+      "evidence_limits": "乐队与网络画面是教学隐喻，不是大脑解剖或医学影像。这里不解释任何人的临床检查，也不宣称所有反向推断都毫无价值。",
+      "mechanism": {
+        "steps": [
+          "一个任务包含多个过程",
+          "多个脑区协同参与",
+          "解释成像需比较条件与更多证据"
+        ],
+        "metaphorLimit": "乐队比喻协作网络，不是脑区精确解剖，也不表示所有区域功能相同。"
+      },
+      "sources": [
+        {
+          "title": "Poldrack：Can cognitive processes be inferred from neuroimaging data?（2006）",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16406760/",
+          "note": "讨论反向推断所需的证据及限制。"
+        },
+        {
+          "title": "Poldrack：From reverse inference to large-scale decoding（2011）",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3240863/",
+          "note": "解释概率性推断与多变量解码，而非把脑图当读心术。"
+        }
+      ]
+    },
+    {
+      "lessonId": "test-validity",
+      "core_claim": "分数是否一致和解释是否有依据，是两个需要分别检查的问题。看到一个测试，先问它测什么、怎么测、适合用在哪里。",
+      "evidence_limits": "本课介绍测量素养，不提供测验诊断、分数换算或量表选择建议。真实评估需由合适人员结合具体目的与多种信息进行。",
+      "mechanism": {
+        "steps": [
+          "说清准备解释什么",
+          "检查一致性与误差",
+          "检查解释和用途的证据"
+        ],
+        "metaphorLimit": "尺与表的类比帮助区分问题，不能概括心理测量中全部信度估计与效度证据。"
+      },
+      "sources": [
+        {
+          "title": "AERA、APA、NCME：Standards for Educational and Psychological Testing（2014，开放版）",
+          "url": "https://www.testingstandards.net/open-access-files.html",
+          "note": "原始专业标准。第一章讨论效度，第二章讨论信度与精确性。"
+        },
+        {
+          "title": "APA：Understanding psychological testing and assessment",
+          "url": "https://www.apa.org/topics/testing-assessment-measurement/understanding",
+          "note": "说明测验、访谈及其他信息在专业评估中的不同作用。"
+        }
+      ]
+    }
+  ]
+}

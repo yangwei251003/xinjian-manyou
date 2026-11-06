@@ -1,0 +1,112 @@
+{
+  "id": "evidence-agreement",
+  "title": "2、4、6，试个反例",
+  "style": "黑板游戏 · 数字谜题",
+  "duration": 61,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "conformity",
+    "confirmation-bias"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 9,
+      "zh": "2、4、6 符合一个规则。猜一个规则，再想一组三个数来试。",
+      "en": "2, 4, 6 follow a rule. Guess a rule, then choose a triple to test it.",
+      "shot": "riddle"
+    },
+    {
+      "start": 9,
+      "end": 13.6,
+      "zh": "猜“每次加 2”时，8、10、12 能通过。",
+      "en": "If you guessed “add two,” 8, 10, 12 will be accepted.",
+      "shot": "positive"
+    },
+    {
+      "start": 13.6,
+      "end": 18,
+      "zh": "递增也能通过，两种猜法还分不开。",
+      "en": "Increasing triples also pass. This test cannot distinguish the two rules.",
+      "shot": "positive"
+    },
+    {
+      "start": 18,
+      "end": 23.1,
+      "zh": "试试 3、5、9。它递增，却不总是加 2。",
+      "en": "Try 3, 5, 9. It increases without always adding two.",
+      "shot": "counterexample"
+    },
+    {
+      "start": 23.1,
+      "end": 29,
+      "zh": "它也符合。这个结果排除了“必须每次加 2”。",
+      "en": "It passes. That rules out “must add two each time.”",
+      "shot": "counterexample"
+    },
+    {
+      "start": 29,
+      "end": 33.7,
+      "zh": "沃森的规则发现任务，考验的是你会怎样选证据。",
+      "en": "Wason’s rule-discovery task tests how you choose evidence.",
+      "shot": "reveal-rule"
+    },
+    {
+      "start": 33.7,
+      "end": 39,
+      "zh": "两条规则都预言“符合”时，这组数就区分不了它们。",
+      "en": "A triple cannot distinguish two rules when both predict that it will pass.",
+      "shot": "reveal-rule"
+    },
+    {
+      "start": 39,
+      "end": 44.6,
+      "zh": "还有一种干扰来自别人。阿希请参与者判断线段长度。",
+      "en": "Another influence comes from other people. Asch asked participants to match line lengths.",
+      "shot": "line-study"
+    },
+    {
+      "start": 44.6,
+      "end": 51,
+      "zh": "即使答案就在眼前，一致的错误多数也会影响一些判断。",
+      "en": "A unanimous incorrect majority influenced some judgments.",
+      "shot": "line-study"
+    },
+    {
+      "start": 51,
+      "end": 56.2,
+      "zh": "先独立写下猜想，再找一条能让两个解释给出不同答案的证据。",
+      "en": "Write your guess independently, then look for a test that separates explanations.",
+      "shot": "answer-alone"
+    },
+    {
+      "start": 56.2,
+      "end": 61,
+      "zh": "举手的数量可以提示你去检查。能区分解释的是测试结果。",
+      "en": "A vote can prompt a check. A diagnostic test distinguishes the explanations.",
+      "shot": "answer-alone"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenStax：Conformity, Compliance, and Obedience",
+      "url": "https://openstax.org/books/psychology-2e/pages/12-4-conformity-compliance-and-obedience",
+      "note": "信息性、规范性影响及从众条件。"
+    },
+    {
+      "title": "OpenStax：What Is Social Psychology?",
+      "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+      "note": "社会情境如何影响个体行为。"
+    },
+    {
+      "title": "Wason：On the Failure to Eliminate Hypotheses in a Conceptual Task（1960）",
+      "url": "https://doi.org/10.1080/17470216008416717",
+      "note": "2-4-6规则发现任务的原始研究。故事采用教学改编。"
+    },
+    {
+      "title": "Klayman 与 Ha：Confirmation, Disconfirmation, and Information in Hypothesis Testing（1987）",
+      "url": "https://pages.ucsd.edu/~mckenzie/KlaymanHaPsychReview1987.pdf",
+      "note": "讨论正向测试的合理性与限制，防止把确认偏误简单等同于所有验证行为。"
+    }
+  ]
+}

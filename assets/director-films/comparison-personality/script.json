@@ -1,0 +1,98 @@
+{
+  "id": "comparison-personality",
+  "title": "把镜头拉远一点",
+  "style": "摄影画廊 · 取景框拉远",
+  "duration": 50,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "comparison",
+    "personality"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 8,
+      "zh": "一张得奖照片，最先让你看见的是台上的那一秒。",
+      "en": "A winning photo first shows you one moment on the podium.",
+      "shot": "portrait"
+    },
+    {
+      "start": 8,
+      "end": 13.3,
+      "zh": "把镜头拉远，才看见练习、同伴和不同的起点。",
+      "en": "Pull back to see practice, teammates, and different starting points.",
+      "shot": "pullback"
+    },
+    {
+      "start": 13.3,
+      "end": 19,
+      "zh": "社会比较可以给你方向。比较之前，先问样本里漏了什么。",
+      "en": "Social comparison can guide you. Ask what your comparison leaves out.",
+      "shot": "pullback"
+    },
+    {
+      "start": 19,
+      "end": 24.1,
+      "zh": "同一个人，在熟悉的小组很健谈，在陌生场合很安静。",
+      "en": "One person may speak freely in a familiar group and stay quiet among strangers.",
+      "shot": "situations"
+    },
+    {
+      "start": 24.1,
+      "end": 30,
+      "zh": "单次表现既跟人的倾向有关，也跟当时的情境有关。",
+      "en": "One observation can reflect both tendencies and the situation.",
+      "shot": "situations"
+    },
+    {
+      "start": 30,
+      "end": 35.6,
+      "zh": "人格维度描述相对稳定的倾向，允许许多中间位置。",
+      "en": "Trait dimensions describe relatively stable tendencies on a continuum.",
+      "shot": "spectrum"
+    },
+    {
+      "start": 35.6,
+      "end": 40,
+      "zh": "多看一些时候和场合里的行为，才能获得更有用的线索。",
+      "en": "Behavior observed across times and settings gives more useful clues.",
+      "shot": "spectrum"
+    },
+    {
+      "start": 40,
+      "end": 44.8,
+      "zh": "把“我比他差”换成一件能观察、能练习的事。",
+      "en": "Turn a global comparison into one observable action you can practice.",
+      "shot": "crop"
+    },
+    {
+      "start": 44.8,
+      "end": 50,
+      "zh": "比如这周让自己的开场比上周更清楚。",
+      "en": "For example, make this week’s opening clearer than last week’s.",
+      "shot": "crop"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Garcia 与 Halldorsson：Social Comparison",
+      "url": "https://nobaproject.com/modules/social-comparison",
+      "note": "研究者综述比较方向、相关性及其不同后果。"
+    },
+    {
+      "title": "APA Dictionary：Social comparison theory",
+      "url": "https://dictionary.apa.org/social-comparison-theory",
+      "note": "解释向上、向下与同水平比较，以及对比和同化反应。"
+    },
+    {
+      "title": "Diener 与 Lucas：Personality Traits",
+      "url": "https://nobaproject.com/modules/personality-traits",
+      "note": "研究者模块，介绍连续人格维度与人与情境的讨论。"
+    },
+    {
+      "title": "IPIP：International Personality Item Pool",
+      "url": "https://ipip.ori.org/",
+      "note": "公开人格测量题项与量表资料；开放题项不等于任意改编后仍有效。"
+    }
+  ]
+}

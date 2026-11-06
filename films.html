@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f6efe1">
+  <title>心理学短片集 · 心间漫游</title>
+  <link rel="stylesheet" href="src/styles.css">
+  <link rel="stylesheet" href="src/films.css">
+  <link rel="stylesheet" href="src/film-gallery.css">
+</head>
+<body class="film-library">
+  <header class="library-top">
+    <a href="index.html">← 返回心间漫游</a>
+    <span>心理学短片集</span>
+  </header>
+  <main class="library-main">
+    <div class="library-intro">
+      <p class="library-kicker">14 支原创动画 · 28 个知识点</p>
+      <h1>从画面里看懂心理学</h1>
+      <p>数一次传球，翻一张票，或者站到另一个人那边。选一部短片，从它的场景开始。</p>
+    </div>
+    <div id="now-playing" hidden></div>
+    <div id="film-list" class="film-grid" aria-label="短片目录" aria-busy="true">
+      <p id="film-loading" role="status">正在加载短片目录……</p>
+    </div>
+  </main>
+  <script type="module" src="src/film-gallery.js"></script>
+</body>
+</html>

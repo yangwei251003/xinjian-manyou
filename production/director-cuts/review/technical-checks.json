@@ -1,0 +1,741 @@
+{
+  "filmCount": 14,
+  "sceneCount": 84,
+  "captionCount": 151,
+  "filmDuration": [
+    50,
+    69
+  ],
+  "crossFilmTextFreePairsCompared": 3275,
+  "closestPairs": [
+    [
+      0.057748954743146896,
+      "learning-loop",
+      "recall",
+      "research-chain",
+      "field-notes"
+    ],
+    [
+      0.06126713007688522,
+      "learning-loop",
+      "comparison",
+      "research-chain",
+      "replicate"
+    ],
+    [
+      0.06946033239364624,
+      "emotion-context",
+      "new-reading",
+      "future-cost",
+      "locked"
+    ],
+    [
+      0.07076127827167511,
+      "emotion-context",
+      "new-reading",
+      "future-cost",
+      "reset"
+    ],
+    [
+      0.07189995795488358,
+      "learning-loop",
+      "comparison",
+      "research-chain",
+      "scatter"
+    ]
+  ],
+  "independentSceneFiles": 14,
+  "sourceFootageUsed": false,
+  "fullDecode": true,
+  "humanWatchThrough": false,
+  "humanFullMixListen": false,
+  "films": [
+    {
+      "film": "attention-limits",
+      "title": "球场上的第七位",
+      "duration": 54,
+      "frames": 1620,
+      "fileHash": "0213826f65d64e8292d030623ae3503bbd1ede13d5772f2dde03135814874cb7",
+      "bytes": 12991094,
+      "peakMonoDbfs": -11.0,
+      "shots": [
+        {
+          "shot": "tipoff",
+          "start": 0,
+          "end": 5,
+          "sampledChange": 0.0038
+        },
+        {
+          "shot": "passing",
+          "start": 5,
+          "end": 17,
+          "sampledChange": 0.0113
+        },
+        {
+          "shot": "reveal",
+          "start": 17,
+          "end": 25,
+          "sampledChange": 0.0062
+        },
+        {
+          "shot": "aperture",
+          "start": 25,
+          "end": 34,
+          "sampledChange": 0.081
+        },
+        {
+          "shot": "study",
+          "start": 34,
+          "end": 44,
+          "sampledChange": 0.0091
+        },
+        {
+          "shot": "transfer",
+          "start": 44,
+          "end": 54,
+          "sampledChange": 0.0042
+        }
+      ],
+      "captions": 10,
+      "decode": true
+    },
+    {
+      "film": "memory-calibration",
+      "title": "同一声碰撞，两种回忆",
+      "duration": 61,
+      "frames": 1830,
+      "fileHash": "622e7e59291993acfa5f93d4ecbd10a9a8b57741b35e85b31d93f91b0f9494d8",
+      "bytes": 14879778,
+      "peakMonoDbfs": -11.65,
+      "shots": [
+        {
+          "shot": "collision",
+          "start": 0,
+          "end": 8,
+          "sampledChange": 0.0162
+        },
+        {
+          "shot": "wording",
+          "start": 8,
+          "end": 18,
+          "sampledChange": 0.0219
+        },
+        {
+          "shot": "afterweek",
+          "start": 18,
+          "end": 30,
+          "sampledChange": 0.0256
+        },
+        {
+          "shot": "splice",
+          "start": 30,
+          "end": 41,
+          "sampledChange": 0.0537
+        },
+        {
+          "shot": "calibrate",
+          "start": 41,
+          "end": 51,
+          "sampledChange": 0.0142
+        },
+        {
+          "shot": "check",
+          "start": 51,
+          "end": 61,
+          "sampledChange": 0.0815
+        }
+      ],
+      "captions": 11,
+      "decode": true
+    },
+    {
+      "film": "learning-loop",
+      "title": "把书合上以后",
+      "duration": 65,
+      "frames": 1950,
+      "fileHash": "d4fe38a786816ce5b9c4e37862a1dcdef360cd66be57a8d8cf9bff34638b3384",
+      "bytes": 9008584,
+      "peakMonoDbfs": -11.17,
+      "shots": [
+        {
+          "shot": "fold",
+          "start": 0,
+          "end": 8,
+          "sampledChange": 0.1512
+        },
+        {
+          "shot": "recall",
+          "start": 8,
+          "end": 18,
+          "sampledChange": 0.0464
+        },
+        {
+          "shot": "comparison",
+          "start": 18,
+          "end": 34,
+          "sampledChange": 0.0076
+        },
+        {
+          "shot": "habit",
+          "start": 34,
+          "end": 44,
+          "sampledChange": 0.0332
+        },
+        {
+          "shot": "night",
+          "start": 44,
+          "end": 55,
+          "sampledChange": 0.0683
+        },
+        {
+          "shot": "next-day",
+          "start": 55,
+          "end": 65,
+          "sampledChange": 0.0071
+        }
+      ],
+      "captions": 13,
+      "decode": true
+    },
+    {
+      "film": "emotion-context",
+      "title": "心跳没有字幕",
+      "duration": 58,
+      "frames": 1740,
+      "fileHash": "6f0753a6d71897a8ec8be318afd4d838d96a2e9fe98e5f130ebdebfca98d712b",
+      "bytes": 8070368,
+      "peakMonoDbfs": -9.03,
+      "shots": [
+        {
+          "shot": "curtain",
+          "start": 0,
+          "end": 8,
+          "sampledChange": 0.0721
+        },
+        {
+          "shot": "two-scenes",
+          "start": 8,
+          "end": 18,
+          "sampledChange": 0.0044
+        },
+        {
+          "shot": "pressure",
+          "start": 18,
+          "end": 28,
+          "sampledChange": 0.0253
+        },
+        {
+          "shot": "new-reading",
+          "start": 28,
+          "end": 39,
+          "sampledChange": 0.0138
+        },
+        {
+          "shot": "move-prop",
+          "start": 39,
+          "end": 49,
+          "sampledChange": 0.0633
+        },
+        {
+          "shot": "stage-exit",
+          "start": 49,
+          "end": 58,
+          "sampledChange": 0.096
+        }
+      ],
+      "captions": 11,
+      "decode": true
+    },
+    {
+      "film": "comparison-personality",
+      "title": "把镜头拉远一点",
+      "duration": 50,
+      "frames": 1500,
+      "fileHash": "380be1d876d838fec90b9a4c5c64b49f7d2acbcce329c815b9c1d55299a85bdb",
+      "bytes": 6108005,
+      "peakMonoDbfs": -15.47,
+      "shots": [
+        {
+          "shot": "portrait",
+          "start": 0,
+          "end": 8,
+          "sampledChange": 0.0197
+        },
+        {
+          "shot": "pullback",
+          "start": 8,
+          "end": 19,
+          "sampledChange": 0.0881
+        },
+        {
+          "shot": "situations",
+          "start": 19,
+          "end": 30,
+          "sampledChange": 0.0135
+        },
+        {
+          "shot": "spectrum",
+          "start": 30,
+          "end": 40,
+          "sampledChange": 0.0029
+        },
+        {
+          "shot": "crop",
+          "start": 40,
+          "end": 50,
+          "sampledChange": 0.0023
+        }
+      ],
+      "captions": 9,
+      "decode": true
+    },
+    {
+      "film": "support-exploration",
+      "title": "独立也有补给站",
+      "duration": 61,
+      "frames": 1830,
+      "fileHash": "d04bf7d3ade569e978162b100087f8280099be9dbf80418bacfce20601596590",
+      "bytes": 12648045,
+      "peakMonoDbfs": -9.68,
+      "shots": [
+        {
+          "shot": "trailhead",
+          "start": 0,
+          "end": 9,
+          "sampledChange": 0.0084
+        },
+        {
+          "shot": "secure-base",
+          "start": 9,
+          "end": 21,
+          "sampledChange": 0.0069
+        },
+        {
+          "shot": "bridge",
+          "start": 21,
+          "end": 31,
+          "sampledChange": 0.0195
+        },
+        {
+          "shot": "ask",
+          "start": 31,
+          "end": 42,
+          "sampledChange": 0.0304
+        },
+        {
+          "shot": "network",
+          "start": 42,
+          "end": 53,
+          "sampledChange": 0.0043
+        },
+        {
+          "shot": "lookout",
+          "start": 53,
+          "end": 61,
+          "sampledChange": 0.0068
+        }
+      ],
+      "captions": 10,
+      "decode": true
+    },
+    {
+      "film": "communication-gap",
+      "title": "站到他那一边",
+      "duration": 62,
+      "frames": 1860,
+      "fileHash": "9746b0278dff3149b4b4f00f55bc8358a7a00793cb8212cd05fb5bcd7dddc8fc",
+      "bytes": 6702168,
+      "peakMonoDbfs": -14.1,
+      "shots": [
+        {
+          "shot": "jam",
+          "start": 0,
+          "end": 8,
+          "sampledChange": 0.0067
+        },
+        {
+          "shot": "turntable",
+          "start": 8,
+          "end": 19,
+          "sampledChange": 0.0506
+        },
+        {
+          "shot": "attribution",
+          "start": 19,
+          "end": 29,
+          "sampledChange": 0.0035
+        },
+        {
+          "shot": "hidden-key",
+          "start": 29,
+          "end": 39,
+          "sampledChange": 0.016
+        },
+        {
+          "shot": "listen",
+          "start": 39,
+          "end": 51,
+          "sampledChange": 0.0134
+        },
+        {
+          "shot": "unlock",
+          "start": 51,
+          "end": 62,
+          "sampledChange": 0.0062
+        }
+      ],
+      "captions": 13,
+      "decode": true
+    },
+    {
+      "film": "evidence-agreement",
+      "title": "2、4、6，试个反例",
+      "duration": 61,
+      "frames": 1830,
+      "fileHash": "df62dbadca5a1ddf738cab082a2143eb567f027a44cbcbda9be167addb0d2582",
+      "bytes": 10007647,
+      "peakMonoDbfs": -11.42,
+      "shots": [
+        {
+          "shot": "riddle",
+          "start": 0,
+          "end": 9,
+          "sampledChange": 0.015
+        },
+        {
+          "shot": "positive",
+          "start": 9,
+          "end": 18,
+          "sampledChange": 0.0081
+        },
+        {
+          "shot": "counterexample",
+          "start": 18,
+          "end": 29,
+          "sampledChange": 0.0139
+        },
+        {
+          "shot": "reveal-rule",
+          "start": 29,
+          "end": 39,
+          "sampledChange": 0.0113
+        },
+        {
+          "shot": "line-study",
+          "start": 39,
+          "end": 51,
+          "sampledChange": 0.0201
+        },
+        {
+          "shot": "answer-alone",
+          "start": 51,
+          "end": 61,
+          "sampledChange": 0.0106
+        }
+      ],
+      "captions": 11,
+      "decode": true
+    },
+    {
+      "film": "framing-choice",
+      "title": "一张票的两面",
+      "duration": 57,
+      "frames": 1710,
+      "fileHash": "c41d274906d1c3ba22e9f3f99791835f694cf78671a07e2121efc4190ece0d1f",
+      "bytes": 11772912,
+      "peakMonoDbfs": -13.49,
+      "shots": [
+        {
+          "shot": "ticket",
+          "start": 0,
+          "end": 8,
+          "sampledChange": 0.1443
+        },
+        {
+          "shot": "flip",
+          "start": 8,
+          "end": 18,
+          "sampledChange": 0.0932
+        },
+        {
+          "shot": "ink",
+          "start": 18,
+          "end": 27,
+          "sampledChange": 0.0317
+        },
+        {
+          "shot": "package",
+          "start": 27,
+          "end": 38,
+          "sampledChange": 0.0119
+        },
+        {
+          "shot": "two-choices",
+          "start": 38,
+          "end": 49,
+          "sampledChange": 0.0037
+        },
+        {
+          "shot": "both-sides",
+          "start": 49,
+          "end": 57,
+          "sampledChange": 0.0121
+        }
+      ],
+      "captions": 11,
+      "decode": true
+    },
+    {
+      "film": "future-cost",
+      "title": "已经投进去的币",
+      "duration": 56,
+      "frames": 1680,
+      "fileHash": "c10569b94a2acfa1143fe17e0932df93146f0b6a0c7bed76d49a3372d877c7b6",
+      "bytes": 3184500,
+      "peakMonoDbfs": -11.31,
+      "shots": [
+        {
+          "shot": "insert",
+          "start": 0,
+          "end": 8,
+          "sampledChange": 0.0049
+        },
+        {
+          "shot": "locked",
+          "start": 8,
+          "end": 17,
+          "sampledChange": 0.0107
+        },
+        {
+          "shot": "fork",
+          "start": 17,
+          "end": 28,
+          "sampledChange": 0.0086
+        },
+        {
+          "shot": "refund",
+          "start": 28,
+          "end": 39,
+          "sampledChange": 0.0025
+        },
+        {
+          "shot": "reset",
+          "start": 39,
+          "end": 48,
+          "sampledChange": 0.0024
+        },
+        {
+          "shot": "credits",
+          "start": 48,
+          "end": 56,
+          "sampledChange": 0.0052
+        }
+      ],
+      "captions": 9,
+      "decode": true
+    },
+    {
+      "film": "measurement-inference",
+      "title": "测得稳，真的测对了吗",
+      "duration": 63,
+      "frames": 1890,
+      "fileHash": "a323db7d7a60f653f9693be6bbf7e996394b3fa54922f1d9c3d25e9df92aab6a",
+      "bytes": 7694507,
+      "peakMonoDbfs": -11.84,
+      "shots": [
+        {
+          "shot": "gauge",
+          "start": 0,
+          "end": 9,
+          "sampledChange": 0.0155
+        },
+        {
+          "shot": "wrong-tool",
+          "start": 9,
+          "end": 19,
+          "sampledChange": 0.003
+        },
+        {
+          "shot": "validity",
+          "start": 19,
+          "end": 30,
+          "sampledChange": 0.003
+        },
+        {
+          "shot": "scan",
+          "start": 30,
+          "end": 42,
+          "sampledChange": 0.0111
+        },
+        {
+          "shot": "inverse",
+          "start": 42,
+          "end": 53,
+          "sampledChange": 0.0094
+        },
+        {
+          "shot": "instrument-tags",
+          "start": 53,
+          "end": 63,
+          "sampledChange": 0.0045
+        }
+      ],
+      "captions": 11,
+      "decode": true
+    },
+    {
+      "film": "research-chain",
+      "title": "一辆冰淇淋车的调查",
+      "duration": 69,
+      "frames": 2070,
+      "fileHash": "c1607eca471863cc544ce58b69e8f8314419a4ace55cf7e913551bf0b69f27f3",
+      "bytes": 10322169,
+      "peakMonoDbfs": -11.32,
+      "shots": [
+        {
+          "shot": "campus",
+          "start": 0,
+          "end": 8,
+          "sampledChange": 0.0041
+        },
+        {
+          "shot": "sample",
+          "start": 8,
+          "end": 18,
+          "sampledChange": 0.1251
+        },
+        {
+          "shot": "day-log",
+          "start": 18,
+          "end": 28,
+          "sampledChange": 0.0063
+        },
+        {
+          "shot": "scatter",
+          "start": 28,
+          "end": 38,
+          "sampledChange": 0.0042
+        },
+        {
+          "shot": "heat",
+          "start": 38,
+          "end": 49,
+          "sampledChange": 0.0055
+        },
+        {
+          "shot": "replicate",
+          "start": 49,
+          "end": 60,
+          "sampledChange": 0.0023
+        },
+        {
+          "shot": "field-notes",
+          "start": 60,
+          "end": 69,
+          "sampledChange": 0.0295
+        }
+      ],
+      "captions": 12,
+      "decode": true
+    },
+    {
+      "film": "clear-boundaries",
+      "title": "把今天的时间摊开",
+      "duration": 56,
+      "frames": 1680,
+      "fileHash": "e80e072aacdec37ee2d1eb44866e2d2c7a9197d6cb4d7a7ba9961a9ebfe8716e",
+      "bytes": 13280828,
+      "peakMonoDbfs": -16.55,
+      "shots": [
+        {
+          "shot": "request",
+          "start": 0,
+          "end": 9,
+          "sampledChange": 0.1195
+        },
+        {
+          "shot": "budget",
+          "start": 9,
+          "end": 19,
+          "sampledChange": 0.0235
+        },
+        {
+          "shot": "trim",
+          "start": 19,
+          "end": 29,
+          "sampledChange": 0.0365
+        },
+        {
+          "shot": "adjust",
+          "start": 29,
+          "end": 39,
+          "sampledChange": 0.0482
+        },
+        {
+          "shot": "stop",
+          "start": 39,
+          "end": 48,
+          "sampledChange": 0.0325
+        },
+        {
+          "shot": "agreed",
+          "start": 48,
+          "end": 56,
+          "sampledChange": 0.0619
+        }
+      ],
+      "captions": 9,
+      "decode": true
+    },
+    {
+      "film": "gratitude-both",
+      "title": "给今天留两个位置",
+      "duration": 63,
+      "frames": 1890,
+      "fileHash": "e791064e4c33bbedac33efd405c55432e284574a534787b2d9f7bc2b9d148ab8",
+      "bytes": 13884238,
+      "peakMonoDbfs": -12.25,
+      "shots": [
+        {
+          "shot": "rainwalk",
+          "start": 0,
+          "end": 11,
+          "sampledChange": 0.0262
+        },
+        {
+          "shot": "two-pages",
+          "start": 11,
+          "end": 22,
+          "sampledChange": 0.0705
+        },
+        {
+          "shot": "detail",
+          "start": 22,
+          "end": 32,
+          "sampledChange": 0.0103
+        },
+        {
+          "shot": "experiment",
+          "start": 32,
+          "end": 44,
+          "sampledChange": 0.0472
+        },
+        {
+          "shot": "optional",
+          "start": 44,
+          "end": 54,
+          "sampledChange": 0.0058
+        },
+        {
+          "shot": "close-book",
+          "start": 54,
+          "end": 63,
+          "sampledChange": 0.1051
+        }
+      ],
+      "captions": 11,
+      "decode": true
+    }
+  ],
+  "lowMotionCandidates": []
+}

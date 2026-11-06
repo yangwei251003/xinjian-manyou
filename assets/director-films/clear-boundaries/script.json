@@ -1,0 +1,87 @@
+{
+  "id": "clear-boundaries",
+  "title": "把今天的时间摊开",
+  "style": "剪贴剧场 · 时间带剪裁",
+  "duration": 56,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "boundaries"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 9,
+      "zh": "朋友把整份海报推过来：“今晚你全帮我改完吧？”",
+      "en": "A friend pushes over the whole poster: “Could you redo it all tonight?”",
+      "shot": "request"
+    },
+    {
+      "start": 9,
+      "end": 13.9,
+      "zh": "把你今天的时间摊开。已经安排好的事占了大半。",
+      "en": "Lay out today’s time. Existing plans already take most of it.",
+      "shot": "budget"
+    },
+    {
+      "start": 13.9,
+      "end": 19,
+      "zh": "你愿意帮忙，也只空得出二十分钟。",
+      "en": "You want to help and have twenty minutes available.",
+      "shot": "budget"
+    },
+    {
+      "start": 19,
+      "end": 24.8,
+      "zh": "“今晚整份我接不了。我有二十分钟，可以一起检查开头。”",
+      "en": "“I can’t take the whole poster tonight. I have twenty minutes to review the opening.”",
+      "shot": "trim"
+    },
+    {
+      "start": 24.8,
+      "end": 29,
+      "zh": "把能做的范围和条件说具体，对方才知道怎样安排。",
+      "en": "Naming the scope and conditions lets the other person plan.",
+      "shot": "trim"
+    },
+    {
+      "start": 29,
+      "end": 33.6,
+      "zh": "有余地时，可以协商范围、时间或者分工。",
+      "en": "When there is room, negotiate scope, timing, or who does what.",
+      "shot": "adjust"
+    },
+    {
+      "start": 33.6,
+      "end": 39,
+      "zh": "只有你愿意并且做得到的部分，才放进承诺。",
+      "en": "Commit to the part you can and want to do.",
+      "shot": "adjust"
+    },
+    {
+      "start": 39,
+      "end": 48,
+      "zh": "如果对方继续施压或让你不安全，可以结束谈话，找可信任的成人支持。",
+      "en": "If pressure continues or you feel unsafe, leave the conversation and ask a trusted adult for support.",
+      "shot": "stop"
+    },
+    {
+      "start": 48,
+      "end": 56,
+      "zh": "边界把你能承担的部分说清楚，也给接下来怎么合作留出空间。",
+      "en": "A boundary clarifies what you can take on and leaves room for collaboration.",
+      "shot": "agreed"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CCI：Assertiveness",
+      "url": "https://www.cci.health.wa.gov.au/en/Resources/Looking-After-Yourself/Assertiveness",
+      "note": "区分被动、攻击与坚定表达，并提供自助教育模块。"
+    },
+    {
+      "title": "HealthyWA：Assertive communication",
+      "url": "https://www.healthywa.wa.gov.au/Articles/A_E/Assertive-communication",
+      "note": "尊重双方、具体描述问题与表达请求的公共卫生资料。"
+    }
+  ]
+}

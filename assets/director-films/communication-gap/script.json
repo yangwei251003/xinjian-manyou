@@ -1,0 +1,137 @@
+{
+  "id": "communication-gap",
+  "title": "站到他那一边",
+  "style": "机械工坊 · 视角翻转",
+  "duration": 62,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "attribution",
+    "knowledge-curse",
+    "listening"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 4.2,
+      "zh": "师傅说“对着红标推”。新人却把滑块卡住了。",
+      "en": "“Push toward the red mark,” says the instructor. The learner jams the slider.",
+      "shot": "jam"
+    },
+    {
+      "start": 4.2,
+      "end": 8,
+      "zh": "你第一反应会怎么解释？",
+      "en": "What is your first explanation?",
+      "shot": "jam"
+    },
+    {
+      "start": 8,
+      "end": 12,
+      "zh": "师傅从这一侧看，红标就在挡板前面。",
+      "en": "From the instructor’s side, the red mark is in front of the shield.",
+      "shot": "turntable"
+    },
+    {
+      "start": 12,
+      "end": 15.4,
+      "zh": "转到新人这边。红标被挡住了。",
+      "en": "Turn to the learner’s side. The red mark is hidden.",
+      "shot": "turntable"
+    },
+    {
+      "start": 15.4,
+      "end": 19,
+      "zh": "同一次失误，有了一个新的解释。",
+      "en": "The same jam now has another possible explanation.",
+      "shot": "turntable"
+    },
+    {
+      "start": 19,
+      "end": 24.6,
+      "zh": "从一次行为推断原因，叫归因。先把能看到的事实和猜测分开。",
+      "en": "Attribution is explaining behavior. Separate what you observed from your guess.",
+      "shot": "attribution"
+    },
+    {
+      "start": 24.6,
+      "end": 29,
+      "zh": "“滑块卡住了”是观察，“他不用心”还需要证据。",
+      "en": "The jam was observed. Carelessness remains a hypothesis.",
+      "shot": "attribution"
+    },
+    {
+      "start": 29,
+      "end": 34.1,
+      "zh": "知道红标的人，很难想象第一次看不到它的人怎么理解。",
+      "en": "Knowing the mark makes it hard to imagine a first-timer’s view.",
+      "shot": "hidden-key"
+    },
+    {
+      "start": 34.1,
+      "end": 39,
+      "zh": "把自己的知识当作共同知识，就是知识诅咒的一种表现。",
+      "en": "Treating your knowledge as shared illustrates the curse of knowledge.",
+      "shot": "hidden-key"
+    },
+    {
+      "start": 39,
+      "end": 44.5,
+      "zh": "先问他看到了什么，再复述一遍自己的理解。",
+      "en": "Ask what the learner saw, then paraphrase what you heard.",
+      "shot": "listen"
+    },
+    {
+      "start": 44.5,
+      "end": 51,
+      "zh": "“你只看见两个槽，所以选了离手近的那个？”",
+      "en": "“You could only see two slots, so you picked the nearer one?”",
+      "shot": "listen"
+    },
+    {
+      "start": 51,
+      "end": 56.3,
+      "zh": "补上共同参照。“黄点朝上，推到第一道刻线。”",
+      "en": "Give a shared reference. “Yellow dot up, then push to the first line.”",
+      "shot": "unlock"
+    },
+    {
+      "start": 56.3,
+      "end": 62,
+      "zh": "让对方试一次，确认听到的指令和你想表达的一致。",
+      "en": "Have them try it and check that the instruction was understood.",
+      "shot": "unlock"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenStax：社会心理学与情境归因",
+      "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+      "note": "归因及个人与情境解释的教材入口。"
+    },
+    {
+      "title": "Noba：Social Cognition and Attitudes",
+      "url": "https://nobaproject.com/textbooks/jericho-hockett-introduction-to-psychology-the-full-noba-collection/modules/social-cognition-and-attitudes",
+      "note": "社会判断受启发式、情感和动机影响。"
+    },
+    {
+      "title": "Camerer、Loewenstein 与 Weber：The Curse of Knowledge in Economic Settings（1989）",
+      "url": "https://doi.org/10.1086/261651",
+      "note": "原始经济实验。区分信息较多者与较少者，未直接检验本课机器人教学方案。"
+    },
+    {
+      "title": "Elizabeth Newton：The Rocky Road from Actions to Intentions（1990）",
+      "url": "https://gwern.net/doc/psychology/cognitive-bias/illusion-of-depth/1990-newton.pdf",
+      "note": "后续视角采择与敲节奏研究。论文不同位置计数口径有差别，本课不引用未经统一的百分比。"
+    },
+    {
+      "title": "Weger 等：The Relative Effectiveness of Active Listening in Initial Interactions",
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/10904018.2013.813234",
+      "note": "积极倾听在初次互动中的实验研究，适用范围有限。"
+    },
+    {
+      "title": "CDC：How to Listen and Support Someone in Need",
+      "url": "https://www.cdc.gov/emotional-well-being/conversations-matter/",
+      "note": "倾听、开放式问题与减少干扰的专业公共健康建议。"
+    }
+  ]
+}

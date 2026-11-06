@@ -1,0 +1,112 @@
+{
+  "id": "memory-calibration",
+  "title": "同一声碰撞，两种回忆",
+  "style": "胶片档案 · 证词剪接",
+  "duration": 61,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "memory",
+    "metacognition"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 8,
+      "zh": "两辆车碰了一下。你会怎样描述刚才的速度？",
+      "en": "Two cars collide. How would you describe their speed?",
+      "shot": "collision"
+    },
+    {
+      "start": 8,
+      "end": 13,
+      "zh": "“碰到”与“猛撞”，给同一段画面配了不同的词。",
+      "en": "“Hit” and “smashed” put different words on the same footage.",
+      "shot": "wording"
+    },
+    {
+      "start": 13,
+      "end": 18,
+      "zh": "洛夫特斯和帕尔默发现，提问用词影响速度估计。",
+      "en": "Loftus and Palmer found that wording affected speed estimates.",
+      "shot": "wording"
+    },
+    {
+      "start": 18,
+      "end": 23.4,
+      "zh": "另一项实验里，研究者在看片一周后追问碎玻璃。",
+      "en": "In a separate experiment, researchers asked about broken glass one week after viewing.",
+      "shot": "afterweek"
+    },
+    {
+      "start": 23.4,
+      "end": 30,
+      "zh": "片中没有碎玻璃。先前读到“猛撞”的人，更常回答看见了。",
+      "en": "There was no broken glass. People who read “smashed” earlier reported seeing it more often.",
+      "shot": "afterweek"
+    },
+    {
+      "start": 30,
+      "end": 35,
+      "zh": "回忆会把原线索、后来的描述和推断拼到一起。",
+      "en": "Recall can combine original cues, later descriptions, and inference.",
+      "shot": "splice"
+    },
+    {
+      "start": 35,
+      "end": 41,
+      "zh": "拼得完整的感觉，本身不能证明每个细节都准确。",
+      "en": "A complete-feeling memory cannot prove each detail is accurate.",
+      "shot": "splice"
+    },
+    {
+      "start": 41,
+      "end": 45.7,
+      "zh": "元认知也包括监测自己的把握有多可靠。",
+      "en": "Metacognition includes monitoring how reliable your confidence is.",
+      "shot": "calibrate"
+    },
+    {
+      "start": 45.7,
+      "end": 51,
+      "zh": "把“我很确定”与“记录支持”分别写下来。",
+      "en": "Write down your confidence and the evidence separately.",
+      "shot": "calibrate"
+    },
+    {
+      "start": 51,
+      "end": 55.9,
+      "zh": "先独立记下你看到的，再核对当时的照片或记录。",
+      "en": "Record what you saw before comparing it with a photo or record.",
+      "shot": "check"
+    },
+    {
+      "start": 55.9,
+      "end": 61,
+      "zh": "有了核对的结果，下次才知道该给自己的把握打几折。",
+      "en": "Checking gives you feedback for calibrating future confidence.",
+      "shot": "check"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Loftus 与 Palmer：Reconstruction of automobile destruction（1974）",
+      "url": "https://doi.org/10.1016/S0022-5371(74)80011-3",
+      "note": "原始提问措辞与事件回忆研究。"
+    },
+    {
+      "title": "Loftus：研究出版档案",
+      "url": "https://faculty.sites.uci.edu/eloftus/publications/",
+      "note": "可查原始论文与后续记忆研究，不以故事代替实验。"
+    },
+    {
+      "title": "National Academies：How People Learn II，学习与知识",
+      "url": "https://www.nationalacademies.org/read/24783/chapter/6",
+      "note": "研究综述，讨论元认知、学习者监测与调节。"
+    },
+    {
+      "title": "Cornell：Metacognitive Strategies",
+      "url": "https://teaching.cornell.edu/teaching-resources/active-collaborative-learning/metacognitive-strategies",
+      "note": "提供在实际学习中计划、监测与评价的教学方法。"
+    }
+  ]
+}

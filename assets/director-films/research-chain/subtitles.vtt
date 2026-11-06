@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.000
+放学时，卖得越多的日子，树荫下的人也越多？
+After school, do higher-sales days also have more people in the shade?
+
+00:00:08.000 --> 00:00:12.400
+我们在午后的球场旁连续记录几天。
+We observe several afternoons beside one court.
+
+00:00:12.400 --> 00:00:18.000
+这批日子和地点，就是这次问题里的样本。
+Those days and that place define the observed sample.
+
+00:00:18.000 --> 00:00:23.000
+每天记两件事。卖出的份数，和同一时刻在树荫里的人数。
+Each day record scoops sold and the number of people in the shade at one moment.
+
+00:00:23.000 --> 00:00:28.000
+把同一天的两个数画成同一个点。
+Plot each day’s paired counts as one dot.
+
+00:00:28.000 --> 00:00:33.000
+示意图上的点向右上聚集，说明两个数量一起变化。
+The illustrative dots trend upward, showing two quantities changing together.
+
+00:00:33.000 --> 00:00:38.000
+这样的关系可以叫正相关。
+That pattern is a positive correlation.
+
+00:00:38.000 --> 00:00:43.000
+也许天气越热，两件事都更容易发生。
+Hotter weather might increase both quantities.
+
+00:00:43.000 --> 00:00:49.000
+这个共同原因是待检验的解释，还需要记录温度并比较。
+That common cause is a hypothesis. Record and compare temperatures to investigate it.
+
+00:00:49.000 --> 00:00:54.100
+换一段时间或换个校园，照同样的方法重新记录。
+Repeat the same method at another time or campus.
+
+00:00:54.100 --> 00:01:00.000
+如果关系再次出现，我们多了一份证据，也要检查条件的差别。
+A recurring pattern adds evidence, and differences in conditions still matter.
+
+00:01:00.000 --> 00:01:09.000
+先问样本从哪来，再问还有什么解释，最后看别人能否再做出来。
+Ask where the sample came from, what else might explain it, and whether others can repeat it.

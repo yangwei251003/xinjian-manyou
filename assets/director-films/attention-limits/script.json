@@ -1,0 +1,99 @@
+{
+  "id": "attention-limits",
+  "title": "球场上的第七位",
+  "style": "俯拍球场 · 观察挑战",
+  "duration": 54,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "attention"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 5,
+      "zh": "只数蓝队把球传给队友的次数。",
+      "en": "Count only passes between blue players.",
+      "shot": "tipoff"
+    },
+    {
+      "start": 5,
+      "end": 17,
+      "zh": "蓝队传了几次？",
+      "en": "How many passes does the blue team make?",
+      "shot": "passing"
+    },
+    {
+      "start": 17,
+      "end": 21.1,
+      "zh": "六次。球场中央还有一位撑黄伞的来客。",
+      "en": "Six. A visitor with a yellow umbrella also crossed the court.",
+      "shot": "reveal"
+    },
+    {
+      "start": 21.1,
+      "end": 25,
+      "zh": "如果刚才没有留意，这正是我们要观察的现象。",
+      "en": "If you missed it, that is the phenomenon we are exploring.",
+      "shot": "reveal"
+    },
+    {
+      "start": 25,
+      "end": 29.4,
+      "zh": "数球时，你得持续选出同一队、同一个球。",
+      "en": "Counting requires repeatedly selecting the same team and ball.",
+      "shot": "aperture"
+    },
+    {
+      "start": 29.4,
+      "end": 34,
+      "zh": "任务之外的东西即使在视野里，也可能没进入觉察。",
+      "en": "An item outside the task can be visible and still escape awareness.",
+      "shot": "aperture"
+    },
+    {
+      "start": 34,
+      "end": 38.4,
+      "zh": "西蒙斯和沙布里做过传球计数实验。",
+      "en": "Simons and Chabris conducted a pass-counting experiment.",
+      "shot": "study"
+    },
+    {
+      "start": 38.4,
+      "end": 44,
+      "zh": "有些观察者漏报了意外角色。刚才是重新设计的示范。",
+      "en": "Some observers missed the unexpected figure. Our challenge is an original demonstration.",
+      "shot": "study"
+    },
+    {
+      "start": 44,
+      "end": 48.8,
+      "zh": "第二遍可以换任务。把目光放到横穿球场的路线。",
+      "en": "Change your task on a second look. Attend to the path across the court.",
+      "shot": "transfer"
+    },
+    {
+      "start": 48.8,
+      "end": 54,
+      "zh": "注意分给什么，会改变你最后能报告什么。",
+      "en": "What you attend to changes what you can report.",
+      "shot": "transfer"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Simons 与 Chabris：Gorillas in our midst（1999）",
+      "url": "https://doi.org/10.1068/p281059",
+      "note": "原始不注意盲视研究，支持任务与意外目标报告之间的关系。"
+    },
+    {
+      "title": "Daniel Simons：研究论文与示范资料",
+      "url": "https://www.dansimons.com/research.html",
+      "note": "研究者资料入口，可进一步了解注意、视觉记忆与变化盲视。"
+    },
+    {
+      "title": "Stroop：Studies of Interference in Serial Verbal Reactions（1935）",
+      "url": "https://psychclassics.yorku.ca/Stroop/",
+      "note": "词义干扰与印刷颜色命名的原始研究。网页12张卡是简化教学活动，不是标准化测验，也与不注意盲视的任务不同。"
+    }
+  ]
+}

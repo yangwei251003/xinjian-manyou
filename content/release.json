@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0",
+  "version": "3.3.0",
   "lessons": [
     "attention",
     "memory",
@@ -31,5 +31,13 @@
     "gratitude"
   ],
   "panelsPerLesson": 6,
-  "requireVideo": true
+  "requireVideo": true,
+  "edition": "director-cuts-20261106",
+  "videoPolicy": "shared-related-concepts",
+  "filmCount": 14,
+  "filmDurationRange": {
+    "min": 45,
+    "max": 100
+  },
+  "minFilmCues": 5
 }

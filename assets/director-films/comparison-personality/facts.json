@@ -1,0 +1,55 @@
+{
+  "id": "comparison-personality",
+  "lessonFacts": [
+    {
+      "lessonId": "comparison",
+      "core_claim": "比较会影响自我评价，但比较对象、维度和解释方式，会改变它带来的是压力还是启发。",
+      "evidence_limits": "作品中的照片选择是生活示例，不是关于所有社交媒体用户的因果结论。没有哪种比较策略对所有人都同样有效，也不把失落归咎于不够积极。",
+      "mechanism": {
+        "steps": [
+          "选择比较对象与维度",
+          "解释差距影响感受",
+          "将可学方法转为行动"
+        ],
+        "metaphorLimit": "山与台阶比喻目标大小，不保证换比较方式后情绪立即变好。"
+      },
+      "sources": [
+        {
+          "title": "Garcia 与 Halldorsson：Social Comparison",
+          "url": "https://nobaproject.com/modules/social-comparison",
+          "note": "研究者综述比较方向、相关性及其不同后果。"
+        },
+        {
+          "title": "APA Dictionary：Social comparison theory",
+          "url": "https://dictionary.apa.org/social-comparison-theory",
+          "note": "解释向上、向下与同水平比较，以及对比和同化反应。"
+        }
+      ]
+    },
+    {
+      "lessonId": "personality",
+      "core_claim": "人格特质描述相对稳定的倾向，但人的行为也会随情境、目标和经验而变化。",
+      "evidence_limits": "本课没有实施人格量表，故事中的表现不能换算成特质分数。任何单次短测都不应被当作诊断、命运预测或重大选择的唯一依据。",
+      "mechanism": {
+        "steps": [
+          "多次行为显现相对倾向",
+          "情境与目标改变具体表现",
+          "用更多观察更新理解"
+        ],
+        "metaphorLimit": "刻度比喻连续差异，不是用户分数；人物故事不能生成特质测量结果。"
+      },
+      "sources": [
+        {
+          "title": "Diener 与 Lucas：Personality Traits",
+          "url": "https://nobaproject.com/modules/personality-traits",
+          "note": "研究者模块，介绍连续人格维度与人与情境的讨论。"
+        },
+        {
+          "title": "IPIP：International Personality Item Pool",
+          "url": "https://ipip.ori.org/",
+          "note": "公开人格测量题项与量表资料；开放题项不等于任意改编后仍有效。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "measurement-inference",
+  "title": "测得稳，真的测对了吗",
+  "style": "测量蓝图 · 仪器与脑图",
+  "duration": 63,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "brain",
+    "test-validity"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 4.5,
+      "zh": "同一个练习册，放上秤三次。读数每次都很接近。",
+      "en": "Weigh the same notebook three times. The readings are close.",
+      "shot": "gauge"
+    },
+    {
+      "start": 4.5,
+      "end": 9,
+      "zh": "在适当条件下，结果的一致性是信度的问题。",
+      "en": "Under suitable conditions, consistency is a question of reliability.",
+      "shot": "gauge"
+    },
+    {
+      "start": 9,
+      "end": 13.6,
+      "zh": "现在拿这台秤来回答“跑道有多长”。",
+      "en": "Now try to answer “how long is the track?” with the scale.",
+      "shot": "wrong-tool"
+    },
+    {
+      "start": 13.6,
+      "end": 19,
+      "zh": "读数再稳定，也还要证明它支持你打算作的解释。",
+      "en": "Even consistent readings need evidence for the interpretation you intend.",
+      "shot": "wrong-tool"
+    },
+    {
+      "start": 19,
+      "end": 24.4,
+      "zh": "效度要看证据，支持什么解释，用于什么人、什么用途。",
+      "en": "Validity asks what interpretation is supported, for whom, and for what use.",
+      "shot": "validity"
+    },
+    {
+      "start": 24.4,
+      "end": 30,
+      "zh": "一种用途的证据，不能自动移到另一个用途。",
+      "en": "Evidence for one use does not automatically transfer to another.",
+      "shot": "validity"
+    },
+    {
+      "start": 30,
+      "end": 35.1,
+      "zh": "脑成像可以比较任务条件下的脑活动线索。",
+      "en": "Brain imaging can compare activity-related signals across task conditions.",
+      "shot": "scan"
+    },
+    {
+      "start": 35.1,
+      "end": 42,
+      "zh": "同一片区域可能在不止一种任务中出现活动变化。",
+      "en": "A region can show changes during more than one kind of task.",
+      "shot": "scan"
+    },
+    {
+      "start": 42,
+      "end": 48,
+      "zh": "这个任务可能让区域变亮。仅凭亮区，还猜不出具体做的是哪项任务。",
+      "en": "A task can activate a region. That region alone does not identify which task was performed.",
+      "shot": "inverse"
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "zh": "比较条件、替代解释和其他证据都很重要。",
+      "en": "Comparisons, alternatives, and other evidence matter.",
+      "shot": "inverse"
+    },
+    {
+      "start": 53,
+      "end": 63,
+      "zh": "看到一个分数或一块亮区，先问它测到了什么，再问它支持哪一步推断。",
+      "en": "For a score or a bright region, ask what was measured and what it supports.",
+      "shot": "instrument-tags"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Poldrack：Can cognitive processes be inferred from neuroimaging data?（2006）",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16406760/",
+      "note": "讨论反向推断所需的证据及限制。"
+    },
+    {
+      "title": "Poldrack：From reverse inference to large-scale decoding（2011）",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3240863/",
+      "note": "解释概率性推断与多变量解码，而非把脑图当读心术。"
+    },
+    {
+      "title": "AERA、APA、NCME：Standards for Educational and Psychological Testing（2014，开放版）",
+      "url": "https://www.testingstandards.net/open-access-files.html",
+      "note": "原始专业标准。第一章讨论效度，第二章讨论信度与精确性。"
+    },
+    {
+      "title": "APA：Understanding psychological testing and assessment",
+      "url": "https://www.apa.org/topics/testing-assessment-measurement/understanding",
+      "note": "说明测验、访谈及其他信息在专业评估中的不同作用。"
+    }
+  ]
+}

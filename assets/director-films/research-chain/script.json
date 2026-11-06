@@ -1,0 +1,130 @@
+{
+  "id": "research-chain",
+  "title": "一辆冰淇淋车的调查",
+  "style": "微缩校园 · 数据从现场长出来",
+  "duration": 69,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "sampling",
+    "correlation",
+    "replication"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 8,
+      "zh": "放学时，卖得越多的日子，树荫下的人也越多？",
+      "en": "After school, do higher-sales days also have more people in the shade?",
+      "shot": "campus"
+    },
+    {
+      "start": 8,
+      "end": 12.4,
+      "zh": "我们在午后的球场旁连续记录几天。",
+      "en": "We observe several afternoons beside one court.",
+      "shot": "sample"
+    },
+    {
+      "start": 12.4,
+      "end": 18,
+      "zh": "这批日子和地点，就是这次问题里的样本。",
+      "en": "Those days and that place define the observed sample.",
+      "shot": "sample"
+    },
+    {
+      "start": 18,
+      "end": 23,
+      "zh": "每天记两件事。卖出的份数，和同一时刻在树荫里的人数。",
+      "en": "Each day record scoops sold and the number of people in the shade at one moment.",
+      "shot": "day-log"
+    },
+    {
+      "start": 23,
+      "end": 28,
+      "zh": "把同一天的两个数画成同一个点。",
+      "en": "Plot each day’s paired counts as one dot.",
+      "shot": "day-log"
+    },
+    {
+      "start": 28,
+      "end": 33,
+      "zh": "示意图上的点向右上聚集，说明两个数量一起变化。",
+      "en": "The illustrative dots trend upward, showing two quantities changing together.",
+      "shot": "scatter"
+    },
+    {
+      "start": 33,
+      "end": 38,
+      "zh": "这样的关系可以叫正相关。",
+      "en": "That pattern is a positive correlation.",
+      "shot": "scatter"
+    },
+    {
+      "start": 38,
+      "end": 43,
+      "zh": "也许天气越热，两件事都更容易发生。",
+      "en": "Hotter weather might increase both quantities.",
+      "shot": "heat"
+    },
+    {
+      "start": 43,
+      "end": 49,
+      "zh": "这个共同原因是待检验的解释，还需要记录温度并比较。",
+      "en": "That common cause is a hypothesis. Record and compare temperatures to investigate it.",
+      "shot": "heat"
+    },
+    {
+      "start": 49,
+      "end": 54.1,
+      "zh": "换一段时间或换个校园，照同样的方法重新记录。",
+      "en": "Repeat the same method at another time or campus.",
+      "shot": "replicate"
+    },
+    {
+      "start": 54.1,
+      "end": 60,
+      "zh": "如果关系再次出现，我们多了一份证据，也要检查条件的差别。",
+      "en": "A recurring pattern adds evidence, and differences in conditions still matter.",
+      "shot": "replicate"
+    },
+    {
+      "start": 60,
+      "end": 69,
+      "zh": "先问样本从哪来，再问还有什么解释，最后看别人能否再做出来。",
+      "en": "Ask where the sample came from, what else might explain it, and whether others can repeat it.",
+      "shot": "field-notes"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Penn State STAT 500：Lesson 1",
+      "url": "https://online.stat.psu.edu/stat500/Lesson01",
+      "note": "大学统计课程：总体、样本、调查与抽样基础。"
+    },
+    {
+      "title": "University of Texas：Biased Sampling",
+      "url": "https://web.ma.utexas.edu/users/mks/statmistakes/biasedsampling.html",
+      "note": "统计误用教学：选择偏差与代表性限制。"
+    },
+    {
+      "title": "Australian Bureau of Statistics：Correlation and causation",
+      "url": "https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation",
+      "note": "官方统计教育：相关、因果与其他解释。"
+    },
+    {
+      "title": "Penn State STAT 100：Lesson 5",
+      "url": "https://online.stat.psu.edu/stat100/Lesson05",
+      "note": "大学课程：关联、因果及研究解释边界。"
+    },
+    {
+      "title": "Open Science Collaboration：Estimating the reproducibility of psychological science",
+      "url": "https://doi.org/10.1126/science.aac4716",
+      "note": "二〇一五年重复研究项目，注意其抽取范围与解释限制。"
+    },
+    {
+      "title": "Association for Psychological Science：Registered Replication Reports",
+      "url": "https://www.psychologicalscience.org/publications/replication",
+      "note": "预注册重复研究的目的、流程与方法公开。"
+    }
+  ]
+}

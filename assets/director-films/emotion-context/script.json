@@ -1,0 +1,133 @@
+{
+  "id": "emotion-context",
+  "title": "心跳没有字幕",
+  "style": "舞台灯光 · 同一身体信号",
+  "duration": 58,
+  "edition": "director-cuts-20261106",
+  "lessonIds": [
+    "emotions",
+    "stress",
+    "reappraisal"
+  ],
+  "cues": [
+    {
+      "start": 0,
+      "end": 4,
+      "zh": "幕布就要打开。胸口一阵砰砰跳。",
+      "en": "The curtain is about to open. Your heart is pounding.",
+      "shot": "curtain"
+    },
+    {
+      "start": 4,
+      "end": 8,
+      "zh": "这是害怕，还是兴奋？",
+      "en": "Is this fear, or excitement?",
+      "shot": "curtain"
+    },
+    {
+      "start": 8,
+      "end": 12.7,
+      "zh": "上台做报告时，心跳加快可以伴随紧张。",
+      "en": "A racing heart can accompany anxiety before a presentation.",
+      "shot": "two-scenes"
+    },
+    {
+      "start": 12.7,
+      "end": 18,
+      "zh": "期待演出时，同样的信号也可以伴随兴奋。",
+      "en": "The same signal can accompany excitement before a performance.",
+      "shot": "two-scenes"
+    },
+    {
+      "start": 18,
+      "end": 23,
+      "zh": "当要求很高、可用时间和支持很少，压力可能升高。",
+      "en": "Stress may rise when demands are high and time or support is limited.",
+      "shot": "pressure"
+    },
+    {
+      "start": 23,
+      "end": 28,
+      "zh": "现场条件和身体状态，都值得一起看。",
+      "en": "Look at both the situation and what your body is doing.",
+      "shot": "pressure"
+    },
+    {
+      "start": 28,
+      "end": 33.6,
+      "zh": "把“心跳快就说明我要失败”换成“我正在为上台做准备”。",
+      "en": "Try reading the racing heart as preparation to go on stage.",
+      "shot": "new-reading"
+    },
+    {
+      "start": 33.6,
+      "end": 39,
+      "zh": "认知重评改变的是你对这次信号的解释。",
+      "en": "Cognitive reappraisal changes your interpretation of the signal.",
+      "shot": "new-reading"
+    },
+    {
+      "start": 39,
+      "end": 44.1,
+      "zh": "有些压力需要改现场。可以请求多一次排练，或者减少任务。",
+      "en": "Some stress calls for changing the situation. Ask for rehearsal or a smaller task.",
+      "shot": "move-prop"
+    },
+    {
+      "start": 44.1,
+      "end": 49,
+      "zh": "换个解释和调整条件，可以同时做。",
+      "en": "You can reframe the situation and change its conditions.",
+      "shot": "move-prop"
+    },
+    {
+      "start": 49,
+      "end": 58,
+      "zh": "下次心跳快时，先说说现在发生了什么，再决定下一步。",
+      "en": "When your heart races, name the situation before choosing your next step.",
+      "shot": "stage-exit"
+    }
+  ],
+  "sources": [
+    {
+      "title": "OpenStax Psychology 2e：Emotion",
+      "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+      "note": "综述情绪构成及不同理论，作为概念入口。"
+    },
+    {
+      "title": "Barrett 等：Emotional Expressions Reconsidered（2019）",
+      "url": "https://doi.org/10.1177/1529100619832930",
+      "note": "评估从表情推断情绪的证据，强调情境与推断限制。"
+    },
+    {
+      "title": "NIMH：I’m So Stressed Out!",
+      "url": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+      "note": "官方材料，区分压力与持续困扰，并说明寻求帮助的考虑。"
+    },
+    {
+      "title": "NIMH：Caring for Your Mental Health",
+      "url": "https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health",
+      "note": "官方自我照顾与专业支持信息，不作为诊断工具。"
+    },
+    {
+      "title": "NIMH：Child and Adolescent Mental Health",
+      "url": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health",
+      "note": "支持未成年人向家长、学校支持人员或医疗人员求助；困扰与生活影响需要认真对待。"
+    },
+    {
+      "title": "Webb、Miles 与 Sheeran：情绪调节策略元分析（2012）",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/22582737/",
+      "note": "比较不同情绪调节过程的研究效果与条件。"
+    },
+    {
+      "title": "Troy 等：Person-by-Situation Approach to Emotion Regulation（2013）",
+      "url": "https://doi.org/10.1177/0956797613496434",
+      "note": "讨论重评与情境可控制性的关联，并非策略有效性的普遍因果结论；另见2016年勘误。"
+    },
+    {
+      "title": "Troy 等：2016年勘误",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26786821/",
+      "note": "修正部分原始得分和分析数值；作者报告实质结论未变。"
+    }
+  ]
+}

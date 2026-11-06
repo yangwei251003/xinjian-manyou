@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8">
+<title>心间漫游 · 动画工作样片</title>
+<style>
+@font-face{font-family:StudioSans;src:url('./assets/sans.woff2');font-weight:100 900;font-display:block}
+@font-face{font-family:StudioSerif;src:url('./assets/serif.woff2');font-weight:200 900;font-display:block}
+@font-face{font-family:StudioPlay;src:url('./assets/play.woff2');font-weight:400;font-display:block}
+html,body{margin:0;background:#151922;overflow:hidden}canvas{display:block}
+</style>
+<canvas id="film" width="1920" height="1080"></canvas>
+<script type="module">
+import { films } from './film-plan.mjs';
+import { W, H, clamp, subtitles } from './drawing.mjs';
+const id = new URLSearchParams(location.search).get('id');
+const film = films.find(item => item.id === id);
+window.ready = (async () => {
+  if (!film) throw Error(`Unknown film ${id}`);
+  const { shots } = await import(`./shots/${id}.mjs`);
+  for (const scene of film.shots) {
+    if (typeof shots[scene.id] !== 'function') throw Error(`Missing shot ${id}/${scene.id}`);
+  }
+  await Promise.all(['StudioSans', 'StudioSerif', 'StudioPlay'].map(f => document.fonts.load(`400 32px ${f}`, '心理学测试')));
+  const canvas = document.getElementById('film');
+  const context = canvas.getContext('2d', {alpha:false});
+  window.render = (second, options = {}) => {
+    const time = clamp(second, 0, film.duration - 1e-6);
+    const shot = film.shots.find(s => time < s.end);
+    context.save();
+    context.setTransform(canvas.width / W, 0, 0, canvas.height / H, 0, 0);
+    context.graphicsOnly = !!options.graphicsOnly;
+    try {
+      shots[shot.id](context, (time - shot.start) / shot.seconds, time - shot.start);
+      if (!options.noCaption) subtitles(context, film, film.cues.find(c => time >= c.start && time < c.end)?.zh);
+    } finally { context.restore(); }
+    return shot.id;
+  };
+  window.render(0);
+  return true;
+})();
+</script>
+</html>

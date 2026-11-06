@@ -1,0 +1,80 @@
+{
+  "id": "communication-gap",
+  "lessonFacts": [
+    {
+      "lessonId": "attribution",
+      "core_claim": "解释一个行为时，既看个人倾向，也查当时情境；理解原因和约定责任可以同时发生。",
+      "evidence_limits": "漫画里的原因是作者设定，不是对真实迟到者的解释。归因倾向受情境和文化影响；持续行为模式、权力差异与安全风险同样需要考虑。",
+      "mechanism": {
+        "steps": [
+          "观察他人行为",
+          "提出个人与情境解释",
+          "补信息再讨论责任"
+        ],
+        "metaphorLimit": "拉远镜头比喻补充背景，不表示故事中每个解释都能直接用于真实事件。"
+      },
+      "sources": [
+        {
+          "title": "OpenStax：社会心理学与情境归因",
+          "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+          "note": "归因及个人与情境解释的教材入口。"
+        },
+        {
+          "title": "Noba：Social Cognition and Attitudes",
+          "url": "https://nobaproject.com/textbooks/jericho-hockett-introduction-to-psychology-the-full-noba-collection/modules/social-cognition-and-attitudes",
+          "note": "社会判断受启发式、情感和动机影响。"
+        }
+      ]
+    },
+    {
+      "lessonId": "knowledge-curse",
+      "core_claim": "已经知道的信息，可能让我们高估别人理解的容易程度。把省略的步骤说出来，再请对方复述，能多一条核对的线索。",
+      "evidence_limits": "这是虚构的机器人教学故事。信息差只是沟通困难的一种解释，不能用来替代对语言、情境、可访问性或关系问题的具体了解。",
+      "mechanism": {
+        "steps": [
+          "已掌握的信息变得显而易见",
+          "高估对方能接上的步骤",
+          "复述与可见反馈暴露缺口"
+        ],
+        "metaphorLimit": "两个信息世界是解释性画法。故事没有测量任何人的读心或沟通能力。"
+      },
+      "sources": [
+        {
+          "title": "Camerer、Loewenstein 与 Weber：The Curse of Knowledge in Economic Settings（1989）",
+          "url": "https://doi.org/10.1086/261651",
+          "note": "原始经济实验。区分信息较多者与较少者，未直接检验本课机器人教学方案。"
+        },
+        {
+          "title": "Elizabeth Newton：The Rocky Road from Actions to Intentions（1990）",
+          "url": "https://gwern.net/doc/psychology/cognitive-bias/illusion-of-depth/1990-newton.pdf",
+          "note": "后续视角采择与敲节奏研究。论文不同位置计数口径有差别，本课不引用未经统一的百分比。"
+        }
+      ]
+    },
+    {
+      "lessonId": "listening",
+      "core_claim": "倾听可以先确认对方的经历与需要，再决定是否一起找办法；理解不等于同意所有判断。",
+      "evidence_limits": "倾听不是治疗，也不是万能沟通技术。研究多来自特定互动场景，不能保证所有关系改善；遇到持续威胁、暴力或危机时，安全与专业支持优先。",
+      "mechanism": {
+        "steps": [
+          "听到对方叙述",
+          "复述并确认理解",
+          "询问此刻需要再行动"
+        ],
+        "metaphorLimit": "办法炮比喻过快给建议，建议本身不坏，关键是需要与时机。"
+      },
+      "sources": [
+        {
+          "title": "Weger 等：The Relative Effectiveness of Active Listening in Initial Interactions",
+          "url": "https://www.tandfonline.com/doi/pdf/10.1080/10904018.2013.813234",
+          "note": "积极倾听在初次互动中的实验研究，适用范围有限。"
+        },
+        {
+          "title": "CDC：How to Listen and Support Someone in Need",
+          "url": "https://www.cdc.gov/emotional-well-being/conversations-matter/",
+          "note": "倾听、开放式问题与减少干扰的专业公共健康建议。"
+        }
+      ]
+    }
+  ]
+}

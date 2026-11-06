@@ -1,0 +1,45 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:09.000
+2、4、6 符合一个规则。猜一个规则，再想一组三个数来试。
+2, 4, 6 follow a rule. Guess a rule, then choose a triple to test it.
+
+00:00:09.000 --> 00:00:13.600
+猜“每次加 2”时，8、10、12 能通过。
+If you guessed “add two,” 8, 10, 12 will be accepted.
+
+00:00:13.600 --> 00:00:18.000
+递增也能通过，两种猜法还分不开。
+Increasing triples also pass. This test cannot distinguish the two rules.
+
+00:00:18.000 --> 00:00:23.100
+试试 3、5、9。它递增，却不总是加 2。
+Try 3, 5, 9. It increases without always adding two.
+
+00:00:23.100 --> 00:00:29.000
+它也符合。这个结果排除了“必须每次加 2”。
+It passes. That rules out “must add two each time.”
+
+00:00:29.000 --> 00:00:33.700
+沃森的规则发现任务，考验的是你会怎样选证据。
+Wason’s rule-discovery task tests how you choose evidence.
+
+00:00:33.700 --> 00:00:39.000
+两条规则都预言“符合”时，这组数就区分不了它们。
+A triple cannot distinguish two rules when both predict that it will pass.
+
+00:00:39.000 --> 00:00:44.600
+还有一种干扰来自别人。阿希请参与者判断线段长度。
+Another influence comes from other people. Asch asked participants to match line lengths.
+
+00:00:44.600 --> 00:00:51.000
+即使答案就在眼前，一致的错误多数也会影响一些判断。
+A unanimous incorrect majority influenced some judgments.
+
+00:00:51.000 --> 00:00:56.200
+先独立写下猜想，再找一条能让两个解释给出不同答案的证据。
+Write your guess independently, then look for a test that separates explanations.
+
+00:00:56.200 --> 00:01:01.000
+举手的数量可以提示你去检查。能区分解释的是测试结果。
+A vote can prompt a check. A diagnostic test distinguishes the explanations.

@@ -1,0 +1,55 @@
+{
+  "id": "evidence-agreement",
+  "lessonFacts": [
+    {
+      "lessonId": "conformity",
+      "core_claim": "群体既能提供有用信息，也能带来合群压力；给独立判断和异议留空间，能看见两者的区别。",
+      "evidence_limits": "这里是脚本故事，不是偷偷施加真实群体压力的实验。从众效应随任务、文化、关系和权力结构变化；匿名表达也不能解决所有问题。",
+      "mechanism": {
+        "steps": [
+          "看到群体判断",
+          "受到信息或合群动机影响",
+          "独立观察再交换理由"
+        ],
+        "metaphorLimit": "纸带情境是虚构演示，没有真人共谋，不等于复现经典群体实验。"
+      },
+      "sources": [
+        {
+          "title": "OpenStax：Conformity, Compliance, and Obedience",
+          "url": "https://openstax.org/books/psychology-2e/pages/12-4-conformity-compliance-and-obedience",
+          "note": "信息性、规范性影响及从众条件。"
+        },
+        {
+          "title": "OpenStax：What Is Social Psychology?",
+          "url": "https://openstax.org/books/psychology-2e/pages/12-1-what-is-social-psychology",
+          "note": "社会情境如何影响个体行为。"
+        }
+      ]
+    },
+    {
+      "lessonId": "confirmation-bias",
+      "core_claim": "支持一个猜想的例子，也可能支持另一个猜想。能区分两种解释的尝试，往往更有信息。",
+      "evidence_limits": "这里用虚构规则解释假设检验。实际推理受环境、时间和反馈影响。不能把不同意自己的人直接称为有确认偏误。",
+      "mechanism": {
+        "steps": [
+          "先有一个猜想",
+          "相似例子同时支持多种解释",
+          "选择能区分解释的测试"
+        ],
+        "metaphorLimit": "数字暗号是教学情境，不是智力测验，也不能代表所有现实推理任务。"
+      },
+      "sources": [
+        {
+          "title": "Wason：On the Failure to Eliminate Hypotheses in a Conceptual Task（1960）",
+          "url": "https://doi.org/10.1080/17470216008416717",
+          "note": "2-4-6规则发现任务的原始研究。故事采用教学改编。"
+        },
+        {
+          "title": "Klayman 与 Ha：Confirmation, Disconfirmation, and Information in Hypothesis Testing（1987）",
+          "url": "https://pages.ucsd.edu/~mckenzie/KlaymanHaPsychReview1987.pdf",
+          "note": "讨论正向测试的合理性与限制，防止把确认偏误简单等同于所有验证行为。"
+        }
+      ]
+    }
+  ]
+}
